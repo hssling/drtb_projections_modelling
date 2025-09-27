@@ -32,10 +32,10 @@ st.set_page_config(
 @st.cache_data
 def load_tb_data():
     """Load all TB-AMR data with caching."""
-    # Try multiple possible data directory locations
+    # Try multiple possible data directory locations for both local dev and Streamlit Cloud
     data_dirs = [
-        Path("data"),      # Direct data folder
-        Path("../data"),   # From pipeline/ subdirectory to project root/data/ - PRIMARY
+        Path("../data"),   # From pipeline/ subdirectory to project root/data/ - PRIMARY (local dev)
+        Path("data"),      # Direct data folder (Streamlit Cloud)
         Path("../../data"),   # Up two levels for other scenarios
         Path(__file__).parent.parent / "data"  # Script relative path
     ]
@@ -414,8 +414,21 @@ def show_geographic_page(data):
 
     st.header("🌍 Geographic Analysis: State-Level TB-AMR Patterns")
 
-    # Check for GIS files
-    gis_dir = Path("plots")
+    # Check for GIS files - try multiple locations
+    gis_dirs = [
+        Path("plots"),      # Direct plots folder (Streamlit Cloud)
+        Path("../plots"),   # From pipeline/ subdirectory (local dev)
+        Path("data/plots")  # Alternative locations
+    ]
+
+    gis_dir = None
+    for test_dir in gis_dirs:
+        if test_dir.exists() and test_dir.is_dir():
+            gis_dir = test_dir
+            break
+
+    if not gis_dir:
+        gis_dir = Path("plots")  # fallback
     choropleth_file = gis_dir / "india_mdr_choropleth.geojson"
     hotspots_file = gis_dir / "india_mdr_hotspots_2023.geojson"
     png_file = gis_dir / "india_mdr_hotspots_publication.png"
