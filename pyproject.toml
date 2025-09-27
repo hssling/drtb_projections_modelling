@@ -123,6 +123,7 @@ extend-exclude = '''
   | build
   | dist
   | venv
+  | tb_amr_project  # Exclude Streamlit Cloud project to prevent Poetry conflicts
 )/
 '''
 
@@ -157,6 +158,7 @@ exclude = [
     "docs",
     "data",
     "results",
+    "tb_amr_project",  # Exclude Streamlit Cloud project to prevent Poetry conflicts
 ]
 
 # MyPy type checking
@@ -248,7 +250,7 @@ include-package-data = true
 
 [tool.setuptools.packages.find]
 where = ["."]
-exclude = ["tests*", "docs*", "scripts*"]
+exclude = ["tests*", "docs*", "scripts*", "tb_amr_project*"]
 
 [tool.setuptools.package-data]
 research_automation = ["py.typed"]
