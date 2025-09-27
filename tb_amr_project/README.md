@@ -140,12 +140,55 @@ Addresses India's END-TB Strategy 2035 targets by:
 - tensorflow (LSTM)
 - scikit-learn (ML utilities)
 
+## 🚀 Quick Start
+
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the interactive dashboard
+streamlit run pipeline/tb_dashboard.py
+
+# Or use the launcher script
+python run.py
+
+# For GIS demo:
+run_shapefile_demo.bat
+```
+
+## 🧪 Quality Assurance
+
+### CI/CD Pipeline
+The project includes comprehensive CI/CD automation:
+- **Linting**: Flake8 syntax and style checking
+- **Testing**: Import validation and data pipeline tests
+- **Formatting**: Black code formatter and isort import sorting
+- **Multi-Python Support**: Tested on Python 3.9, 3.10, 3.11
+- **Deployment Reports**: Automated build status documentation
+
+### Code Quality
+- **Black**: Consistent code formatting
+- **isort**: Organized import statements
+- **Flake8**: Python code linting and error detection
+- **Type Hints**: Comprehensive type annotations
+- **Docstrings**: Professional documentation
+
 ## 🔄 Future Extensions
-- ICMR data integration
-- State-level GIS mapping
-- Meta-analysis of TB literature
+
+✅ **Completed Features:**
+- ICMR data integration and WHO API calls
+- State-level GIS mapping with real boundaries
+- Meta-analysis of TB literature (45+ studies)
 - Automated research manuscript generation
 - Web-based interactive dashboard
+- Streamlit Cloud deployment ready
+
+🔄 **Potential Extensions:**
+- Global MDR-TB data integration
+- Real-time CDC/WHO API updates
+- Machine learning optimization
+- Automated literature synthesis
+- Policy impact simulation tools
 
 ---
 

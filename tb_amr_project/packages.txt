@@ -1,0 +1,3 @@
+# Force Streamlit Cloud to use requirements.txt only
+# This file tells Streamlit Cloud to ignore Poetry configuration
+requirements.txt

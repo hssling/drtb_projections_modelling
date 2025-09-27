@@ -26,7 +26,7 @@ import logging
 from datetime import datetime
 
 # Import forecasting models
-from models import compare_models
+from .models import compare_models
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
