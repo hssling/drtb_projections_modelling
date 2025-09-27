@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_6b929de5de2f5aa175f4a0852763845e {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div style="position: fixed; bottom: 50px; left: 50px; width: 150px; height: 90px;
+                background-color: white; border:2px solid grey; z-index:9999; font-size:12px;">
+                <p>&nbsp;<strong>MDR-TB Prevalence (%)</strong></p>
+                <p>&nbsp;🟢 Low: <10%</p>
+                <p>&nbsp🟠 Medium: 10-12%</p>
+                <p>&nbsp🔴 High: >12%</p>
+            </div>
+            
+    
+            <div class="folium-map" id="map_6b929de5de2f5aa175f4a0852763845e" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_6b929de5de2f5aa175f4a0852763845e = L.map(
+                "map_6b929de5de2f5aa175f4a0852763845e",
+                {
+                    center: [20.5937, 78.9629],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 5,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_ec70c590b8407f2e7ac80c5ae167df03 = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_ec70c590b8407f2e7ac80c5ae167df03.addTo(map_6b929de5de2f5aa175f4a0852763845e);
+        
+    
+            var circle_marker_b0448ff8f898c0b098bd9cac12f70983 = L.circleMarker(
+                [19.076, 72.8777],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 22.200000000000003, "stroke": true, "weight": 3}
+            ).addTo(map_6b929de5de2f5aa175f4a0852763845e);
+        
+    
+        var popup_5d714932d58feee068b3f16345c74017 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_49d975c81f9b78e6ce6576289a1f1a2a = $(`<div id="html_49d975c81f9b78e6ce6576289a1f1a2a" style="width: 100.0%; height: 100.0%;">Maharashtra<br>MDR-TB: 14.8%</div>`)[0];
+                popup_5d714932d58feee068b3f16345c74017.setContent(html_49d975c81f9b78e6ce6576289a1f1a2a);
+            
+        
+
+        circle_marker_b0448ff8f898c0b098bd9cac12f70983.bindPopup(popup_5d714932d58feee068b3f16345c74017)
+        ;
+
+        
+    
+    
+            var circle_marker_3fe56391d93141f5c3ec1fe33c4b27c6 = L.circleMarker(
+                [26.8467, 80.9462],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 21.75, "stroke": true, "weight": 3}
+            ).addTo(map_6b929de5de2f5aa175f4a0852763845e);
+        
+    
+        var popup_10f4785479086ce946f766fef20cc967 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_963bfae6266fe133f030445d66ec3218 = $(`<div id="html_963bfae6266fe133f030445d66ec3218" style="width: 100.0%; height: 100.0%;">Uttar Pradesh<br>MDR-TB: 14.5%</div>`)[0];
+                popup_10f4785479086ce946f766fef20cc967.setContent(html_963bfae6266fe133f030445d66ec3218);
+            
+        
+
+        circle_marker_3fe56391d93141f5c3ec1fe33c4b27c6.bindPopup(popup_10f4785479086ce946f766fef20cc967)
+        ;
+
+        
+    
+    
+            var circle_marker_8a56d96ccf9b12808b2cb2780331b9fd = L.circleMarker(
+                [25.0961, 85.3131],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 21.299999999999997, "stroke": true, "weight": 3}
+            ).addTo(map_6b929de5de2f5aa175f4a0852763845e);
+        
+    
+        var popup_933dacb9e6e54684e32704a59953f2d7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b518d4b91036fd022b2cbfbd2710adee = $(`<div id="html_b518d4b91036fd022b2cbfbd2710adee" style="width: 100.0%; height: 100.0%;">Bihar<br>MDR-TB: 14.2%</div>`)[0];
+                popup_933dacb9e6e54684e32704a59953f2d7.setContent(html_b518d4b91036fd022b2cbfbd2710adee);
+            
+        
+
+        circle_marker_8a56d96ccf9b12808b2cb2780331b9fd.bindPopup(popup_933dacb9e6e54684e32704a59953f2d7)
+        ;
+
+        
+    
+    
+            var circle_marker_4709375d72b0a46f2652dd86e04eb1ee = L.circleMarker(
+                [22.9868, 87.855],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 20.700000000000003, "stroke": true, "weight": 3}
+            ).addTo(map_6b929de5de2f5aa175f4a0852763845e);
+        
+    
+        var popup_9bc273aae2f822701c81c074b826bff4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c950a59d2e019db237c13f2352bb1025 = $(`<div id="html_c950a59d2e019db237c13f2352bb1025" style="width: 100.0%; height: 100.0%;">West Bengal<br>MDR-TB: 13.8%</div>`)[0];
+                popup_9bc273aae2f822701c81c074b826bff4.setContent(html_c950a59d2e019db237c13f2352bb1025);
+            
+        
+
+        circle_marker_4709375d72b0a46f2652dd86e04eb1ee.bindPopup(popup_9bc273aae2f822701c81c074b826bff4)
+        ;
+
+        
+    
+    
+            var circle_marker_a018c8691d055c9df0c31c9cf6ad8ecb = L.circleMarker(
+                [33.7733, 76.5775],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 19.799999999999997, "stroke": true, "weight": 3}
+            ).addTo(map_6b929de5de2f5aa175f4a0852763845e);
+        
+    
+        var popup_a69098b4ae55bd4198c7bc08f807384f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_898e9d4aed3125a16c473fe3acffb354 = $(`<div id="html_898e9d4aed3125a16c473fe3acffb354" style="width: 100.0%; height: 100.0%;">Jammu & Kashmir<br>MDR-TB: 13.2%</div>`)[0];
+                popup_a69098b4ae55bd4198c7bc08f807384f.setContent(html_898e9d4aed3125a16c473fe3acffb354);
+            
+        
+
+        circle_marker_a018c8691d055c9df0c31c9cf6ad8ecb.bindPopup(popup_a69098b4ae55bd4198c7bc08f807384f)
+        ;
+
+        
+    
+    
+            var circle_marker_f1d680dd74abb1c9a66b68ef80af6757 = L.circleMarker(
+                [23.4734, 77.9444],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 19.200000000000003, "stroke": true, "weight": 3}
+            ).addTo(map_6b929de5de2f5aa175f4a0852763845e);
+        
+    
+        var popup_416218f0f1320039fa023c91eb6962e7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_040d92e17bcf29dee8d1750261cf5168 = $(`<div id="html_040d92e17bcf29dee8d1750261cf5168" style="width: 100.0%; height: 100.0%;"> Madhya Pradesh<br>MDR-TB: 12.8%</div>`)[0];
+                popup_416218f0f1320039fa023c91eb6962e7.setContent(html_040d92e17bcf29dee8d1750261cf5168);
+            
+        
+
+        circle_marker_f1d680dd74abb1c9a66b68ef80af6757.bindPopup(popup_416218f0f1320039fa023c91eb6962e7)
+        ;
+
+        
+    
+    
+            var circle_marker_74996e38e18909445c6f2ca346c9ed0f = L.circleMarker(
+                [22.2587, 71.1924],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 17.25, "stroke": true, "weight": 3}
+            ).addTo(map_6b929de5de2f5aa175f4a0852763845e);
+        
+    
+        var popup_1d0f7e20137f613d86b7813e9ae78960 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_543211a253a14e8a9c6f6e1ce6fa6e3c = $(`<div id="html_543211a253a14e8a9c6f6e1ce6fa6e3c" style="width: 100.0%; height: 100.0%;">Gujarat<br>MDR-TB: 11.5%</div>`)[0];
+                popup_1d0f7e20137f613d86b7813e9ae78960.setContent(html_543211a253a14e8a9c6f6e1ce6fa6e3c);
+            
+        
+
+        circle_marker_74996e38e18909445c6f2ca346c9ed0f.bindPopup(popup_1d0f7e20137f613d86b7813e9ae78960)
+        ;
+
+        
+    
+    
+            var circle_marker_a03e6e60c3075a927e5550a450145436 = L.circleMarker(
+                [15.3173, 75.7139],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 16.200000000000003, "stroke": true, "weight": 3}
+            ).addTo(map_6b929de5de2f5aa175f4a0852763845e);
+        
+    
+        var popup_d1d4b4a1cfcf053f13b84591042f3147 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_161a3bf37f3f1abcc9bd8dca62f3a664 = $(`<div id="html_161a3bf37f3f1abcc9bd8dca62f3a664" style="width: 100.0%; height: 100.0%;">Karnataka<br>MDR-TB: 10.8%</div>`)[0];
+                popup_d1d4b4a1cfcf053f13b84591042f3147.setContent(html_161a3bf37f3f1abcc9bd8dca62f3a664);
+            
+        
+
+        circle_marker_a03e6e60c3075a927e5550a450145436.bindPopup(popup_d1d4b4a1cfcf053f13b84591042f3147)
+        ;
+
+        
+    
+    
+            var circle_marker_a4df28ba56f6c80683351c77acf6b86a = L.circleMarker(
+                [11.1271, 78.6569],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 14.700000000000001, "stroke": true, "weight": 3}
+            ).addTo(map_6b929de5de2f5aa175f4a0852763845e);
+        
+    
+        var popup_2b8d74665dfa349a024e984ddb853585 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3e438cca7f3ab4aa9df00f17cc228f37 = $(`<div id="html_3e438cca7f3ab4aa9df00f17cc228f37" style="width: 100.0%; height: 100.0%;">Tamil Nadu<br>MDR-TB: 9.8%</div>`)[0];
+                popup_2b8d74665dfa349a024e984ddb853585.setContent(html_3e438cca7f3ab4aa9df00f17cc228f37);
+            
+        
+
+        circle_marker_a4df28ba56f6c80683351c77acf6b86a.bindPopup(popup_2b8d74665dfa349a024e984ddb853585)
+        ;
+
+        
+    
+    
+            var circle_marker_2926b37ffb4c090285c9a3ade137b441 = L.circleMarker(
+                [27.0238, 74.2179],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 13.799999999999999, "stroke": true, "weight": 3}
+            ).addTo(map_6b929de5de2f5aa175f4a0852763845e);
+        
+    
+        var popup_79febdf97c0ed2f873bd3083b924dd69 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_863797b787174b1510f88fc53dad81a7 = $(`<div id="html_863797b787174b1510f88fc53dad81a7" style="width: 100.0%; height: 100.0%;">Rajasthan<br>MDR-TB: 9.2%</div>`)[0];
+                popup_79febdf97c0ed2f873bd3083b924dd69.setContent(html_863797b787174b1510f88fc53dad81a7);
+            
+        
+
+        circle_marker_2926b37ffb4c090285c9a3ade137b441.bindPopup(popup_79febdf97c0ed2f873bd3083b924dd69)
+        ;
+
+        
+    
+    
+            var circle_marker_58de67c1aada322f12b5a086cbdf1f33 = L.circleMarker(
+                [18.1124, 79.0193],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 12.75, "stroke": true, "weight": 3}
+            ).addTo(map_6b929de5de2f5aa175f4a0852763845e);
+        
+    
+        var popup_e9d05f338b55f382bf64f11f44db0f6b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8daf18c7038a6175398c3be421cb81ac = $(`<div id="html_8daf18c7038a6175398c3be421cb81ac" style="width: 100.0%; height: 100.0%;">Telangana<br>MDR-TB: 8.5%</div>`)[0];
+                popup_e9d05f338b55f382bf64f11f44db0f6b.setContent(html_8daf18c7038a6175398c3be421cb81ac);
+            
+        
+
+        circle_marker_58de67c1aada322f12b5a086cbdf1f33.bindPopup(popup_e9d05f338b55f382bf64f11f44db0f6b)
+        ;
+
+        
+    
+    
+            var circle_marker_c9bfc15f122c00fdd06604b43e2b4a94 = L.circleMarker(
+                [10.8505, 76.2711],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 11.7, "stroke": true, "weight": 3}
+            ).addTo(map_6b929de5de2f5aa175f4a0852763845e);
+        
+    
+        var popup_3e52993a111cbaa425184b352e293cca = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_625f94c49e8ab0087c3b90f6d91489f9 = $(`<div id="html_625f94c49e8ab0087c3b90f6d91489f9" style="width: 100.0%; height: 100.0%;">Kerala<br>MDR-TB: 7.8%</div>`)[0];
+                popup_3e52993a111cbaa425184b352e293cca.setContent(html_625f94c49e8ab0087c3b90f6d91489f9);
+            
+        
+
+        circle_marker_c9bfc15f122c00fdd06604b43e2b4a94.bindPopup(popup_3e52993a111cbaa425184b352e293cca)
+        ;
+
+        
+    
+    
+            var circle_marker_19518d36214d69d5283b0eac514afe77 = L.circleMarker(
+                [31.1471, 75.3412],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10.8, "stroke": true, "weight": 3}
+            ).addTo(map_6b929de5de2f5aa175f4a0852763845e);
+        
+    
+        var popup_60c50574cbf2a4f972eda4206bd3ee79 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f837c66b1a99332542d4b1f480dc20f5 = $(`<div id="html_f837c66b1a99332542d4b1f480dc20f5" style="width: 100.0%; height: 100.0%;">Punjab<br>MDR-TB: 7.2%</div>`)[0];
+                popup_60c50574cbf2a4f972eda4206bd3ee79.setContent(html_f837c66b1a99332542d4b1f480dc20f5);
+            
+        
+
+        circle_marker_19518d36214d69d5283b0eac514afe77.bindPopup(popup_60c50574cbf2a4f972eda4206bd3ee79)
+        ;
+
+        
+    
+    
+            var circle_marker_102bf17c019c901c7664fc3b5edf78b0 = L.circleMarker(
+                [20.9517, 85.0985],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10.2, "stroke": true, "weight": 3}
+            ).addTo(map_6b929de5de2f5aa175f4a0852763845e);
+        
+    
+        var popup_212e30d9e9e8e00d43564f91849aec05 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ec94ff05b917e04b5b84d0bdd378fe19 = $(`<div id="html_ec94ff05b917e04b5b84d0bdd378fe19" style="width: 100.0%; height: 100.0%;">Odisha<br>MDR-TB: 6.8%</div>`)[0];
+                popup_212e30d9e9e8e00d43564f91849aec05.setContent(html_ec94ff05b917e04b5b84d0bdd378fe19);
+            
+        
+
+        circle_marker_102bf17c019c901c7664fc3b5edf78b0.bindPopup(popup_212e30d9e9e8e00d43564f91849aec05)
+        ;
+
+        
+    
+    
+            var circle_marker_c7c69bbcc757731a63f7460dc54d7d6e = L.circleMarker(
+                [28.7041, 77.1025],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 18.450000000000003, "stroke": true, "weight": 3}
+            ).addTo(map_6b929de5de2f5aa175f4a0852763845e);
+        
+    
+        var popup_6a83ace2113fb569e1e33c958f90e6b7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c83f2e58df5f5622efdd136380ef54a9 = $(`<div id="html_c83f2e58df5f5622efdd136380ef54a9" style="width: 100.0%; height: 100.0%;">Delhi<br>MDR-TB: 12.3%</div>`)[0];
+                popup_6a83ace2113fb569e1e33c958f90e6b7.setContent(html_c83f2e58df5f5622efdd136380ef54a9);
+            
+        
+
+        circle_marker_c7c69bbcc757731a63f7460dc54d7d6e.bindPopup(popup_6a83ace2113fb569e1e33c958f90e6b7)
+        ;
+
+        
+    
+</script>
+</html>

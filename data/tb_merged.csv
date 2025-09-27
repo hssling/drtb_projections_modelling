@@ -1,0 +1,15 @@
+date,country,state,drug,percent_resistant,n_tested,type,source
+2017-01-01,India,National,Rifampicin (proxy MDR),4.152275840777973,51827.0,new,WHO
+2017-01-01,India,National,Rifampicin (proxy MDR),20.4239582141904,26229.0,retreated,WHO
+2018-01-01,India,National,Rifampicin (proxy MDR),3.497911210199355,92398.0,new,WHO
+2018-01-01,India,National,Rifampicin (proxy MDR),5.922082671451265,87503.0,retreated,WHO
+2019-01-01,India,National,Rifampicin (proxy MDR),0.9596987583960921,196520.0,new,WHO
+2019-01-01,India,National,Rifampicin (proxy MDR),4.84958364461289,109762.0,retreated,WHO
+2020-01-01,India,National,Rifampicin (proxy MDR),1.8077174623937213,152900.0,new,WHO
+2020-01-01,India,National,Rifampicin (proxy MDR),17.181395032786327,58866.0,retreated,WHO
+2021-01-01,India,National,Rifampicin (proxy MDR),5.379390712739279,175057.0,new,WHO
+2021-01-01,India,National,Rifampicin (proxy MDR),16.992984349703182,46325.0,retreated,WHO
+2022-01-01,India,National,Rifampicin (proxy MDR),5.480618370111754,186749.0,new,WHO
+2022-01-01,India,National,Rifampicin (proxy MDR),19.021355151901908,43877.0,retreated,WHO
+2023-01-01,India,National,Rifampicin (proxy MDR),3.932504320130112,295130.0,new,WHO
+2023-01-01,India,National,Rifampicin (proxy MDR),14.514379183148899,59913.0,retreated,WHO

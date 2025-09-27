@@ -1,0 +1,2 @@
+# Force Streamlit Cloud to use requirements.txt only
+pyproject.toml
