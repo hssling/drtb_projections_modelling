@@ -1,0 +1,331 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "STATE": "Maharashtra",
+        "MDR_RATE": 14.8,
+        "POPULATION": 112.0,
+        "MDR_CASES": 1657600
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72,
+              19
+            ],
+            [
+              74,
+              21
+            ],
+            [
+              75,
+              20
+            ],
+            [
+              73,
+              19
+            ],
+            [
+              72,
+              19
+            ],
+            [
+              72,
+              19
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATE": "Uttar Pradesh",
+        "MDR_RATE": 14.5,
+        "POPULATION": 199.0,
+        "MDR_CASES": 2885499
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77,
+              25
+            ],
+            [
+              84,
+              28
+            ],
+            [
+              85,
+              27
+            ],
+            [
+              79,
+              24
+            ],
+            [
+              77,
+              25
+            ],
+            [
+              77,
+              25
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATE": "Bihar",
+        "MDR_RATE": 14.2,
+        "POPULATION": 104.0,
+        "MDR_CASES": 1476800
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              83,
+              24
+            ],
+            [
+              88,
+              27
+            ],
+            [
+              87,
+              26
+            ],
+            [
+              83,
+              24
+            ],
+            [
+              83,
+              24
+            ],
+            [
+              83,
+              24
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATE": "West Bengal",
+        "MDR_RATE": 13.8,
+        "POPULATION": 91.0,
+        "MDR_CASES": 1255800
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86,
+              21
+            ],
+            [
+              89,
+              27
+            ],
+            [
+              88,
+              26
+            ],
+            [
+              86,
+              21
+            ],
+            [
+              86,
+              21
+            ],
+            [
+              86,
+              21
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATE": "Gujarat",
+        "MDR_RATE": 11.5,
+        "POPULATION": 60.0,
+        "MDR_CASES": 690000
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              68,
+              20
+            ],
+            [
+              74,
+              24
+            ],
+            [
+              73,
+              23
+            ],
+            [
+              68,
+              20
+            ],
+            [
+              68,
+              20
+            ],
+            [
+              68,
+              20
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATE": "Karnataka",
+        "MDR_RATE": 10.8,
+        "POPULATION": 61.0,
+        "MDR_CASES": 658800
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74,
+              11
+            ],
+            [
+              79,
+              18
+            ],
+            [
+              76,
+              15
+            ],
+            [
+              74,
+              11
+            ],
+            [
+              74,
+              11
+            ],
+            [
+              74,
+              11
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATE": "Tamil Nadu",
+        "MDR_RATE": 9.8,
+        "POPULATION": 67.0,
+        "MDR_CASES": 656600
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76,
+              8
+            ],
+            [
+              81,
+              13
+            ],
+            [
+              79,
+              10
+            ],
+            [
+              76,
+              8
+            ],
+            [
+              76,
+              8
+            ],
+            [
+              76,
+              8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATE": "Kerala",
+        "MDR_RATE": 7.8,
+        "POPULATION": 33.0,
+        "MDR_CASES": 257399
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75,
+              8
+            ],
+            [
+              78,
+              13
+            ],
+            [
+              77,
+              10
+            ],
+            [
+              75,
+              8
+            ],
+            [
+              75,
+              8
+            ],
+            [
+              75,
+              8
+            ]
+          ]
+        ]
+      }
+    }
+  ],
+  "metadata": {
+    "title": "India MDR-TB Choropleth Map",
+    "description": "Choropleth-ready simplified polygons for publication",
+    "projection": "WGS84",
+    "attribution": "TB-AMR Research Platform"
+  }
+}

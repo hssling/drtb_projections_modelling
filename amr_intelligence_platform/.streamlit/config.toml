@@ -1,0 +1,13 @@
+[global]
+showErrorDetails = true
+showWarning = true
+
+[logger]
+level = "info"
+
+[client]
+showSidebarNavigation = true
+showErrorDetails = true
+
+[browser]
+gatherUsageStats = false

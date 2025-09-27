@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+scikit-learn
+prophet
+pmdarima
+statsmodels
+tensorflow>=2.10.0
+jupyterlab
+ipywidgets
+plotnine
+openpyxl
+requests

@@ -1,0 +1,27 @@
+============================================================
+FIBROMYALGIA-MICROBIOME META-ANALYSIS REPORT
+============================================================
+Generated: 2025-09-21 22:54:24
+
+DATA SUMMARY:
+  total_studies: 4
+  studies_with_shannon_data: 0
+  studies_with_complete_data: 0
+  effect_sizes_calculated: 0
+  average_effect_size: None
+
+METHODOLOGY:
+  - Random-effects model (recommended for microbiome studies)
+  - Standardized mean differences (SMD) for alpha diversity
+  - Heterogeneity assessment (I² statistic)
+  - Publication bias evaluation (Egger's test)
+
+FINDINGS:
+  Insufficient complete datasets for full meta-analysis (>3 studies required)
+  Preliminary qualitative synthesis suggests microbiome diversity alterations
+
+RECOMMENDATIONS:
+  - Manual completion of extracted data from full papers
+  - Addition of more studies for statistical power
+  - Subgroup analyses by FM diagnostic criteria (ACR 1990 vs 2010)
+  - Quality assessment integration
