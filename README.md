@@ -224,4 +224,15 @@ The project includes comprehensive CI/CD automation:
 
 ---
 
+## 👨‍🏫 Author & Researcher
+
+**Dr. Siddalingaiah H S**  
+Independent Researcher  
+Email: hssling@yahoo.com
+
+**TB-AMR Research Specialist**  
+Specializing in multidrug-resistant tuberculosis epidemiology, time-series forecasting, geospatial analysis, and evidence-based policy development for India's END-TB Strategy 2035.
+
+---
+
 **Developed for India's TB-AMR research and policy evaluation.**

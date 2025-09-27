@@ -122,6 +122,7 @@ def main():
 
     # Header
     st.title("🏥 TB-AMR India Dashboard")
+    st.markdown("**Researcher:** Dr. Siddalingaiah H S, Independent Researcher | Email: hssling@yahoo.com")
     st.markdown("---")
 
     # Sidebar

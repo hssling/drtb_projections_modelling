@@ -1,6 +1,6 @@
 # Forecasting MDR-TB and XDR-TB Burden Trajectories in India (2024-2034): Impact of BPaL/BPaL-M Regimen Rollout and Stewardship Interventions
 
-**Corresponding Author:** India TB-AMR Research Consortium<br>
+** Corresponding Author:** Dr. Siddalingaiah H S, Independent Researcher, Email: hssling@yahoo.com<br>
 **Date:** September 27, 2025<br>
 **Word Count:** 8,542<br>
 **Keywords:** MDR-TB, India, forecasting, BPaL/BPaL-M regimens, antimicrobial stewardship, END-TB Strategy 2035, multidrug-resistant tuberculosis

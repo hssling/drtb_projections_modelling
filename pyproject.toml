@@ -12,10 +12,10 @@ readme = "README.md"
 license = {file = "LICENSE"}
 keywords = ["research", "automation", "healthcare", "systematic-review", "meta-analysis", "evidence-synthesis"]
 authors = [
-    {name = "Research Automation System", email = "system@research-automation.com"},
+    {name = "Dr. Siddalingaiah H S", email = "hssling@yahoo.com"},
 ]
 maintainers = [
-    {name = "Healthcare Research Automation Team", email = "admin@research-automation.com"},
+    {name = "Dr. Siddalingaiah H S", email = "hssling@yahoo.com"},
 ]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
