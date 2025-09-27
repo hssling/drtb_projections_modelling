@@ -143,6 +143,29 @@ def main():
     with st.spinner("Loading TB-AMR data..."):
         data = load_tb_data()
 
+    # Debug: Show data loading status in sidebar
+    if st.sidebar.checkbox("🐛 Show Debug Info"):
+        st.sidebar.write("### Data Loading Debug:")
+        st.sidebar.write(f"Data keys found: {list(data.keys())}")
+        if 'tb_data' in data:
+            df = data['tb_data']
+            st.sidebar.write(f"TB data shape: {df.shape}")
+            st.sidebar.write(f"TB columns: {list(df.columns)}")
+            if not df.empty:
+                st.sidebar.write(f"Sample data:\n{df.head(2).to_dict('records')}")
+        else:
+            st.sidebar.write("❌ No TB data loaded")
+
+        if 'meta_analysis' in data:
+            meta = data['meta_analysis']
+            st.sidebar.write(f"Meta keys: {list(meta.keys())}")
+            if 'pooled_effect_sizes' in meta:
+                st.sidebar.write(f"Resistance types: {len(meta['pooled_effect_sizes'])}")
+            else:
+                st.sidebar.write("❌ No pooled_effect_sizes in meta")
+        else:
+            st.sidebar.write("❌ No meta analysis loaded")
+
     if not data:
         st.error("❌ No TB-AMR data found. Please run data extraction first.")
         st.stop()
