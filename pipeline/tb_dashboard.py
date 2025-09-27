@@ -18,6 +18,7 @@ import json
 from datetime import datetime
 import time
 import matplotlib.pyplot as plt
+from data_refresh import display_refresh_status_sidebar, add_refresh_button
 
 # Configure page
 st.set_page_config(
@@ -135,6 +136,9 @@ def main():
         "📄 Research Manuscript"
     ])
 
+    # Add data refresh status to sidebar
+    display_refresh_status_sidebar()
+
     # Load data
     with st.spinner("Loading TB-AMR data..."):
         data = load_tb_data()
@@ -164,6 +168,12 @@ def show_overview_page(data):
 
     st.header("TB-AMR Burden Overview - India")
 
+    # Add data refresh button
+    st.markdown("---")
+    st.markdown("### 🔄 Data Refresh & Updates")
+    add_refresh_button(st, refresh_type="quick")
+    st.markdown("---")
+
     tb_data = data.get('tb_data', pd.DataFrame())
     if tb_data.empty:
         st.error("No TB data available")
@@ -190,10 +200,6 @@ def show_overview_page(data):
 
     # MDR breakdown
     st.subheader("MDR-TB Prevalence by Case Type")
-
-    case_breakdown = tb_data.groupby('case_type').agg({
-        'percent_resistant': ['count', 'mean', 'min', 'max']
-    }).round(1)
 
     # Interactive plot
     fig = px.histogram(tb_data, x="percent_resistant",
