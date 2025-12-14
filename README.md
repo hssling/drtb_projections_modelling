@@ -1,238 +1,43 @@
-# TB-AMR Research Pipeline for India
 
-A comprehensive analytical framework for forecasting multidrug-resistant tuberculosis (MDR-TB) burden in India and evaluating policy interventions.
+# Living Review: Future of Drug-Resistant TB in India
 
-## 🎯 Research Question
-*"What will be the projected burden of MDR-TB and XDR-TB in India over the next decade, and how will scaling up new treatment regimens and stewardship interventions change this trajectory?"*
+**A Continuously Updated Forecasting & Policy Intelligence Platform**
 
-## 📊 Pipeline Components
+This repository hosts a "Living Review" of the drug-resistant tuberculosis (DR-TB) epidemic in India. Unlike static manuscripts, this project includes an interactive dashboard that updates as new data (from Ni-kshay, WHO) becomes available.
 
-### 1. Data Extraction (`extract_tb_data.py` + `icmr_connector.py`)
-- **WHO Global TB Report**: Downloads international drug resistance surveillance data
-- **ICMR-NTEP Integration**: State/district-level patterns from India's national TB program
-- Calculates MDR-TB percentages from case numbers and DST testing volumes
-- **Expanded Drugs**: Rifampicin, Isoniazid, Fluoroquinolones, Injectable agents, XDR-TB
-- Unifies schema: date, country, state, district, drug, percent_resistant, n_tested, type, source
-
-### 2. Time Series Forecasting (`tb_forecast.py`)
-- Multi-model comparison: Prophet, ARIMA, LSTM
-- 5-year MDR-TB trend projections with uncertainty bands
-- Model metrics: RMSE, MAE, MAPE
-- Risk assessment categorizations
-
-### 3. Policy Sensitivity Analysis (`tb_sensitivity.py`)
-- Baseline scenario (status quo)
-- BPaL/BPaLM regimen rollout (-20% resistance)
-- Improved adherence (-15% resistance)
-- Comprehensive interventions (-35% resistance)
-- Poor stewardship (+10% resistance)
-
-### 4. GIS Hotspot Mapping (`tb_gis_mapping.py`)
-- **Auto-Download**: Automatically downloads India state boundaries from GADM.org
-- Current MDR-TB state-level prevalence maps
-- Forecasted hotspots (5-year projections per state)
-- **Publication-Ready**: Choropleth maps with legends and statistical summaries
-- **Error Handling**: Multiple fallback URLs and manual download instructions
-
-### 5. Meta-Analysis Module (`tb_meta_analysis.py`)
-- PubMed API searches for TB-AMR studies in India
-- Automated prevalence data extraction from abstracts
-- Pooled estimates with 95% confidence intervals
-- Heterogeneity assessment (I² statistic)
-- Forest plot generation and export
-
-### 6. Automated Manuscript Generator (`tb_manuscript.py`)
-- Complete IMRAD structure manuscripts (Introduction, Methods, Results, Discussion)
-- Auto-populated tables, figures, and policy recommendations
-- Bibliography with scientific citations
-- Export to Markdown or DOCX formats
-- Ready for submission to journals like PLOS, Lancet, etc.
-
-### 7. Interactive Streamlit Dashboard (`tb_dashboard.py`)
-- **6 Interactive Pages**: Overview, Forecasting, Policy Scenarios, Geographic, Meta-Analysis, Data Explorer
-- Real-time data exploration with filters and controls
-- Interactive plotly visualizations and exports
-- Model comparison and parameter tuning
-- Download capabilities for results and figures
-
-**Interactive Web App Command:**
-```bash
-streamlit run tb_amr_project/pipeline/tb_dashboard.py
-```
-
-## 🚀 Quick Start
-
-```bash
-# Install dependencies
-pip install -r requirements.txt
-
-# Run data extraction
-python pipeline/extract_tb_data.py
-
-# Generate MDR-TB forecasts
-python pipeline/tb_forecast.py "India" "Rifampicin (proxy MDR)" "new"
-
-# Run sensitivity analysis
-python pipeline/tb_sensitivity.py
-
-# View results in data/ and reports/ folders
-```
-
-## 📁 Project Structure
-```
-tb_amr_project/
-├── data/                    # Dataset outputs
-│   ├── tb_raw/             # Raw WHO downloads
-│   ├── tb_merged.csv       # Unified time series
-│   ├── forecast_tb_India_*.csv
-│   └── sensitivity_tb_India_*.csv
-├── pipeline/               # Analysis scripts
-│   ├── extract_tb_data.py  # Data extraction
-│   ├── tb_forecast.py      # Time series forecasting
-│   ├── tb_sensitivity.py   # Policy scenarios
-│   └── models.py          # Forecasting models
-├── reports/               # Plots and metrics
-│   ├── tb_forecast*.png   # Forecast comparisons
-│   ├── tb_metrics*.csv    # Model performance
-│   └── tb_sensitivity*.png # Scenario analysis
-├── requirements.txt       # Python dependencies
-└── README.md             # This file
-```
-
-## 📈 Data Highlights
-- Historical MDR-TB trends (2017-2023)
-- **New Cases**: 1-5% MDR-TB (avg ~3%)
-- **Retreated Cases**: 5-20% MDR-TB (avg ~13.5%)
-- 5-year forecasts with confidence intervals
-- WHO threshold: 5% (moderate burden), 10% (high burden)
-
-## 🔬 Analysis Capabilities
-
-### Forecasting Models
-- **Prophet**: Handles seasonality, trends, and uncertainty
-- **ARIMA**: Statistical time series with autocorrelation
-- **LSTM**: Deep learning for complex pattern recognition
-
-### Policy Scenarios
-- Measure impact of BPaL/BPaLM regimens on resistance trends
-- Simulate adherence improvement effects
-- Quantify consequences of delayed interventions
-- Combined strategy evaluations
-
-## 📊 Output Formats
-- **CSV**: Forecast data with historical + future projections
-- **PNG**: Publication-ready comparison plots
-- **Markdown**: Executive summaries and metadata
-- **Interactive**: Expandable to web dashboards
-
-## 🏥 Public Health Impact
-Addresses India's END-TB Strategy 2035 targets by:
-- Quantifying MDR-TB burden trajectories
-- Evaluating intervention effectiveness
-- Identifying optimal policy combinations
-- Supporting evidence-based allocation decisions
-
-## 📚 Dependencies
-- pandas, numpy
-- matplotlib, seaborn
-- prophet (Facebook forecasting)
-- statsmodels (ARIMA)
-- tensorflow (LSTM)
-- scikit-learn (ML utilities)
-
-## 🎊 CURRENT STATUS: FULLY OPERATIONAL! ✅
-
-### **Dashboard Features: All Active**
-- ✅ **7 Pages Working**: Overview, Forecasting, Policy Scenarios, Geographic Mapping, Meta-Analysis, Data Explorer, Manuscript
-- ✅ **Real Forecasting**: Prophet/ARIMA/LSTM models with 2030+ projections
-- ✅ **Policy Scenarios**: BPaL intervention impact analysis (28-35% reduction)
-- ✅ **Interactive Maps**: State-level MDR-TB hotspots with real boundaries
-- ✅ **Meta-Analysis**: 327 published studies with forest plots
-- ✅ **Research Manuscript**: Complete 8,500-word publication-ready paper
-
-### **Key Results Available**
-- **Current MDR-TB**: 13.8% prevalence (2023 data)
-- **2030 Projection**: 17.6-19.2% baseline trajectory
-- **BPaL Impact**: Achieves 28-35% burden reduction by 2030
-- **State Hotspots**: Maharashtra (14.8%), UP (14.5%), Bihar (14.2%)
-- **Meta-Analysis**: 4 resistance types, 89.6% heterogeneity
-
-## 🚀 Launch Dashboard
-
-### **Quick Start Commands**
-```bash
-# 1. Install dependencies
-pip install -r requirements.txt
-
-# 2. Launch interactive dashboard
-streamlit run pipeline/tb_dashboard.py
-
-# 3. For deployment testing
-python -c "import streamlit as st; st.write('✅ Streamlit ready for deployment')"
-```
-
-### **Alternative Launch Methods**
-```bash
-# Use launcher script
-python run.py
-
-# Test environment setup
-python test_dashboard_local.py
-
-# GIS component demo
-run_shapefile_demo.bat
-```
-
-### **Live Demo Links**
-- **Streamlit Cloud**: Deploy team-ready version using `STREAMLIT_DEPLOYMENT_README.md`
-- **GitHub Pages**: Alternative static version
-- **Local Docker**: Containerized environment available
-
-## 🧪 Quality Assurance
-
-### CI/CD Pipeline
-The project includes comprehensive CI/CD automation:
-- **Linting**: Flake8 syntax and style checking
-- **Testing**: Import validation and data pipeline tests
-- **Formatting**: Black code formatter and isort import sorting
-- **Multi-Python Support**: Tested on Python 3.9, 3.10, 3.11
-- **Deployment Reports**: Automated build status documentation
-
-### Code Quality
-- **Black**: Consistent code formatting
-- **isort**: Organized import statements
-- **Flake8**: Python code linting and error detection
-- **Type Hints**: Comprehensive type annotations
-- **Docstrings**: Professional documentation
-
-## 🔄 Future Extensions
-
-✅ **Completed Features:**
-- ICMR data integration and WHO API calls
-- State-level GIS mapping with real boundaries
-- Meta-analysis of TB literature (45+ studies)
-- Automated research manuscript generation
-- Web-based interactive dashboard
-- Streamlit Cloud deployment ready
-
-🔄 **Potential Extensions:**
-- Global MDR-TB data integration
-- Real-time CDC/WHO API updates
-- Machine learning optimization
-- Automated literature synthesis
-- Policy impact simulation tools
+## 🔗 [Launch Interactive Dashboard](https://github.com/hssling/drtb_projections_modelling) (Requires Streamlit)
 
 ---
 
-## 👨‍🏫 Author & Researcher
+## 📊 Key Features
+1.  **Ensemble Forecasting:** Projects national notification trends using Multi-Model AI (XGBoost, ARIMA, Holt-Winters).
+2.  **Primary Resistance Tracker:** Monitors the "New Case Paradox" — the rising share of drug resistance in treatment-naïve patients.
+3.  **State Hotspot Map:** Granular risk assessment for all Indian states.
+4.  **Policy Simulator:** Interactive tool to model the impact of TPT and BPaL implementation.
 
-**Dr. Siddalingaiah H S**  
-Independent Researcher  
-Email: hssling@yahoo.com
+## 🚀 How to Run Locally
 
-**TB-AMR Research Specialist**  
-Specializing in multidrug-resistant tuberculosis epidemiology, time-series forecasting, geospatial analysis, and evidence-based policy development for India's END-TB Strategy 2035.
+1.  Clone the repository:
+    ```bash
+    git clone https://github.com/hssling/drtb_projections_modelling.git
+    ```
+2.  Install dependencies:
+    ```bash
+    pip install -r requirements_dashboard.txt
+    ```
+3.  Launch the dashboard:
+    ```bash
+    streamlit run dashboard_app.py
+    ```
+
+## 📂 Project Structure
+*   `dashboard_app.py`: The main Streamlit application.
+*   `analysis_results/`: Contains the CSV datasets powering the forecast.
+*   `manuscript_assets/`: High-resolution static figures.
+*   `final_comprehensive_manuscript_v6.docx`: The latest academic output (December 2025).
+
+## ✍️ Authors
+*   **Dr. Siddalingaiah H. S.** (Professor, Community Medicine, Shridevi Institute, Tumkur)
 
 ---
-
-**Developed for India's TB-AMR research and policy evaluation.**
+*Last Updated: December 14, 2025*
