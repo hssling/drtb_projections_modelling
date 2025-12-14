@@ -30,7 +30,7 @@ def generate_figure_1_combined():
     ax1.fill_between(df_forecast['Year'], 
                      df_forecast['Scenario_Optimistic']/1e6, 
                      df_forecast['Scenario_Pessimistic']/1e6, 
-                     color='blue', alpha=0.1, label='95% Uncertainty')
+                     color='blue', alpha=0.25, label='95% Uncertainty')
     
     ax1.set_title('A. National TB Forecast (2025-2030)', fontweight='bold')
     ax1.set_ylabel('Notifications (Millions)')

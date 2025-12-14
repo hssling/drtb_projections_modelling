@@ -122,12 +122,23 @@ elif page == "Policy Simulator":
     
     # Plotly Lines
     fig = go.Figure()
-    colors = ['black', 'blue', 'orange', 'red']
     
-    for i, col in enumerate(df_policy.columns):
+    # Robust Color Mapping
+    color_map = {
+        'Baseline': 'black',
+        'Prevention_First': 'orange',
+        'Treatment_First': 'blue',
+        'Combination_Strategy': 'red'
+    }
+    
+    for col in df_policy.columns:
         if col != 'Year':
-            fig.add_trace(go.Scatter(x=df_policy['Year'], y=df_policy[col], mode='lines', name=col,
-                                     line=dict(color=colors[i], width=3 if 'Combination' in col else 2)))
+            # Default to gray if column not in map, preventing IndexError
+            line_color = color_map.get(col, 'gray')
+            line_width = 3 if 'Combination' in col else 2
+            
+            fig.add_trace(go.Scatter(x=df_policy['Year'], y=df_policy[col], mode='lines', name=col.replace('_', ' '),
+                                     line=dict(color=line_color, width=line_width)))
             
     fig.update_layout(title="Scenario Trajectories (Cases Averted)", xaxis_title="Year", yaxis_title="Total Notifications")
     st.plotly_chart(fig, use_container_width=True)
