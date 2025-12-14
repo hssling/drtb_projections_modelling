@@ -118,13 +118,19 @@ def generate_figure_3_refined_dynamics():
     
     ax3.set_title('C. Projected Deaths/Failures (2025-2030)', fontweight='bold')
     
-    # UPDATED PLACEMENT: Higher to avoid overlap
-    mid_point = (bad_outcomes_sq + bad_outcomes_bpal)/2
+    # UPDATED PLACEMENT: Shift text DOWN to avoid title overlap
+    # Arrow points to the top of the 2nd bar (BPaL outcome) to show it is lower?
+    # Or to the gap. Let's point to the gap between the two levels.
+    
+    top_bar_1 = vals[0]
+    top_bar_2 = vals[1]
+    
+    # Text at 80% height of first bar, arrow pointing to difference
     ax3.annotate(f'~{int(lives_saved):,} Averted', 
-                 xy=(0.5, mid_point), 
-                 xytext=(0.5, bad_outcomes_sq * 1.05), # Moved Text UP above the bar
-                 arrowprops=dict(facecolor='black', shrink=0.05),
-                 ha='center', fontweight='bold')
+                 xy=(1.0, top_bar_2 + (lives_saved/2)),  # Arrow tip: Middle of the "saved" visible gap above bar 2
+                 xytext=(0.5, top_bar_1 * 0.8), # Text: Centered, lower down
+                 arrowprops=dict(facecolor='black', shrink=0.05, width=1.5, headwidth=8),
+                 ha='center', fontweight='bold', color='darkgreen', fontsize=10)
     
     plt.tight_layout()
     plt.savefig(os.path.join(OUTPUT_DIR, 'Figure_3_DRTB_Dynamics.png'), dpi=300)
