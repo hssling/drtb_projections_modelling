@@ -13,20 +13,25 @@ import re
 from datetime import datetime
 import os
 
-OUTPUT_FILENAME = "IJMR_Submission_DRTB_Forecast_India_2025_Final_v2.docx"
+OUTPUT_FILENAME = os.path.join(os.path.dirname(__file__), '..', 'manuscript', 'IJMR_Submission_DRTB_Forecast_India_2025_Final_v2.docx')
 
 def create_academic_docx():
     """Convert the complete manuscript to DOCX format with IJMR styling"""
 
-    # Read the markdown manuscript
-    with open('complete_drtb_manuscript_india_2025.md', 'r', encoding='utf-8') as f:
+    # Read the markdown manuscript from parent directory
+    md_file = os.path.join(os.path.dirname(__file__), '..', 'complete_drtb_manuscript_india_2025.md')
+    if not os.path.exists(md_file):
+        # Try current directory
+        md_file = 'complete_drtb_manuscript_india_2025.md'
+    
+    with open(md_file, 'r', encoding='utf-8') as f:
         md_content = f.read()
 
     # Create a new Word document
     doc = Document()
 
     # Set up document properties
-    doc.core_properties.title = "Stagnation or Elimination? Forecasting India's MDR-TB Burden"
+    doc.core_properties.title = "Projected Burden of Multidrug-Resistant Tuberculosis in India (2025–2035)"
     doc.core_properties.author = "Siddalingaiah H S"
     doc.core_properties.subject = "Drug-Resistant Tuberculosis Forecasting"
     doc.core_properties.created = datetime.now()
@@ -88,7 +93,7 @@ def create_academic_docx():
     sections = parse_manuscript_sections(md_content)
 
     # --- TITLE PAGE ---
-    doc.add_paragraph("Stagnation or Elimination? Forecasting India's Multidrug-Resistant Tuberculosis Burden (2025-2035) Using Authentic Surveillance Data", style='CustomTitle')
+    doc.add_paragraph("Projected Burden of Multidrug-Resistant Tuberculosis in India (2025–2035): A Forecasting Analysis Using Verified National Surveillance Data", style='CustomTitle')
     
     doc.add_paragraph("Siddalingaiah H S¹", style='MetaInfo')
     doc.add_paragraph("¹Independent Researcher, Bengaluru, Karnataka, India", style='MetaInfo')
