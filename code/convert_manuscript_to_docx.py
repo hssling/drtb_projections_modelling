@@ -13,7 +13,7 @@ import re
 from datetime import datetime
 import os
 
-OUTPUT_FILENAME = os.path.join(os.path.dirname(__file__), '..', 'manuscript', 'IJMR_Submission_DRTB_Forecast_India_2025_Final_v2.docx')
+OUTPUT_FILENAME = os.path.join(os.path.dirname(__file__), '..', 'manuscript', 'IJMR_Submission_DRTB_Forecast_India_2025_Final_v3.docx')
 
 def create_academic_docx():
     """Convert the complete manuscript to DOCX format with IJMR styling"""
@@ -172,6 +172,31 @@ def parse_manuscript_sections(content):
 
     return sections
 
+def add_paragraph_with_formatting(doc, text, style='CustomNormal'):
+    """Add paragraph with proper superscript and formatting"""
+    para = doc.add_paragraph(style=style)
+    
+    # Remove markdown bold/italic markers but preserve superscripts
+    text = text.replace('**', '').replace('*', '')
+    # Remove markdown links
+    text = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', text)
+    
+    # Split by superscript tags
+    parts = re.split(r'<sup>(.*?)</sup>', text)
+    
+    for i, part in enumerate(parts):
+        if i % 2 == 0:
+            # Regular text
+            if part:
+                para.add_run(part)
+        else:
+            # Superscript text
+            if part:
+                run = para.add_run(part)
+                run.font.superscript = True
+    
+    return para
+
 def add_abstract_section(doc, content):
     if not content: return
     
@@ -190,9 +215,18 @@ def add_abstract_section(doc, content):
                 key, val = p.split(':', 1)
                 para = doc.add_paragraph(style='CustomNormal')
                 para.add_run(key + ":").font.bold = True
-                para.add_run(val)
+                # Add value with proper superscript handling
+                val_clean = val.replace('**', '').replace('*', '')
+                val_parts = re.split(r'<sup>(.*?)</sup>', val_clean)
+                for i, part in enumerate(val_parts):
+                    if i % 2 == 0:
+                        if part: para.add_run(part)
+                    else:
+                        if part:
+                            run = para.add_run(part)
+                            run.font.superscript = True
             else:
-                doc.add_paragraph(p.strip(), style='CustomNormal')
+                add_paragraph_with_formatting(doc, p.strip(), style='CustomNormal')
 
 def add_main_section(doc, section_name, content):
     if not content: return
@@ -230,12 +264,11 @@ def add_main_section(doc, section_name, content):
             
         elif p.startswith('- '):
             # List
-            doc.add_paragraph(p[2:], style='CustomNormal').paragraph_format.left_indent = Inches(0.5)
+            para = add_paragraph_with_formatting(doc, p[2:], style='CustomNormal')
+            para.paragraph_format.left_indent = Inches(0.5)
         else:
-            # Clean formatting
-            clean_p = p.replace('**', '').replace('*', '').replace('<sup>', '').replace('</sup>', '')
-            clean_p = re.sub(r'\[.*?\]\(.*?\)', '', clean_p) # remove links
-            doc.add_paragraph(clean_p, style='CustomNormal')
+            # Regular paragraph with proper formatting
+            add_paragraph_with_formatting(doc, p, style='CustomNormal')
 
 def add_acknowledgements_section(doc, content):
     if not content: return
