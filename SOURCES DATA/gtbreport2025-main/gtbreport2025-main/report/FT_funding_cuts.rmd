@@ -1,0 +1,815 @@
+---
+title: "FT: The impact of 2025 funding cuts on TB services"
+author: "Irwin Law" 
+date: "`r Sys.Date()`"
+knit: (function(inputFile, encoding) {
+      out_dir <- "./local";
+      rmarkdown::render(inputFile,
+                        encoding=encoding,
+                        output_dir=file.path(dirname(inputFile), out_dir))})
+output: 
+  html_fragment:
+    # Do not include a table of contents
+    toc: no
+    # Set standard figure width to 12 inches
+    fig_width: 12
+    # Do not write figure captions
+    fig_caption: FALSE
+    # Don't embed external resources (stylesheets, JS libraries) in the output 
+    self_contained: False    
+    # Don't include <div> tags around a header and the content found until the next header
+    section_divs: FALSE  
+    
+---
+  
+```{r setup, include=FALSE}
+
+# Set chunk options.
+# Results "asis" is needed to avoid xtable output being html encoded
+# Suppress messages, warnings and also the ## at the beginning of printed text
+# Set a default figure width too.
+
+knitr::opts_chunk$set(echo = FALSE,
+                      results = "asis",
+                      message = FALSE,
+                      warning = FALSE,
+                      fig.width = 12)
+
+# Load output packages ----
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+library(ggplot2)
+library(dplyr)
+library(gtbreport)
+library(Cairo)
+library(tidyr)
+library(jsonlite)
+library(here)
+library(reshape2)
+library(gridExtra)
+
+# Load R functions ----
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+source(here("report/functions/html_links.R"))
+source(here("report/functions/output_ggplot.R"))
+
+
+# Load the minimum data sets from chapter 4 for Fig 1 which is a copy of Fig 4.1.2----
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+source(here::here('report/ch4-1_prepare_data.R'))
+
+f1_data<-f4.1.4_data
+
+#Load monthly notifications
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+load(here::here('data/gtb/snapshot_2025-07-30/monthly.rda'))
+
+
+
+source(here("import/load_gtb.R"))
+source(here("report/functions/country_region_lists.R"))
+source(here("report/functions/NZ.R"))
+source(here("report/functions/html_links.R"))
+source(here("report/functions/output_ggplot.R"))
+
+# Show static chart in addition to Kendo chart?
+show_static = F
+
+# Save underlying data files as CSV and charts as PDF files?
+pdf_csv_folder = here::here("report/local/figures/ft_notifications")
+save_csv = TRUE
+save_pdf = TRUE
+save_cairo = TRUE
+
+# Create the output folder (only if it doesn't yet exist)
+dir.create(pdf_csv_folder, showWarnings = FALSE, recursive = TRUE)
+```
+
+```{r css_js}
+# Add standard stylesheets and javascript to support kendo
+cat(writeLines(readLines(here::here("report/resources/headers.htm"))))
+```
+
+# The impact of 2025 funding cuts on TB services
+
+<span class="red">**Draft! Prepared `r Sys.Date()`**</span>
+
+## General background and context
+
+In 2025, decisions by the government of the United States of America (USG) and wider political developments have substantially changed the landscape of international donor funding, including for health in general and TB specifically. 
+
+Previously, in the period 2015–2024, the USG accounted for about 50% of all international donor funding for TB (<span class="red">Section 4.1, Section 4.2</span>). This support was provided through two channels: bilateral funding to countries prioritized by the United States Agency for International Development (USAID); and contributions to the Global Fund, which provides grants to support national responses to HIV, malaria and TB in low- and middle-income countries. In 2024, about one third of total contributions to the Global Fund were provided by the USG. 
+
+Following changes in the landscape of funding for global health, the Global Fund has anticipated reductions in contributions and requested countries to pause or defer activities as a first step. As of July 2025, funding for the 2024–2026 grant cycle of the Global Fund had been cut by US$ 1.4 billion, equivalent to 11% of the original allocation (`r ref_lnk("1")`). USAID has ceased to exist as an entity.
+
+Reductions in international donor funding threaten the provision of essential TB prevention, diagnostic and treatment services in affected countries. The countries most exposed to an immediate impact in 2025 are those that previously relied heavily on both bilateral funding from the USG and Global Fund grants. In 2024, USAID bilateral funds accounted for 20% or more of the total available funding for TB that was reported by national TB programmes (NTPs) in 13 of the 24 USAID priority countries for TB (`r lnk("Fig. 1")`). The share was highest (over 30%) in Zambia and Cambodia. Most of the countries that received USAID bilateral funds for TB were also highly reliant on Global Fund grants in 2024 (the main exception was India).
+
+`r anch("Fig. 1")`
+
+### <span class="fig" style="color:#F21905">Fig. 1</span> Sources of funding available^a^ for TB prevention, diagnostic and treatment services in `r report_year-1`, for `r f4.1.4_txt2 |> nrow()` countries^b^ that receiving Global Fund grants and bilateral funding from USAID in 2024
+
+``` {r fig4_1_4, fig.alt="Sources of funding available in USAID priority countries", fig.height = 10}
+
+f1_plot <- f1_data |>
+  filter(str_detect(variable, "_pct")) |>
+  ggplot(aes(country, value, fill = variable)) +
+  geom_col(width=.8, position = position_stack(reverse = TRUE)) +
+  coord_flip() +
+  theme_gtb() +
+  scale_x_discrete(limits= ctry_order,
+                   labels = function(x) str_wrap(x, width = 20))+
+  xlab("")+ylab("Percentage of available funding (%)")+
+  theme_minimal() +
+  scale_fill_manual(values=c("#00205C", "#A6228C","#BBBBBB", "#4ABAFC"), labels=c("USAID", "Global Fund", "Other international funding","Domestic funding")) +
+  theme(legend.position = "bottom")+
+  expand_limits(x=c(0,6))+
+  expand_limits(y=c(0,100))+
+  theme(legend.title = element_blank())+
+  theme(plot.margin=unit(c(0,0,0,0),units="npc"))
+
+output_ggplot(f1_plot, f1_data, show_static, pdf_csv_folder, save_csv, save_pdf) 
+```
+<div id="fig_4_1_4"></div>
+
+<div class="footnote">USAID, United States Agency for International Development.
+<br>^a^ Domestic funding in this graphic is based on data reported by NTPs, which typically do not include the financial costs associated with inpatient and outpatient care required during TB treatment.
+<br>^b^ Data were not available for an additional `r int2word(f4.1.4_txt1 |> nrow())` countries that were USAID priorities for bilateral funding for TB in 2024: `r gsub("Viet Nam", "Viet&nbsp;Nam", gsub("(Republic)|(Russian)|(Philip)", "the \\1\\2\\3", knitr::combine_words(f4.1.4_txt1$country, oxford_comma=FALSE)))`.</div>
+
+
+<hr />
+<br />
+
+Results from modelling analyses have already highlighted the severe increases in TB incidence and mortality that could result from cuts to international donor funding in the coming years (`r ref_lnk("2-5")`). 
+
+## World Health Organization monitoring of the impacts of funding cuts
+
+Given the potential impact of funding cuts on the number of people falling ill with TB and the number of deaths caused by TB, it is critical to monitor how TB services are being affected in practice. 
+
+Currently, it is too early for a reliable assessment of domestic and international donor funding for the TB response in 2025 (such data will be collected in the World Health Organization’s [WHO] 2026 round of global TB data collection). However, WHO is actively gathering data and information about the impact of cuts to international donor funding on TB services, as the basis for supporting countries in their mitigation and response efforts. To date, this has been done in two main ways:
+
+•	Continued collection of provisional monthly and quarterly TB case notification data from more than 100 countries. This data collection was originally established in 2020 to allow for close-to-real-time monitoring of impacts on TB services during the COVID-19 pandemic. It is now allowing timely assessment of any disruptions to TB diagnosis and treatment arising from funding cuts.
+
+•	Collection of information about the impact of funding cuts from WHO country offices, which are in close contact with NTPs. This has been done since March 2025, using a standard questionnaire. 
+
+Given that the most immediate and severe impacts of funding cuts are likely to be in countries that received USAID bilateral funding in 2024, gathering of information and data from these countries has been given particular attention. Similarly, results presented below focus on this subset of countries.
+
+Provisional monthly and quarterly notification data for the first 6 months of 2025 show a mixed picture (`r lnk("Fig. 2")`) that will need ongoing attention. Countries with reductions in notifications beyond what would be expected based on recent trends include Cambodia, Kenya, Mozambique and Uganda. It is possible that impacts will worsen over time, as NTPs realign their programmatic priorities to adjust to the new funding environment.
+
+`r anch("Fig. 2")`
+
+### <span class="fig" style="color:#F21905">Fig. 2</span> Provisional number of case notifications of people newly diagnosed with TB in 2025 (relative to 2024) compared with the share of funding for TB that was provided by USAID bilateral grants in 2024, 16 countries^a^ that reported receiving bilateral funding from USAID in 2024
+On the y-axis, values below 1 indicate fewer notifications in 2025 compared with 2024, and vice versa for values above 1. The comparison is for the first 6 months of 2024 and 2025. The horizontal, dashed blue lines demarcate levels of +5% and– 5%, relative to 2024.
+
+```{r  fig_2, echo=FALSE, message=FALSE, warning=FALSE, results = "asis", dev = 'png',  fig.alt="Dot plot comparing notifications between 2024 and 2025", fig.height=8}
+
+
+#Obtain notifications from only USAID-supported countries with monthly data (from Jan-June 2024 and Jan-June 2025) or quarterly data (Q1, Q2 - 2024 and 2025), and merge with available funding data
+#There are only 16 countries
+
+f2a<-subset(monthly, year==2024 | year==2025, select=c('country', 'iso3', 'year', 'm.01', 'm.02', 'm.03', 'm.04', 'm.05', 'm.06', 'q.1','q.2','q.3', 'q.4')) %>%
+  mutate(sum_month = rowSums(across(c('m.01', 'm.02', 'm.03', 'm.04', 'm.05', 'm.06')))) %>%
+  mutate(sum_quart = rowSums(across(c('q.1', 'q.2'))))
+
+f2b<-merge(f2a, usaid_24, by = "iso3", all.x=TRUE, all.y=TRUE) %>%
+  filter(group_type == "g_usaid") 
+
+names(f2b)[names(f2b)=="country.x"] <- "country"
+
+f1a<-f1_data %>%
+  filter(variable == "usaid_pct")
+
+f2c<-merge(f2b, f1a, by = "country", all.x=TRUE, all.y=TRUE)  
+
+# Kyrgyzstan has no data for 2024, and Pakistan and Viet Nam has no USAID contribution data, so these three  can be dropped
+
+f2_month<- filter(f2c, (sum_month > 0) & country != "Viet Nam") %>%
+    select(country, year, iso3 , sum_month, value)
+
+f2_quart<- filter(f2c, (sum_quart > 0) & country != "Kyrgyzstan" & country != "Pakistan" & country != "Viet Nam") %>%
+    select(country, year, iso3 , sum_quart, value)
+
+f2_month2 <- spread(f2_month,
+                    key=year,
+                    value=sum_month) 
+
+names(f2_month2)[names(f2_month2)=="2024"] <- "y2024"
+names(f2_month2)[names(f2_month2)=="2025"] <- "y2025"
+
+f2_month2  <- mutate(f2_month2 , prop = y2025 / y2024) 
+
+f2_quart2 <- spread(f2_quart,
+                    key=year,
+                    value=sum_quart)
+
+names(f2_quart2)[names(f2_quart2)=="2024"] <- "y2024"
+names(f2_quart2)[names(f2_quart2)=="2025"] <- "y2025"
+
+f2_quart2  <- mutate(f2_quart2 , prop = y2025 / y2024) 
+
+f2_data <- full_join(f2_month2, f2_quart2)
+
+f2_data <- f2_data |>
+  mutate(country = ifelse(country == "United Republic of Tanzania", "United Republic\nof Tanzania", country),
+         country = ifelse(country == "Democratic Republic of the Congo", "Democratic Republic\nof the Congo", country))
+
+f2_plot <- ggplot(data = f2_data, aes(x=value, y=prop,  label=country)) +
+  geom_point(color = "red") +
+  geom_text(hjust=0, nudge_x = 0.2, size=4) +
+  ylab('Ratio of 2025 to 2024 case notifications') +
+  xlab('Percentage of funding reported by NTPs that was provided by USAID bilateral grants in 2024') + 
+  scale_y_continuous(limits = c(0.5, 1.5)) +
+  theme_gtb() + 
+  geom_hline(yintercept=1, linetype='solid', color='grey', size=1)+
+  geom_vline(xintercept=20, linetype='solid', color='grey', size=1)+
+  geom_hline(yintercept=0.95, linetype='dashed', color='dodgerblue', size=0.7)+
+  geom_hline(yintercept=1.05, linetype='dashed', color='dodgerblue', size=0.7)+
+  theme_gtb() 
+#f2_plot
+output_ggplot(f2_plot, f2_data, show_static, pdf_csv_folder, save_csv, save_pdf)
+
+
+```
+
+<div id="fig_2"></div>
+
+<div class="footnote"> 
+<br>^a^ Notification data reported to WHO as of 8 October 2025 were used. Of the 21 countries that reported relevant funding data (<span class="fig" style="color:#F21905">Fig. 1</span>), provisional notification data for 2025 were not available for Afghanistan, Kyrgyzstan, Malawi, Nigeria and Tajikistan.</div>
+
+<hr />
+<br />
+
+Responses from WHO country offices and NTPs show that a range of programmatic activities and TB services have already been substantially impacted (`r lnk("Fig. 3")`). Among TB services and associated support systems, severe or moderate disruptions to TB screening and community engagement were reported in 11 countries previously supported by USAID. The next most frequently reported disruptions were to TB diagnosis, sample transportation and supply chain management (reported by 8 countries). As of August 2025, TB treatment appeared to be the least affected, with only three countries reporting a moderate impact and none reporting a severe impact. In terms of impacts on NTPs specifically, those most frequently reported related to technical support (including in-country advisors), and management and supervision activities (16 and 13 countries, respectively). The procurement of anti-TB drugs was the least frequently reported type of impact (7 countries). 
+
+`r anch("Fig. 3")`
+
+### <span class="fig" style="color:#F21905">Fig. 3</span> Reported impacts on TB services and NTPs in 2025, in 17 countries^a^  that reported receiving Global Fund grants and bilateral funding from USAID in 2024
+
+Information was obtained from WHO country offices between April and August 2025
+
+
+```{r  fig_3a, echo=FALSE, message=FALSE, warning=FALSE, results = "asis", dev = 'png',  fig.alt="Bar chart showing the number of countries reporting impacts on TB services and NTPs", fig.height=6}
+
+f3a_data <- read.table(header=TRUE, text='
+activity cat value 
+"TB community engagement" "Severe" 4 
+"TB community engagement" "Moderate" 7 
+"TB community engagement" "Minimal" 6 
+"TB screening" "Severe" 4 
+"TB screening" "Moderate" 7 
+"TB screening" "Minimal" 6 
+"TB diagnosis" "Severe" 3
+"TB diagnosis" "Moderate" 5
+"TB diagnosis" "Minimal" 9
+"Sample transportation" "Severe" 2 
+"Sample transportation" "Moderate" 6 
+"Sample transportation" "Minimal" 9 
+"Supply chain management" "Severe" 0
+"Supply chain management" "Moderate" 8
+"Supply chain management" "Minimal" 9
+"TB preventive treatment" "Severe" 4
+"TB preventive treatment" "Moderate" 3
+"TB preventive treatment" "Minimal" 10
+"Data management systems" "Severe" 3
+"Data management systems" "Moderate" 3
+"Data management systems" "Minimal" 11
+"TB patient support" "Severe" 3
+"TB patient support" "Moderate" 2
+"TB patient support" "Minimal" 12
+"Referral system" "Severe" 2
+"Referral system" "Moderate" 3
+"Referral system" "Minimal" 12
+"TB treatment" "Severe" 0
+"TB treatment" "Moderate" 3
+"TB treatment" "Minimal" 14
+                     ')
+
+# Set factor levels to control stacking (bottom -> top)
+f3a_data$cat <- factor(f3a_data$cat,
+                      levels = c("Minimal", "Moderate", "Severe"))
+
+# Reorder activities 
+f3a_data$activity <- factor(
+  f3a_data$activity,
+  levels = c(
+             "TB treatment",
+             "Referral system",
+             "TB patient support",
+             "Data management systems",
+             "TB preventive treatment",
+             "Supply chain management",
+             "Sample transportation",
+             "TB diagnosis",
+             "TB screening", 
+             "TB community engagement"
+             ))
+
+# Barplot
+f3a_plot <- ggplot(f3a_data, aes(fill = cat, y = value, x = activity)) + 
+  geom_bar(position = "stack", stat = "identity", width=.5) +
+  xlab("") +
+  ylab("Number of countries") +
+  coord_flip() +
+  theme_gtb() +
+  scale_fill_manual(
+    values = c(
+      "Severe" = "#d73027",              # red
+      "Moderate" = "#fc8d59",            # orange
+      "Minimal" = "#F0F0F0" # grey
+    ),
+    breaks=c("Severe", "Moderate", "Minimal"),
+                         labels=c("Severe", "Moderate", "Minimal or no impact")
+    ) 
+
+#f3a_plot
+
+output_ggplot(f3a_plot, f3a_data, show_static, pdf_csv_folder, save_csv, save_pdf)
+```
+
+
+```{r  fig_3b, echo=FALSE, message=FALSE, warning=FALSE, results = "asis", dev = 'png',  fig.alt="Bar chart showing the number of countries reporting impacts on TB services and NTPs", fig.height=6}
+
+f3b_data <- read.table(header=TRUE, text='
+    activity cat value 
+    "Procurement of anti-TB drugs" Impacted 7 
+    "Procurement of anti-TB drugs" "Not_impacted" 10
+    "Programme reviews, NSP development" Impacted 9
+    "Programme reviews, NSP development" "Not_impacted" 8
+    "Procurement of diagnostic supplies" Impacted 9
+    "Procurement of diagnostic supplies" "Not_impacted" 8
+    "Periodic surveys" Impacted 9
+    "Periodic surveys" "Not_impacted" 8
+    "NTP staffing" Impacted 11  
+    "NTP staffing" "Not_impacted" 6 
+    "Management and supervision activities" Impacted 13 
+    "Management and supervision activities" "Not_impacted" 4 
+    "Technical support (e.g. in-country advisors)" Impacted 16
+    "Technical support (e.g. in-country advisors)" "Not_impacted" 1
+                     ')
+
+# Reorder activities 
+f3b_data$activity <- factor(
+  f3b_data$activity,
+  levels = c(
+    "Procurement of anti-TB drugs",
+    "Programme reviews, NSP development",
+    "Procurement of diagnostic supplies",
+    "Periodic surveys",
+    "NTP staffing",
+    "Management and supervision activities",
+    "Technical support (e.g. in-country advisors)"
+                 ))
+
+# Set factor levels: first level = bottom of the stack
+f3b_data$cat <- factor(f3b_data$cat, levels = c("Not_impacted", "Impacted"))
+
+# Stacked barplot
+f3b_plot <- ggplot(f3b_data, aes(fill = cat, y = value, x = activity)) + 
+  geom_bar(position = "stack", stat = "identity", width=.6) +
+  xlab("") +
+  ylab("Number of countries") +
+  coord_flip() +
+  theme_gtb() +
+  scale_fill_manual(
+    values = c(
+      "Impacted" = "#d73027",    # red
+      "Not_impacted" = "#F0F0F0" # grey
+    ),
+    breaks=c("Impacted", "Not_impacted"),
+                         labels=c("Impacted", "Not impacted")
+  )
+
+#f3b_plot
+
+output_ggplot(f3b_plot, f3b_data, show_static, pdf_csv_folder, save_csv, save_pdf)
+
+```
+
+<div id="fig_3a"></div>
+<br />
+<div id="fig_3b"></div>
+<br />
+
+<div class="footnote">NSP, national strategic plan; NTP, national tuberculosis programme.
+<br>^a^ As of August 2025, information was not available for four of the 21 countries shown in <span class="fig" style="color:#F21905">Fig. 1</span>: Afghanistan, Kyrgyzstan, Malawi and Tajikistan.</div>
+
+<hr />
+<br />
+
+
+
+
+The following country examples illustrate the variety of challenges faced by countries that received bilateral USG support in 2024, and the mitigation measures being put in place. The examples are as of August 2025, with each country’s situation being subject to change.
+
+## Country experiences: illustrative examples
+
+### Ethiopia
+
+Ethiopia is classified as a high TB and high TB/HIV burden country. It is the second most populous nation in Africa, with an estimated population of 130 million. The country is currently facing a humanitarian crisis, driven by the compounding effects of climate change and internal conflict, which is further straining the health sector. For decades, longstanding partners, including the USG and the Global Fund, have played an important role in advancing Ethiopia’s TB response. In 2024, about 70% of available funding for TB (as reported by the NTP to WHO) came from international sources.
+
+Following the withdrawal of USG funding and reductions in support from the Global Fund, the NTP has assumed greater responsibility for implementation of the response to TB, taking over tasks from implementation partners. To ensure sustainability, the NTP is reprioritizing activities and focusing on life-saving interventions, such as maintaining uninterrupted TB treatment. The WHO Country Office for Ethiopia is actively supporting this transition. It has facilitated a national prioritization workshop and is engaging in discussions with the Global Fund’s Country Coordinating Mechanism (CCM), partners and TB constituencies to promote sustainable approaches to TB care.
+
+### Indonesia 
+
+Since February 2025, in addition to loss of USAID funding, over 60% of the government’s budget allocation for TB has been affected by reprioritization of national funding. As a result, the source of funding for procurement of drugs for drug-resistant TB and TB preventive treatment (TPT) has been shifted to the Global Fund. Some core functions of the NTP (e.g. monitoring and evaluation, supervision and capacity-building) have been significantly impacted.
+
+To prioritize life-saving interventions, by 2026 the NTP will implement a 90% reduction in travel-related expenditures and a 50% reduction in human resource costs supported by the Global Fund. Support for people with drug-resistant TB is being transitioned to domestic funding sources, while the “Debt2Health” initiative is being reprogrammed to focus on the procurement of essential TB health products. Training and supervision activities have shifted to online platforms, and diagnostic algorithms have been adjusted to reduce the quantity of molecular WHO-recommended rapid diagnostic tests (mWRDs) being used.
+
+### Philippines 
+
+The sudden loss of USAID support in 2025 has affected service delivery, with reduced community outreach, slower contact investigations and scaled-down operations in diagnostic sites that relied on partner support. There is uncertainty about whether partner-supported staff, who are critical to laboratory and patient services, can be retained.
+
+To mitigate the impact, the Department of Health (DOH) has increased its budget allocation for TB. In addition, the DOH is advocating for local government units (LGUs) to allocate part of their health budgets to TB commodities, to ensure uninterrupted supplies for diagnosis and treatment of people with drug-susceptible TB and drug-resistant TB. New partnerships with other international agencies have been established. 
+
+With WHO support, integrated active case finding (ACF) is being implemented in rural health facilities, combining TB screening with services for hypertension, diabetes, maternal and child health, and immunization. The ACF strategy has also been expanded to include screening for paragonimiasis and leprosy in endemic areas, because the symptoms and risk factors for these diseases overlap with those for TB. Community leaders have also been trained to promote health care seeking behaviour, and several LGUs have fully taken over and are now funding these activities through their own resources.
+
+### South Africa 
+
+Cuts in international donor funding have had severe impacts on TB-related research and the health care workforce. However, the country has been able to mitigate much of the impact of funding cuts on key programmatic work by strengthening domestic resource mobilization from the South Africa National Treasury and partners. It has also prioritized the most cost-effective interventions and measures where possible; for example, implementing greater integration of data-capturing functions and of clinical services, and scaling up decentralized medication delivery systems via the use of existing community health workers and the Central Chronic Medicines Dispensing and Distribution programme. Technical support for implementing the TB strategy and reprioritization, including a programme review conducted in an innovative and cost-effective manner, is still ongoing. Advocacy continues for sustainable financing, and for multisectoral engagement and collaboration.
+
+### Uganda 
+
+Between 2020 and 2024, the National TB and Leprosy Programme (NTLP) in Uganda made considerable efforts to substantially expand case-finding activities; as a result, the annual number of TB case notifications almost doubled over that period.
+
+Cuts in international donor funding in 2025 have led to severe reductions in innovative ACF activities (e.g. the “Community Awareness Screening Testing and Treatment” – CAST – campaigns), community engagement and active contact investigation approaches; they have also lengthened delays in linkage to care (especially for people with drug-resistant TB). These impacts explain the 14% reduction in TB case notifications during the first 6 months of 2025 compared with 2024. The other major impact of funding cuts has been on the sustainability of most of the NTLP staff positions beyond the current financial year. Most NTLP staff remain partner-supported, without a clear transition plan.
+
+To ensure financial sustainability amid declining donor support, the NTLP will aim to prioritize increased domestic funding for TB and leprosy services; develop and implement a phased transition plan to gradually absorb donor-supported staff into government structures; prioritize the allocation of resources to high-impact interventions that aim to address TB and leprosy drivers, and reduce transmission; improve programmatic efficiencies by reducing wastage, overlaps and duplication, and by integrating service delivery; and leverage existing platforms for TB care (e.g. through greater integration of TB within primary health care systems and with services for HIV, maternal and child health, and noncommunicable diseases).
+
+### Zambia 
+
+In the period 2020 to 2024, the National TB and Leprosy Programme (NTLP) in Zambia substantially scaled up innovative approaches in ACF activities, resulting in annual TB case notifications reaching 93% of estimated incidence in 2023.
+
+Following withdrawal of USG support through USAID, implementing partners withdrew much of their support and staff, including technical experts and a large force of community-based volunteers. The NTLP was hampered in its efforts, mainly by a reduction in community activities and low stocks of diagnostic Xpert® MTB/RIF cartridges owing to stalled procurement. These impacts probably accounted for a reduction of about 6% in TB case notifications in the first half of 2025 compared with 2024.
+
+To ensure sustainability of the programme and continuity of services, the NTLP has developed a minimum package of services, which outlines efficient programming approaches and ensures that resources are allocated to high-impact interventions. The package includes the integration of services; use of multiskilled community-based volunteers to implement community activities; reinforcement of screening techniques to ensure that the correct target populations are identified and tested; adoption and scaling up of newer and cheaper WHO-recommended point-of-care tests; and use of shorter TB treatment regimens among children and people with drug-resistant TB.
+
+The government of Zambia has increased its health budget; however, there is need for continued scale-up of investment in the NTLP, with greater domestic resource contributions for the TB response.
+
+
+`r anch("refs")`
+
+<hr style="border:1px solid gray20">
+  
+  **References**
+
+1.	Green A. Global Fund plans to cut $1.4 billion from grants it has already awarded [website]. Devex; 2025 (https://www.devex.com/news/global-fund-plans-to-cut-1-4-billion-from-grants-it-has-already-awarded-110481).
+
+2.	Cavalcanti DM, de Oliveira Ferreira de Sales L, da Silva AF, Basterra EL, Pena D, Monti C et al. Evaluating the impact of two decades of USAID interventions and projecting the effects of defunding on mortality up to 2030: a retrospective impact evaluation and forecasting analysis. Lancet. 2025;406(10500):283–94 (https://doi.org/10.1016/S0140-6736(25)01186-9).
+
+3.	Clark RA, McQuaid CF, Richards AS, Bakker R, Sumner T, Prys-Jones TO et al. The potential impact of reductions in international donor funding on tuberculosis in low-income and middle-income countries: a modelling study. Lancet Glob Health. 2025;13(9):e1517–e24 (https://doi.org/10.1016/S2214-109X(25)00232-3).
+
+4.	Mandal S, Nair S, Sahu S, Ditiu L, Pretorius C. A deadly equation: the global toll of US TB funding cuts. PLoS Glob Public Health. 2025;5(9):e0004899 (https://doi.org/10.1371/journal.pgph.0004899).
+
+5.  Stover J, Sonneveldt E, Tam Y, Horton KC, Phillips AN, Smith J et al. Effects of reductions in US foreign assistance on HIV, tuberculosis, family planning, and maternal and child health: a modelling study. Lancet Glob Health. 2025;13(10):e1669-e80 (https://doi.org/10.1016/S2214-109X(25)00281-5).
+
+
+
+
+
+```{r js_functions}
+# Insert javascript file containing common Kendo number formatting functions ----
+cat(writeLines(readLines(here("report/resources/gtbr_js.htm")))) 
+```
+
+<script type="text/javascript">
+/* JSON data objects for the figures */
+
+var fig_4_1_4_data = `r f4.1.4_data |> pivot_wider(names_from = variable,values_from = value) |> arrange(desc(usaid_pct), int_pct) |> toJSON("rows")`   ; 
+
+var fig_2_data = `r f2_data |> mutate(size = 12) |>  toJSON("rows")`   ; 
+
+var fig_3a_data = `r f3a_data  |> pivot_wider(names_from = cat, values_from = value)  |>  
+mutate(activity=str_wrap(activity, width = 25,indent = 0)) |> toJSON("rows")`   ; 
+
+var fig_3b_data = `r f3b_data  |> pivot_wider(names_from = cat, values_from = value) |> arrange(desc(Impacted), Not_impacted) |>  
+mutate(activity=str_wrap(activity, width = 25,indent = 0)) |> toJSON("rows")`   ;  
+
+</script>
+
+```{js, echo=FALSE}
+
+/* Functions to create the figures */
+function createfig_4_1_4(fig_ID,data,title,height) {
+		$(fig_ID).kendoChart({
+			dataSource: data,
+			chartArea: {
+				height: height
+			},	
+      title: {
+				text: title,
+				color: "black",
+				font: "bold 14px  Arial,Helvetica,sans-serif",
+        align: "center"
+			},	
+			legend: {
+				position: "top"
+			},
+			seriesDefaults: {
+				type: "bar",
+        stack: true,
+        gap: 0.2
+			},
+			series: [{
+        name: "USAID",
+				field: "usaid_pct",
+				color: "#00205C",
+        tooltip: {
+				visible: true,
+				template: "USAID (#= category #): #= tb_format_pct(value) #%, US$ #= tb_format_pct(dataItem.rcvd_tot_usaid)# million"
+			}
+			},{
+        name: "Global Fund",
+				field: "gf_pct",
+				color: "#A6228C",
+        tooltip: {
+				visible: true,
+				template: "Global Fund (#= category #): #= tb_format_pct(value) #%, US$ #= tb_format_pct(dataItem.rcvd_ext_gf)# million"
+			}
+			},{
+        name: "Other international funding",
+				field: "oth_pct",
+				color: "#BBBBBB",
+        tooltip: {
+				visible: true,
+				template: "Other international funding (#= category #): #= tb_format_pct(value) #%, US$ #= tb_format_pct(dataItem.rcvd_ext_oth)# million"
+			}
+			},{
+        name: "Domestic funding",
+				field: "int_pct",
+				color: "#4ABAFC",
+        tooltip: {
+				visible: true,
+				template: "Domestic funding (#= category #): #= tb_format_pct(value) #%, US$ #= tb_format_pct(dataItem.rcvd_int)# million"
+			}
+			},],
+			valueAxis: {
+
+				title: {
+					text: "Percentage of funding available (%)"
+				},
+				line: {
+					visible: false
+				},
+				min: 0,
+				max: 100,
+			},
+			categoryAxis: {
+				field: "country",
+				labels: {
+					rotation: 0,
+				},
+				majorGridLines: {
+					visible: false
+				}			}
+		});
+}
+
+
+function createfig_2(fig_ID, data) {
+  // Filter the dataset on the country variable
+		$(fig_ID).kendoChart({
+			dataSource: data,
+			chartArea: {
+				height: 600
+			},	
+			legend: {
+				position: "bottom"
+			},
+			seriesDefaults: {
+				type: "bubble"
+			},
+			series: [{
+				xField: "value",
+        yField: "prop",
+        sizeField: "size",
+        maxSize: 10,
+        minSize: 5,
+        categoryField: "country",
+				color: "red",
+				labels: {
+				visible: true,
+				template: "#= category #",
+				background: "transparent",
+				padding: 0,
+				visual: function(e) {
+				const label = e.createVisual(); // default label shape
+				const country = e.dataItem.country;
+				const gap     = 0;      
+				// Adjust anchor depending on the country
+				if (country === "Zimbabwe") {  // <-- change to your target country
+				// Move label to the right
+				label.transform(
+        kendo.geometry.transform().translate(e.rect.width() + 0, 0)
+        );
+        } else {
+        // Keep others to the left (default position)
+        label.transform(
+        kendo.geometry.transform().translate(-e.rect.width() - 0, 0)
+        );
+        }
+        return label;
+        }
+        }
+				
+			}],
+      xAxis: {
+        labels: {
+          format: "{0:N0}",
+          skip: 1,
+          rotation: "auto"
+                    },
+        title: {
+					text: "Percentage of funding reported by NTPs that was provided by USAID bilateral grants in 2024"
+				},
+        axisCrossingValue: 0,
+        majorUnit: 10,
+                    plotBands: [{
+                       from: 19.95,
+                        to: 20.05,
+                        color: "grey",
+                        opacity: 0.8
+                    }]
+                },
+      yAxis: {
+        labels: {
+          format: "{0:N2}"
+               },
+        title: {
+					text: "Ratio of 2025 to 2024 case notifications"
+				},
+
+        line: {width: 0
+                    },
+        min: 0.75,
+        max: 1.25,
+        axisCrossingValue: -1.25,
+        majorUnit: 0.05,
+                     plotBands: [{
+                       from: 0.9995,
+                        to: 1.0005,
+                        color: "grey",
+                        opacity: 0.8
+                    },{
+      from: 1.0495,    // start of band
+      to: 1.0505,      // end of band (same value = line)
+      color: "skyblue"
+    },{
+      from: 0.9495,    // start of band
+      to: 0.9505,      // end of band (same value = line)
+      color: "skyblue"
+    }]
+                },
+      tooltip: {
+				visible: true,
+				template: "#= category #: #= value.x.toPrecision(2) #%, #= value.y.toPrecision(3) #"
+			}
+
+
+		});
+}
+
+
+/* Functions to create Fig_3a and Fig_3b */
+
+
+/* Functions to create the figures */
+function createfig_3a(fig_ID,data,title,height) {
+		$(fig_ID).kendoChart({
+			dataSource: data,
+			chartArea: {
+				height: height
+			},	
+      title: {
+				text: title,
+				color: "black",
+				font: "bold 14px  Arial,Helvetica,sans-serif",
+        align: "left"
+			},	
+			legend: {
+				position: "top"
+			},
+			seriesDefaults: {
+				type: "bar",
+        stack: true,
+        gap: 0.2
+			},
+			series: [{
+        name: "Severe",
+				field: "Severe",
+				color: "#d73027",
+        tooltip: {
+				visible: true,
+        tooltip: { visible: true, template: "#= category #: #= num_spacer(value) #" }			}
+			},{
+        name: "Moderate",
+				field: "Moderate",
+				color: "#fc8d59",
+        tooltip: {
+				visible: true,
+        tooltip: { visible: true, template: "#= category #: #= num_spacer(value) #" }			}
+			},{
+        name: "Minimal or no impact",
+				field: "Minimal",
+				color: "#f0f0f0",
+        tooltip: {
+				visible: true,
+        tooltip: { visible: true, template: "#= category #: #= num_spacer(value) #" }			}
+			},
+			],
+			valueAxis: {
+				title: {
+					text: "Number of countries"
+				},
+				line: {
+					visible: false
+				},
+				min: 0,
+				max: 17,
+			},
+			categoryAxis: {
+				field: "activity",
+				labels: {
+					rotation: 0,
+				},
+				majorGridLines: {
+					visible: false
+				}			}
+		});
+}
+
+
+function createfig_3b(fig_ID,data,title,height) {
+		$(fig_ID).kendoChart({
+			dataSource: data,
+			chartArea: {
+				height: height
+			},	
+      title: {
+				text: title,
+				color: "black",
+				font: "bold 14px  Arial,Helvetica,sans-serif",
+        align: "left"
+			},	
+			legend: {
+				position: "top"
+			},
+			seriesDefaults: {
+				type: "bar",
+        stack: true,
+        gap: 0.2
+			},
+			series: [{
+        name: "Impacted",
+				field: "Impacted",
+				color: "#d73027",
+        tooltip: {
+				visible: true,
+        tooltip: { visible: true, template: "#= category #: #= num_spacer(value) #" }			}
+			},{
+        name: "Not impacted",
+				field: "Not_impacted",
+				color: "#f0f0f0",
+        tooltip: {
+				visible: true,
+        tooltip: { visible: true, template: "#= category #: #= num_spacer(value) #" }			}
+			},],
+			valueAxis: {
+
+				title: {
+					text: "Number of countries"
+				},
+				line: {
+					visible: false
+				},
+				min: 0,
+				max: 17,
+			},
+			categoryAxis: {
+				field: "activity",
+				labels: {
+					rotation: 0,
+				},
+				majorGridLines: {
+					visible: false
+				}			}
+		});
+}
+
+
+```
+
+```{js, echo=FALSE}
+
+/* Create the figures after the document has been loaded */
+$(document).ready(function() {
+  createfig_4_1_4("#fig_4_1_4", fig_4_1_4_data, "", 800);
+  
+  createfig_2("#fig_2", fig_2_data);
+  
+  createfig_3a("#fig_3a", fig_3a_data, "(a) TB services and support systems", 500);
+  createfig_3b("#fig_3b", fig_3b_data, "(b) NTP staffing, operations and support", 410);
+});
+
+```
+
+
+
+

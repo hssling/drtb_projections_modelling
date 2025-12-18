@@ -1,0 +1,17 @@
+﻿iso3,country,cat,year,p_med,p_nmed,p_indirect
+SOM,Somalia,overall,2024,29.35,40.8,29.85
+SOM,Somalia,TB (first-line treatment),2024,27.33167082,39.35162095,33.31670823
+SOM,Somalia,Drug-resistant TB,2024,36.4231738,45.99496222,17.58186398
+GTM,Guatemala,overall,2023,32,13,55
+GIN,Guinea,overall,2024,34.80313206,46.5149259,18.68295499
+GIN,Guinea,TB (first-line treatment),2024,34.56923806,47.55445554,17.8763064
+GIN,Guinea,Drug-resistant TB,2024,35.2865492,44.98429867,19.10982205
+BGD,Bangladesh,overall,2023,12.1,43.2,44.7
+MDA,Republic of Moldova,overall,2024,8.260869565,9.565217391,82.17391304
+CAF,Central African Republic,overall,2023,31.82916342,51.02985136,17.14098522
+CAF,Central African Republic,TB (first-line treatment),2023,25.43044873,50.2258202,24.62583814
+CAF,Central African Republic,Drug-resistant TB,2023,30.86722377,50.8907459,18.24326834
+GMB,Gambia,overall,2023,5.968331,20.733523,73.298146
+DOM,Dominican Republic,overall,2023,36.69394435,28.77250409,34.53355155
+DOM,Dominican Republic,TB (first-line treatment),2023,33.4809566,32.7597115,33.7593319
+DOM,Dominican Republic,Drug-resistant TB,2023,48.41063529,14.23359329,37.35577142

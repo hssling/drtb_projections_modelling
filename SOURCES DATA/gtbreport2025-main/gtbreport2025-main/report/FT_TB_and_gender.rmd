@@ -1,0 +1,722 @@
+---
+title: "FT: Tuberculosis and Gender"
+author: "Mathieu Bastard, Nim Arinaminpathy, Katherine Horton and Bertie Squire" 
+date: "`r Sys.Date()`"
+knit: (function(inputFile, encoding) {
+      out_dir <- "./local";
+      rmarkdown::render(inputFile,
+                        encoding=encoding,
+                        output_dir=file.path(dirname(inputFile), out_dir))})
+output: 
+  html_fragment:
+    # Do not include a table of contents
+    toc: no
+    # Set standard figure width to 12 inches
+    fig_width: 12
+    # Do not write figure captions
+    fig_caption: FALSE
+    # to save intermediate .png
+    keep_md: true
+    # Don't embed external resources (stylesheets, JS libraries) in the output 
+    self_contained: False    
+    # Don't include <div> tags around a header and the content found until the next header
+    section_divs: FALSE  
+
+
+# To run this file and store output as html:
+# rmarkdown::render(here::here("report/FT_TB_and_gender.rmd"), output_file = "FT_TB_and_gender.html", output_dir = here::here("report/local/"))
+---
+  
+```{r setup, include=FALSE}
+
+# Set chunk options.
+# Results "asis" is needed to avoid xtable output being html encoded
+# Suppress messages, warnings and also the ## at the beginning of printed text
+# Set a default figure width too.
+
+knitr::opts_chunk$set(echo = FALSE, 
+                      results = "asis",
+                      message = FALSE,
+                      warning = FALSE,
+                      error = TRUE, # for debugging!
+                      
+                      # Settings for better output of whomapper .png maps
+                      fig.width = 10,
+                      fig.height = 5,
+                      dpi = 350
+                      )
+
+# Kill any attempt at using factors, unless we explicitly want them!
+options(stringsAsFactors=FALSE)
+options(scipen=999)
+
+# Load output packages ----
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+library(ggplot2)
+library(dplyr)
+library(gtbreport)
+library(Cairo)
+library(tidyr)
+library(jsonlite)
+library(here)
+library(reshape2)
+library(gridExtra)
+library(scales)
+library(jsonlite)
+library(whomapR)
+library(ggrepel)
+library(ggpubr)
+library(RColorBrewer)
+library(tidyverse)
+library(stringr)
+library(jsonlite)
+library(dplyr)
+
+
+# Load R functions ----
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+source(here('report/ch1_prepare_data.R'))
+
+
+source(here("import/load_gtb.R"))
+source(here("report/functions/country_region_lists.R"))
+source(here("report/functions/NZ.R"))
+source(here("report/functions/html_links.R"))
+source(here("report/functions/output_ggplot.R"))
+
+
+source(here("report/functions/html_links.R"))
+source(here("report/functions/output_ggplot.R"))
+
+yr=2024
+# Show static chart in addition to Kendo chart?
+show_static = F
+
+# Save underlying data files as CSV and charts as PDF files?
+pdf_csv_folder = here::here("report/local/figures/ft_TB_and_gender")
+save_csv = TRUE
+save_pdf = TRUE
+save_cairo = TRUE
+
+# Create the output folder (only if it doesn't yet exist)
+dir.create(pdf_csv_folder, showWarnings = FALSE, recursive = TRUE)
+```
+
+
+```{r css_js}
+# Add standard stylesheets and javascript to support kendo
+cat(writeLines(readLines(here("report/resources/headers.htm"))))
+```
+
+# Tuberculosis and gender
+
+_Draft! Prepared on `r Sys.Date()`._
+
+
+Tuberculosis (TB) affects individuals of all sexes and genders.^1^ However, men aged 15 years and older bear a disproportionately high burden of disease, face greater barriers to diagnosis and treatment, and may experience worse treatment outcomes than women.^2^ The impact of these disparities extends beyond men’s health; recent work suggests that transmission from affected men is responsible for most new infections in women, girls, men, boys (`r ref_lnk("1")`) and, probably, in people with diverse sexual orientations, gender identities and expressions, and sex characteristics (SOGIESC).
+
+Addressing disparities through gender-responsive approaches to TB prevention and care is critical for achieving equitable health outcomes and accelerating progress towards ending the TB epidemic.
+
+## Gender disparities in TB burden and outcomes
+
+In 2024, an estimated 54% of people who developed TB were men, 35% were women, and 11% were children and young adolescents (<span class="red">Section 1.1</span>). National TB prevalence surveys consistently show a higher burden of disease among men than women, with men accounting for 66–75% of adults with TB (`r lnk("Fig. 1")`) (`r ref_lnk("2-4")`).
+
+### `r anch("Fig. 1")`<span class="red">Fig. 1</span> The male to female ratio of bacteriologically confirmed adult TB cases detected in prevalence surveys implemented 2007&#8211;2024^a^
+
+
+```{r fig_1, echo=FALSE, message=FALSE, warning=FALSE, results = "asis", dev = 'png', fig.height=8, fig.alt="Panel plot of sex ratio from national TB prevalence surveys" }
+
+country  <- load_gtb("cty")  
+prev <- load_gtb("svy.prev") 
+cases <- load_gtb("svy.prevcases")
+
+
+f1_4_6_data <- prev  %>%
+  
+  # Restrict to female/male disaggs for bac-confirmed cases (except for Tanzania, which should be smear-positives)
+  filter(case_type == "b" | case_type == "s" & iso2 == "TZ") %>% 
+  filter(year >= 2006) %>%
+  filter(year != 2008) %>% #this removes Bangladesh 2008 for now
+  filter(sex != "a") %>%
+ 
+  select(country, year, case_type, age_group, sex, prev)
+
+# Change labels of countries with multiple surveys
+f1_4_6_data$country <- as.character(f1_4_6_data$country) 
+
+f1_4_6_data$country[f1_4_6_data$country == "Myanmar" &  f1_4_6_data$year == 2009] <- "Myanmar (2009\u20132010)"
+f1_4_6_data$country[f1_4_6_data$country == "Myanmar" &  f1_4_6_data$year == 2018] <- "Myanmar (2017\u20132018)"
+
+f1_4_6_data$country[f1_4_6_data$country == "Philippines" &  f1_4_6_data$year == 2007] <- "Philippines (2007)"
+f1_4_6_data$country[f1_4_6_data$country == "Philippines" &  f1_4_6_data$year == 2016] <- "Philippines (2016)"
+
+f1_4_6_data$country[f1_4_6_data$country == "Viet Nam" &  f1_4_6_data$year == 2007] <- "Viet Nam (2006\u20132007)"
+f1_4_6_data$country[f1_4_6_data$country == "Viet Nam" &  f1_4_6_data$year == 2018] <- "Viet Nam (2017\u20132018)"
+
+f1_4_6_data$country[f1_4_6_data$country == "Cambodia" &  f1_4_6_data$year == 2011] <- "Cambodia (2010\u20132011)"
+f1_4_6_data$country[f1_4_6_data$country == "Cambodia" &  f1_4_6_data$year == 2023] <- "Cambodia (2023\u20132024)"
+
+
+## Long to wide
+f1_4_6_data <- f1_4_6_data %>% 
+  pivot_wider(id_cols = c(country, year, case_type),
+              names_from = sex,
+              values_from = prev) %>% 
+  
+  # Calculate the male:female ratio
+  mutate(ratio = m / f) %>% 
+  
+    select(country, year, ratio)
+
+# f1_4_6_plot <- ggplot(f1_4_6_data, aes(x=country, y=ratio)) +
+#     geom_bar(stat="identity",  width=.8, fill="#218CDF") +
+#     coord_flip() +
+#     xlab ("") +
+#     ylab("Sex ratio (male:female)") +
+#     #theme_bw(base_size=10) +
+#     scale_x_discrete(limits = f1_4_6_data$country[order(f1_4_6_data$ratio)]) +
+#     geom_hline(yintercept = c(1,2,3,4),linetype="dashed", colour="grey")+
+#     theme_gtb()
+# 
+# output_ggplot(f1_4_6_plot, f1_4_6_data, show_static, pdf_csv_folder, save_csv, save_pdf, save_cairo)
+
+```
+
+<div id="fig_1_4_6"></div>
+
+
+<div class="footnote">^a^ Due to laboratory challenges during the survey in the United Republic of Tanzania, it was only possible to directly estimate the prevalence of smear-positive (as opposed to bacteriologically confirmed) pulmonary TB. Results from the survey completed in Timor-Leste in 2023 are not yet published.</div> 
+
+Globally, notifications are higher among men than women (<span class="red">Section 2.1</span>), and ratios of prevalence to notifications (P:N) suggest greater gaps in detection and reporting among men in most settings (`r lnk("Fig. 2")`). 
+
+<!-- ### `r anch("Fig. 2")`<span class="red">Fig. 2.</span> Global estimates of TB incidence (absolute numbers) disaggregated by age group and sex, compared with case notifications (female in <span style="color:#6363C0">purple</span>; male in <span style="color:#F4A81D">orange</span>), `r yr` -->
+
+<!-- <div class="subhead"> Bars show TB notifications. Dots and error bars show best estimates of incidence and 95% uncertainty intervals, respectively.</div> -->
+
+
+<!-- <div class="col-md-6"> -->
+<!-- #### (a) Female -->
+<!-- <div id="fig_1_1_5a"></div> -->
+<!-- </div> -->
+<!-- <div class="col-md-6"> -->
+<!-- #### (b) Male -->
+<!-- <div id="fig_1_1_5b"></div> -->
+<!-- </div> -->
+
+### `r anch("Fig. 2")`<span class="red">Fig. 2</span> The P:N ratio by sex for adult TB cases in prevalence surveys implemented 2007&#8211;2024^a^
+
+```{r fig_2, echo=FALSE, messdsage=FALSE, warning=FALSE, results = "asis", dev = 'png', fig.height=8, fig.alt="Panel plot of P:N ratio by sex from national TB prevalence surveys"}
+
+prev_notif  <-  read.csv(here::here("data/ps/prev_notif_2025-06-05.csv")) %>% 
+  mutate(country = ifelse(country=="Viet Nam (2006-2007)", "Viet Nam (2006\u20132007)", country),
+         country = ifelse(country=="Myanmar (2009-2010)", "Myanmar (2009\u20132010)", country),
+         country = ifelse(country=="Cambodia (2010-2011)", "Cambodia (2010\u20132011)", country),
+         country = ifelse(country=="Viet Nam (2017-2018)", "Viet Nam (2017\u20132018)", country),
+         country = ifelse(country=="Cambodia (2023-2024)", "Viet Nam (2023\u20132024)", country),
+         country = ifelse(country=="Myanmar (2017-2018)", "Myanmar (2017\u20132018)", country)) %>%
+
+  # Convert notifications to rates per 100 000 population
+  mutate(notif_100k = notified * (1e5 / pop),
+         notif_100k_f  = f_notified * (1e5 / f_pop),
+         notif_100k_m  = m_notified * (1e5 / m_pop)) %>% 
+  
+  # Calculate p:n ratios
+  mutate(pn = ifelse(NZ(notif_100k) > 0, prev / notif_100k, NA),
+         pn_f = ifelse(NZ(notif_100k_f) > 0, f_prev / notif_100k_f, NA),
+         pn_m = ifelse(NZ(notif_100k_m) > 0, m_prev / notif_100k_m, NA)) %>% 
+  
+  # Remove unnecessary variables
+  select(country, year, pn, pn_f, pn_m)
+
+
+
+f1_4_8_data <- prev_notif %>% 
+
+  # switch back to long format
+  pivot_longer(cols = pn_f:pn_m,
+               names_to = "sex",
+               names_prefix = "pn_")
+
+
+```
+<div id="fig_1_4_8"></div>
+
+
+<div class="footnote">^a^ The P:N ratio is for smear-positive pulmonary TB, except for Bangladesh, the Democratic People&#39;s Republic of Korea, Kenya, Myanmar (2018), Namibia (2018), Uganda, Viet Nam (2017) and Zimbabwe where it was based on bacteriologically confirmed pulmonary TB (following updates to WHO guidance on case definitions used for TB surveillance published in 2014). Prevalence estimates are from a cross-sectional survey, and therefore only represent one point in time. Notification data are from the main year of the survey. Results from the survey completed in Timor-Leste in 2023 are not yet published.</div> 
+
+
+Treatment outcomes also differ by sex: across 31 high burden countries reporting sex-disaggregated treatment outcomes in 2024 (among 49 countries belonging to at least one of the three global watchlists), treatment success rates were slightly higher among women and girls (90%) than among men and boys (87%). However, the proportion of people diagnosed with TB who died after starting TB treatment was 45% higher among men and boys than among women and girls (<span class="red">Section 2.3</span>). Globally in 2024, men accounted for 50% of TB deaths among HIV-negative individuals, while women comprised 34%, and children and young adolescents 16%. Men also accounted for the largest proportion of TB deaths among people living with HIV (51%), followed by women (47%) (<span class="red">Section 1.2</span>).
+
+
+## Understanding drivers of gender disparities
+
+Gender disparities in TB are shaped by biological, sociobehavioural and structural factors, influenced by underlying gender roles and norms.
+
+Health-related risks of TB differ between men and women. Globally, alcohol use disorders and smoking are more prevalent among men (`r ref_lnk("5, 6")`), while HIV infection is more prevalent among women, although coverage of antiretroviral treatment is lower among men than women (`r ref_lnk("7")`).
+
+Structural determinants of TB (e.g. poverty, and living, working and gathering conditions) also contribute to gender disparities in TB. Incarceration and occupational exposures (e.g. in the mining sector) increase men’s risk of disease, while precarious informal employment and lack of social protections are cited as key barriers for men accessing TB care (`r ref_lnk("8")`). TB patient cost surveys indicate that the risk of experiencing catastrophic costs may vary by gender and primary income earner status; however, both male- and female-headed households are vulnerable in different contexts (`r ref_lnk("9")`).
+
+Community, rights and gender assessments have revealed that women, men and people with diverse SOGIESC face distinct barriers in accessing TB services, including stigma, discrimination, criminalization and exclusion from health systems (`r ref_lnk("10")`). Gender norms and expectations further constrain access: cultural restrictions and financial dependence may limit women’s access to care (`r ref_lnk("11")`), while harmful masculine norms may discourage men from seeking care (`r ref_lnk("8, 12")`).
+
+
+## Ensuring gender-responsive TB prevention and care
+
+The 2023 United Nations high-level meeting on TB reaffirmed global commitments to a people-centred, community-based and gender-responsive TB response (`r ref_lnk("13")`). Achieving these commitments requires collection and analysis of disaggregated data, programmatic action to address disparities, and gender mainstreaming. These factors are discussed below.
+
+***Collection and analysis of disaggregated data***
+
+Disaggregated data are essential to identify disparities. Such data should be incorporated into routine surveillance, programme reviews and research activities. Gender analysis should then support targeted action to address inequalities across the TB continuum of care.
+
+In Nigeria, for example, national TB prevalence survey data spurred the expanded collection and analysis of surveillance data disaggregated by sex, helping to identify gaps in detection and reporting (`r ref_lnk("14")`).
+
+Further disaggregated data are needed to assess gendered differences in economic burden, social impacts and long-term consequences (e.g. post-TB lung disease), and to explore the intersection of gender with other social and political identities.
+
+***Programmatic action to address disparities***
+
+Collection and analysis of disaggregated data must inform action. TB programmes should implement gender-responsive policies tailored to the needs of different populations.
+
+Prevalence survey results have led to the implementation of targeted TB screening activities to find and treat men in several countries. In Myanmar, screening focused on areas where men predominate (e.g. construction, mining, migrant worker communities and prisons) and was conducted outside regular working hours. Similarly, in the Philippines, screening focused on male-dominated workplaces (e.g. taxi companies and construction sites), and was accompanied by the development of male-specific communication materials and TB clinics operating outside regular office hours (`r ref_lnk("15")`). Implementation partners and researchers have explored men-only clinics in Lesotho (`r ref_lnk("16")`), male-friendly TB services in Uganda (`r ref_lnk("17")`), screening in occupational settings (`r ref_lnk("18")`), and screening in sociocultural congregate settings in Nigeria (`r ref_lnk("19")`) and Zambia (`r ref_lnk("20")`).
+
+These examples demonstrate how programmes can adapt services to reach greater numbers of men and overcome gender-related barriers to care. Further action is needed through multisectoral approaches to address risks of exposure and disease.
+
+
+***Gender mainstreaming***
+
+Gender mainstreaming – that is, integrating gender considerations into both programmatic approaches and institutional operations so that all are included – is essential to ensure that TB policies and programmes do not reinforce inequalities (`r ref_lnk("21")`). This requires the meaningful participation of women, men and people with diverse SOGIESC in the design, implementation and evaluation of TB prevention and care strategies, to ensure that gendered concerns and experiences are considered, and to assess the implications of strategies across genders.
+
+
+## Conclusion
+  
+Gender disparities in TB burden, access to care and outcomes are well established. Men bear a higher burden of TB and face significant barriers to care; these challenges also impact the health of women, girls, boys and people with diverse SOGIESC.
+
+Addressing these disparities requires comprehensive, gender-responsive strategies that engage affected populations where they live, work and socialize, while tackling the social and structural determinants, health system barriers and gender norms that perpetuate inequities. Expected benefits extend across the population to women, girls, men, boys and people with diverse SOGIESC. 
+
+A gender-responsive approach to TB prevention and care is critical to achieving the goal of ending TB for all.
+
+
+
+<hr style="border:1px solid gray20">
+
+^1^ Gender is a social construction that refers to “the roles, behaviours, activities, and attributes that a given society at a given time considers appropriate” for women and girls (`r ref_lnk("22")`); men and boys; and people with diverse sexual orientation, gender identity and expression, and sex characteristics (SOGIESC) (`r ref_lnk("23")`).  Gender interacts with sex – a biological classification based on genetic, epigenetic and hormonal differences (`r ref_lnk("24")`) – and with other social and political identities (e.g. age, ethnicity, socioeconomic status, disability and geographic location) to influence biological, sociobehavioural, structural and cultural determinants of health, and to compound inequalities.
+
+^2^ Although gender is not binary, much of the available data are limited to distinctions between men and women, so our understanding of TB burden and experience among people with diverse SOGIESC is limited (`r ref_lnk("25-27")`).
+
+
+`r anch("refs")`
+
+<hr style="border:1px solid gray20">
+  
+**References**
+
+1.	Dodd PJ, Horton KC. A global analysis of patterns of tuberculosis exposure and transmission. medRxiv. 2025:2025.10.09.25337649 (https://doi.org/10.1101/2025.10.09.25337649).
+
+2.	Horton KC, MacPherson P, Houben RM, White RG, Corbett EL. Sex Differences in Tuberculosis Burden and Notifications in Low- and Middle-Income Countries: A Systematic Review and Meta-analysis. PLoS Med. 2016;13:e1002119 (https://doi.org/10.1371/journal.pmed.1002119).
+
+3.	Onozaki I, Law I, Sismanidis C, Zignol M, Glaziou P, Floyd K. National tuberculosis prevalence surveys in Asia, 1990-2012: an overview of results and lessons learned. Trop Med Int Health. 2015;20:1128-45 (https://doi.org/10.1111/tmi.12534).
+
+4.	Law I, Floyd K, African TBPSG. National tuberculosis prevalence surveys in Africa, 2008-2016: an overview of results and lessons learned. Trop Med Int Health. 2020;25:1308-27 (https://doi.org/10.1111/tmi.13485).
+
+5.	World Health Organization. Alcohol, average daily intake in grams among drinkers, three-year average [website]. (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/alcohol-average-daily-intake-in-grams-among-drinkers-with-95-ci).
+
+6.	World Health Organization. Tobacco: current tobacco use, tobacco smoking and cigarette smoking, age-standardized [website]. (https://www.who.int/data/gho/data/indicators/indicator-details/GHO/gho-tobacco-control-monitor-current-tobaccouse-tobaccosmoking-cigarrettesmoking-agestd-tobagestdcurr).
+
+7.	UNAIDS. UNAIDS global AIDS update 2025 | UNAIDS [website]. (https://www.unaids.org/en/UNAIDS-global-AIDS-update-2025).
+
+8.	Chikovore J, Pai M, Horton KC, Daftary A, Kumwenda MK, Hart G et al. Missing men with tuberculosis: the need to address structural influences and implement targeted and multidimensional interventions. 2020;5:2255 (https://doi.org/10.1136/BMJGH-2019-002255).
+
+9.	National surveys of costs faced by tuberculosis patients and their households 2015-2021. Switzerland: World Health Organization; 2022  (https://iris.who.int/handle/10665/366277). Licence: CC BY-NC-SA 3.0 IGO.
+
+10.	Citro B, Soltan V, Malar J, Katlholo T, Smyth C, Sari AH et al. Building the Evidence for a Rights-Based, People-Centered, Gender-Transformative Tuberculosis Response: An Analysis of the Stop TB Partnership Community, Rights, and Gender Tuberculosis Assessment. Health Hum Rights. 2021;23:253-67.
+
+11.	Krishnan L, Akande T, Shankar AV, McIntire KN, Gounder CR, Gupta A et al. Gender-Related Barriers and Delays in Accessing Tuberculosis Diagnostic and Treatment Services: A Systematic Review of Qualitative Studies. Tuberc Res Treat. 2014;2014:215059 (https://doi.org/10.1155/2014/215059).
+
+12.	Daniels J, Medina-Marino A, Glockner K, Grew E, Ngcelwane N, Kipp A. Masculinity, resources, and retention in care: South African men's behaviors and experiences while engaged in TB care and treatment. Soc Sci Med. 2021;270:113639 (https://doi.org/10.1016/j.socscimed.2020.113639).
+
+13.	Resolution 73/3: Political declaration of the high-level meeting of the General Assembly on the fight against tuberculosis New York: United Nations General Assembly: 2018 (https://www.who.int/publications/m/item/political-declaration-of-the-un-general-assembly-high-level-meeting-on-the-fight-against-tuberculosis).
+
+14.	Ugwu C, Aneke C, Chijioke-Akaniro O, Kushim J, Adekeye O, Kolawole G et al. Gender disaggregation of the TB care cascade in Nigeria: a four-year retrospective study 2018–2021. Public Health Action. 2025;15:64 (https://doi.org/10.5588/PHA.24.0032).
+
+15. World Health Organization. WHO consolidated guidelines on tuberculosis data generation and use. Module 3: national tuberculosis prevalence surveys. Geneva, Switzerland: World Health Organization; 2025 (https://iris.who.int/handle/10665/381191). License: CC BY-NC-SA 3.0 IGO.
+
+16.	Ramapepe M, Rozario A, Stender S, P M. Assessing sensitivity of symptoms for efficiency in TB case detection in a male clinic in Lesotho. Union World Conference on Lung Health. Guadalajara, Mexico. 2017.
+
+17.	Nidoi J, Pulford J, Wingfield T, Rachael T, Ringwald B, Katagira W et al. Finding the missing men with tuberculosis: a participatory approach to identify priority interventions in Uganda. Health Policy Plan. 2025;40:1-12 (https://doi.org/10.1093/heapol/czae087).
+
+18.	Chukwueme. N, Gidado. M, Mitchell. E, Abdur-Razzaq. H, Adegbola. A, Ogbudebe. C. Strategies for reaching men through occupational screening in Lagos, Nigeria. Union World Conference on Lung Health. Liverpool, UK. 2016.
+
+19.	Ugwu C, Adekeye O, Ringwald B, Thomson R, Chijioke-Akaniro O, Anyaike C et al. Co-creation of a gender responsive TB intervention in Nigeria: a researcher-led collaborative study. BMC Health Serv Res. 2025;25:63 (https://doi.org/10.1186/s12913-025-12241-7).
+
+20.	Kerkhoff AD, Foloko M, Kundu-Ng'andu E, Nyirenda H, Jabbie Z, Syulikwa M et al. Designing community-based strategies to reach non-household contacts of people with tuberculosis in Lusaka, Zambia: a rapid qualitative study among key stakeholders. Front Public Health. 2024;12:1408213 (https://doi.org/10.3389/fpubh.2024.1408213).
+
+21.	Gender mainstreaming for health managers: a practical approach. Switzerland: World Health Organization; 2011 (https://iris.who.int/handle/10665/44516). Licence: CC BY-NC-SA 3.0 IGO.
+
+22.	UN Women. Gender Equality Glossary | Home [website]. (https://trainingcentre.unwomen.org/mod/glossary/view.php?id=36&mode=letter&hook=G&sortkey=&sortorder=&fullsearch=0&page=-1).
+
+23.	International Standards on the Protection of People with Diverse Sexual Orientiation, Gender Identity, Gender Expression and Sex Characteristics (SOGIESC) in the Context of Migration | United Nations Network on Migration. Switzerland: International Organization of Migration; 2024 (https://migrationnetwork.un.org/resources/international-standards-protection-people-diverse-sexual-orientiation-gender-identity).
+
+24.	Mauvais-Jarvis F, Bairey Merz N, Barnes PJ, Brinton RD, Carrero JJ, DeMeo DL et al. Sex and gender: modifiers of health, disease, and medicine. Lancet. 2020;396:565-82 (https://doi.org/10.1016/S0140-6736(20)31561-0).
+
+25.	Pachankis JE, Branstrom R. How many sexual minorities are hidden? Projecting the size of the global closet with implications for policy and public health. PLoS One. 2019;14:e0218084 (https://doi.org/10.1371/journal.pone.0218084).
+
+26.	Muller A. Scrambling for access: availability, accessibility, acceptability and quality of healthcare for lesbian, gay, bisexual and transgender people in South Africa. BMC Int Health Hum Rights. 2017;17:16 (https://doi.org/10.1186/s12914-017-0124-4).
+
+27.	Brotman S, Ryan B, Jalbert Y, Rowe B. The impact of coming out on health and health care access: the experiences of gay, lesbian, bisexual and two-spirit people. J Health Soc Policy. 2002;15:1-29 (https://doi.org/10.1300/J045V15N01_01).
+
+
+
+
+```{r js_functions}
+# Insert javascript file containing common Kendo number formatting functions ----
+cat(writeLines(readLines(here("report/resources/gtbr_js.htm")))) 
+```
+
+<script type="text/javascript">
+
+/* JSON data objects for the figures */
+
+var fig_1_1_5a_data = `r globsplt3.piv %>% arrange(age_group)%>% mutate(age_group=ifelse(age_group=="65plus","\u226565",as.character(age_group))) %>% toJSON("rows")`;
+
+var fig_1_4_6_data = `r f1_4_6_data %>%  arrange(desc(ratio)) %>% toJSON("rows")`;
+
+var fig_1_4_78_data = `r prev_notif %>%  arrange(desc(pn)) %>% toJSON("rows")`; 
+
+</script>
+
+
+```{js, echo=FALSE}
+
+/* Functions to create the figures */
+function tb_format_thou_2(n) { 
+  //return thousands formatted to to significant figures
+  nt = n/1000; 
+  return num_spacer(Number(nt.toPrecision(2))*1000)
+}
+
+function createFig_1_1_5a(fig_ID, data) {
+   
+		$(fig_ID).kendoChart({
+			dataSource: data,
+			chartArea: {
+				height: 400
+			},	
+			legend: {
+				position: "bottom"
+			},
+			
+			series: [{
+        type: "line",
+				field: "best_F",
+        errorLowField: "lo_F",
+        errorHighField: "hi_F",
+        errorBars: {color: "#6363C0", line: { width: 3 }},
+        opacity: 0,
+				color: "#6363C0",
+        markers: {
+          visible: true,
+          background: "#6363C0",
+          size: 8
+        },
+        
+			tooltip: {
+				visible: true,
+				template: "Estimated number of TB cases in females aged #= category # years: #= tb_format_thou_2(value) #"
+			}
+			},{
+				type: "rangeArea",
+				fromField: "lo_F",
+				toField: "hi_F",
+				opacity: 0,
+        color: "#6363C0",
+				tooltip: {
+				visible: true,
+				format: "{0}",
+				template: "95% uncertainty interval (age group #= category #): #= tb_format_thou_2(value.from) #\u2013#= tb_format_thou_2(value.to) #"
+				}
+			},
+              
+			{
+			  type : "bar",
+			  gap: 0.2,
+				field: "newrel_F",
+				color: "#6363C0",
+				opacity: 0.6,
+        tooltip: {
+				visible: true,
+				template: "Number of cases notified in females aged #= category # years: #= num_spacer(value) #"
+			}
+			}],
+			
+
+              
+			valueAxis: {
+				labels: {
+				template:  "#= kendo.toString(Math.abs(value),'n0').replace(/,/g, ' ') #",
+				},
+				title: {
+					text: "Number of cases"
+				},
+				line: {
+					visible: false
+				},
+        min: 0,
+        max: 1400000,
+			},
+			categoryAxis: {
+				field: "age_group",
+				labels: {
+					rotation: "auto"
+				},
+				title: {
+					text: "Age group (years)"
+				},
+				majorGridLines: {
+					visible: true
+				}
+			}
+
+		});
+}
+
+
+function createFig_1_1_5b(fig_ID, data) {
+   
+		$(fig_ID).kendoChart({
+			dataSource: data,
+			chartArea: {
+				height: 400
+			},	
+			legend: {
+				position: "bottom"
+			},
+			
+			series: [{
+        type: "line",
+				field: "best_M",
+        errorLowField: "lo_M",
+        errorHighField: "hi_M",
+        errorBars: {color: "#F4A81D", line: { width: 3 }},
+        opacity: 0,
+				color: "#F4A81D",
+        markers: {
+          visible: true,
+          background: "#F4A81D",
+          size: 8
+        },
+        
+			tooltip: {
+				visible: true,
+				template: "Estimated number of TB cases in males aged #= category # years: #= tb_format_thou_2(value) #"
+			}
+			},{
+				type: "rangeArea",
+				fromField: "lo_M",
+				toField: "hi_M",
+				opacity: 0,
+        color: "#F4A81D",
+				tooltip: {
+				visible: true,
+				format: "{0}",
+				template: "95% uncertainty interval (age group #= category #): #= tb_format_thou_2(value.from) #\u2013#= tb_format_thou_2(value.to) #"
+				}
+			},
+              
+			{
+			  type : "bar",
+			  gap: 0.2,
+				field: "newrel_M",
+				color: "#F4A81D",
+				opacity: 0.6,
+        tooltip: {
+				visible: true,
+				template: "Number of cases notified in males aged #= category # years: #= num_spacer(value) #"
+			}
+			}],
+			
+
+              
+			valueAxis: {
+				labels: {
+				template:  "#= kendo.toString(Math.abs(value),'n0').replace(/,/g, ' ') #",
+				},
+				title: {
+					text: "Number of cases"
+				},
+				line: {
+					visible: false
+				},
+        min: 0,
+        max: 1400000,
+			},
+			categoryAxis: {
+				field: "age_group",
+				labels: {
+					rotation: "auto"
+				},
+				title: {
+					text: "Age group (years)"
+				},
+				majorGridLines: {
+					visible: true
+				}
+			}
+
+		});
+}
+
+
+function create_ratio_bars(div_ID, data, description_text, field_name, dot_colour){
+
+	$(div_ID).kendoChart({
+		dataSource: data,
+		chartArea: {
+			height: 800
+		},	
+		legend: {
+			visible: false
+		},
+		series: [{
+			type: "bar",
+			field: 0,
+			opacity: 0
+		}, {
+  	type: "line",
+		field: field_name,
+	  opacity: 0,
+		color: dot_colour,
+	  markers: {
+  	  visible: true,
+  	  background: dot_colour,
+  	  size: 8
+  	},
+		tooltip: {
+			visible: true,
+	    background: dot_colour,
+			template: "#= category #: #= num_spacer(Number(value.toPrecision(2))) #"
+		}
+		}],
+		valueAxis: {
+			labels: {
+				format: "{0}",
+				rotation: "auto"
+			},
+			title: {
+				text: description_text
+			},
+			line: {
+				visible: false
+			}
+		},
+		categoryAxis: {
+			field: "country",
+			labels: {
+				rotation: "auto"
+			},
+			majorGridLines: {
+				visible: true
+			}
+	  }
+	});
+}
+	
+	
+	
+function createfig_1_4_8() {
+	$("#fig_1_4_8").kendoChart({
+		dataSource: fig_1_4_78_data,
+		chartArea: {
+			height: 800
+		},	
+		legend: {
+			position: "bottom"
+		},
+		seriesDefaults: {
+			type: "bar"
+		},
+		series: [
+		
+			{
+        type: "rangeBar",
+        fromField: "pn_f",
+        toField: "pn_m",
+				opacity: 100,
+        color: "#CCCCCC",
+       gap: 45,
+			},
+			
+			{
+  	type: "line",
+  	name: "Female",
+		field: "pn_f",
+	  opacity: 0,
+		color: "#6363C0",
+	  markers: {
+  	  visible: true,
+  	  background: "#6363C0",
+  	  size: 8
+  	},
+		tooltip: {
+			visible: true,
+	    background: "#6363C0",
+			template: "#= category # (#= series.name #): #=  num_spacer(Number(value.toPrecision(2)))  #"
+		}
+		}, {
+  	type: "line",
+  	name: "Male",
+		field: "pn_m",
+	  opacity: 0,
+		color: "#F4A81D",
+	  markers: {
+  	  visible: true,
+  	  background: "#F4A81D",
+  	  size: 8
+  	},
+		tooltip: {
+			visible: true,
+	    background: "#F4A81D",
+			template: "#= category # (#= series.name #): #=  num_spacer(Number(value.toPrecision(2)))  #"
+		}
+		}],
+		valueAxis: {
+			labels: {
+				format: "{0}"
+			},
+			title: {
+				text: "Prevalence:notification ratio"
+			},
+			line: {
+				visible: false
+			}
+		},
+		categoryAxis: {
+			field: "country",
+			labels: {
+				rotation: "auto"
+			},
+			majorGridLines: {
+				visible: true
+			}
+		}
+	});
+}
+
+```
+
+
+```{js, echo=FALSE}
+
+/* Create the figures after the document has been loaded */
+
+$(document).ready(function() {
+  
+  createFig_1_1_5a("#fig_1_1_5a",fig_1_1_5a_data);
+  createFig_1_1_5b("#fig_1_1_5b",fig_1_1_5a_data);
+  
+  create_ratio_bars("#fig_1_4_6", fig_1_4_6_data, "Sex ratio (male:female)", "ratio", "#218CDF");
+
+  createfig_1_4_8(); 
+
+});
+
+```
+
+

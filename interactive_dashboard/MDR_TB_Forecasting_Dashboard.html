@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>India MDR-TB Forecasting Dashboard | Interactive Policy Tool</title>
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #333;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        
+        header {
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        header h1 {
+            font-size: 2.2em;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+        
+        header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+        
+        .dashboard {
+            display: grid;
+            grid-template-columns: 350px 1fr;
+            gap: 20px;
+            padding: 30px;
+        }
+        
+        .controls {
+            background: #f8f9fa;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        
+        .control-group {
+            margin-bottom: 25px;
+        }
+        
+        .control-group label {
+            display: block;
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: #2c3e50;
+            font-size: 0.95em;
+        }
+        
+        .control-group input[type="range"] {
+            width: 100%;
+            height: 8px;
+            border-radius: 5px;
+            background: #ddd;
+            outline: none;
+            -webkit-appearance: none;
+        }
+        
+        .control-group input[type="range"]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background: #667eea;
+            cursor: pointer;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+        
+        .value-display {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-weight: 600;
+            font-size: 0.9em;
+            margin-left: 10px;
+        }
+        
+        .metrics {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 15px;
+            margin-top: 20px;
+        }
+        
+        .metric-card {
+            background: white;
+            padding: 15px;
+            border-radius: 10px;
+            border-left: 4px solid #667eea;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .metric-card h4 {
+            font-size: 0.85em;
+            color: #666;
+            margin-bottom: 5px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .metric-card .value {
+            font-size: 1.5em;
+            font-weight: 700;
+            color: #2c3e50;
+        }
+        
+        .metric-card .change {
+            font-size: 0.85em;
+            margin-top: 5px;
+        }
+        
+        .change.positive {
+            color: #27ae60;
+        }
+        
+        .change.negative {
+            color: #e74c3c;
+        }
+        
+        .visualization {
+            background: white;
+        }
+        
+        .chart-container {
+            margin-bottom: 20px;
+        }
+        
+        button {
+            width: 100%;
+            padding: 12px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 1em;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s;
+            margin-top: 10px;
+        }
+        
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+        
+        .info-box {
+            background: #e3f2fd;
+            border-left: 4px solid #2196f3;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+            font-size: 0.9em;
+            line-height: 1.6;
+        }
+        
+        footer {
+            background: #2c3e50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            font-size: 0.9em;
+        }
+        
+        .scenario-selector {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        
+        .scenario-btn {
+            padding: 10px;
+            border: 2px solid #ddd;
+            background: white;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-weight: 600;
+        }
+        
+        .scenario-btn.active {
+            background: #667eea;
+            color: white;
+            border-color: #667eea;
+        }
+        
+        .scenario-btn:hover {
+            border-color: #667eea;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🔬 India MDR-TB Forecasting Dashboard</h1>
+            <p>Interactive Policy Simulation Tool (2025-2035)</p>
+            <p style="font-size: 0.9em; margin-top: 10px; opacity: 0.8;">
+                Based on: "Projected Burden of MDR-TB in India" | Siddalingaiah H S, 2025
+            </p>
+        </header>
+        
+        <div class="dashboard">
+            <div class="controls">
+                <h3 style="margin-bottom: 20px; color: #2c3e50;">📊 Intervention Parameters</h3>
+                
+                <div class="scenario-selector">
+                    <div class="scenario-btn active" onclick="loadScenario('status_quo')">Status Quo</div>
+                    <div class="scenario-btn" onclick="loadScenario('optimistic')">Optimistic</div>
+                    <div class="scenario-btn" onclick="loadScenario('pessimistic')">Pessimistic</div>
+                </div>
+                
+                <div class="control-group">
+                    <label>
+                        TPT Coverage (Preventive Therapy)
+                        <span class="value-display" id="tpt-value">15%</span>
+                    </label>
+                    <input type="range" id="tpt-coverage" min="0" max="100" value="15" 
+                           oninput="updateParameters()">
+                </div>
+                
+                <div class="control-group">
+                    <label>
+                        ACF Intensity (Active Case Finding)
+                        <span class="value-display" id="acf-value">Low</span>
+                    </label>
+                    <input type="range" id="acf-intensity" min="0" max="100" value="20" 
+                           oninput="updateParameters()">
+                </div>
+                
+                <div class="control-group">
+                    <label>
+                        Private Sector Engagement
+                        <span class="value-display" id="private-value">30%</span>
+                    </label>
+                    <input type="range" id="private-engagement" min="0" max="100" value="30" 
+                           oninput="updateParameters()">
+                </div>
+                
+                <div class="control-group">
+                    <label>
+                        Treatment Success Rate
+                        <span class="value-display" id="treatment-value">68%</span>
+                    </label>
+                    <input type="range" id="treatment-success" min="50" max="90" value="68" 
+                           oninput="updateParameters()">
+                </div>
+                
+                <button onclick="resetToBaseline()">🔄 Reset to Baseline</button>
+                <button onclick="downloadScenario()">💾 Download Scenario</button>
+                
+                <div class="metrics">
+                    <div class="metric-card">
+                        <h4>2030 Burden</h4>
+                        <div class="value" id="burden-2030">84,205</div>
+                        <div class="change positive" id="change-2030">Baseline</div>
+                    </div>
+                    <div class="metric-card">
+                        <h4>Cases Averted</h4>
+                        <div class="value" id="cases-averted">0</div>
+                        <div class="change positive" id="change-averted">vs. Status Quo</div>
+                    </div>
+                    <div class="metric-card">
+                        <h4>Economic Benefit</h4>
+                        <div class="value" id="economic-benefit">$0M</div>
+                        <div class="change positive" id="change-economic">10-year total</div>
+                    </div>
+                    <div class="metric-card">
+                        <h4>ROI Estimate</h4>
+                        <div class="value" id="roi-estimate">1.0:1</div>
+                        <div class="change positive" id="change-roi">Return on Investment</div>
+                    </div>
+                </div>
+                
+                <div class="info-box">
+                    <strong>ℹ️ How to Use:</strong><br>
+                    • Adjust sliders to simulate different intervention strategies<br>
+                    • Select preset scenarios (Status Quo, Optimistic, Pessimistic)<br>
+                    • View real-time updates in charts and metrics<br>
+                    • Download your custom scenario for reporting
+                </div>
+            </div>
+            
+            <div class="visualization">
+                <div class="chart-container">
+                    <div id="main-forecast-chart"></div>
+                </div>
+                <div class="chart-container">
+                    <div id="impact-chart"></div>
+                </div>
+                <div class="chart-container">
+                    <div id="economic-chart"></div>
+                </div>
+            </div>
+        </div>
+        
+        <footer>
+            <p><strong>Interactive Dashboard</strong> | MDR-TB Forecasting Study | India 2025-2035</p>
+            <p style="margin-top: 10px; font-size: 0.85em;">
+                Data Source: WHO Global TB Reports, ICMR-NTEP Annual Reports | 
+                Model: Holt-Winters Damped Trend Exponential Smoothing
+            </p>
+            <p style="margin-top: 10px; font-size: 0.85em;">
+                © 2025 Siddalingaiah H S | For research and policy use
+            </p>
+        </footer>
+    </div>
+    
+    <script>
+        // Base data from authentic forecasting
+        const years = [2025, 2026, 2027, 2028, 2029, 2030, 2031, 2032, 2033, 2034];
+        
+        const baselineData = {
+            status_quo: [82233, 82820, 83289, 83664, 83965, 84205, 84397, 84551, 84674, 84772],
+            optimistic: [77425, 73554, 69876, 66382, 63063, 59910, 56914, 54068, 51365, 48797],
+            pessimistic: [83130, 84793, 86488, 88218, 89982, 91782, 93617, 95490, 97400, 99348]
+        };
+        
+        let currentScenario = 'status_quo';
+        let customProjection = [...baselineData.status_quo];
+        
+        // Initialize charts
+        function initializeCharts() {
+            createForecastChart();
+            createImpactChart();
+            createEconomicChart();
+        }
+        
+        function createForecastChart() {
+            const trace1 = {
+                x: years,
+                y: baselineData.status_quo,
+                mode: 'lines+markers',
+                name: 'Status Quo',
+                line: {color: '#95a5a6', width: 2, dash: 'dash'},
+                marker: {size: 6}
+            };
+            
+            const trace2 = {
+                x: years,
+                y: customProjection,
+                mode: 'lines+markers',
+                name: 'Your Scenario',
+                line: {color: '#667eea', width: 3},
+                marker: {size: 8}
+            };
+            
+            const trace3 = {
+                x: years,
+                y: baselineData.optimistic,
+                mode: 'lines',
+                name: 'Optimistic Target',
+                line: {color: '#27ae60', width: 2, dash: 'dot'},
+                opacity: 0.6
+            };
+            
+            const layout = {
+                title: {
+                    text: 'MDR-TB Burden Projection (2025-2035)',
+                    font: {size: 18, family: 'Segoe UI'}
+                },
+                xaxis: {title: 'Year', gridcolor: '#f0f0f0'},
+                yaxis: {title: 'Estimated Cases', gridcolor: '#f0f0f0'},
+                hovermode: 'x unified',
+                plot_bgcolor: '#fafafa',
+                paper_bgcolor: 'white',
+                margin: {t: 60, r: 40, b: 60, l: 80}
+            };
+            
+            Plotly.newPlot('main-forecast-chart', [trace1, trace2, trace3], layout, {responsive: true});
+        }
+        
+        function createImpactChart() {
+            const casesAverted = baselineData.status_quo.map((val, i) => val - customProjection[i]);
+            
+            const trace = {
+                x: years,
+                y: casesAverted,
+                type: 'bar',
+                marker: {
+                    color: casesAverted.map(v => v > 0 ? '#27ae60' : '#e74c3c'),
+                    line: {width: 1, color: '#fff'}
+                },
+                text: casesAverted.map(v => v.toFixed(0)),
+                textposition: 'outside'
+            };
+            
+            const layout = {
+                title: {
+                    text: 'Annual Cases Averted vs. Status Quo',
+                    font: {size: 18, family: 'Segoe UI'}
+                },
+                xaxis: {title: 'Year', gridcolor: '#f0f0f0'},
+                yaxis: {title: 'Cases Averted', gridcolor: '#f0f0f0'},
+                plot_bgcolor: '#fafafa',
+                paper_bgcolor: 'white',
+                margin: {t: 60, r: 40, b: 60, l: 80}
+            };
+            
+            Plotly.newPlot('impact-chart', [trace], layout, {responsive: true});
+        }
+        
+        function createEconomicChart() {
+            const costPerCase = 17380; // USD
+            const cumulativeSavings = [];
+            let cumulative = 0;
+            
+            baselineData.status_quo.forEach((val, i) => {
+                const averted = val - customProjection[i];
+                cumulative += averted * costPerCase / 1000000; // Convert to millions
+                cumulativeSavings.push(cumulative);
+            });
+            
+            const trace = {
+                x: years,
+                y: cumulativeSavings,
+                mode: 'lines+markers',
+                fill: 'tozeroy',
+                fillcolor: 'rgba(102, 126, 234, 0.2)',
+                line: {color: '#667eea', width: 3},
+                marker: {size: 8}
+            };
+            
+            const layout = {
+                title: {
+                    text: 'Cumulative Economic Benefit (Million USD)',
+                    font: {size: 18, family: 'Segoe UI'}
+                },
+                xaxis: {title: 'Year', gridcolor: '#f0f0f0'},
+                yaxis: {title: 'Cumulative Savings ($M)', gridcolor: '#f0f0f0'},
+                plot_bgcolor: '#fafafa',
+                paper_bgcolor: 'white',
+                margin: {t: 60, r: 40, b: 60, l: 80}
+            };
+            
+            Plotly.newPlot('economic-chart', [trace], layout, {responsive: true});
+        }
+        
+        function updateParameters() {
+            const tpt = document.getElementById('tpt-coverage').value;
+            const acf = document.getElementById('acf-intensity').value;
+            const private_eng = document.getElementById('private-engagement').value;
+            const treatment = document.getElementById('treatment-success').value;
+            
+            // Update displays
+            document.getElementById('tpt-value').textContent = tpt + '%';
+            document.getElementById('acf-value').textContent = getACFLabel(acf);
+            document.getElementById('private-value').textContent = private_eng + '%';
+            document.getElementById('treatment-value').textContent = treatment + '%';
+            
+            // Calculate custom projection
+            const reductionRate = calculateReductionRate(tpt, acf, private_eng, treatment);
+            customProjection = baselineData.status_quo.map((val, i) => {
+                return val * Math.pow(1 + reductionRate, i);
+            });
+            
+            updateCharts();
+            updateMetrics();
+        }
+        
+        function calculateReductionRate(tpt, acf, private_eng, treatment) {
+            // Simplified model: higher interventions = more reduction
+            const tptEffect = (tpt - 15) / 100 * 0.03; // TPT baseline 15%, max effect 3%
+            const acfEffect = (acf - 20) / 100 * 0.02; // ACF baseline 20%, max effect 2%
+            const privateEffect = (private_eng - 30) / 100 * 0.015; // Private baseline 30%
+            const treatmentEffect = (treatment - 68) / 100 * 0.01; // Treatment baseline 68%
+            
+            return tptEffect + acfEffect + privateEffect + treatmentEffect;
+        }
+        
+        function getACFLabel(value) {
+            if (value < 33) return 'Low';
+            if (value < 67) return 'Medium';
+            return 'High';
+        }
+        
+        function updateCharts() {
+            createForecastChart();
+            createImpactChart();
+            createEconomicChart();
+        }
+        
+        function updateMetrics() {
+            const burden2030 = Math.round(customProjection[5]); // 2030 is index 5
+            const baseline2030 = baselineData.status_quo[5];
+            const averted = Math.round(baseline2030 - burden2030);
+            
+            const totalAverted = baselineData.status_quo.reduce((sum, val, i) => 
+                sum + (val - customProjection[i]), 0);
+            
+            const economicBenefit = Math.round(totalAverted * 17380 / 1000000); // Million USD
+            const investmentCost = 694; // Million USD (from economic analysis)
+            const roi = (economicBenefit / investmentCost).toFixed(1);
+            
+            document.getElementById('burden-2030').textContent = burden2030.toLocaleString();
+            document.getElementById('change-2030').textContent = 
+                averted > 0 ? `↓ ${averted.toLocaleString()} vs baseline` : `↑ ${Math.abs(averted).toLocaleString()} vs baseline`;
+            document.getElementById('change-2030').className = averted > 0 ? 'change positive' : 'change negative';
+            
+            document.getElementById('cases-averted').textContent = Math.round(totalAverted).toLocaleString();
+            document.getElementById('economic-benefit').textContent = `$${economicBenefit}M`;
+            document.getElementById('roi-estimate').textContent = `${roi}:1`;
+        }
+        
+        function loadScenario(scenario) {
+            currentScenario = scenario;
+            
+            // Update button states
+            document.querySelectorAll('.scenario-btn').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+            
+            // Set parameters based on scenario
+            if (scenario === 'status_quo') {
+                document.getElementById('tpt-coverage').value = 15;
+                document.getElementById('acf-intensity').value = 20;
+                document.getElementById('private-engagement').value = 30;
+                document.getElementById('treatment-success').value = 68;
+                customProjection = [...baselineData.status_quo];
+            } else if (scenario === 'optimistic') {
+                document.getElementById('tpt-coverage').value = 80;
+                document.getElementById('acf-intensity').value = 80;
+                document.getElementById('private-engagement').value = 70;
+                document.getElementById('treatment-success').value = 85;
+                customProjection = [...baselineData.optimistic];
+            } else if (scenario === 'pessimistic') {
+                document.getElementById('tpt-coverage').value = 10;
+                document.getElementById('acf-intensity').value = 10;
+                document.getElementById('private-engagement').value = 20;
+                document.getElementById('treatment-success').value = 60;
+                customProjection = [...baselineData.pessimistic];
+            }
+            
+            updateParameters();
+        }
+        
+        function resetToBaseline() {
+            loadScenario('status_quo');
+            document.querySelectorAll('.scenario-btn').forEach(btn => btn.classList.remove('active'));
+            document.querySelectorAll('.scenario-btn')[0].classList.add('active');
+        }
+        
+        function downloadScenario() {
+            const data = {
+                scenario: currentScenario,
+                parameters: {
+                    tpt_coverage: document.getElementById('tpt-coverage').value,
+                    acf_intensity: document.getElementById('acf-intensity').value,
+                    private_engagement: document.getElementById('private-engagement').value,
+                    treatment_success: document.getElementById('treatment-success').value
+                },
+                projections: customProjection,
+                years: years
+            };
+            
+            const blob = new Blob([JSON.stringify(data, null, 2)], {type: 'application/json'});
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `mdrtb_scenario_${currentScenario}_${new Date().toISOString().split('T')[0]}.json`;
+            a.click();
+        }
+        
+        // Initialize on load
+        window.onload = function() {
+            initializeCharts();
+            updateMetrics();
+        };
+    </script>
+</body>
+</html>

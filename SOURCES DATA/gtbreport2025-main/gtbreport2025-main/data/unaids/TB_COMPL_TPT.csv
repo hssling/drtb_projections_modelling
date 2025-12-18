@@ -1,0 +1,715 @@
+﻿COUNTRY_CODE,REGION_WHO,REGION_UNICEF,REGION_UNAIDS,COUNTRY_NAME,TIME_PERIOD,DATA_SOURCE,is_indicator_relevant,are_data_available,measurement_source,measurement_source_other,period_start_date,period_end_date,data_source_comment,data_comment,state,no_validation_comment_log,no_validation_warnings_list,comments,PERCENT-ALL,PERCENT-AGE_0_5,PERCENT-AGE_5_15,PERCENT-MALE_GTE_15,PERCENT-FEMALE_GTE_15,PERCENT-TRANSGENDER_GTE_15,NUMERATOR-ALL,NUMERATOR-AGE_0_5,NUMERATOR-AGE_5_15,NUMERATOR-MALE_GTE_15,NUMERATOR-FEMALE_GTE_15,NUMERATOR-TRANSGENDER_GTE_15,DENOMINATOR-ALL,DENOMINATOR-AGE_0_5,DENOMINATOR-AGE_5_15,DENOMINATOR-MALE_GTE_15,DENOMINATOR-FEMALE_GTE_15,DENOMINATOR-TRANSGENDER_GTE_15,REGIMEN_ADL-REGIMEN_6H,REGIMEN_ADL-REGIMEN_9H,REGIMEN_ADL-REGIMEN_4R,REGIMEN_ADL-REGIMEN_3HP,REGIMEN_ADL-REGIMEN_3HR,REGIMEN_ADL-REGIMEN_1HP,REGIMEN_ADL-REGIMEN_6L,REGIMEN_ADL-OTHER,REGIMEN_ADL_OTHER,REGIMEN_CHIL-REGIMEN_6H,REGIMEN_CHIL-REGIMEN_9H,REGIMEN_CHIL-REGIMEN_4R,REGIMEN_CHIL-REGIMEN_3HP,REGIMEN_CHIL-REGIMEN_3HR,REGIMEN_CHIL-REGIMEN_6L,REGIMEN_CHIL-OTHER,REGIMEN_CHIL_OTHER,include_in_csv_export
+AFG,Eastern Mediterranean,South Asia,Asia and the Pacific,Afghanistan,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+AUS,Western Pacific,,Asia and the Pacific,Australia,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+BGD,South-East Asia,South Asia,Asia and the Pacific,Bangladesh,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+BTN,South-East Asia,South Asia,Asia and the Pacific,Bhutan,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+BRN,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Brunei Darussalam,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+KHM,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Cambodia,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-03-24 15:32:42.065909
+No data available
+--------
+","Some values are missing. Please explain.
+MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR",,83.4,50,58.4,83.6,85.4,,4837,8,94,3038,1697,,5800,16,161,3636,1987,,1354,3343,31,7,,,,,,73,26,3,,,,,,Yes
+CHN,Western Pacific,East Asia and the Pacific,Asia and the Pacific,China,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+COK,Western Pacific,,Asia and the Pacific,Cook Islands,2024,GARPR,No,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+PRK,South-East Asia,East Asia and the Pacific,Asia and the Pacific,Democratic People's Republic of Korea,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+FJI,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Fiji,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+IND,South-East Asia,South Asia,Asia and the Pacific,India,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+IDN,South-East Asia,East Asia and the Pacific,Asia and the Pacific,Indonesia,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-05-30 09:58:31.244908
+only total number is available.
+--------
+Date: 2025-03-25 02:38:38.559292
+only total number is available.
+--------
+","The age disaggregation does not add up to the total.
+Some values are missing. Please explain.
+MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The denominator [11430] differs from the number of people reported last year to have started TB preventive treatment in 2023 [2847]. These two numbers should be the same. Please verify or provide an explanation for this difference.
+
+Endang Lukitosari (MINISTRY) said on 30/05/25 at 07:58: As previously explained, in 2024 there was a transition in the method of recording and reporting—from using Excel-based (aggregate data) reporting to utilizing the SIHA 2.1 information system (individual data). This shift has resulted in discrepancies in the 2023 figures, both in the data that was previously reported in the 2023 GAM and the data retrieved in 2024 for the year 2023 using SIHA 2.1.
+
+If we compare the same indicator previously reported in the 2023 GAM with the 2023 data generated using SIHA 2.1 in 2024, we can observe a discrepancy in the figures—from 2,847 to 4,106—for the indicator “Total number of people living with HIV newly enrolled on antiretroviral therapy who also started tuberculosis preventive treatment during the same reporting period” for the same year, 2023. 
+
+If we make the same comparison for the indicator ""Total number of people living with HIV currently enrolled on antiretroviral therapy who started tuberculosis preventive treatment during the reporting period,"" there is a decrease from the previously reported 11,430 to 8,838. This suggests that some of the data previously reported were not migrated into the individual-based SIHA 2.1 system. 
+
+If we look at the numbers for TPT therapy completion, there are two versions that can be generated: 7006 (SIHA 2.1) /11430 (Excel based) and 7006/8838 (all SIHA 2.1). For this indicator we prefer to report 7006 (SIHA 2.1) /11430 (Excel based).
+
+",61.3,,,,,,7006,,,,,,11430,,,,,,,,,,,,,,,,,,,,,,,Yes
+IRN,Eastern Mediterranean,Middle East and North Africa,Asia and the Pacific,Iran (Islamic Republic of),2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-04-01 01:52:31.594212
+Data for missing boxes is not available. 
+--------
+","Some values are missing. Please explain.
+MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The denominator [327] differs from the number of people reported last year to have started TB preventive treatment in 2023 [207]. These two numbers should be the same. Please verify or provide an explanation for this difference.
+
+Behnam Farhoudi (OTHER) said on 31/05/25 at 20:38: Thanks for your comment. The changes are due to improved documentation and reporting. Then, the correct figure is the number that reported this year.
+
+Behnam Farhoudi (OTHER) said on 02/06/25 at 19:40: I mean the figure is corrected for 2023 in the current report.
+
+",81.7,0,100,76.6,94.3,,267,0,4,180,83,,327,0,4,235,88,,,323,,,,,,,,,4,,,,,,,Yes
+JPN,Western Pacific,,Asia and the Pacific,Japan,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+KIR,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Kiribati,2024,GARPR,No,No,,,,,"No one started TB preventive treatment in 2024, because of that the indicator is considered not relevant for this reporting round.",,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+LAO,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Lao People's Democratic Republic,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2023-01-01,2024-12-01,,,published,"Date: 2025-05-23 05:23:33.353575
+Data from DHIS2
+--------
+Date: 2025-03-30 10:23:42.759890
+Data from DHIS2
+--------
+Date: 2025-03-29 15:00:56.235943
+Data from DHIS2
+--------
+","The numerator and denominator do not correspond to its percentage.
+The age disaggregation does not add up to the total.
+Some values are missing. Please explain.
+MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The denominator [1149] differs from the number of people reported last year to have started TB preventive treatment in 2023 [2044]. These two numbers should be the same. Please verify or provide an explanation for this difference.
+
+Lattanavanh SADETTANH (MINISTRY) said on 23/05/25 at 03:23: Corrected. We do not have disaggregated data for Male15+ and female 15+.
+
+",53.8,60,31.3,,,,1099,3,5,,,,2044,5,16,,,,,,,,,,,,,,,,,,,,,Yes
+MYS,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Malaysia,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+MDV,South-East Asia,South Asia,Asia and the Pacific,Maldives,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Yes
+MHL,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Marshall Islands,2024,GARPR,No,No,,,,,"None started TPT in 2024, hence, the indicator is considered Not relevant.",,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+FSM,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Micronesia (Federated States of),-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+MNG,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Mongolia,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,routine data of NCCD,2024-01-01,2024-12-31,,,published,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,,,,,,,,,,Yes
+MMR,South-East Asia,East Asia and the Pacific,Asia and the Pacific,Myanmar,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-05-29 08:16:29.257061
+The country's current national reporting cannot provide further dis-aggregated data.
+--------
+Date: 2025-05-07 06:34:21.325967
+The country's current national reporting cannot provide further dis-aggregated data.
+--------
+","The age disaggregation does not add up to the total.
+Some values are missing. Please explain.
+MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The denominator [17779] differs from the number of people reported last year to have started TB preventive treatment in 2023 [24597]. These numbers should be the same. Please verify or provide an explanation for this difference.
+
+Than Than Lwin (MINISTRY) said on 29/05/25 at 06:16: 2023 TPT initiation figure for TPT outcome indicator can be discrepant as the reporting sites decreased.
+
+",95.4,,,,,,16956,,,,,,17779,,,,,,,,,,,,,,,,,,,,,,,Yes
+NRU,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Nauru,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+NPL,South-East Asia,South Asia,Asia and the Pacific,Nepal,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-03-27 08:15:01.621614
+The reason behind decrease in reported data this year as compared to previous is due to non-availability of TPT medicines.
+--------
+Date: 2025-03-26 08:32:37.701628
+NA
+--------
+Date: 2025-03-26 08:32:33.743558
+NA
+--------
+Date: 2025-03-26 08:31:47.642134
+NA
+--------
+",MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The denominator [135] differs from the number of people reported last year to have started TB preventive treatment in 2023 [5]. These numbers should be the same. Please verify or provide an explanation for this difference.
+
+NCASC NCASC (MINISTRY) said on 02/06/25 at 08:22: The data provided for the 2023 reporting is actually from 2022 and therefore does not correspond with the 2024 reporting.
+
+",29.6,50,44.4,33.3,21.8,0,40,1,4,23,12,0,135,2,9,69,55,0,,,,,,,,,,,,,,,,,,No
+NZL,Western Pacific,,Asia and the Pacific,New Zealand,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+NIU,,,Asia and the Pacific,Niue,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+PAK,Eastern Mediterranean,South Asia,Asia and the Pacific,Pakistan,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+PLW,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Palau,2024,GARPR,No,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+PNG,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Papua New Guinea,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-05-21 21:15:20.798012
+TG Disaggregation not available
+--------
+Date: 2025-03-30 01:39:35.656067
+TG Disaggregation not available
+--------
+","Some values are missing. Please explain.
+MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The denominator [13698] differs from the number of people reported last year to have started TB preventive treatment in 2023 [1154]. These numbers should be the same. Please verify or provide an explanation for this difference.
+
+Namarola Lote (WHO) said on 21/05/25 at 19:15: The national program scaled up its case based reporting to cover more than 80% nationally in 2024.
+
+",76.3,83.9,98.1,78,74.3,,10450,203,258,3907,6082,,13698,242,263,5012,8181,,,,,,,,,,,,,,,,,,,Yes
+PHL,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Philippines,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+KOR,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Republic of Korea,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+WSM,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Samoa,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+SGP,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Singapore,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),NCID HIV Database,2024-01-01,2024-12-31,"This data is from NCID HIV Programme Database which only accounts for HIV diagnosed patients of age 15 and above presenting at the National Centre for Infectious Diseases (NCID) and Tan Tock Seng Hospital (TTSH) Infectious Diseases clinics, which covers about 60-70% of HIV cases in Singapore. 
+The data does not cover patients seen at other healthcare institutions. 
+
+RECRUITMENT/SCREENING CRITERIA
+1. Only patients who have clinic visit to NCID/TTSH Infectious Diseases starting from 2006 onwards; 
+2. HIV-positive patients 
+3. At least one time outpatient clinic visit
+*Note: Added the list of new foreigners cases starting from January 2017 onwards 
+
+EXCLUSION CRITERIA 
+- Only inpatient cases 
+- GRT/Eye referral patients from other hospitals
+- Foreigners whose first clinic visit earlier than 2017",,published,"Date: 2025-04-10 06:34:52.914717
+Please clarify the requirements of the error message.
+--------
+",MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR,,100,0,0,100,100,0,5,0,0,3,2,0,5,0,0,3,2,0,,,,,,,,,,,,,,,,,,Yes
+SLB,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Solomon Islands,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,Nil,2024-01-01,2024-12-31,Nil,,published,"Date: 2025-05-14 14:46:03.910028
+The value was 0! (denominator) 
+--------
+Date: 2025-04-08 08:42:49.653667
+The value was 0! (denominator) 
+--------
+Date: 2025-04-08 08:42:08.559103
+The value was 0! (denominator)
+--------
+",Some values are missing. Please explain.,,80,,,80,,,4,0,0,4,0,0,5,0,0,5,0,0,4,0,0,0,0,0,0,0,,,,,,,,,,Yes
+LKA,South-East Asia,South Asia,Asia and the Pacific,Sri Lanka,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+THA,South-East Asia,East Asia and the Pacific,Asia and the Pacific,Thailand,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),TPT-HIV report by Division of AIDS and STIs (http://tpthiv.ddc.moph.go.th/),2023-10-01,2024-09-30,The data in the table is sourced from http://tpthiv.ddc.moph.go.th/ and categorized by age groups: < 15 years and 15 years and above.,,published,"Date: 2025-05-29 11:15:59.142882
+Last year, the percentage of people living with HIV on ART who completed a course of TB preventive treatment among those who initiated TPT was 81.0% (1336/1649). This year, it is 90.1% (1535/1704), showing an increase of 11.24% compared to last year.
+--------
+Date: 2025-03-31 06:20:56.128659
+Last year, the percentage of people living with HIV on ART who completed a course of TB preventive treatment among those who initiated TPT was 81.0% (1336/1649). This year, it is 90.1% (1535/1704), showing an increase of 11.24% compared to last year.
+--------
+",MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The denominator [1704] differs from the number of people reported last year to have started TB preventive treatment in 2023 [944]. These numbers should be the same. Please verify or provide an explanation for this difference.
+
+naruemon tripetchsriu-rai (MINISTRY) said on 29/05/25 at 09:15: Due to the increasing number of reports entering the TPTHIV program, the data retrieved at different times may have differed.
+
+",90.1,0,72.7,90.4,89.6,0,1535,0,8,1077,450,0,1704,0,11,1191,502,0,,24,,1457,,192,,20,Unable to specify.,,,,5,,,3,"1HP = 3,  unable to specify = 3",Yes
+TLS,South-East Asia,East Asia and the Pacific,Asia and the Pacific,Timor-Leste,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+TON,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Tonga,2024,GARPR,No,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+TUV,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Tuvalu,2024,GARPR,No,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+VUT,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Vanuatu,2024,GARPR,No,No,,,,,"Because none of ART patients started TPT, this indicator is considered Not relevant.",,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+VNM,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Viet Nam,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+ATG,America,Latin America and the Caribbean,Caribbean,Antigua and Barbuda,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-03-31,,,published,"Date: 2025-03-10 17:40:11.623082
+To be updated
+
+--------
+",Some values are missing. Please explain.,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,Yes
+BHS,America,Latin America and the Caribbean,Caribbean,Bahamas,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+BRB,America,Latin America and the Caribbean,Caribbean,Barbados,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+BLZ,America,Latin America and the Caribbean,Caribbean,Belize,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+CUB,America,Latin America and the Caribbean,Caribbean,Cuba,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),Registro informatizado de personas que viven con VIH,2023-01-01,2024-12-31,cohorte de 2023-2024,Las trans fueron separadas del dato de hombres,published,"Date: 2025-03-27 21:23:39.108696
+No sabemos cual es el error, todos los datos están incluidos en el periodo enero 2023-diciembre 2024. Las sumas de los datos coinciden
+--------
+Date: 2025-03-27 21:19:32.005761
+No sabemos cual es el error, todos 
+--------
+",MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: El número de personas reportadas como habiendo completado el tratamiento preventivo contra la tuberculosis [2367] es mayor al número de personas reportadas el año pasado que habían iniciado el tratamiento preventivo contra la tuberculosis en 2023 [1795]. Por favor, verificar.
+
+Jose Joaquin Joanes fiol (MINISTRY) said on 26/05/25 at 22:24: Se han hecho reparos con datos de personas que si habían hecho el ciclo pero no habían sido introducidas en el registro. El Registro informatizado de personas que viven con VIH no es un registro estático sino es un registro dinámico que permite introducción de datos que en el pasado se han obviado. Actualmente dicho registro se ha actualizado introduciéndole nuevas consultas y se ha renombrado Medisys.
+
+",67.9,100,50,67.2,70.7,67.7,2367,1,3,1805,495,63,3485,1,6,2685,700,93,1027,1,0,2458,0,0,0,0,,7,0,0,0,0,0,0,,Yes
+DMA,America,Latin America and the Caribbean,Caribbean,Dominica,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),IDC Clinical Records,2024-01-01,2024-12-31,,,published,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Yes
+DOM,America,Latin America and the Caribbean,Caribbean,Dominican Republic,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+GRD,America,Latin America and the Caribbean,Caribbean,Grenada,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+GUY,America,Latin America and the Caribbean,Caribbean,Guyana,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+HTI,America,Latin America and the Caribbean,Caribbean,Haiti,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+JAM,America,Latin America and the Caribbean,Caribbean,Jamaica,2024,GARPR,No,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+KNA,America,Latin America and the Caribbean,Caribbean,Saint Kitts and Nevis,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+LCA,America,Latin America and the Caribbean,Caribbean,Saint Lucia,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+VCT,America,Latin America and the Caribbean,Caribbean,Saint Vincent and the Grenadines,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+SUR,America,Latin America and the Caribbean,Caribbean,Suriname,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+TTO,America,Latin America and the Caribbean,Caribbean,Trinidad and Tobago,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,"Data emanated from the LTBI Registers at Chest Clinics, DOTS and Prison facilities.",,published,"Date: 2025-04-17 17:26:36.614350
+Thank you for the message however, it is not clear to what the message refers. It was noted by the National TB programme that of the 25 persons who initiated any course of TB preventive treatment [6 months of daily isonaiazid monotherapy (6H)] during 2023, there were 18 persons on antiretroviral therapy who completed TB preventitive treatment .
+--------
+",MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR,,72,0,0,60,90,0,18,0,0,9,9,0,25,0,0,15,10,0,25,0,0,0,0,0,0,0,,,,,,,,,,Yes
+ALB,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Albania,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+ARM,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Armenia,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+AZE,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Azerbaijan,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,rev_commented,"Date: 2025-03-18 08:55:30.756367
+.
+--------
+",MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people reported last year to have started TB preventive treatment among all people on ART [1349] is greater than the denominator reported for this indicator [838]. These two numbers should be the same. Please verify or provide an explanation for this.
+
+",60.9,100,50,59,64.8,0,510,3,2,343,162,0,838,3,4,581,250,0,831,,,,,,,,6H,7,,,,,,,6H,Yes
+BLR,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Belarus,2024,GARPR,Yes,No,,,,,Отчетность Министерства здравоохранения Республики Беларусь,,published,"Date: 2025-05-31 19:12:42.201808
+1
+--------
+Date: 2025-03-25 20:28:53.873419
+1
+--------
+","Некоторые значения отсутствуют. Пожалуйста, объясните.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The denominator [925] is greater than the number reported last year of people to have started TB preventive treatment in 2023 [450]. These numbers should be the same. Please verify or provide an explanation.
+
+Инна Карабан (MINISTRY) said on 30/05/25 at 13:03: Данные уточняются
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+BIH,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Bosnia and Herzegovina,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+GEO,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Georgia,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+KAZ,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Kazakhstan,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),"Информационная система ""Электронное слежение за случаями ВИЧ-инфекции""",2024-01-01,2024-12-31,,,published,"Date: 2025-05-20 05:39:50.104655
+данные верны, комментарии дополнены
+--------
+Date: 2025-03-28 12:49:04.312886
+данные верны
+--------
+",MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The denominator [2580] differs from the number of people reported last year to have started TB preventive treatment in 2023 [2386]. These two numbers should be the same. Please verify or provide an explanation for this difference.
+
+Sairankul Kassymbekova (MINISTRY) said on 20/05/25 at 03:39: данные дополнены числом пациентов, которые на момент предоставления отчета по итогам 2023 года не имели информацию о получении профилактического лечения ТБ. В 2024 году при поиске информации о получении медицинских услуг в других медицинских оргнизациях (помимо центров по профилактике ВИЧ-инфекции), была получена информация о начале профилактического лечения ТБ в поликлинике (ПМСП).
+
+",99.3,100,100,99.4,99,100,2561,10,2,1726,822,1,2580,10,2,1737,830,1,2549,,,,,,,,,12,,,,,,,,Yes
+KGZ,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Kyrgyzstan,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),Система электронного слежения за случаями ВИЧ-инфекции в КР,2024-01-01,2024-12-31,,,published,"Date: 2025-05-29 07:22:07.368422
+Проценты высчитываются автоматически.
+--------
+Date: 2025-03-18 08:52:34.464277
+Проценты высчитываются автоматически.
+--------
+",MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The denominator [508] differs from the number of people reported last year to have started TB preventive treatment in 2023 [486]. These two numbers should be the same. Please verify or provide an explanation for this difference.
+
+Айгуль Солпуева (OTHER) said on 29/05/25 at 05:22: Данные исправлены.
+
+",85.2,100,100,76.8,100,0,414,1,2,239,172,0,486,1,2,311,172,0,,,,483,,,,,,3,,,,,,,,Yes
+MNE,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Montenegro,2024,GARPR,No,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+MKD,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,North Macedonia,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+MDA,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Republic of Moldova,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,Журналы учета больных туберкулезом,2024-01-01,2024-12-31,,,published,"Date: 2025-04-04 17:43:20.814933
+Ошибка не понятна
+--------
+",MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR,,99.7,0,0,99.4,100,0,288,0,0,167,121,0,289,0,0,168,121,0,289,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Yes
+RUS,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Russian Federation,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+TJK,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Tajikistan,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),Данные национальной программы. Система электронного слежения за случаями ВИЧ-инфекции.,2024-01-01,2024-12-31,,,published,"Date: 2025-03-19 18:25:19.331835
+........
+--------
+",MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The denominator [1557] differs from the number of people reported last year to have started TB preventive treatment in 2023 [939]. These numbers should be the same. Please verify or provide an explanation for this difference.
+
+",94.4,75,94.1,94.1,95.4,0,1470,12,64,792,602,0,1557,16,68,842,631,0,496,0,0,1045,0,0,0,0,,16,0,0,0,0,0,0,,Yes
+TKM,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Turkmenistan,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+UKR,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Ukraine,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),"Information system ""Monitoring of Socially Significant Diseases"". Data provided by the Public Health Center of the MOH of Ukraine.",2024-01-01,2024-12-31,For denominator: Number of people on antiretroviral therapy who initiated any course of TB preventive treatment during the 2023 year.,,published,"Date: 2025-03-21 08:55:26.043651
+There are no registered cases of TB prevention among transgender people.
+--------
+","Some values are missing. Please explain.
+MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The denominator [11515] differs from the number of people reported last year to have started TB preventive treatment in 2023 [11241]. These numbers should be the same. Please verify or provide an explanation for this difference.
+
+Zhanna Antonenko (OTHER) said on 19/05/25 at 16:30: Yes, that's correct. There are some discrepancies in the data. The data source for the indicator is the Information system ""Monitoring of Socially Significant Diseases"" (IS MSSD). Considering that people living with HIV are generally involved in migration processes due to a large-scale humanitarian crisis in Ukraine, there have been changes in patient databases IS MSSD. According to the available data, we reported the exact number of PLHIV with relevant information about starting TPT in 2023 (11515).
+
+",76.8,87.5,94.7,76.2,77.7,,8847,14,18,5479,3336,,11515,16,19,7186,4294,,,,,,,,,,,,,,,,,,,Yes
+UZB,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Uzbekistan,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+AGO,Africa,Sub-Saharan Africa,Eastern and southern Africa,Angola,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,"Para o TPT, a fonte DHIS2 fornece o total de pacientes que conlcuiram o TPT (138059) entre todos os que estão em tratamento com ARV, no entanto nao por desagregacao por sexo e faixa etaria.",edit,"Date: 2025-05-20 15:21:43.833666
+Para o TPT, os modelos de recolha e o sistema fornecem o total de pacientes que conlcuiram o TPT (138059) entre todos os que estão em tratamento com ARV, no entanto nao por desagregacao por sexo e faixa etaria. 
+Diferente com relação a informação dos que iniciaram TPT, que só temos para os pacientes que iniciaram tratamento ARV.
+
+--------
+Date: 2025-03-28 14:13:24.194509
+Para o TPT, os modelos de recolha e o sistema fornecem o total de pacientes que conlcuiram o TPT (138059) entre todos os que estão em tratamento com ARV, no entanto nao por desagregacao por sexo e faixa etaria. 
+Diferente com relação a informação dos que iniciaram TPT, que só temos para os pacientes que iniciaram tratamento ARV.
+
+--------
+","The age disaggregation does not add up to the total.
+Faltan algunos valores. Por favor, explícalo.
+MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people reported to have completed TB preventive treatment [138059] is greater than the number of people reported last year to have started TPT in 2023 [20998]. Please verify.
+
+Maria do Rosário Cardoso Marques (MINISTRY) said on 20/05/25 at 13:21: This is because:
+1. Some of those who completed the therapy in 2024 had already started in 2023
+2. Many of those who started in 2023 (or 2022) had ""dropouts"" during the therapy period and then started again, thus not finishing within the expected six-month period
+3. A large number of patients who completed the therapy may be reflecting a certain improvement in patient registration and follow-up
+
+",,,,,,,138059,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+BWA,Africa,Sub-Saharan Africa,Eastern and southern Africa,Botswana,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,DHIS2,2024-01-01,2024-12-31,,,published,"Date: 2025-03-06 06:45:22.094273
+To review the data.
+--------
+Date: 2025-03-05 07:48:36.820041
+To review
+--------
+Date: 2025-03-05 07:44:41.478193
+To review
+--------
+",MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The denominator reported [32571] is different from the number reported last year to have started TB preventive treatment in 2023 [32332]. These numbers should be the same. Also, the denominator reported for this indicator last year is the same as that reported this year. Please verify or provide an explanation.
+
+",94.7,100,72.7,94.1,95.0,0,30831,5,40,10506,20280,0,32571,5,55,11165,21346,0,0,0,0,32539,0,0,0,0,0,32,0,0,0,0,0,0,0,Yes
+COM,Africa,Sub-Saharan Africa,Eastern and southern Africa,Comoros,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+ERI,Africa,Sub-Saharan Africa,Eastern and southern Africa,Eritrea,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+SWZ,Africa,Sub-Saharan Africa,Eastern and southern Africa,Eswatini,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,Client Management Information System (CMIS),2024-01-01,2024-12-31,,,published,"Date: 2025-05-27 12:27:55.207688
+No Dissaggregation
+--------
+","Some values are missing. Please explain.
+MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: Last year it was reported [155032] people living with HIV on ART completed TB preventive treatment. Please verify if data are available for this reporting period.
+
+Bongani Dube (OTHER) said on 27/05/25 at 10:26: New data entered
+
+",84.2,65.6,79.8,84.6,84.1,,164698,181,2635,56154,105728,,195635,276,3304,66348,125707,,,,,,,,,,,,,,,,,,,No
+ETH,Africa,Sub-Saharan Africa,Eastern and southern Africa,Ethiopia,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2023-07-01,2024-06-30,,,published,"Date: 2025-03-25 23:16:34.380075
+NA
+--------
+","The numerator and denominator do not correspond to its percentage.
+The age disaggregation does not add up to the total.
+MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The denominator [52797] differs from the number of people reported last year to have started TB preventive treatment in 2023 [25937]. These two numbers should be the same. Please verify or provide an explanation for this difference.
+
+Mirtie Meselu (MINISTRY) said on 27/05/25 at 08:51: Modifications has been made based on recent data revisions. Data updated for 2023. The following are justifications for % >100:
+- Due to conflict/limited access, there was no report (DHIS2 was not functional) from Tigray region in 2023 
+ - In  2023, there was under reporting  of TPT initiation from some conflicted affected regions 
+In 2024, these regions have reported TPT completion, which resulted in over 100% TPT completion.
+
+",83.4,0,0,0,0,0,44272,0,0,0,0,0,52797,0,0,0,0,0,,,,,,,,,,0,0,0,0,0,0,0,0,Yes
+KEN,Africa,Sub-Saharan Africa,Eastern and southern Africa,Kenya,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,"National data repository (KHIS)
+National TB System (TIBU)",2024-01-01,2024-12-31,,,published,"Date: 2025-03-31 21:37:51.407927
+Pending update of correct data upon access to the national repository
+--------
+",Some values are missing. Please explain.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: Last year it was reported [90700] people living with HIV on ART completed TB preventive treatment. Please verify if data are available for this reporting period.
+
+JOSHUA M'IMAITA (MINISTRY) said on 21/05/25 at 13:05: Awaiting data confirmation by the National TB program and NASCOP
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+LSO,Africa,Sub-Saharan Africa,Eastern and southern Africa,Lesotho,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+MDG,Africa,Sub-Saharan Africa,Eastern and southern Africa,Madagascar,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+MWI,Africa,Sub-Saharan Africa,Eastern and southern Africa,Malawi,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+MUS,Africa,Sub-Saharan Africa,Eastern and southern Africa,Mauritius,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+MOZ,Africa,Sub-Saharan Africa,Eastern and southern Africa,Mozambique,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),Based on MER TB_PREV,2023-10-01,2024-09-30,,,published,"Date: 2025-04-25 12:20:25.801241
+Not available data
+--------
+Date: 2025-04-25 12:20:05.663491
+Not available data
+--------
+","The age disaggregation does not add up to the total.
+Some values are missing. Please explain.
+MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The denominator [233347] differs from the number of people reported last year to have started TB preventive treatment in 2023 [287581]. These two numbers should be the same. Please verify or provide an explanation for this difference.
+
+Orrin Tiberi (MINISTRY) said on 21/05/25 at 15:25: Thank you for your comment.  The data reported for this indicator comes from PEPFAR, which is only reporting on approximately 85% of the PLHIV on ART.  The difference between the two numbers if approximately 12%, which would mean the data reported here represent 88% of the data reported from 2023, aligning with the overall coverage of PEPFAR sites reporting when compared to the MoH total.
+
+",87.6,,84.3,88.8,87.1,,204404,,8439,74976,120988,,233347,,10006,84416,138924,,,,,,,,,,,,,,,,,,,Yes
+NAM,Africa,Sub-Saharan Africa,Eastern and southern Africa,Namibia,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-03-24 09:27:17.386219
+The data of transgender on ART is not available.
+--------
+","Some values are missing. Please explain.
+MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The denominator [7413] differs from the number of people reported last year to have started TB preventive treatment in 2023 [7841]. These numbers should be the same. Please verify or provide an explanation for this difference.
+
+Udeilange Kornelius (MINISTRY) said on 21/05/25 at 12:35: Some patients who initiated TPT last year (7841) are no longer on Treatment. Meaning they are no longer active on treatment
+
+",93.1,93.5,94.9,93.4,92.8,,6899,130,168,2396,4205,,7413,139,177,2565,4532,,1996,17,,5084,,,,,,186,0,,127,,,,,Yes
+RWA,Africa,Sub-Saharan Africa,Eastern and southern Africa,Rwanda,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),RHMIS,2024-01-01,2024-12-31,,,published,,,,96.5,90.5,95.2,97.5,96.1,0,23133,19,842,8388,13884,0,23961,21,884,8602,14454,0,,,,,,,,,,,,,,,,,,Yes
+SYC,Africa,Sub-Saharan Africa,Eastern and southern Africa,Seychelles,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,"Compared to 2020 -7 total clients started on ART and TPT all clients completed their courses. 
+0 cases was reported completing TPT on ART in 2023.
+1 client on ART reported as a contact tracing, Mantoux result was negative as per medical officer TPT was not initiated.",,published,"Date: 2025-03-25 11:52:58.071892
+2020-7 total clients started on TPT on ART all clients completed their courses. 0 cases was reported completing/initiating TPT on ART in 2023. 1 client on ART reported on ART reported as a contact tracing from a TB patient , his Mantoux test result was negative.
+--------
+","Some values are missing. Please explain.
+MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: Last year it was reported [4] people living with HIV on ART completed TB preventive treatment. Please verify if data are available for this reporting period.
+
+",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,,,,,,,,,0,,,,,,,,Yes
+ZAF,Africa,Sub-Saharan Africa,Eastern and southern Africa,South Africa,2024,GARPR,Yes,No,,,,,,,published,,,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: Last year it was reported [226722] people living with HIV on ART completed TB preventive treatment. Please verify if data are available for this reporting period.
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+SSD,Africa,Sub-Saharan Africa,Eastern and southern Africa,South Sudan,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+UGA,Africa,Sub-Saharan Africa,Eastern and southern Africa,Uganda,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-05-30 17:55:51.489370
+Data not available
+--------
+Date: 2025-03-10 17:05:24.517032
+Data not available
+--------
+","Some values are missing. Please explain.
+MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The denominator [115110] differs from the number of people reported last year to have started TB preventive treatment in 2023 [9070]. These numbers should be the same. Please verify or provide an explanation for this difference.
+
+Charles Otai (OTHER) said on 30/05/25 at 15:55: This can be attributed to data cleaning and updates over the period
+
+",99.5,98.6,99.4,99.3,99.6,,114533,1839,3790,42023,66881,,115110,1866,3811,42309,67124,,109433,,,,,,,,,5677,,,,,,,,Yes
+TZA,Africa,Sub-Saharan Africa,Eastern and southern Africa,United Republic of Tanzania,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),HMIS,2024-01-01,2024-12-31,,,published,"Date: 2025-05-21 14:05:09.164518
+Data not available by age-band
+--------
+Date: 2025-05-20 15:20:53.137255
+Data not available by age-band
+--------
+Date: 2025-03-20 10:57:55.988409
+Data not available by age-band
+--------
+Date: 2025-03-20 09:22:53.763203
+Data not available by age-band
+--------
+Date: 2025-03-20 09:20:56.432872
+Data not available by age-band
+--------
+Date: 2025-03-20 09:20:19.068088
+Data not available by age-band
+--------
+","The age disaggregation does not add up to the total.
+Some values are missing. Please explain.
+MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The denominator [139981] differs from the number of people reported last year to have started TB preventive treatment in 2023 [174038]. These numbers should be the same. Please verify or provide an explanation for this difference.
+
+Mohamed Turay (UNAIDS) said on 20/05/25 at 13:20: This figure according to the MOH is correct. Last year was not 174038. IT was lower (70,300)
+
+",83,,,,,,116185,,,,,,139981,,,,,,,,,,,,,,,,,,,,,,,Yes
+ZMB,Africa,Sub-Saharan Africa,Eastern and southern Africa,Zambia,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),TB Preventive Therapy (TPT) Register,2024-01-01,2024-12-31,,,published,"Date: 2025-05-28 10:52:57.133758
+The current aggregation reporting forms (data collection tools) do not disaggregate the outcomes for clients enrolled on TPT by age and regimen type, except patient gender/sex. Additionally, the data provided is for 21 percent of facilities providing TPT
+--------
+Date: 2025-03-28 13:51:24.384412
+The current aggregation reporting forms (data collection tools) do not disaggregate the outcomes for clients enrolled on TPT by age and regimen type, except patient gender/sex. Additionally, the data provided is for 21 percent of facilities providing TPT
+--------
+Date: 2025-03-28 11:29:00.627044
+The current aggregation reporting forms (data collection tools) do not disaggregate the outcomes for clients enrolled on TPT by age and regimen type, except patient gender/sex. Additionally, the data provided is for 21 percent of facilities providing TPT
+--------
+","The age disaggregation does not add up to the total.
+Some values are missing. Please explain.
+MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The denominator [114688] differs from the number of people reported last year to have started TB preventive treatment in 2023 [181529]. These numbers should be the same. Please verify or provide an explanation for this difference.
+
+Nyewani Soko (OTHER) said on 28/05/25 at 08:52: Please note that the data reported for TPT completion is not incomplete; as some provinces did not report for the period, hence the difference.
+
+",99.1,,,,,,113700,,,,,,114688,,,,,,,,,,,,,,,,,,,,,,,Yes
+ZWE,Africa,Sub-Saharan Africa,Eastern and southern Africa,Zimbabwe,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),TPT Registers,2024-01-01,2024-12-31,,,published,"Date: 2025-03-12 15:11:11.635273
+correct data
+--------
+","Some values are missing. Please explain.
+MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR",,97.4,77.7,91.5,98.9,96.9,,217981,567,5182,81075,131157,0,223732,730,5664,82018,135320,0,,,,,,,,,,,,,,,,,,Yes
+ARG,America,Latin America and the Caribbean,Latin America,Argentina,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+BOL,America,Latin America and the Caribbean,Latin America,Bolivia (Plurinational State of),2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+BRA,America,Latin America and the Caribbean,Latin America,Brazil,2024,GARPR,Yes,No,,,,,"Based on our information systems, we cannot know the number of people on antiretroviral therapy who have taken preventive treatment for tuberculosis.",,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+CHL,America,Latin America and the Caribbean,Latin America,Chile,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,Los datos consideran solo sistema publico,2024-01-01,2024-12-31,,,published,"Date: 2025-06-02 16:28:28.209448
+no se detecta el error
+--------
+Date: 2025-06-02 16:27:44.699523
+no se detecta el error
+--------
+Date: 2025-04-09 21:41:57.014306
+no se detecta el error
+--------
+",MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: El denominador [94] difiere del número de personas reportadas el año pasado que iniciaron el tratamiento preventivo contra la tuberculosis en 2023 [113]. Estos números deberían ser los mismos. Agradecemos puedan verificar o brindar una explicación para esta diferencia.
+
+Carolina Peredo (MINISTRY) said on 02/06/25 at 14:28: Se revisa y corrige el dato
+
+",36.3,0,0,35.6,38.5,0,41,0,0,31,10,0,113,0,0,87,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Yes
+COL,America,Latin America and the Caribbean,Latin America,Colombia,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,La información reportada corresponde al registro de las atenciones ofrecidas a las personas que viven con VIH consolidado por la Cuenta de Alto Costo (CAC). La última información disponible corresponde al periodo 01/02/2023 al 31/01/2024.,2023-02-01,2024-01-31,,,published,"Date: 2025-05-31 20:30:56.831873
+No se cuenta con las desagregaciones.
+--------
+Date: 2025-04-11 05:33:32.648092
+No se cuenta aún con los datos de cuantas personas completaron la terapia preventiva para tuberculosis.
+--------
+Date: 2025-04-09 17:29:43.942952
+No se cuenta aún con los datos de cuantas personas completaron la terapia preventiva para tuberculosis.
+--------
+Date: 2025-03-29 11:56:55.245616
+.
+--------
+","The age disaggregation does not add up to the total.
+Faltan algunos valores. Por favor, explícalo.
+MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: El año pasado se reportó que [1385] personas que vivían con el VIH y estaban en tratamiento antirretroviral completaron el tratamiento preventivo contra la tuberculosis. Por favor, verifique si hay datos disponibles para este período de reporte. El denominador [2674] difiere del número de personas reportadas el año pasado que habían iniciado el tratamiento preventivo contra la tuberculosis en 2023 [2329]. Agradecemos puedan verificar o brindar una explicación para esta diferencia.
+
+Ricardo Luque Núñez (MINISTRY) said on 31/05/25 at 18:30: La información de personas que viven con VIH, reciben terapia antirretroviral y completan un ciclo de tratamiento preventivo contra la tuberculosis se toma del informe de la Cuenta de Alto Costo, que es la fuente de información donde podemos identificar las personas que cumplen con estas 3 condiciones. La información a la Cuenta de Alto Costo se envía cuando se ha cumplido el período de reporte, es decir, del año completo. El último informe disponible corresponde al período 1 de febrero de 2023 a 31 de enero de 2024 (fundamentalmente año 2023). 
+
+Revisando el informe final publicado (los datos antes reportados eran preliminares), para el período en mención (1 de febrero de 2023 al 31 de enero de 2024) 1.635 personas habían recibido tratamiento para TB latente con isoniacida, 132 lo recibieron con isoniacida/rifapentina, 1024 estaban aún es tratamiento con isoniacida y 77 estaban en tratamiento con isoniacida/rifapentina, lo que daría un denominador de 2.868 personas para el período en mención. Desafortunadamente para estos reportados hoy no contamos con las desagregaciones de edad y género 
+
+Consideramos que reportarlo de esta manera, puede aclarar las diferencias que se tuvieron con años anteriores.
+Debemos anotar que, en diálogo con el programa de tuberculosis, ellos solo tienen información de 1.590 personas que viven con VIH que recibieron tratamiento para TB latente en el año 2023, pero no cuentan con información de cuántos de ellos estaban en TAR, ni cuantos finalizaron el tratamiento. La diferencia con los datos reportados en este informe puede radicar en que cuando un paciente recibe el medicamento directamente de su aseguradora y no del programa de tuberculosis, es probable que no sea reportado al programa de TB.
+
+Quedamos atentos a cualquier inquietud adicional.
+
+",61.6,,,,,,1767,,,,,,2868,,,,,,,,,,,,,,,,,,,,,,,Yes
+CRI,America,Latin America and the Caribbean,Latin America,Costa Rica,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+ECU,America,Latin America and the Caribbean,Latin America,Ecuador,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+SLV,America,Latin America and the Caribbean,Latin America,El Salvador,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),"Registro de pacientes con terapia antirretroviral, registro de pacientes con tuberculosis.",2024-01-01,2024-12-31,,,published,"Date: 2025-03-29 12:21:25.618118
+.
+--------
+",MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR,,99.9,0,100,99.9,100,0,2598,0,23,1661,914,0,2600,0,23,1663,914,0,1904,0,0,696,0,0,0,0,0,0,0,0,12,0,0,0,0,Yes
+GTM,America,Latin America and the Caribbean,Latin America,Guatemala,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,Anexo E,2024-01-01,2024-12-31,,,published,,,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: El número de personas que se reportó que completaron el tratamiento preventivo contra la tuberculosis [1446] es igual al número de personas que se reportó el año pasado que iniciaron el tratamiento preventivo contra la tuberculosis en 2023 [1446]. El denominador reportado para este indicador [4552] es mayor que el número de personas que se reportó que iniciaron el tratamiento preventivo contra la tuberculosis en 2023 [1446]; estos dos números deben ser iguales. Por favor, verifique.
+
+",31.8,50,9.7,31.9,14,0,1446,1,3,1442,0,0,4552,2,31,4519,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Yes
+HND,America,Latin America and the Caribbean,Latin America,Honduras,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),Consolidado PVIH que inicieron terapia preventiva con Isoniacida (TPI) y finalizaron su ciclo 2023-2024,2024-01-01,2024-12-31,La informacion recolectada corresponde 64 SAI que brindan terapia ARV en Honduras,"""Se determino que los usuarios en terapia antirretroviral que completaron el TPT entre las que iniciaron cualquier ciclo de TPT durante el año anterio los que completaron de 6 meses a 9 meses.
+se adjuntaron los que completaron 7 meses a los que se encuentran en el grupo, 6 meses en monoterapia con isoniacida diaria (6H)
+se adjuntaron los que completaron 8 meses a los que se encuentran en el grupo, 9 meses en monoterapia con isoniacida diaria (9H)""				
+
+No se cuenta con niños menores de 5 años que iniciaron terapia preventiva con insoniacida en el reporte 2023 por ende esa informacion queda en blanco 
+En el reporte del indicador personas que viven con el VIH que comenzaron la terapia preventiva contra tuberculosis no pide la desagregacion de Transgenero que si solicita el indicador Personas que viven con el VIH y que reciben terapia antirretroviral que completaron un ciclo de tratamiento preventivo contra la tuberculosis",published,"Date: 2025-03-29 01:56:57.901353
+No se cuenta con niños menores de 5 años que iniciaron terapia preventiva con insoniacida en el reporte 2023 por ende esa informacion queda en blanco 
+
+En el reporte del indicador personas que viven con el VIH que comenzaron la terapia preventiva contra tuberculosis no pide la desagregacion de Transgenero que si solicita el indicador Personas que viven con el VIH y que reciben terapia antirretroviral que completaron un ciclo de tratamiento preventivo contra la tuberculosis
+--------
+",MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR,,74.5,0,100,74.3,74.6,50,871,0,9,600,261,1,1169,0,9,808,350,2,180,682,0,0,0,0,0,0,0,2,7,0,0,0,0,0,0,Yes
+MEX,America,Latin America and the Caribbean,Latin America,Mexico,2024,GARPR,Yes,No,,,,,,,edit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+NIC,America,Latin America and the Caribbean,Latin America,Nicaragua,2024,GARPR,Yes,No,,,,,,,edit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+PAN,America,Latin America and the Caribbean,Latin America,Panama,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-05-22 21:21:20.210156
+Los cálculos fueron revisados y están bien
+--------
+Date: 2025-04-14 16:54:13.914366
+Los cálculos fueron revisados y están bien
+--------
+",MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: El denominador [574] difiere del número de personas reportadas el año pasado que iniciaron el tratamiento preventivo contra la tuberculosis en 2023 [497]. Estas cifras deberían ser las mismas. Por favor, verifique o proporcione una explicación para esta diferencia.
+
+Rosa Lowe (MINISTRY) said on 22/05/25 at 19:20: Los 497 personas reportada en el 2023, se refieren a los nuevos que ingresaron por primera vez y que se les administró la profilaxis para la infección TB y la cifra reportada de 574 en el año 2024 contemplan solamente aquellos pacientes que iniciaron la profilaxis en el segundo trimestre de dicho año; por lo tanto, estos valores no pueden ser iguales, ya que corresponden a situaciones totalmente diferentes.
+
+",80.7,100,100,78.4,95.6,0,463,6,1,391,65,0,574,6,1,499,68,0,108,,,459,,,,,,,,,7,,,,,Yes
+PRY,America,Latin America and the Caribbean,Latin America,Paraguay,2024,GARPR,Yes,No,,,,,,,published,,,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: El año pasado se reportó que [21] personas que vivían con el VIH y estaban en tratamiento antirretroviral completaron el tratamiento preventivo contra la tuberculosis. Por favor, verifique si hay datos disponibles para este período de reporte.
+
+Giulia Cipolla (MINISTRY) said on 20/05/25 at 17:00: Actualmente no disponemos de ese dato.
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+PER,America,Latin America and the Caribbean,Latin America,Peru,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),"Instrumento de Monitoreo de la Terapia Preventiva para Tuberculosis en Personas viviendo con VIH, Dirección de Prevención y Control de VIH-SIDA, ITS y Hepatitis, correspondiente al año 2023.
+Registro Nominal de Terapia Preventiva para Tuberculosis en personas viviendo con VIH en los establecimientos de salud, para el año 2023.",2023-01-01,2023-12-31,"Se incluye también información de Terapia Preventiva para Tuberculosis del Seguro Social - EsSALUD.
+
+El reporte de la información en Terapia Preventiva para TB considera el año anterior (2023) para monitorear longitudinalmente a los pacientes que iniciaron ese año y completaron posteriormente, sea que hayan completado en ese mismo año de evaluación o el año siguiente (2024). Como el 94% de pacientes completaron el esquema 6H, aún ese año, se mantuvo el seguimiento y monitoreo hasta el año siguiente hasta cerrar el reporte correspondiente al año 2023.","La información incluye todos los pacientes que iniciaron Terapia Preventiva para TB, sea con diagnóstico nuevo o continuadores al TAR que iniciaron la TPT.
+No se dispone para este reporte, la información por edades o género aún.
+Así mismo, se extrapola por sexo, considerando que la información recopilada es global, con un instrumento paralelo (para el año 2023).
+
+Se incluye por primera vez el reporte a los pacientes que completaron por esquemas de terapia preventiva para TB, en adultos.",published,"Date: 2025-05-28 22:07:08.752977
+La información no se dispone por edades o género para este año de reporte.
+--------
+Date: 2025-04-24 23:46:16.329027
+Falta completar información
+--------
+",MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: El denominador [4724] difiere del número de personas reportadas el año pasado que iniciaron el tratamiento preventivo contra la tuberculosis en 2023 [3958]. Estas cifras deberían ser iguales. Agradecemos puedan verificar o brindar una explicación para esta diferencia.
+
+Patricia Ruiz Pizarro (MINISTRY) said on 27/05/25 at 15:15: La data de personas que iniciaron TPT con 3958 corresponde al año 2022, no al año 2023.
+
+",86.4,0,0,88.4,74.1,0,4080,0,0,3590,490,0,4724,0,0,4063,661,0,3861,0,6,138,0,0,0,0,0,0,0,0,0,0,0,0,0,Yes
+URY,America,Latin America and the Caribbean,Latin America,Uruguay,2024,GARPR,Yes,Yes,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+VEN,America,Latin America and the Caribbean,Latin America,"Venezuela, Bolivarian Republic of",2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-05-28 20:40:02.616460
+Lo reportado son los datos provenientes del Programa de TB.
+--------
+Date: 2025-04-29 06:46:32.008511
+Lo reportado son los datos provenientes del Programa de TB.
+--------
+",MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: El denominador [682] difiere del número de personas reportadas el año pasado que comenzaron el tratamiento preventivo contra la tuberculosis en 2023 [522]. Estas cifras deberían ser iguales. Agradecemos puedan verificar o brindar una explicación para esta diferencia.
+
+Yolimar Gil Sojo (MINISTRY) said on 28/05/25 at 18:39: La cohorte de quimioprofilaxis que se informo es la del 2024 y un excedente de pacientes que no habían terminado el tratamiento iniciado en el 2023 por iniciar esquema con Isoniacida diaria por 9 meses y no habían concluido al 31 de diciembre de 2023.
+
+",94,83.3,85.7,93.5,97.1,0,641,15,12,448,166,0,682,18,14,479,171,0,,122,,488,2,,,,,,21,,,8,,,,Yes
+BHR,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Bahrain,2024,GARPR,No,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+DJI,Eastern Mediterranean,Sub-Saharan Africa,Middle East and North Africa,Djibouti,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+EGY,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Egypt,2024,GARPR,Yes,No,,,,,Coverage is small due to interruption in the availability of TPT,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+IRQ,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Iraq,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+JOR,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Jordan,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+KWT,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Kuwait,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+LBN,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Lebanon,2024,GARPR,No,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+PSE,Eastern Mediterranean,,Middle East and North Africa,Occupied Palestinian Territory,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+OMN,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Oman,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+QAT,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Qatar,2024,GARPR,No,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+SAU,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Saudi Arabia,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+SOM,Eastern Mediterranean,Sub-Saharan Africa,Middle East and North Africa,Somalia,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+SDN,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Sudan,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+SYR,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Syrian Arab Republic,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+ARE,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,United Arab Emirates,2024,GARPR,Yes,No,,,,,,,published,"Date: 2025-03-27 08:19:16.116502
+------
+--------
+Date: 2025-03-27 08:18:56.056758
+------
+--------
+Date: 2025-03-27 08:15:51.533016
+------
+--------
+Date: 2025-03-27 08:10:50.916124
+------
+--------
+","The age disaggregation does not add up to the total.
+Some values are missing. Please explain.
+MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+YEM,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Yemen,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+ROU,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Western and Central Europe and North America,Romania,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+DZA,Africa,Middle East and North Africa,Western and central Africa,Algeria,2024,GARPR,No,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+BEN,Africa,Sub-Saharan Africa,Western and central Africa,Benin,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+BFA,Africa,Sub-Saharan Africa,Western and central Africa,Burkina Faso,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2023-12-26,2024-12-25,,,published,"Date: 2025-03-19 19:16:56.275724
+Valeurs non disponibles
+--------
+","Certaines valeurs sont manquantes. Veuillez expliquer.
+MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: Le nombre de personnes rapportées comme ayant terminé le traitement préventif contre la tuberculose [9338] est supérieur au nombre de personnes rapportées l'année dernière comme ayant commencé le TPT en 2023 [2657]. Veuillez vérifier.
+
+",100,100,100,100,100,,9338,48,166,2818,6306,,9338,48,166,2818,6306,,444,0,0,6402,1283,995,,,,0,0,0,118,36,60,,,No
+BDI,Africa,Sub-Saharan Africa,Western and central Africa,Burundi,2024,GARPR,Yes,No,,,,,,,edit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+CPV,Africa,Sub-Saharan Africa,Western and central Africa,Cabo Verde,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+CMR,Africa,Sub-Saharan Africa,Western and central Africa,Cameroon,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+CAF,Africa,Sub-Saharan Africa,Western and central Africa,Central African Republic,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+TCD,Africa,Sub-Saharan Africa,Western and central Africa,Chad,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+COG,Africa,Sub-Saharan Africa,Western and central Africa,Congo,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+CIV,Africa,Sub-Saharan Africa,Western and central Africa,Côte d'Ivoire,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-03-26 11:20:01.320486
+Les données prennent en compte les données de 2023 et de 2024.
+Les désagrégations au niveau pays ne sont pas conforme aux agrégations de l'outil de rapportage GAM
+--------
+Date: 2025-03-26 11:17:34.556234
+Les désagrégations au niveau pays ne sont pas conforme aux agrégations de l'outil de rapportage GAM
+--------
+","La ventilation par âge ne correspond pas au total.
+Certaines valeurs sont manquantes. Veuillez expliquer.
+MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: Le nombre de personnes rapportées comme ayant terminé un traitement préventif contre la tuberculose [110399] est supérieur au nombre de personnes rapportées l'année dernière comme ayant commencé un traitement préventif contre la tuberculose en 2023 [19697]. Veuillez vérifier.
+
+",38.9,,,,,,110388,,,,,,283578,,,,,,,,,,,,,,,,,,,,,,,No
+COD,Africa,Sub-Saharan Africa,Western and central Africa,Democratic Republic of the Congo,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+GNQ,Africa,Sub-Saharan Africa,Western and central Africa,Equatorial Guinea,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+GAB,Africa,Sub-Saharan Africa,Western and central Africa,Gabon,2024,GARPR,No,Yes,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+GMB,Africa,Sub-Saharan Africa,Western and central Africa,Gambia (Republic of The),2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+GHA,Africa,Sub-Saharan Africa,Western and central Africa,Ghana,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-06-03 14:48:38.672582
+dissaggregaton not available
+--------
+Date: 2025-06-03 12:39:45.105939
+dissaggregaton not available
+--------
+Date: 2025-06-03 12:11:53.603504
+dissaggregaton not available
+--------
+Date: 2025-03-26 19:24:03.207822
+dissaggregaton not available
+--------
+","The age disaggregation does not add up to the total.
+Some values are missing. Please explain.
+MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The denominator [14965] differs from the number of people reported last year to have started TB preventive treatment in 2023 [10173]. These numbers should be the same. Please verify or provide an explanation for this difference.
+
+Dennis Annang (OTHER) said on 03/06/25 at 10:40: The denominator value has been corrected.
+
+",51.4,,,,,,5228,,,,,,10173,,,,,,,,,,,,,,,,,,,,,,,Yes
+GIN,Africa,Sub-Saharan Africa,Western and central Africa,Guinea,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),Données du programme PNLSH et PNLT,2024-01-01,2024-12-31,,,published,"Date: 2025-03-19 12:19:15.798722
+Données non disponibles
+--------
+",Certaines valeurs sont manquantes. Veuillez expliquer.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: L'année dernière, il a été rapporté que 8 421 personnes vivant avec le VIH sous TAR ont commencé un TPT en 2023, mais cette année, il est rapporté que 8 421 personnes vivant avec le VIH sous TAR ont terminé un TPT. Merci de bien vouloir clarifier ce point.
+
+",51.3,68.9,43.7,52.9,51.2,,8421,84,515,2389,5433,,16431,122,1179,4518,10612,,,,,,,,,7822,3 ou 6 mois de monothérapie quotidienne par isoniazide,,,,,,,599,3 ou 6 mois de monothérapie quotidienne par isoniazide,No
+GNB,Africa,Sub-Saharan Africa,Western and central Africa,Guinea-Bissau,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+LBR,Africa,Sub-Saharan Africa,Western and central Africa,Liberia,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+LBY,Eastern Mediterranean,Middle East and North Africa,Western and central Africa,Libya,2024,GARPR,Yes,No,,,,,,,edit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+MLI,Africa,Sub-Saharan Africa,Western and central Africa,Mali,2024,GARPR,No,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+MRT,Africa,Sub-Saharan Africa,Western and central Africa,Mauritania,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+MAR,Eastern Mediterranean,Middle East and North Africa,Western and central Africa,Morocco,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,Service de santé publique CDTMR,2024-01-01,2024-12-31,,,published,"Date: 2025-04-23 16:32:34.829374
+ 
+--------
+","La ventilation par âge ne correspond pas au total.
+Certaines valeurs sont manquantes. Veuillez expliquer.",,80.5,,,,,,293,,,,,,364,,,,,,,,,,,,,,,,,,,,,,,Yes
+NER,Africa,Sub-Saharan Africa,Western and central Africa,Niger,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+NGA,Africa,Sub-Saharan Africa,Western and central Africa,Nigeria,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,NDARS,2024-01-01,2024-12-31,,,published,"Date: 2025-05-30 22:49:03.001012
+The data is not disaggregated into age groups, then the data reported to be number initiated on TPT in 2023 is almost equal to current on ART in 2023. This may be due to a typo error. The regimen is also not disaggregated by age group <15 and >15 
+--------
+Date: 2025-05-23 09:01:14.146511
+The data is not disaggregated into age groups, then the data reported to be number initiated on TPT in 2023 is almost equal to current on ART in 2023. This may be due to a typo error. The regimen is also not disaggregated by age group <15 and >15 
+--------
+Date: 2025-03-16 21:49:27.895868
+The data is not disaggregated into age groups, then the data reported to be number initiated on TPT in 2023 is almost equal to current on ART in 2023. This may be due to a typo error. The regimen is also not disaggregated by age group <15 and >15 
+--------
+Date: 2025-03-16 21:48:08.193013
+The data is not disaggregated into age groups, then the data reported to be number initiated on TPT in 2023 is almost equal to current on ART in 2023. This may be due to a typo error. The regimen is also not disaggregated by age group <15 and >15 
+--------
+","The age disaggregation does not add up to the total.
+Some values are missing. Please explain.
+MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people reported to have completed TB preventive treatment [230622] is greater than the number of people reported last year to have started TB preventive treatment in 2023 [151099]. Please verify.
+
+Dr Adebobola Bashorun (MINISTRY) said on 23/05/25 at 06:57: Yes this is the true situation of the data reported,
+
+",,,,,,,230622,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+STP,Africa,Sub-Saharan Africa,Western and central Africa,Sao Tome and Principe,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+SEN,Africa,Sub-Saharan Africa,Western and central Africa,Senegal,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),LA MAQUETTE NATIONALE DE SUIVI DES PvVIH 2024,2024-01-01,2024-12-31,,,published,"Date: 2025-03-30 23:30:39.333991
+On n'a pas encore des données pour les Transgenres
+C'est non applicable dans le pays
+--------
+Date: 2025-03-30 23:30:33.830675
+On n'a pas encore des données pour les Transgenres
+C'est non applicable dans le pays
+--------
+","Certaines valeurs sont manquantes. Veuillez expliquer.
+MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: Le dénominateur [2061] diffère du nombre de personnes rapportées l'année dernière comme ayant commencé un traitement préventif contre la tuberculose en 2023 [1998]. Ces chiffres devraient être les mêmes. Veuillez vérifier ou fournir une explication pour cette différence.
+
+",94.2,93.3,92.2,92.5,95.3,,1942,14,71,613,1244,,2061,15,77,663,1306,,1857,,,,,,,,,85,,,,,,,,Yes
+SLE,Africa,Sub-Saharan Africa,Western and central Africa,Sierra Leone,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,National HMIS/DHIS2,,published,"Date: 2025-06-04 15:03:38.887555
+The data provided is for 2024
+--------
+","The numerator and denominator do not correspond to its percentage.
+Some values are missing. Please explain.
+MSG_ERROR_TB_COMPL_TPT_NUM_PREV_YEAR",,5.5,,,5.6,5.7,,578,0,0,269,309,0,10562,0,0,4964,5598,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Yes
+TGO,Africa,Sub-Saharan Africa,Western and central Africa,Togo,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+TUN,Eastern Mediterranean,Middle East and North Africa,Western and central Africa,Tunisia,2024,GARPR,Yes,No,,,,,,,edit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+AND,Europe,,Western and central Europe and North America,Andorra,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+AUT,Europe,,Western and central Europe and North America,Austria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+BEL,Europe,,Western and central Europe and North America,Belgium,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+BGR,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Western and central Europe and North America,Bulgaria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+CAN,America,,Western and central Europe and North America,Canada,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+HRV,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Western and central Europe and North America,Croatia,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+CYP,Europe,,Western and central Europe and North America,Cyprus,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+CZE,Europe,,Western and central Europe and North America,Czechia,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+DNK,Europe,,Western and central Europe and North America,Denmark,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+EST,Europe,,Western and central Europe and North America,Estonia,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+FIN,Europe,,Western and central Europe and North America,Finland,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+FRA,Europe,,Western and central Europe and North America,France,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+DEU,Europe,,Western and central Europe and North America,Germany,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+GRC,Europe,,Western and central Europe and North America,Greece,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+HUN,Europe,,Western and central Europe and North America,Hungary,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+ISL,Europe,,Western and central Europe and North America,Iceland,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+IRL,Europe,,Western and central Europe and North America,Ireland,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+ISR,Europe,,Western and central Europe and North America,Israel,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+ITA,Europe,,Western and central Europe and North America,Italy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+002,Europe,,Western and central Europe and North America,Kosovo,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+LVA,Europe,,Western and central Europe and North America,Latvia,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+LIE,Europe,,Western and central Europe and North America,Liechtenstein,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+LTU,Europe,,Western and central Europe and North America,Lithuania,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+LUX,Europe,,Western and central Europe and North America,Luxembourg,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+MLT,Europe,,Western and central Europe and North America,Malta,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+MCO,Europe,,Western and central Europe and North America,Monaco,2024,GARPR,No,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+NLD,Europe,,Western and central Europe and North America,Netherlands,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+NOR,Europe,,Western and central Europe and North America,Norway,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+POL,Europe,,Western and central Europe and North America,Poland,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+PRT,Europe,,Western and central Europe and North America,Portugal,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+SMR,Europe,,Western and central Europe and North America,San Marino,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+SRB,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Western and central Europe and North America,Serbia,2024,GARPR,No,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+SVK,Europe,,Western and central Europe and North America,Slovakia,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+SVN,Europe,,Western and central Europe and North America,Slovenia,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+ESP,Europe,,Western and central Europe and North America,Spain,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+SWE,Europe,,Western and central Europe and North America,Sweden,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+CHE,Europe,,Western and central Europe and North America,Switzerland,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+TUR,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Western and central Europe and North America,Türkiye,2024,GARPR,No,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+GBR,Europe,,Western and central Europe and North America,United Kingdom of Great Britain and Northern Ireland,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+USA,America,,Western and central Europe and North America,United States of America,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes

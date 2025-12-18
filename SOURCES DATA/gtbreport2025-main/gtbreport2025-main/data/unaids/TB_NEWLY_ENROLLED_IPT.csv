@@ -1,0 +1,1041 @@
+﻿COUNTRY_CODE,REGION_WHO,REGION_UNICEF,REGION_UNAIDS,COUNTRY_NAME,TIME_PERIOD,DATA_SOURCE,is_indicator_relevant,are_data_available,measurement_source,measurement_source_other,period_start_date,period_end_date,data_source_comment,data_comment,state,no_validation_comment_log,no_validation_warnings_list,comments,NEW_ENROL_AVAIL,PERCENT-ALL,PERCENT-TIME_LT_5Y,PERCENT-TIME_5_15Y,PERCENT-TIME_GT_15Y,NUMERATOR-ALL,NUMERATOR-TIME_LT_5Y,NUMERATOR-TIME_5_15Y,NUMERATOR-TIME_GT_15Y,DENOMINATOR-ALL,DENOMINATOR-TIME_LT_5Y,DENOMINATOR-TIME_5_15Y,DENOMINATOR-TIME_GT_15Y,NEW_ENROL_AVAIL_2,PER_CUR_ENROL-ALL,PER_CUR_ENROL-TIME_LT_5Y,PER_CUR_ENROL-TIME_5_15Y,PER_CUR_ENROL-TIME_GT_15Y,NUM_CUR_ENROL-ALL,NUM_CUR_ENROL-TIME_LT_5Y,NUM_CUR_ENROL-TIME_5_15Y,NUM_CUR_ENROL-TIME_GT_15Y,DEN_CUR_ENROL-ALL,DEN_CUR_ENROL-TIME_LT_5Y,DEN_CUR_ENROL-TIME_5_15Y,DEN_CUR_ENROL-TIME_GT_15Y,TBL_ARV_TBT-ALL,TBL_ARV_TBT-TIME_LT_5Y,TBL_ARV_TBT-TIME_5_15Y,TBL_ARV_TBT-TIME_GT_15Y,include_in_csv_export
+AFG,Eastern Mediterranean,South Asia,Asia and the Pacific,Afghanistan,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),The program data.,2024-01-01,2024-12-31,,,published,"Date: 2025-05-28 12:31:25.666833
+During the reporting period, a total of 290 people with HIV were newly enrolled; 290 of them 109 have taken TPT during the reporting period. and have received TPT 273  (New and Old) Patients during the reporting period.
+--------
+Date: 2025-05-27 10:05:25.446362
+During the reporting period, a total of 290 people with HIV were newly enrolled; 290 of them 109 have taken TPT during the reporting period. and have received TPT 273  (New and Old) Patients during the reporting period.
+--------
+Date: 2025-03-27 05:46:07.209580
+During the reporting period, a total of 290 people with HIV were newly enrolled; 290 of them 109 have taken TPT during the reporting period. and have received TPT 273  (New and Old) Patients during the reporting period.
+--------
+","Newly enrolled on antiretroviral therapy: The numerator and denominator do not correspond to its percentage.
+Please verify and confirm that some percentages have changed by more than 20% compared to the previous year.
+Currently enrolled on antiretroviral therapy: The numerator and denominator do not correspond to its percentage.
+The number of people living with HIV on ART that have received TB preventive treatment prior to this reporting period should be greater than the number of people living with HIV on ART who received TB preventive treatment in 2024. Please verify or provide an explanation.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people newly enrolled on ART and the number of people living with HIV on ART disaggregated by age do not add to the total. Kindly verify. The number of people reported to have received TPT prior to the reporting period refers to the number of people who are currently on ART and received TPT in 2023 or earlier; the same number is currently reported for this item as the number of people on ART who received TPT in 2024, please verify.
+
+NOOR MOHAMMAD SAMIM (MINISTRY) said on 27/05/25 at 08:05: The number of people living with HIV who were enrolled prior to the reporting period and received Tuberculosis Preventive Therapy (TPT) during 2024 is 164. Additionally, 109 people living with HIV who were newly enrolled during 2024 also received TPT within the same reporting period.
+
+",Yes,38,20,30,39,109,2,3,104,290,8,11,271,Yes,19,14,18,19,273,3,13,257,1426,19,71,1336,164,1,10,153,Yes
+AUS,Western Pacific,,Asia and the Pacific,Australia,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+BGD,South-East Asia,South Asia,Asia and the Pacific,Bangladesh,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),Program Data,2024-01-01,2024-12-31,,,published,"Date: 2025-04-17 06:51:13.724654
+No data available
+--------
+",Please verify and confirm that some percentages have changed by more than 20% compared to the previous year.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people newly enrolled on ART that started TB preventive treatment reported [842] seems to reflect an important change from the previous reporting period [91]. The number of people newly enrolled on ART reported [1409] seems to reflect an important change from the previous reporting period [1137]. Please can you explain the reason for this or revise the data accordingly. Please verify if data are available on the number of people currently on ART who received TB preventive treatment during the reporting period.
+
+Md. Alauddin Chowdhury (OTHER) said on 29/05/25 at 07:13: Diagnosis case is increase that's way enrollment is increased.
+
+",Yes,59.8,21.1,68.8,60.1,842,4,22,816,1409,19,32,1358,No,,,,,,,,,,,,,,,,,Yes
+BTN,South-East Asia,South Asia,Asia and the Pacific,Bhutan,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+BRN,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Brunei Darussalam,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+KHM,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Cambodia,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-05-23 10:07:16.790648
+Confirm the change 
+--------
+Date: 2025-03-24 08:52:32.490868
+Will check
+--------
+",Please verify and confirm that some percentages have changed by more than 20% compared to the previous year.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people living with HIV newly enrolled on HIV treatment reported for this indicator [5034] should be the same as the number of people living with HIV newly enrolled on HIV treatment reported for indicator 7.7 [4973]. Please verify.
+
+Chanravuth Ly (OTHER) said on 23/05/25 at 08:05: The denominator has been changed to 4973 and the 15+ is also changed. Thank you
+
+",Yes,56.7,6.9,12.5,57.3,2822,2,4,2816,4973,29,32,4912,Yes,7.7,18,9.2,7.7,5423,18,67,5338,69994,100,728,69166,54625,10,399,54216,Yes
+CHN,Western Pacific,East Asia and the Pacific,Asia and the Pacific,China,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+COK,Western Pacific,,Asia and the Pacific,Cook Islands,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-04-01 16:15:14.579520
+out of 3 PLHIV, 2 are on ART abroad (receive drugs), 1 enrolled in 2024 being on TB treatment
+--------
+",Some values are missing. Please explain.,,Yes,0,,,0,0,0,0,0,1,0,0,1,Yes,0,,,0,0,0,0,0,3,0,0,3,,,,,Yes
+PRK,South-East Asia,East Asia and the Pacific,Asia and the Pacific,Democratic People's Republic of Korea,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+FJI,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Fiji,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+IND,South-East Asia,South Asia,Asia and the Pacific,India,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-05-27 11:51:09.513422
+NA
+--------
+","Some values are missing. Please explain.
+The age disaggregation does not add up to the total.
+Please verify and confirm that some percentages have changed by more than 20% compared to the previous year.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: Last year it was reported [137465] people living with HIV on ART started TB preventive treatment. Please verify if data are available for this reporting period.
+
+",Yes,,,,,159426,,,,,,,,No,,,,,,,,,,,,,,,,,Yes
+IDN,South-East Asia,East Asia and the Pacific,Asia and the Pacific,Indonesia,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-05-30 09:53:13.131466
+confirmed.
+for the last table, only total number is available.
+--------
+Date: 2025-03-25 02:56:57.685327
+confirmed.
+for the last table, only total number is available.
+--------
+","Please verify and confirm that some percentages have changed by more than 20% compared to the previous year.
+The age disaggregation does not add up to the total.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people newly enrolled on ART that started TB preventive treatment reported [4557] seems to reflect an important change from the previous reporting period [2847]. Please can you explain the reason for this or revise the data accordingly.
+
+Endang Lukitosari (MINISTRY) said on 30/05/25 at 07:53: In 2023, the recording and reporting of TPT (Tuberculosis Preventive Therapy) was still carried out using Excel spreadsheets. This process was conducted outside the existing HIV AIDS Information System (SIHA), resulting in delayed and underreporting. Since 2024, all HIV and STI-related recording, including TB-HIV, has been mandated to use SIHA version 2.1. With the implementation of this system at the beginning of 2024, documentation related to TPT has significantly improved. As a result, there is a notable discrepancy when compared to the 2023 data that had been previously reported. 
+
+As an additional information, if we compare the 2023 figures generated from SIHA 2.1, the number of people living with HIV who were newly enrolled on antiretroviral therapy and also started tuberculosis preventive treatment was 4,106.
+
+",Yes,9,2.3,3.2,9.1,4557,10,13,4534,50441,426,407,49608,Yes,8.9,6.5,1.8,9,20565,52,67,20446,231247,805,3660,226782,81623,,,,Yes
+IRN,Eastern Mediterranean,Middle East and North Africa,Asia and the Pacific,Iran (Islamic Republic of),2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-04-01 01:43:16.036444
+The change is correct. 
+--------
+","Some values are missing. Please explain.
+The age disaggregation does not add up to the total.
+Please verify and confirm that some percentages have changed by more than 20% compared to the previous year.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people newly enrolled on ART that started TB preventive treatment reported [109] seems to reflect an important change from the previous reporting period [86]. The number of people currently enrolled on ART that started TB preventive treatment reported [392] seems to reflect an important change from the number reported for the previous reporting period [207]. Please can you explain the reason for this or revise the data accordingly.
+
+Behnam Farhoudi (OTHER) said on 31/05/25 at 20:34: Yes, the changes are correct and mostly because of improved documentation and reporting.
+
+",Yes,6.4,,,,109,,,,1690,,,,Yes,2,0,0,6.1,392,0,4,388,19404,393,12657,6354,,,,,Yes
+JPN,Western Pacific,,Asia and the Pacific,Japan,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+KIR,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Kiribati,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,Not specified,2024-01-01,2024-12-31,No one was newly enrolled in ART in 2024,,published,"Date: 2025-04-17 08:24:41.883981
+No one of PLHIV on ART started TB preventive treatment in 2024
+--------
+Date: 2025-04-15 15:43:51.814086
+None of PLHIV on ART started TB preventive treatment in 2024
+--------
+Date: 2025-04-15 15:36:30.796502
+No data submitted for missing fields. Discrepancy flagged cf. indicator 7.7 (which was marked as 'not relevant').
+--------
+Date: 2025-04-14 14:54:26.186004
+No data submitted for missing fields. Discrepancy flagged cf. indicator 7.7 (which was marked as 'not relevant').
+--------
+","Some values are missing. Please explain.
+The age disaggregation does not add up to the total.",,Yes,,,,,0,,,,,,,,Yes,0,,,,0,,,,8,,,,,,,,Yes
+LAO,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Lao People's Democratic Republic,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,DHIS2,2024-01-01,2024-12-31,,,published,"Date: 2025-05-23 05:11:52.166814
+Data from DHIS2
+--------
+Date: 2025-03-29 14:24:30.521064
+Data from DHIS2
+--------
+Date: 2025-03-29 14:20:11.718949
+Data from DHIS2
+--------
+Date: 2025-03-29 14:16:17.943722
+Data from DHIS2
+--------
+",Please verify and confirm that some percentages have changed by more than 20% compared to the previous year.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people reported to have received TPT prior to the reporting period refers to the number of people who are currently on ART and received TPT in 2023 or earlier; the same number is currently reported for this item as the number of people newly enrolled on ART in 2024, please verify.
+
+Lattanavanh SADETTANH (MINISTRY) said on 23/05/25 at 03:11: Thanks for your comment. We verify our data against the GAM indicator definition. Please refer to the numerators and denominators guided in GAM 2025 guidelines.  Our data are correct. We have 1214 individuals who were newly enrolled in ART and started TPT in 2024 (i.e. the numerator for indicator 1). And we reported 1867 individuals who received TPT in 2024 (i.e. 1214 newly started TPT in 2024 + 653 individuals who initiated TPT in 2023 and remained on TPT in early 2024). Please note that some individuals initiated TPT in 2023 had completed TPT courses in 2023.
+
+",Yes,55.6,30.4,34.8,56.1,1214,7,8,1199,2184,23,23,2138,Yes,14.2,16.7,7.2,14.3,1867,10,22,1835,13169,60,305,12804,1867,10,22,1835,Yes
+MYS,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Malaysia,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,ART registry and clinic records.,,published,"Date: 2025-03-17 09:45:58.874703
+The data had been confirmed and verified by state health departments.
+--------
+Date: 2025-03-12 08:02:03.486151
+The data had been confirmed and verified by state health departments.
+--------
+Date: 2025-03-10 04:24:00.009382
+The data had been confirmed and verified by state health departments.
+--------
+Date: 2025-03-10 04:21:57.747884
+yes
+--------
+",Please verify and confirm that some percentages have changed by more than 20% compared to the previous year.,,Yes,19.9,33.3,0,19.8,636,4,0,632,3197,12,1,3184,Yes,3.4,4.7,0.8,3.4,1377,2,1,1374,40337,43,128,40166,13363,7,30,13326,Yes
+MDV,South-East Asia,South Asia,Asia and the Pacific,Maldives,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,,,,Yes,0,0,0,0,0,0,0,0,6,0,0,6,No,,,,,,,,,,,,,0,0,0,0,Yes
+MHL,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Marshall Islands,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,No enrollment in ART in 2024,2024-01-01,2024-12-31,,,published,"Date: 2025-04-18 17:22:22.817234
+Data not submitted for missing fields.
+--------
+Date: 2025-04-13 16:01:48.217876
+Data not submitted for missing fields.
+--------
+","Some values are missing. Please explain.
+The age disaggregation does not add up to the total.",,No,,,,,,,,,,,,,Yes,0,,,,0,,,,5,,,,,,,,Yes
+FSM,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Micronesia (Federated States of),-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+MNG,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Mongolia,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,routine data of NCCD,2024-01-01,2024-12-31,,,published,"Date: 2025-03-25 05:11:23.574312
+yes, checked
+--------
+",Please verify and confirm that some percentages have changed by more than 20% compared to the previous year.,,Yes,4,0,0,4,1,0,0,1,25,0,0,25,Yes,0.4,0,0,0.4,1,0,0,1,251,0,0,251,1,0,0,1,Yes
+MMR,South-East Asia,East Asia and the Pacific,Asia and the Pacific,Myanmar,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,The country's data reporting format has age disaggregated data only for 0-15 years and 15+ years. Data reported here for 5-15 years covers 0-15 years data.,,published,"Date: 2025-05-29 08:15:45.142097
+The country's national data report is available for age group 0-15 and 15+ years only.
+--------
+Date: 2025-05-29 08:14:31.876727
+The country's national data report is available for age group 0-15 and 15+ years only.
+--------
+Date: 2025-05-23 05:11:24.237496
+The country's national data report is available for age group 0-15 and 15+ years only.
+--------
+Date: 2025-05-07 06:30:39.105570
+The country's national data report is available for age group 0-15 and 15+ years only.
+--------
+","Some values are missing. Please explain.
+Newly enrolled on antiretroviral therapy: The numerator and denominator do not correspond to its percentage.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people currently enrolled on ART that started TB preventive treatment reported [15474] seems to reflect an important change from the number reported for the previous reporting period [24597]. Please can you explain the reason for this or revise the data accordingly.
+
+Than Than Lwin (MINISTRY) said on 29/05/25 at 06:15: TPT provision in 2024 was less than 2023 since the reporting sites decreased in 2024 because of the operational feasibility in some areas. The operating sites also had to manage the influx of transfer-in cohort from the conflict areas and there was more workload even for ARV dispense alone especially where only one focal person have to take care multi-tasks.
+
+We  also updated the reported data as we found out some reporting sites are duplicated.
+
+",Yes,23.7,,3.9,24.2,5009,0,21,4988,22950,0,535,22415,Yes,6.2,,1.8,6.4,13630,0,92,13538,218222,,5197,213025,,,,,Yes
+NRU,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Nauru,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+NPL,South-East Asia,South Asia,Asia and the Pacific,Nepal,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-03-26 07:20:11.993523
+Disaggregation not available
+--------
+","Some values are missing. Please explain.
+The age disaggregation does not add up to the total.
+Please verify and confirm that some percentages have changed by more than 20% compared to the previous year.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: Please verify if data are available on the number of people currently enrolled on ART who received TB preventive treatment during the reporting period.
+
+NCASC NCASC (MINISTRY) said on 02/06/25 at 08:20: Data on 'currently enrolled on ART who received TB preventive treatment during the reporting period' is not available for reporting as there were very limited supplies of medicines for TB preventive treatment.
+
+",Yes,0.3,,,,7,,,,2481,,,,No,,,,,,,,,,,,,85,,,,Yes
+NZL,Western Pacific,,Asia and the Pacific,New Zealand,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+NIU,,,Asia and the Pacific,Niue,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+PAK,Eastern Mediterranean,South Asia,Asia and the Pacific,Pakistan,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,Health Facilities Data,2024-01-01,2024-12-31,,,published,,,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: Please verify if data are available on the number of people newly enrolled on ART who received TB preventive treatment during the reporting period.
+
+Kamal Afzal (MINISTRY) said on 29/05/25 at 05:10: As this indicator is not a part of our reporting tool so, health facilities are not reporting against this indicator. Noted for future compliance.
+
+",No,,,,,,,,,,,,,Yes,13.1,35.7,19.8,12.3,6797,342,575,5880,51821,957,2909,47955,,,,,Yes
+PLW,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Palau,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-04-18 16:20:37.672728
+Country has not provided age- or sex-disaggregated data.
+--------
+Date: 2025-04-12 15:24:51.843233
+Country has not provided age- or sex-disaggregated data.
+--------
+","Some values are missing. Please explain.
+The age disaggregation does not add up to the total.",,Yes,0,,,,0,,,,3,,,,Yes,0,,,,0,,,,8,,,,0,,,,Yes
+PNG,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Papua New Guinea,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,,,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people newly enrolled on ART reported [8216] seems to reflect an important change from the previous reporting period [6095]. Please can you explain the reason for this or revise the data accordingly. Please verify if data are available on the number of people currently enrolled on ART who received TB preventive treatment during the reporting period.
+
+Namarola Lote (WHO) said on 21/05/25 at 19:12: In 2024, the HIV program had access to an additional data source. Hence the change.
+
+",Yes,12.7,12.8,7.3,12.8,1043,21,12,1010,8216,164,164,7888,No,,,,,,,,,,,,,,,,,Yes
+PHL,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Philippines,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-03-23 05:55:29.421478
+This is confirmed.
+--------
+",Please verify and confirm that some percentages have changed by more than 20% compared to the previous year.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people newly enrolled on ART that started TB preventive treatment reported [12520] seems to reflect an important change from the previous reporting period [8179]. The number of people newly enrolled on ART reported [17811] seems to reflect an important change from the previous reporting period [13013]. Please can you explain the reason for this or revise the data accordingly. Last year it was reported [11700] people living with HIV on ART started TB preventive treatment. Please verify if data are available for this reporting period.
+
+Jayne Eunice Yang (MINISTRY) said on 02/06/25 at 06:31: Increases in newly enrolled on ART between 2023 and 2024 which proportionally led to an increase in newly enrolled taking TPT.
+
+",Yes,70.3,0,0,70.8,12520,0,0,12520,17811,66,59,17686,No,,,,,,,,,,,,,43500,0,0,43500,Yes
+KOR,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Republic of Korea,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+WSM,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Samoa,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+SGP,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Singapore,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),NCID HIV Database,2024-01-01,2024-12-31,"This data is from NCID HIV Programme Database which only accounts for HIV diagnosed patients of age 15 and above presenting at the National Centre for Infectious Diseases (NCID) and Tan Tock Seng Hospital (TTSH) Infectious Diseases clinics, which covers about 60-70% of HIV cases in Singapore. 
+The data does not cover patients seen at other healthcare institutions. 
+
+RECRUITMENT/SCREENING CRITERIA
+1. Only patients who have clinic visit to NCID/TTSH Infectious Diseases starting from 2006 onwards; 
+2. HIV-positive patients 
+3. At least one time outpatient clinic visit
+*Note: Added the list of new foreigners cases starting from January 2017 onwards 
+
+EXCLUSION CRITERIA 
+- Only inpatient cases 
+- GRT/Eye referral patients from other hospitals
+- Foreigners whose first clinic visit earlier than 2017",,published,"Date: 2025-04-10 06:32:14.008631
+Numerator for previous year was 0, any change this year will result in >20% change. Absolute change in number is only 1.
+--------
+",Please verify and confirm that some percentages have changed by more than 20% compared to the previous year.,,Yes,1.1,0,0,1.1,1,0,0,1,87,0,0,87,No,,,,,,,,,,,,,,,,,Yes
+SLB,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Solomon Islands,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,Program data,published,"Date: 2025-04-17 10:40:56.218457
+No other disaggregation available.
+--------
+Date: 2025-04-08 08:36:41.565571
+The value is 0! (denominator)
+--------
+",Some values are missing. Please explain.,,Yes,83.3,0,0,83.3,5,0,0,5,6,0,0,6,Yes,20.8,,,20.8,5,0,0,5,24,0,0,24,,,,,Yes
+LKA,South-East Asia,South Asia,Asia and the Pacific,Sri Lanka,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+THA,South-East Asia,East Asia and the Pacific,Asia and the Pacific,Thailand,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,"- Antiretroviral Patient Registers from NAP report 
+- TPT-HIV report by Division of AIDS and STIs (http://tpthiv.ddc.moph.go.th/)",2023-10-01,2024-09-30,The data (numerator) in the table for newly enrolled on antiretroviral therapy is sourced from http://tpthiv.ddc.moph.go.th/ and categorized by age groups: < 15 years and 15 years and above.,,published,"Date: 2025-05-28 06:40:39.190872
+There is an expedited TB screening policy for at-risk groups, focusing on three main groups: household contacts, PLHIV (People Living with HIV), and prisoners.
+--------
+Date: 2025-03-31 04:47:20.146105
+There is an expedited TB screening policy for at-risk groups, focusing on three main groups: household contacts, PLHIV (People Living with HIV), and prisoners.
+--------
+",Please verify and confirm that some percentages have changed by more than 20% compared to the previous year.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people newly enrolled on ART that started TB preventive treatment reported [1374] seems to reflect an important change from the previous reporting period [640]. The number of people currently enrolled on ART that started TB preventive treatment reported [3944] seems to reflect an important change from the number reported for the previous reporting period [944]. Please can you explain the reason for this or revise the data accordingly.
+
+naruemon tripetchsriu-rai (MINISTRY) said on 28/05/25 at 04:40: - We confirmed, the number of people newly enrolled on ART that started TB preventive treatment reported [1374] 
+- The number of people currently enrolled on ART that started TB preventive treatment reported [3944] corrected to 2,934.
+- There is an expedited TB screening policy for at-risk groups, focusing on three main groups: household contacts, PLHIV (People Living with HIV), and prisoners.
+
+",Yes,6.3,0,12.2,6.3,1374,0,9,1365,21731,42,74,21615,Yes,0.6,2.4,0.8,0.6,2934,3,7,2924,453948,126,902,452920,,,,,Yes
+TLS,South-East Asia,East Asia and the Pacific,Asia and the Pacific,Timor-Leste,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+TON,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Tonga,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,"Indicator is relevant to Tonga all 4 PLHIV under the care of the Treatment Core Team are on ART with one new ART initiation but, none of the 4 PLHIV was on TB latent treatment during the reporting period.",,published,"Date: 2025-04-23 03:29:53.989334
+No client on that age catergory.
+--------
+",Some values are missing. Please explain.,,Yes,0,,0,,0,,0,,1,,1,,Yes,0,,0,0,0,,0,0,4,,1,3,0,,0,0,Yes
+TUV,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Tuvalu,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,No newly enrolled in 2024,,published,"Date: 2025-04-17 20:14:04.619202
+No new ART enrolled into ART and TPT. 
+--------
+Date: 2025-04-10 13:05:28.441920
+No new ART enrolled into TPT
+--------
+",Some values are missing. Please explain.,,No,,,,,,,,,,,,,Yes,0,,,0,0,0,0,0,1,0,0,1,,,,,Yes
+VUT,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Vanuatu,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,Tuberculosis Patient Registers,2024-01-01,2024-12-31,,,published,"Date: 2025-04-17 09:47:25.884593
+There were no newly enrolled of prior ART Patient who started TPT
+--------
+Date: 2025-04-10 07:34:17.884156
+There were no newly enrolled ART Patient who started TPT
+--------
+","Some values are missing. Please explain.
+The age disaggregation does not add up to the total.",,Yes,0,,,,0,,,,3,,,,Yes,0,,,,0,,,,10,,,,0,,,,Yes
+VNM,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Viet Nam,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),"Reported under Circular No. 05/2023/TT-BYT, also referred to as Circular 05/C05, issued by the Ministry of Health of Viet Nam on 10 March 2023.",2023-12-15,2024-12-14,"Numerator data for  'Currently enrolled on antiretroviral therapy' is not available.  Circular 05 only collects the number of patients on ARV treatment who receive latent TB treatment (including those currently undergoing treatment and those who have previously completed latent TB treatment.
+
+Empty cells: data not available.",,published,"Date: 2025-05-21 10:15:45.848479
+Empty cells: data not available.
+--------
+Date: 2025-03-27 12:02:00.993202
+Empty cells: data not available.
+--------
+","Some values are missing. Please explain.
+The age disaggregation does not add up to the total.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: Please verify if data are available on the number of people currently enrolled on ART who received TB preventive treatment during the reporting period.
+
+HOANG DUC BUI (MINISTRY) said on 21/05/25 at 08:15: We already provided explanation in the box ""Additional information related to entered data"" and why this data is not available.
+
+",Yes,61.3,,,,7211,,,,11773,,,,No,,,,,,,,,,,,,,,,,Yes
+ATG,America,Latin America and the Caribbean,Caribbean,Antigua and Barbuda,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,,,,No,,,,,,,,,,,,,No,,,,,,,,,,,,,,,,,Yes
+BHS,America,Latin America and the Caribbean,Caribbean,Bahamas,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+BRB,America,Latin America and the Caribbean,Caribbean,Barbados,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),"Ladymeade Reference Unit
+Chest Clinic WSPC 2024",2024-01-01,2024-12-31,,,published,,,,Yes,0,0,0,0,0,0,0,0,107,0,0,107,Yes,0,0,0,0,0,0,0,0,1476,0,1,1475,0,0,0,0,Yes
+BLZ,America,Latin America and the Caribbean,Caribbean,Belize,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,BHIS,2024-01-01,2024-12-31,,,published,"Date: 2025-03-21 00:42:12.299668
+Verifying...
+--------
+",Please verify and confirm that some percentages have changed by more than 20% compared to the previous year.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people newly enrolled on ART that started TB preventive treatment reported [112] seems to reflect an important change from the previous reporting period [63]. Please can you explain the reason for this or revise the data accordingly. Last year it was reported [185] people living with HIV on ART started TB preventive treatment and that [1766] people living with HIV were enrolled on ART. Please verify if data are available on the number of people who received TPT among all currently on ART for this reporting period.
+
+Enrique  Romero (OTHER) said on 20/05/25 at 15:56: We do have data.  Can you kindly allow us access to update figures.
+
+",Yes,48.7,0,0,49.3,112,0,0,112,230,3,0,227,No,,,,,,,,,,,,,,,,,Yes
+CUB,America,Latin America and the Caribbean,Caribbean,Cuba,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),Medisys: Registro informatizado Nacional de casos de VIH,2024-01-01,2024-12-31,,,published,"Date: 2025-05-26 17:22:33.441642
+Si, definitivamente han cambiado
+--------
+Date: 2025-03-25 00:19:47.999966
+Si, definitivamente han cambiado
+--------
+","Verifique y confirme si algunos porcentajes han cambiando en más de un 20% respecto al año anterior
+The age disaggregation does not add up to the total.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: El número de personas recién inscritas en tratamiento antirretroviral [1214] y actualmente inscritas en tratamiento antirretroviral que iniciaron tratamiento preventivo contra la tuberculosis [1214] parecen reflejar un cambio importante con respecto al período de reporte anterior [1614 y 1795, respectivamente]. Agradecemos puedan brindar una explicacion para este cambio. El número de personas que se reporte que recibieron tratemiento preventivo contra la tuberculosis entre las personas recién inscritas en tratamiento antirretroviral en 2024 y todas las personas inscritas en tratamiento antirretroviral es el mismo, por favor verificar.
+
+Jose Joaquin Joanes fiol (MINISTRY) said on 26/05/25 at 15:22: El número de personas recién inscritas en tratamiento antirretroviral [1804] e iniciaron tratamiento preventivo contra la tuberculosis [1214] , es un numero inferior al reportado el año anterior, por el déficit de isoniacida.  
+El número de personas que se reporte que recibieron tratamiento preventivo contra la tuberculosis entre las personas recién inscritas en tratamiento antirretroviral en 2024 (1804) y todas las personas inscritas en tratamiento antirretroviral (28804) no es el mismo.
+
+",Yes,67.3,0,28.6,67.6,1214,0,4,1210,1804,1,14,1789,Yes,4.2,0,12.5,0.7,1214,0,4,210,28804,9,32,28763,10499,2,6,10491,Yes
+DMA,America,Latin America and the Caribbean,Caribbean,Dominica,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+DOM,America,Latin America and the Caribbean,Caribbean,Dominican Republic,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+GRD,America,Latin America and the Caribbean,Caribbean,Grenada,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+GUY,America,Latin America and the Caribbean,Caribbean,Guyana,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+HTI,America,Latin America and the Caribbean,Caribbean,Haiti,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,SALVH,2024-01-01,2024-12-31,,,published,"Date: 2025-05-19 19:38:12.447354
+Données manquantes
+--------
+","Certaines valeurs sont manquantes. Veuillez expliquer.
+La ventilation par âge ne correspond pas au total.
+Le dénominateur de cet indicateur devrait être le même que celui de l'indicateur 7.7. Veuillez vérifier.
+Veuillez vérifier et confirmer que certains pourcentages ont changé de plus de 20% par rapport à l'année précédente.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: L'année dernière, il a été rapporté que [8113] personnes vivant avec le VIH nouvellement inscrites à un traitement antirétroviral avaient commencé un traitement préventif contre la tuberculose. Veuillez vérifier si des données sont disponibles pour cette période de référence.
+
+Emmanuel Pierre (MINISTRY) said on 19/05/25 at 17:37: Lors de la soumission, les données n'étaient pas encore disponibles.
+
+",Yes,89.1,,,,10129,,,,11368,,,,No,,,,,,,,,,,,,,,,,Yes
+JAM,America,Latin America and the Caribbean,Caribbean,Jamaica,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+KNA,America,Latin America and the Caribbean,Caribbean,Saint Kitts and Nevis,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+LCA,America,Latin America and the Caribbean,Caribbean,Saint Lucia,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,,,,No,,,,,,,,,,,,,No,,,,,,,,,,,,,0,,,,Yes
+VCT,America,Latin America and the Caribbean,Caribbean,Saint Vincent and the Grenadines,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),"Health Security Unit
+OECS Report",2024-01-01,2024-12-31,,,published,"Date: 2025-04-29 20:08:29.941345
+Age disaggregation is not available.
+Some data is currently unavailable.
+--------
+","Some values are missing. Please explain.
+The age disaggregation does not add up to the total.",,Yes,0,,,,0,,,,38,,,,Yes,0,,,,0,,,,453,,,,,,,,Yes
+SUR,America,Latin America and the Caribbean,Caribbean,Suriname,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+TTO,America,Latin America and the Caribbean,Caribbean,Trinidad and Tobago,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),"Numerator value: National TB Programme, TB Patient Registers
+Denominator value: ART Patient Registers",2024-01-01,2024-12-31,Denominator values were available from 8 of 8 treatment clinics. Two adult treatment clinics at one hospital were merged.,,published,,,,Yes,1.3,0,0,1.3,5,0,0,5,388,1,5,382,Yes,0.1,0,0,0.1,8,0,0,8,7109,4,28,7077,25,0,0,25,Yes
+ALB,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Albania,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+ARM,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Armenia,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-05-19 11:17:43.633853
+The data is reliable․
+--------
+Date: 2025-03-26 06:21:43.116571
+The data is reliable․
+--------
+Date: 2025-03-21 08:48:35.241888
+The data is reliable․
+--------
+",Please verify and confirm that some percentages have changed by more than 20% compared to the previous year.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people newly enrolled on ART that started TB preventive treatment reported [183] seems to reflect an important change from the previous reporting period [135]. Please can you explain the reason for this or revise the data accordingly. The number of people reported to have received TPT prior to the reporting period refers to the number of people who are currently on ART and received TPT in 2023 or earlier; the same number is currently reported for this item as the number of people on ART who received TPT in 2024, please verify.
+
+Anna Mergelyan (OTHER) said on 19/05/25 at 09:17: The data has been reviewed again. Yes, in 2024 we focused our TB preventive treatment (TPT) efforts on newly enrolled ART clients, which explains the increase in reported numbers compared to the previous reporting period.
+
+Regarding the number of people reported to have received TPT prior to the reporting period, there was a technical issue. In fact, only 10 individuals had initiated TPT in 2023 and continued receiving it in 2024. All of them are in the 15+ age group.
+
+",Yes,33.8,0,0,34.1,183,0,0,183,541,2,2,537,Yes,20.1,0,0,20.4,193,0,0,193,960,5,8,947,193,0,0,193,Yes
+AZE,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Azerbaijan,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-03-18 07:54:48.207206
+I confirm the change.
+--------
+","Пожалуйста, проверьте и подтвердите, что некоторые процентные значения изменились более, чем на 20% по сравнению с прошлым годом","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people newly enrolled on ART that started TB preventive treatment reported [1136] seems to reflect an important change from the previous reporting period [838]. The number of people newly enrolled on ART reported [1179] seems to reflect an important change from the previous reporting period [863]. The number of people currently enrolled on ART that started TB preventive treatment reported [1749] seems to reflect an important change from the number reported for the previous reporting period [1349]. Please can you explain the reasons for this or revise the data accordingly.
+
+",Yes,96.4,100,100,96.3,1136,5,9,1122,1179,5,9,1165,Yes,20.5,7,26.8,20.6,1749,7,15,1727,8536,100,56,8380,7420,96,50,7274,Yes
+BLR,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Belarus,2024,GARPR,Yes,No,,,,,Отчетность Министерства здравоохранения Республики Беларусь,,published,"Date: 2025-03-25 22:09:07.264794
+1
+--------
+","Пожалуйста, проверьте и подтвердите, что некоторые процентные значения изменились более, чем на 20% по сравнению с прошлым годом","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people newly enrolled on ART that started TB preventive treatment reported [254] seems to reflect an important change from the previous reporting period [450]. Please can you explain the reason for this or revise the data accordingly. Please verify if data are available on the number of people currently enrolled on ART who received TB preventive treatment during the reporting period.
+
+Инна Карабан (MINISTRY) said on 30/05/25 at 12:57: Данные уточняются
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+BIH,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Bosnia and Herzegovina,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+GEO,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Georgia,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+KAZ,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Kazakhstan,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),"Информационная система ""Электронное слежение за случаями ВИЧ-инфекции""",2024-01-01,2024-12-31,,,published,"Date: 2025-05-20 05:33:57.516580
+подтверждаем изменения, комментарии даны
+--------
+Date: 2025-03-28 12:43:12.772771
+подтверждаем изменения
+--------
+","Пожалуйста, проверьте и подтвердите, что некоторые процентные значения изменились более, чем на 20% по сравнению с прошлым годом","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people newly enrolled on ART that started TB preventive treatment reported [2869] seems to reflect an important change from the previous reporting period [2368]. The number of people currently enrolled on ART that started TB preventive treatment reported [3267] seems to reflect an important change from the number reported for the previous reporting period [2686]. Please can you explain the reason for this or revise the data accordingly.
+
+Sairankul Kassymbekova (MINISTRY) said on 20/05/25 at 03:33: В 2023 году были проблемы связанные с закупом противотуберкулезных препаратов, препараты поступили в медицинские учреждения только во второй половине года. В свзи с чем охват профилактическим лечением ТБ по итогам 2023 года был недостаточным, в 2024 году проблем связанных с закупом препаратов не было.
+
+",Yes,73.8,40,0,74,2869,6,0,2863,3890,15,5,3870,Yes,10.3,24.6,2.6,10.4,3267,16,6,3245,31614,65,229,31320,28344,49,0,28295,Yes
+KGZ,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Kyrgyzstan,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),Система электронного слежения за ВИЧ-инфекцией в КР,2024-01-01,2024-12-31,,,published,"Date: 2025-05-29 07:37:42.708608
+Да подтверждаем увеличение значений на 20%
+--------
+Date: 2025-03-18 08:14:08.041652
+Да подтверждаем увеличение значений на 20%
+--------
+","Пожалуйста, проверьте и подтвердите, что некоторые процентные значения изменились более, чем на 20% по сравнению с прошлым годом
+В настоящее время проходит курс антиретровирусной терапии: Числитель и знаменатель не соответствуют процентному соотношению.
+Число людей, живущих с ВИЧ и получающих АРТ, которые получали профилактическое лечение от туберкулеза до этого отчетного периода, должно быть больше числа людей, живущих с ВИЧ и получающих АРТ, которые получали профилактическое лечение от туберкулеза в 2024 году. Пожалуйста, подтвердите это или дайте объяснение.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people newly enrolled on ART that started TB preventive treatment reported [579] seems to reflect an important change from the previous reporting period [332]. The number of people currently enrolled on ART that started TB preventive treatment reported [1010] seems to reflect an important change from the number reported for the previous reporting period [486]. Please can you explain the reason for this or revise the data accordingly. The number of people reported to have received TPT prior to the reporting period refers to the number of people who are currently on ART and received TPT in 2023 or earlier; the same number is currently reported for this item as the number of people newly enrolled on ART in 2024, please verify.
+
+Айгуль Солпуева (OTHER) said on 29/05/25 at 05:37: Причиной увеличение назначение профилактического лечение туберкулеза: 
+1. Сокращение курса ПЛТ на 3 мес. в связи с назначением нового комбинированного препарата Рифапентин/изониазид 300/300 мг №36. 1 раз в неделю, что создало удобства в приеме препарата.
+2. В стране внедрена стратегия мотивационной выплаты медицинским работникам при назначении новым выявленным ЛЖВ ПЛТ по показаниям. 
+Корректировано количество ЛЖВ, начавшие ПЛТ до отчетного периода на 486 ЛЖВ за 2023 год.
+
+",Yes,61.3,22.2,25,62.1,579,2,3,574,945,9,12,924,Yes,14.7,9.1,4.9,14.9,960,3,6,951,6894,33,123,6738,486,1,2,483,Yes
+MNE,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Montenegro,2024,GARPR,No,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+MKD,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,North Macedonia,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+MDA,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Republic of Moldova,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-04-03 12:59:11.197042
+Подтверждаем, что процентные значения изменились более, чем на 20% по сравнению с прошлым годом
+--------
+Date: 2025-03-25 14:43:45.094481
+Подтверждаем, что процентные значения изменились более, чем на 20% по сравнению с прошлым годом
+--------
+","Пожалуйста, проверьте и подтвердите, что некоторые процентные значения изменились более, чем на 20% по сравнению с прошлым годом","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people currently enrolled on ART that started TB preventive treatment reported [205] seems to reflect an important change from the number reported for the previous reporting period [289]. Please can you explain the reason for this or revise the data accordingly.
+
+Tatiana Costin-Codreanu (MINISTRY) said on 20/05/25 at 13:44: The main cause is the refusal of patients to take isoniazid prophylaxis for 6 months.
+Starting in 2025, the RIFAPENTINE preparation will be used (short course of 12 doses in 3 months), which could favor an increase in the percentage of people who will initiate the anti-tuberculosis prophylaxis course.
+
+",Yes,11.5,0,0,11.5,96,0,0,96,838,3,3,832,Yes,2.3,0,0,2.3,205,0,0,205,8974,25,99,8850,,,,,Yes
+RUS,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Russian Federation,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+TJK,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Tajikistan,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),Данные Национальной программы. Система электронного слежения за случаями ВИЧ-инфекции.,2024-01-01,2024-12-31,,,published,"Date: 2025-03-19 18:17:02.604825
+Подтверждается.
+--------
+","Пожалуйста, проверьте и подтвердите, что некоторые процентные значения изменились более, чем на 20% по сравнению с прошлым годом","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: Please verify if data are available on the number of people currently enrolled on ART who received TB preventive treatment during the reporting period.
+
+",Yes,95.3,87.5,84.4,95.8,981,14,27,940,1029,16,32,981,No,,,,,,,,,,,,,,,,,Yes
+TKM,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Turkmenistan,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+UKR,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Ukraine,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),"Newly enrolled on antiretroviral therapy:
+For the numerator - the Information System ""Socially Significant Diseases"" (IS SSD).
+For the denominator - annual reporting form No. 2 - HIV / AIDS ""Report on persons with conditions and diseases caused by HIV. 2024""
+
+To determine the indicator in the table ""Currently receiving antiretroviral therapy"", data from the following sources were used the Information System ""Socially Significant Diseases"" (IS SSD).",2024-01-01,2024-12-31,"Data includes information from all regions of the country, except for the territories temporarily not controlled by the Government of Ukraine.",,published,"Date: 2025-03-28 09:00:03.884641
+The data is corrected.
+--------
+Date: 2025-03-27 11:47:10.826986
+The data has been corrected.
+--------
+Date: 2025-03-10 14:50:12.281411
+Limited access to data due to the invasion of the Russian Federation.
+--------
+Date: 2025-03-10 14:18:40.809945
+Limited access to data due to the invasion of the Russian Federation
+--------
+","Some values are missing. Please explain.
+The age disaggregation does not add up to the total.",,Yes,76.5,,,,7678,,,,10038,,,,Yes,10.2,14.8,2.7,10.3,12127,20,29,12078,118701,135,1067,117499,,,,,Yes
+UZB,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Uzbekistan,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),годовые отчеты службы СПИД,2024-01-01,2024-12-31,,,published,"Date: 2025-05-28 11:17:37.820580
+Нет общего числа которые начали профилактическое лечение до отчетного периода
+--------
+Date: 2025-03-29 08:33:57.057077
+Нет общего числа которые начали профилактическое лечение до отчетного периода
+--------
+","Пожалуйста, проверьте и подтвердите, что некоторые процентные значения изменились более, чем на 20% по сравнению с прошлым годом","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people newly enrolled on ART reported [5568] seems to reflect an important change from the previous reporting period [3727]. It should also be the same as the number of people newly enrolled on ART reported for indicator 7.7 [3220]. Please verify.
+
+Baxrom Igamberdiyev (OTHER) said on 28/05/25 at 09:17: Были сделаны поправки по Вашему коментарию
+
+",Yes,41.6,0,56.6,41.4,2319,0,47,2272,5568,0,83,5485,Yes,22.5,0,7.5,22.7,10015,0,51,9964,44550,0,684,43866,,,,,Yes
+AGO,Africa,Sub-Saharan Africa,Eastern and southern Africa,Angola,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,Clinical Care Map For patients living with HIV,Os dados reportados referem-se aos pacientes que iniciaram tratamento antiretroviral no periodo em referência e fizeram profilaxia para tuberculose.,edit,"Date: 2025-03-28 12:30:04.483848
+Sim
+--------
+",Please verify and confirm that some percentages have changed by more than 20% compared to the previous year.,,Yes,45.4,86.9,42.3,44.5,20329,875,564,18890,44748,1007,1332,42409,Yes,11.9,67.4,14.1,11.4,20362,878,569,18915,171534,1302,4027,166205,22089,509,582,20998,Yes
+BWA,Africa,Sub-Saharan Africa,Eastern and southern Africa,Botswana,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,DHIS2,2024-01-01,2024-12-31,,,published,,,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people reported to have received TPT prior to the reporting period refers to the number of people who are currently on ART and received TPT in 2023 or earlier; the same number is currently reported for this item as the number of people on ART who received TPT in 2024, please verify. Please verify if data are available on the number of people newly enrolled on ART who received TB preventive treatment during the reporting period.
+
+",No,,,,,,,,,,,,,Yes,8.4,3.5,1.7,8.4,28565,17,44,28504,341533,481,2619,338433,28565,17,44,28504,Yes
+COM,Africa,Sub-Saharan Africa,Eastern and southern Africa,Comoros,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+ERI,Africa,Sub-Saharan Africa,Eastern and southern Africa,Eritrea,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+SWZ,Africa,Sub-Saharan Africa,Eastern and southern Africa,Eswatini,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),Client Management Information System (CMIS),2024-01-01,2024-12-31,,,published,"Date: 2025-05-27 12:13:26.763961
+No Disaggregation
+--------
+","Some values are missing. Please explain.
+The age disaggregation does not add up to the total.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: Last year it was reported [5287] people living with HIV on ART started TB preventive treatment. Please verify if data are available for this reporting period.
+
+Bongani Dube (OTHER) said on 27/05/25 at 10:13: Comment addressed
+
+",Yes,60,,,,3772,,,,6288,,,,Yes,3.9,12.8,5.2,3.8,8466,82,219,8165,218710,641,4226,213843,,,,,Yes
+ETH,Africa,Sub-Saharan Africa,Eastern and southern Africa,Ethiopia,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,DHIS2,2023-07-01,2024-06-30,,,published,"Date: 2025-05-28 07:44:44.729381
+NA
+--------
+Date: 2025-05-28 07:42:33.446551
+NA
+--------
+Date: 2025-05-27 18:24:32.575359
+NA
+--------
+Date: 2025-05-27 18:21:26.675318
+NA
+--------
+Date: 2025-05-27 18:17:12.236428
+NA
+--------
+Date: 2025-05-27 18:17:06.771675
+NA
+--------
+Date: 2025-05-27 18:14:34.214791
+NA
+--------
+Date: 2025-03-25 23:12:49.629637
+NA
+--------
+",The age disaggregation does not add up to the total.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people reported to have received TPT prior to the reporting period refers to the number of people who are currently on ART and received TPT in 2023 or earlier; the same number is currently reported for this item as the number of people on ART who received TPT in 2024, please verify.
+
+Mirtie Meselu (MINISTRY) said on 27/05/25 at 16:16: Data updated with most recent national HMIS report.
+
+",Yes,89.7,0,0,0,28627,0,0,0,31916,0,0,0,Yes,5.6,0,0,0,29311,0,0,0,522442,0,0,0,34314,0,0,0,Yes
+KEN,Africa,Sub-Saharan Africa,Eastern and southern Africa,Kenya,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),National TB System (TIBU),2024-01-01,2024-12-31,,,published,,,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: Last year it was reported [121991] people living with HIV on ART started TB preventive treatment of [1338251] people living with HIV enrolled on ART. Please verify if data are available for this reporting period.
+
+JOSHUA M'IMAITA (MINISTRY) said on 21/05/25 at 13:00: Awaiting data confirmation by the National TB program and NASCOP
+
+",No,,,,,,,,,,,,,No,,,,,,,,,,,,,0,0,0,0,Yes
+LSO,Africa,Sub-Saharan Africa,Eastern and southern Africa,Lesotho,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-05-21 16:09:24.533239
+No data o such diaggregation
+--------
+Date: 2025-03-31 22:53:48.964888
+No data o such diaggregation
+--------
+","Some values are missing. Please explain.
+The age disaggregation does not add up to the total.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people currently enrolled on ART that started TB preventive treatment reported [6035] seems to reflect an important change from the number reported for the previous reporting period [16371]. Please can you explain the reason for this or revise the data accordingly. Please verify if data are available on the number of people newly enrolled on ART who received TB preventive treatment during the reporting period.
+
+Morongoe Nyakane (MINISTRY) said on 21/05/25 at 14:09: The number is correct and has declined in 2024, it includes both newly enrolled and those ever enrolled, there is no data on newly enrolled on ART and started TPT, however, the programme revised the tools to separate the newly enrolled and those already on ART who started on TPT, in the next reporting we will be able to report on that indicator. 
+
+At the moment we don't have a reason to explain the decline, we are yet to conduct the data data quality assessment on this indicator to get to the depth of this result. Again please note that at at 2024, TPT coverage for all PLHIV is 95% so these number could be associated with the fact that now the focus is on new clients enrolled on ART,
+
+",No,,,,,,,,,,,,,Yes,2.5,,,,6035,,,,245897,,,,,,,,Yes
+MDG,Africa,Sub-Saharan Africa,Eastern and southern Africa,Madagascar,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+MWI,Africa,Sub-Saharan Africa,Eastern and southern Africa,Malawi,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,Quarterly supervision data,published,"Date: 2025-05-19 21:46:37.150967
+We do not have such data
+--------
+Date: 2025-03-30 09:04:24.840710
+We do not have such data
+--------
+","Some values are missing. Please explain.
+The age disaggregation does not add up to the total.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people newly enrolled on ART that started TB preventive treatment reported [39984] seems to reflect an important change from the previous reporting period [47297]. Please can you explain the reason for this or revise the data accordingly.
+
+Shadreck Sulani (MINISTRY) said on 19/05/25 at 19:45: With Malawi implementing WHO-recommended advanced HIV disease (AHD) packages, more newly enrolled PLHIV are being screened intensively for TB and other OIs (opportunistic infections), revealing previously undiagnosed TB.
+
+",Yes,61,,,,39984,,,,65580,,,,No,,,,,,,,,,,,,,,,,Yes
+MUS,Africa,Sub-Saharan Africa,Eastern and southern Africa,Mauritius,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+MOZ,Africa,Sub-Saharan Africa,Eastern and southern Africa,Mozambique,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,"Data are only available for new initiates to ART services, we do not track those currently on ART.  No age disags are currently available.  For the number of people starting TPT previously, you should be able to to sum the previous years of submitted data.",,published,"Date: 2025-04-02 12:35:54.093125
+Not all disags are available in the national system
+--------
+","Some values are missing. Please explain.
+The age disaggregation does not add up to the total.",,Yes,99.5,,,,264992,,,,266236,,,,No,,,,,,,,,,,,,,,,,Yes
+NAM,Africa,Sub-Saharan Africa,Eastern and southern Africa,Namibia,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-03-24 09:02:39.285854
+Corrected
+--------
+",Please verify and confirm that some percentages have changed by more than 20% compared to the previous year.,,Yes,73.6,40,58.5,74.8,6342,88,83,6171,8614,220,142,8252,Yes,3.8,23.2,3.6,3.8,8221,158,172,7891,215600,682,4753,210165,199701,316,4361,195024,Yes
+RWA,Africa,Sub-Saharan Africa,Eastern and southern Africa,Rwanda,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),RHMIS,2024-01-01,2024-12-31,,"Reported data into HMIS are disaggregated into below 15 years, and 15 years and above, that is why the data reported for 5-15 years contains all ages below 15 years.",published,,,,No,,,,,,,,,,,,,No,,,,,,,,,,,,,214945,,4696,210249,Yes
+SYC,Africa,Sub-Saharan Africa,Eastern and southern Africa,Seychelles,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-03-26 08:19:54.708112
+2023-73 number of people living with HIV newly enrolled on antiretroviral therapy compared to 2024-89 people newly enrolled on antiretroviral therapy has changed by more than 20%
+--------
+",Please verify and confirm that some percentages have changed by more than 20% compared to the previous year.,,Yes,0,0,0,0,0,0,0,0,89,0,2,87,Yes,4.1,0,0,13.5,5,0,0,5,122,2,83,37,,,,,Yes
+ZAF,Africa,Sub-Saharan Africa,Eastern and southern Africa,South Africa,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-03-18 09:29:50.040905
+Age disaggregation data not available.
+--------
+Date: 2025-03-17 16:42:35.677953
+Age disaggregation data not available.
+--------
+","Some values are missing. Please explain.
+The age disaggregation does not add up to the total.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people living with HIV on ART that have received TB preventive treatment prior to this reporting period refers to people who are currently on ART that received TB preventive treatment in 2023 or prior years. The number currently reported for this item is the same as the number of people newly enrolled on ART in 2024 that received TB preventive treatment. Please verify. Please verify if data are available on the number of people currently enrolled on ART who received TB preventive treatment during the reporting period.
+
+",Yes,78.3,,,,270523,,,,345675,,,,No,,,,,,,,,,,,,270523,,,,Yes
+SSD,Africa,Sub-Saharan Africa,Eastern and southern Africa,South Sudan,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+UGA,Africa,Sub-Saharan Africa,Eastern and southern Africa,Uganda,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-05-30 17:45:22.774962
+Consider denominator and numerator for 7.8
+--------
+Date: 2025-05-30 17:44:30.275762
+Consider denominator and numerator for 7.8
+--------
+",The denominator for this indicator should be the same as the denominator for indicator 7.7. Please verify.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: Last year it was reported [9070] people living with HIV newly enrolled on ART started TB preventive treatment. Please verify if data are available for this reporting period.
+
+Charles Otai (OTHER) said on 30/05/25 at 15:45: Data is available and has been provided
+
+",Yes,6.0,6.6,9.4,5.9,7428,184,200,7044,124712,2787,2127,119798,Yes,6.5,23.9,5.9,6.4,94856,1731,2611,90514,1462482,7245,44582,1410655,102131,2005,3367,96759,Yes
+TZA,Africa,Sub-Saharan Africa,Eastern and southern Africa,United Republic of Tanzania,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),HMIS,2024-01-01,2024-12-31,,,published,"Date: 2025-05-22 09:03:05.154809
+Yes
+--------
+Date: 2025-03-20 10:54:31.613485
+Yes, not reported last year
+--------
+Date: 2025-03-20 09:16:25.992850
+Yes, not reported last year
+--------
+",Please verify and confirm that some percentages have changed by more than 20% compared to the previous year.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people newly enrolled on ART that started TB preventive treatment reported [132045] seems to reflect an important change from the previous reporting period [17909] and seems closer to the number of people who received TB preventive treatment among all people on ART reported last year  [174038]. Please verify. The number of people living with HIV on ART that have received TB preventive treatment prior to this reporting period is the same as the number of people reported last year to have received TB preventive treatment in 2023, kindly note this item refers to all people on ART who received TPT in 2023 or prior years, please verify.
+
+Mohamed Turay (UNAIDS) said on 22/05/25 at 07:02: Data on the number of people newly enrolled on ART that started TB preventive treatment has been corrected and updated.
+
+",Yes,6.9,6.5,9.2,6.8,9665,174,243,9248,141031,2680,2654,135697,No,,,,,,,,,,,,,174038,2632,3510,167896,Yes
+ZMB,Africa,Sub-Saharan Africa,Eastern and southern Africa,Zambia,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),The numerator for this indicator is derived from the TB Preventive Therapy (TPT) Register and the denominator is from the Antiretroviral Therapy (ART) Register,2024-01-01,2024-12-31,,,published,"Date: 2025-05-28 10:31:59.729889
+The current data collection tools do not disaggregate this indicator by under five (U5) children age group
+--------
+Date: 2025-03-28 11:02:08.896119
+The current data collection tools do not disaggregate this indicator by under five (U5) children age group
+--------
+Date: 2025-03-27 14:17:43.169771
+The current data collection tools do not disaggregate this indicator by under five (U5) children age group
+--------
+",Some values are missing. Please explain.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people currently enrolled on ART that started TB preventive treatment reported [231699] seems to reflect an important change from the number reported for the previous reporting period [181529]. Please can you explain the reason for this or revise the data accordingly.
+
+Nyewani Soko (OTHER) said on 28/05/25 at 08:31: Please note that according to Zambia TPT Guidelines, people who complete a TPT treatment course are eligible to receive new treatment 3 years from the date of completion. The country conducts Data Quality Audits (DQAs) to enhance reliability of data, and data is corrected from time to time. The following are the current numbers for PLHIV started on TPT;
+Unsaved visualization
+Zambia Ministry of Health
+Started INH in HIV Care
+2018	76,315
+2019	189,586
+2020	301,256
+2021	295,497
+2022	278,817
+2023	222,208
+2024	231,757
+
+",Yes,79.7,,57.8,80.7,92680,0,2713,89967,116214,0,4696,111518,Yes,17.6,8.6,22.5,17.6,231699,441,7256,224002,1312876,5113,32192,1275571,1287260,11393,47678,1228189,Yes
+ZWE,Africa,Sub-Saharan Africa,Eastern and southern Africa,Zimbabwe,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),TPT Register,2024-01-01,2024-12-31,,,published,"Date: 2025-03-12 14:56:18.052127
+This is due to the changes in TPT initiation policy in Zimbabwe.
+Previously, patients would re-dose every three years. Currently TPT is offered to eligible new initiations and PLWHIV in care who are contacts of bacteriologically confirmed cases. The TPT patients are no longer re-dosing every three years, they only receive once in their life time unless they are contacts of bacteriologically confirmed cases
+--------
+",Please verify and confirm that some percentages have changed by more than 20% compared to the previous year.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people newly enrolled on ART that started TB preventive treatment reported [35135] seems to reflect an important change from the previous reporting period [56262]. The number of people currently enrolled on ART that started TB preventive treatment reported [115797] seems to reflect an important change from the number reported for the previous reporting period [223732]. Please can you explain the reason for this or revise the data accordingly. The number of people on ART who received TB preventive treatment prior to the reporting period is the same as the number of people reported last year to have received TB preventive treament in 2023, kindly note this item refers to people on ART who received TPT in 2023 or prior years, please verify.
+
+",Yes,54.06,21.52,45.85,54.82,35135,257,492,34386,64996,1194,1073,62729,Yes,9.4,9.2,7.4,9.5,115797,513,2542,112742,1232472,5569,34437,1192466,223732,730,5664,217338,Yes
+ARG,America,Latin America and the Caribbean,Latin America,Argentina,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+BOL,America,Latin America and the Caribbean,Latin America,Bolivia (Plurinational State of),2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+BRA,America,Latin America and the Caribbean,Latin America,Brazil,2024,GARPR,Yes,No,,,,,"Based on our information systems, we cannot know the number of people on antiretroviral therapy who have taken preventive treatment for tuberculosis.",,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+CHL,America,Latin America and the Caribbean,Latin America,Chile,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,,,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: El año pasado se reportó que [113] personas iniciaron tratamiento preventivo contra la tuberculosis entre [52610] personas que vivían con el VIH y estaban en tratamiento antirretroviral.Por favor verifique si hay datos disponibles para este periodo de reporte. El número de personas que recibieron tratamiento preventivo contra la tuberculosis antes del periodo de reporte se refiere al número de personas que actualmente reciben tratamiento antirretroviral y recibieron tratamiento preventivo contra la tuberculosis en 2023 o antes; el número reportado de personas que reciben tratamiento antirretroviral y recibieron tratamiento preventivo contra la tuberculosis antes de 2024 parece ser menor que el número de personas que se reportó que recibieron tratamiento preventivo contra la tuberculosis en 2023. Agradecemos puedan verificar.
+
+Carolina Peredo (MINISTRY) said on 02/06/25 at 14:24: Se revisa y se corrige dato.
+
+",Yes,1.8,0,0,1.8,71,0,0,71,3848,3,2,3843,No,,,,,,,,,,,,,113,0,0,113,Yes
+COL,America,Latin America and the Caribbean,Latin America,Colombia,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,La información reportada corresponde al registro de las atenciones que reciben las personas que viven con VIH consolidada por la Cuenta de Alto Costo (CAC).,2023-02-01,2024-01-31,,"Aunque el informe Situación del VIH en Colombia 2024 indica que el número total de personas incidentes que iniciaron tratamiento antirretroviral fue de 13.836, no se cuenta con un desagregado por edad para este número de pacientes. Sin embargo, es de anotar que el número reportado y sus desagregaciones fue provisto directamente por la Cuenta de Alto Costo para este informe.",published,"Date: 2025-04-09 17:20:48.738495
+En este período se reportó inicio de tratamiento preventivo en un niño menor de 5 años, lo que generó un porcentaje no reportado en años anteriores
+--------
+Date: 2025-03-12 03:20:05.179787
+.
+--------
+",Verifique y confirme si algunos porcentajes han cambiando en más de un 20% respecto al año anterior,,Yes,1.5,3.6,0,1.5,201,1,0,200,13687,28,24,13635,Yes,1.8,1.7,1.6,1.8,2674,2,8,2664,150136,117,505,149514,9502,4,25,9473,Yes
+CRI,America,Latin America and the Caribbean,Latin America,Costa Rica,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+ECU,America,Latin America and the Caribbean,Latin America,Ecuador,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,Registros administrativos de la EN TB,2024-01-01,2024-12-31,,,published,,,,No,,,,,,,,,,,,,No,,,,,,,,,,,,,1478,1,1,1476,Yes
+SLV,America,Latin America and the Caribbean,Latin America,El Salvador,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),"Registro de pacientes en terapia antirretroviral, registro de pacientes con tuberculosis.",2024-01-01,2024-12-31,,,published,"Date: 2025-03-29 12:13:17.837073
+Los datos son correctos
+--------
+","The age disaggregation does not add up to the total.
+Verifique y confirme si algunos porcentajes han cambiando en más de un 20% respecto al año anterior","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: El número de personas actualmente inscritas en tratamiento antirretroviral que iniciaron tratamiento preventivo contra la tuberculosis reportado [1778] parece reflejar un cambio importante con respecto al número reportado para el período de reporte anterior [2599]. El número de personas actualmente inscritas en tratamiento antirretroviral reportado [15344] parece reflejar un cambio importante con respecto al período de reporte anterior [12002]. Agradecemos puedan brindar una explicacion para esto o revisar los datos reportados. El número de personas que recibieron tratamiento preventivo de la tuberculosis (TPT) antes del período de reporte se refiere al número de personas que actualmente reciben tratamiento antirretroviral y recibieron tratamiento preventivo contra la tuberculosis en 2023 o antes; actualmente se reporta el mismo número para este elemento como el número de personas que reciben tratamiento antirretroviral y recibieron tratamiento preventivo contra la tuberculosis en 2024, por favor verificar.
+
+",Yes,65.3,0,0,0,599,0,0,0,917,0,0,0,Yes,11.6,0,0,0,1778,0,0,0,15344,0,0,0,1778,0,0,0,Yes
+GTM,America,Latin America and the Caribbean,Latin America,Guatemala,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,Anexo E,2024-01-01,2024-12-31,,cohorte en TAR total tamizados para TB: Número total de personas que viven con el VIH actualmente inscritas en la terapia antirretroviral que iniciaron el tratamiento preventivo contra la tuberculosis durante el periodo del informe,published,"Date: 2025-05-26 18:10:16.924815
+No se cuenta con esa información por lo que se colocó 0 en las casillas que lo solicitan.
+--------
+Date: 2025-05-26 18:09:56.626079
+No se cuenta con esa información por lo que se colocó 0 en las casillas que lo solicitan.
+Datos verificados con el Programa de Tuberculosis
+--------
+Date: 2025-04-10 23:20:01.472582
+No se cuenta con esa información por lo que se colocó 0 en las casillas que lo solicitan.
+--------
+","El número de personas que viven con el VIH en tratamiento antirretroviral y que han recibido tratamiento preventivo contra la tuberculosis antes de este período de notificación debería ser mayor que el número de personas que viven con el VIH en tratamiento antirretroviral y que recibieron tratamiento preventivo contra la tuberculosis en 2024. Por favor, verifique o proporcione una explicación.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: El número de personas actualmente en tratamiento antirretroviral que iniciaron tratamiento preventivo contra la tuberculosis reportado [2950] parece reflejar un cambio importante con respecto al número reportado en el período anterior [1446]. El número de personas actualmente en tratamiento antirretroviral reportado [23384] parece reflejar un cambio importante con respecto al período anterior [2959]. El número de personas en tratamiento antirretroviral reportado el año pasado parece diferir significativamente del número reportado para 2024. Agradecemos puedan brindar una explicacion para esta diferencia o modificar los datos reportados.
+
+",No,,,,,,,,,,,,,Yes,12.6,2.5,9.8,12.7,2950,2,31,2917,23384,80,316,22988,0,0,0,0,Yes
+HND,America,Latin America and the Caribbean,Latin America,Honduras,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,Consolidado de control de terapia preventiva para TB en PVIH nuevos y subsiguientes 2024,2024-01-01,2024-12-31,"La informacion fue recolectada de los 64 Servicios de Atencion Integral, distribuidos en las 20 Regiones Sanitarias del Pais","""Para responder al indicador Porcentaje de personas que viven con el VIH actualmente inscritas en la terapia antirretroviral que iniciaron el tratamiento preventivo para la tuberculosis durante el período de referencia, el denominador se obtiene del consolidado de la cohorte de personas en TAR registrado por UGI/SESAL. Sin embargo, este consolidado no presenta la desagregación por rangos de edad según los requerimientos del indicador""",published,"Date: 2025-03-29 01:25:06.451894
+""Para responder al indicador Porcentaje de personas que viven con el VIH actualmente inscritas en la terapia antirretroviral que iniciaron el tratamiento preventivo para la tuberculosis durante el período de referencia, el denominador se obtiene del consolidado de la cohorte de personas en TAR registrado por UGI/SESAL. Sin embargo, este consolidado no presenta la desagregación por rangos de edad según los requerimientos del indicador""														
+
+--------
+","Faltan algunos valores. Por favor, explícalo.
+The age disaggregation does not add up to the total.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: El número de personas que se reporta que recibieron tratamiento preventivo contra la tuberculosis antes del período de reporte se refiere al número de personas que actualmente están en tratamiento antirretroviral y recibieron tratamiento preventivo contra la tuberculosis en 2023 o antes; actualmente se reporta el mismo número para este elemento como el número de personas recién inscritas en tratamiento antirretroviral en 2024, por favor verificar.
+
+",Yes,56.7,,,,649,,,,1144,,,,Yes,8.6,,,,1177,,,,13737,,,,1177,,,,Yes
+MEX,America,Latin America and the Caribbean,Latin America,Mexico,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),Registro de personas en TAR y de personas con TB.,2024-01-01,2024-12-31,"Fuente: 
+SS/Conasida/Comité de Monitoreo y Evaluación/Grupo de Información Sectorial en VIH y otras ITS. Incluye información del Sector de Salud Público: SS, IMSS y Pemex. El ISSSTE, Semar y Sedena no enviaron datos. Datos al cierre de 2024.
+
+La información fue solicitada a las instituciones del sector salud público que forman parten del Grupo de Información Sectorial en VIH y otras ITS (GIS) del Comité de Monitoreo y Evaluación del Consejo Nacional para la Prevención y Control del Sida (Conasida). Incluye información de SS, IMSS y Pemex. El ISSSTE, Semar y Sedena no enviaron datos. Datos al cierre de 2024.",,edit,"Date: 2025-04-15 00:12:42.723098
+Actualmente en revisión
+--------
+","El denominador de este indicador debe ser el mismo que el del indicador 7.7. Por favor, verifique.
+Verifique y confirme si algunos porcentajes han cambiando en más de un 20% respecto al año anterior","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: El número de personas que viven con el VIH recién inscritas en el trattamento antirretroviral reportado para este indicador [20998] debe ser el mismo que el número de personas que viven con el VIH recién inscritas en el tratamiento antirretroviral reportado para el indicador 7.8 [21009]. Por favor, verificar. Por favor, verificar si se dispone de datos sobre el número de personas actualmente inscritas en el tratamiento antirretroviral que recibieron tratamiento preventivo contra la tuberculosis durante el período de reporte.
+
+",Yes,0.7,0,0,0.7,153,0,0,153,20998,135,103,20760,No,,,,,,,,,,,,,,,,,Yes
+NIC,America,Latin America and the Caribbean,Latin America,Nicaragua,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),SIVE-VIH 2024,2024-01-01,2024-12-31,,,edit,"Date: 2025-03-25 18:25:44.975125
+En 2024 ha mejorado la profilaxis con INH.
+--------
+",Verifique y confirme si algunos porcentajes han cambiando en más de un 20% respecto al año anterior,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: El número de personas que se reporta que recibieron tratamiento preventivo contra la tuberculosis antes del período del reporte se refiere al número de personas que actualmente reciben tratamiento antirretroviral y recibieron tratamiento preventivo contra la tuberculosis en 2023 o antes; actualmente se reporta el mismo número para este elemento como el número de personas recién inscritas en tratamiento antirretroviral que recibieron tratamiento preventivo contra la tuberculosis en 2024, por favor verificar. Por favor, verifique si hay datos disponibles sobre el número de personas actualmente inscritas en tratamiento antirretroviral que recibieron tratamiento preventivo contra la tuberculosis durante el período del reporte.
+
+",Yes,61.5,0,16.7,61.9,691,0,1,690,1123,3,6,1114,No,,,,,,,,,,,,,691,0,1,690,Yes
+PAN,America,Latin America and the Caribbean,Latin America,Panama,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-05-22 20:30:11.736689
+En relación a los recién inscritos en la terapia antirretroviral: los porcentajes fueron verificados y corresponden.
+
+Algunos porcentajes han cambiado en más de un 20% con relación al año anterior, debido a que hemos adoptado un nuevo esquema de profilaxis  para la infección TB, lo que permite el ingreso a un mayor número de personas y el mismo favorece la mayor adherencia a la profilaxis.
+
+El número de personas que viven con el VIH en tratamiento antirretroviral y que han recibido tratamiento preventivo contra la tuberculosis fue mayor en el 2024 debido a que la gran mayoría de las persona recibieron  el nuevo régimen: de 3 meses de rifapentina más isoniazida semanales. Sin embargo, en el año 2023 se utilizó mayormente el esquema de 6 meses de Nonoterapia con INH.
+
+--------
+Date: 2025-04-14 15:54:11.864537
+En relación a los recién inscritos en la terapia antirretroviral: los porcentajes fueron verificados y corresponden.
+
+Algunos porcentajes han cambiado en más de un 20% con relación al año anterior, debido a que hemos adoptado un nuevo esquema de profilaxis  para la infección TB, lo que permite el ingreso a un mayor número de personas y el mismo favorece la mayor adherencia a la profilaxis.
+
+El número de personas que viven con el VIH en tratamiento antirretroviral y que han recibido tratamiento preventivo contra la tuberculosis fue mayor en el 2024 debido a que la gran mayoría de las persona recibieron  el nuevo régimen: de 3 meses de rifapentina más isoniazida semanales. Sin embargo, en el año 2023 se utilizó mayormente el esquema de 6 meses de Nonoterapia con INH.
+
+--------
+Date: 2025-04-14 04:43:54.712355
+En relación a los recién inscritos en la terapia antirretroviral: los porcentajes fueron verificados y corresponden.
+
+Algunos porcentajes han cambiado en más de un 20% con relación al año anterior, debido a que hemos adoptado un nuevo esquema de profilaxis  para la infección TB, lo que permite el ingreso a un mayor número de personas y el mismo favorece la mayor adherencia a la profilaxis.
+
+El número de personas que viven con el VIH en tratamiento antirretroviral y que han recibido tratamiento preventivo contra la tuberculosis fue mayor en el 2024 debido a que la gran mayoría de las persona recibieron  el nuevo régimen: de 3 meses de rifapentina más isoniazida semanales. Sin embargo, en el año 2023 se utilizó mayormente el esquema de 6 meses de Nonoterapia con INH.
+
+--------
+Date: 2025-04-14 03:46:07.563012
+En relación a los recién inscritos en la terapia antirretroviral: los porcentajes fueron verificados y corresponden.
+
+Algunos porcentajes han cambiado en más de un 20% con relación al año anterior, debido a que hemos adoptado un nuevo esquema de profilaxis  para la infección TB, lo que permite el ingreso a un mayor número de personas y el mismo favorece la mayor adherencia a la profilaxis.
+
+El número de personas que viven con el VIH en tratamiento antirretroviral y que han recibido tratamiento preventivo contra la tuberculosis fue mayor en el 2024 debido a que la gran mayoría de las persona recibieron  el nuevo régimen: de 3 meses de rifapentina más isoniazida semanales. Sin embargo, en el año 2023 se utilizó mayormente el esquema de 6 meses de Nonoterapia con INH.
+
+--------
+Date: 2025-04-14 03:26:25.598055
+En relación a los recién inscritos en la terapia antirretroviral: los porcentajes fueron verificados y corresponden.
+
+Algunos porcentajes han cambiado en más de un 20% con relación al año anterior, debido a que hemos adoptado un nuevo esquema de profilaxis  para la infección TB, lo que permite el ingreso a un mayor número de personas y el mismo favorece la mayor adherencia a la profilaxis.
+
+El número de personas que viven con el VIH en tratamiento antirretroviral y que han recibido tratamiento preventivo contra la tuberculosis fue mayor en el 2024 debido a que la gran mayoría de las persona recibieron  el nuevo régimen: de 3 meses de rifapentina más isoniazida semanales. Sin embargo, en el año 2023 se utilizó mayormente el esquema de 6 meses de Nonoterapia con INH.
+
+--------
+","Verifique y confirme si algunos porcentajes han cambiando en más de un 20% respecto al año anterior
+El número de personas que viven con el VIH en tratamiento antirretroviral y que han recibido tratamiento preventivo contra la tuberculosis antes de este período de notificación debería ser mayor que el número de personas que viven con el VIH en tratamiento antirretroviral y que recibieron tratamiento preventivo contra la tuberculosis en 2024. Por favor, verifique o proporcione una explicación.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: El número de personas recién inscritas en tratamiento antirretroviral que iniciaron tratamiento preventivo contra la tuberculosis reportado [664] parece reflejar un cambio importante con respecto al período de reporte anterior [497]. El número de personas actualmente inscritas en tratamiento antirretroviral que iniciaron tratamiento preventivo contra la tuberculosis reportado [1089] parece reflejar un cambio importante con respecto al número reportado para el período de reporte anterior [482]. Por favor, explique la razón de este cambio o revise los datos reportados. El número de personas que viven con el VIH en tratamiento antirretroviral que han recibido tratamiento preventivo contra la tuberculosis antes de este periodo de reporte [574] debería ser mayor que el número de personas que viven con el VIH en tratamiento antirretroviral que recibieron tratamiento preventivo contra la tuberculosis en 2023 [1089]. Agradecemos puedan verificar.
+
+Rosa Lowe (MINISTRY) said on 22/05/25 at 18:45: El número de personas recién inscritas en el tratamiento antirretroviral que iniciaron tratamiento preventivo contra la tuberculosis reportados, al igual que el número de personas actualmente inscritas en tratamiento antirretroviral que iniciaron tratamiento preventivo contra la tuberculosis, reflejan un cambio importante, debido a que, el país cambió al nuevo esquema de profilaxis para la infección TB, lo que permitió administrar estos medicamentos a un número mayor de pacientes y dicho esquema favoreció una mayor adherencia a la profilaxis. Por lo tanto, cada 3 meses se pudo ingresar nuevas personas en la profilaxis, los que permanecían adheridos, hasta completar en esquema.
+
+El número de personas reportados que viven con el VIH en tratamiento antirretroviral que han recibido tratamiento preventivo contra la tuberculosis antes de este periodo de reporte, fue de 574 en el año 2023 y  el número de personas que viven con el VIH en tratamiento antirretroviral que recibieron tratamiento preventivo contra la tuberculosis en el 2024 fue de 1089.  Esta última cifra es mayor que el reportado el año anterior, ya que en el 2024 la gran mayoría de las persona recibieron el nuevo régimen de profilaxis que consiste en:  3 meses de Rifapentina más Isoniazida semanales; sin embargo, en el año 2023 se utilizó mayormente el esquema de 6 meses de Monoterapia con INH. Además, los datos del 2023 contemplan solamente aquellos pacientes que iniciaron la profilaxis en el segundo trimestre del año.
+
+",Yes,33.2,31.25,57.1,33.16,664,5,4,655,1998,16,7,1975,Yes,5.2,0,0.7,5.2,1089,0,1,1088,21034,63,144,20827,574,4,1,569,Yes
+PRY,America,Latin America and the Caribbean,Latin America,Paraguay,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-05-20 18:58:31.837655
+si confirmamos los datos
+--------
+Date: 2025-03-27 15:33:08.467569
+si confirmamos los datos
+--------
+",Verifique y confirme si algunos porcentajes han cambiando en más de un 20% respecto al año anterior,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: El número de personas recién inscritas en tratamiento antirretroviral reportado [1414] parece reflejar un cambio importante con respecto al período anterior [1837]. El número de personas actualmente inscritas en tratamiento antirretroviral que iniciaron tratamiento preventivo contra la tuberculosis reportado [888] parece reflejar un cambio importante con respecto al número reportado para el período anterior [228]. Por favor, explique el motivo o revise los datos reportados.
+
+Giulia Cipolla (MINISTRY) said on 20/05/25 at 16:58: En relación a la primera pregunta, desde el 01/01/2024 se implementa el registro obligatorio de la atención a personas con VIH en el Sistema de Información en Salud (HIS), el registro obligatorio de la dispensación de farmacia a través del Sistema de control de insumos automatizados del Paraguay (SICIAP), logrando una implementación del HIS 76% y del Siciap del 96%.
+Consideramos aún existen brechas en el registro de la información.
+
+Con respecto a la TPT, desde el 01/01/2024 se exigio el cumplimiento de la normativa vigente de inicio de TPT a todas las PVV con CD4 menor a 200 cel/ml.
+
+",Yes,8.5,0,0,8.6,120,0,0,120,1414,10,6,1398,Yes,6.7,0,0,6.7,888,0,0,888,13298,29,110,13159,,,,,Yes
+PER,America,Latin America and the Caribbean,Latin America,Peru,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),"Instrumento de monitoreo de Terapia Preventiva para Tuberculosis en Personas viviendo con VIH, de la Dirección de Prevención y Control de VIH-SIDA, ITS y Hepatitis, año 2023.",2023-01-01,2023-12-31,"Fuente: Registro Nominal de Terapia Preventiva para Tuberculosis en personas viviendo con VIH de cada establecimiento de salud, según NTS N° 143-MINSA-2018-DGIESP, ""Norma Técnica de Salud para la Prevención y Control de la Coinfección TB-VIH en el Perú""., según Resolución Ministerial N° 895-2018/MINSA","Información anual de personas que están en servicios con TAR, personas enroladas nuevas y personas continuadores al TAR, que pertenece al año 2023.
+Incluye información de inicios de Terapia Preventiva para TB de EsSALUD.
+
+La información del denominador para ""Recién inscritos en TAR"" no es igual que el indicador 7.7 (con información del año 2024) porque es data de Terapia Preventiva para TB, correspondiente al año 2023.",published,"Date: 2025-05-28 21:39:47.854864
+La información del indicador 7.7. corresponde al año 2024,
+Mientras que la información registrada de TPT es del año 2023.
+--------
+","El denominador de este indicador debe ser el mismo que el del indicador 7.7. Por favor, verifique.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: El año pasado se reportó que [3396] personas que vivían con el VIH recién inscritas en tratamiento antirretroviral iniciaron tratamiento preventivo contra la tuberculosis y [3958] personas que vivían con el VIH y recibían tratamiento antirretroviral iniciaron tratamiento preventivo contra la tuberculosis. Por favor, verifique si hay datos disponibles para este período de reporte.
+
+Patricia Ruiz Pizarro (MINISTRY) said on 28/05/25 at 19:38: Se actualiza la información que estuvo pendiente siempre.
+
+",Yes,32,0,0,32.7,4055,0,0,4055,12661,110,145,12406,Yes,4,0,0,4.1,4724,0,0,4724,118085,1031,1659,115395,4724,0,0,4724,Yes
+URY,America,Latin America and the Caribbean,Latin America,Uruguay,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+VEN,America,Latin America and the Caribbean,Latin America,"Venezuela, Bolivarian Republic of",2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),Datos de las Coordinaciones Regionales del Programa Nacional de Sida/ITS y del Programa de Salud Respiratoria.,2024-01-01,2024-12-31,,,published,"Date: 2025-07-29 16:49:02.728014
+En los registros de los Programas Nacionales de VIH/ITS y Salud Respiratoria se recogieron estos datos, y el aumento podría deberse al esfuerzo realizado para mejorar esta situación y a una mayor disponibilidad de tratamiento preventivo para la TB. Adicionalmente se han reforzado los esfuerzos conjuntos de ambos programas en la capacitación del personal de salud para un manejo conjunto de los casos. Además se incluyen pacientes que iniciaron TARV en 2023 que no habían sido reportados.
+--------
+Date: 2025-07-29 16:48:56.720141
+En los registros de los Programas Nacionales de VIH/ITS y Salud Respiratoria se recogieron estos datos, y el aumento podría deberse al esfuerzo realizado para mejorar esta situación y a una mayor disponibilidad de tratamiento preventivo para la TB. Adicionalmente se han reforzado los esfuerzos conjuntos de ambos programas en la capacitación del personal de salud para un manejo conjunto de los casos. Además se incluyen pacientes que iniciaron TARV en 2023 que no habían sido reportados.
+--------
+Date: 2025-05-28 20:29:29.924815
+En los registros de los Programas Nacionales de VIH/ITS y Salud Respiratoria se recogieron estos datos, y el aumento podría deberse al esfuerzo realizado para mejorar esta situación y a una mayor disponibilidad de tratamiento preventivo para la TB. Adicionalmente se han reforzado los esfuerzos conjuntos de ambos programas en la capacitación del personal de salud para un manejo conjunto de los casos. Además se incluyen pacientes que iniciaron TARV en 2023 que no habían sido reportados.
+--------
+Date: 2025-04-29 06:31:27.882939
+En los registros de los Programas Nacionales de VIH/ITS y Salud Respiratoria se recogieron estos datos, y el aumento podría deberse al esfuerzo realizado para mejorar esta situación y a una mayor disponibilidad de tratamiento preventivo para la TB. Adicionalmente se han reforzado los esfuerzos conjuntos de ambos programas en la capacitación del personal de salud para un manejo conjunto de los casos.
+--------
+",The denominator ‘total number of people CURRENTLY enrolled in HIV treatment’ should be greater than the denominator for indicator 7.7. Please verify.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: El año pasado se reportó que [522] personas que vivían con el VIH y estaban en tratamiento antirretroviral comenzaron un tratamiento preventivo contra la tuberculosis. Agradecemos puedan verificar si los datos reportados para el periodo de reporte actual sobre las personas recién inscritas en el tratamiento antirretroviral que recibieron tratamiento preventivo contra la tuberculosis corresponden al numero de personas que iniciaron tratamiento preventivo contra la tuberculosis entre todas las personas inscritas en TAR. Si se refieren a personas recientemente inscritas en TAR durante el periodo de reporte, por favor verifique si se dispone de datos sobre el número de personas que viven con el VIH y reciben tratamiento antirretroviral que comenzaron un tratamiento preventivo contra la tuberculosis durante el período de reporte.
+
+Yolimar Gil Sojo (MINISTRY) said on 28/05/25 at 18:28: No todos corresponden a pacientes VIH recién inscritos para tratamiento antirretroviral, hay pacientes con tratamiento para la Infección latente para la TB (TITL) y que ya habían iniciado TARV en años anteriores a 2024. De los 669 pacientes con TITL y que viven con VIH, 138 corresponden a personas que viven con VIH y estaban en TARV antes del 2024. Son 42 femeninos y 96 masculinos, todos mayores de 15 años.
+
+Victoria Bendaud (UNAIDS) said on 29/07/25 at 14:48: Datos transferidos a seccion sobre todas las persons que estaban recibiendo TAR en base a respuesta a la pregunta.
+
+",No,,,,,,,,,,,,,Yes,9.1,24.2,23,8.9,669,15,14,640,7334,62,61,7211,,,,,Yes
+BHR,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Bahrain,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+DJI,Eastern Mediterranean,Sub-Saharan Africa,Middle East and North Africa,Djibouti,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-03-14 20:14:09.433157
+Pendant cette période aucun cas entre 5 à 15 n'a été pas mis sous préventive de la tuberculose
+--------
+","Certaines valeurs sont manquantes. Veuillez expliquer.
+Nouvellement inscrit au traitement antirétroviral : le numérateur et le dénominateur ne correspondent pas à son pourcentage.
+Veuillez vérifier et confirmer que certains pourcentages ont changé de plus de 20% par rapport à l'année précédente.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: Le nombre de personnes actuellement sous TAR qui ont commencé un traitement préventif contre la tuberculose rapporté [226] semble refléter un changement important par rapport au nombre rapporté pour la période précédente [122]. Veuillez expliquer la raison de ce changement ou réviser les données en conséquence. La même valeur [226] est rapportée pour le nombre de personnes nouvellement inscrites à un traitement antirétroviral, le nombre de personnes actuellement sous traitement antirétroviral ayant reçu un traitement préventif contre la tuberculose en 2024 et le nombre de personnes actuellement sous traitement antirétroviral ayant reçu un traitement préventif contre la tuberculose avant 2024, ce qui semble peu probable. Veuillez vérifier ou fournir une explication.
+
+",Yes,75.6,100,,75,124,4,0,120,226,4,0,222,Yes,10.7,12.9,0,10.8,226,4,0,222,2119,31,36,2052,226,4,0,222,Yes
+EGY,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Egypt,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-03-27 11:39:48.935062
+yes 
+--------
+",Please verify and confirm that some percentages have changed by more than 20% compared to the previous year.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people currently enrolled on ART that started TB preventive treatment reported [309] seems to reflect an important change from the number reported for the previous reporting period [849]. The number of people currently enrolled on ART that started TB preventive treatment reported [25067] seems to reflect an important change from the previous reporting period [19384]. Please can you explain the reason for this or revise the data accordingly. The number of people reported to have received TPT prior to the reporting period refers to the number of people who are currently on ART and received TPT in 2023 or earlier; the number currently reported for this item is the same as the number of people on ART reported last year to have received TPT in 2023, please verify.
+
+",Yes,6.1,11.1,3.9,6.2,309,1,3,305,5043,9,77,4957,Yes,1.2,2,0.7,1.2,309,1,3,305,25067,50,445,24572,849,9,6,834,Yes
+IRQ,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Iraq,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+JOR,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Jordan,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+KWT,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Kuwait,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+LBN,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Lebanon,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-03-31 18:13:24.864678
+verified
+--------
+Date: 2025-03-31 14:25:48.314127
+verified
+--------
+","Please verify and confirm that some percentages have changed by more than 20% compared to the previous year.
+Currently enrolled on antiretroviral therapy: The numerator and denominator do not correspond to its percentage.",,Yes,2.4,0,0,2.4,5,0,0,5,207,0,0,207,Yes,0.1,0,0,0.1,8,0,0,8,2356,0,4,2352,,,,,Yes
+PSE,Eastern Mediterranean,,Middle East and North Africa,Occupied Palestinian Territory,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+OMN,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Oman,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),HIV and TB program records,2024-01-01,2024-12-31,,"Out of total 220 newly enrolled patients on ART, 178 were tested (178/220=81%) using mainly QuantiFERON-TB test. 2 were tested positive and 2 were treated for latent TB.",published,,,,No,,,,,,,,,,,,,No,,,,,,,,,,,,,2,,,2,Yes
+QAT,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Qatar,2024,GARPR,No,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+SAU,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Saudi Arabia,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+SOM,Eastern Mediterranean,Sub-Saharan Africa,Middle East and North Africa,Somalia,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+SDN,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Sudan,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+SYR,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Syrian Arab Republic,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+ARE,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,United Arab Emirates,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),National TB program and NAP records,2024-01-01,2024-12-31,,,published,"Date: 2025-03-27 07:57:05.581976
+-------
+--------
+","Some values are missing. Please explain.
+The age disaggregation does not add up to the total.",,Yes,0,,,,0,,,,134,,,,No,,,,,,,,,,,,,,,,,Yes
+YEM,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Yemen,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+ROU,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Western and Central Europe and North America,Romania,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+DZA,Africa,Middle East and North Africa,Western and central Africa,Algeria,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+BEN,Africa,Sub-Saharan Africa,Western and central Africa,Benin,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+BFA,Africa,Sub-Saharan Africa,Western and central Africa,Burkina Faso,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2023-12-26,2024-12-25,,,published,,,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: L'année dernière, il a été rapporté que [2657] personnes vivant avec le VIH nouvellement inscrites sous traitement antirétroviral ont commencé un traitement préventif contre la tuberculose, parmi [7999] personnes vivant avec le VIH nouvellement inscrites sous traitement antirétroviral. Il a également été rapporté que [2657] personnes vivant avec le VIH sous traitement antirétroviral ont commencé un traitement préventif contre la tuberculose, parmi [81767] personnes vivant avec le VIH inscrites sous traitement antirétroviral. Veuillez vérifier si les données sont disponibles pour cette période de référence.
+
+",No,,,,,,,,,,,,,No,,,,,,,,,,,,,,,,,Yes
+BDI,Africa,Sub-Saharan Africa,Western and central Africa,Burundi,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,DHIS2,2024-01-01,2024-12-31,Registre de screening,Données extraites dans DHIS2,edit,,,,Yes,60.5,23.4,55.5,61.7,3338,34,61,3243,5514,145,110,5259,Yes,23.0,41.2,29.1,22.7,18194,138,544,17512,79210,335,1870,77005,,,,,Yes
+CPV,Africa,Sub-Saharan Africa,Western and central Africa,Cabo Verde,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+CMR,Africa,Sub-Saharan Africa,Western and central Africa,Cameroon,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-03-28 14:08:54.599653
+oui
+--------
+Date: 2025-03-28 14:07:33.729486
+Nous allons corriger le 7.7
+--------
+",Veuillez vérifier et confirmer que certains pourcentages ont changé de plus de 20% par rapport à l'année précédente.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: Veuillez vérifier si des données sont disponibles sur le nombre de personnes actuellement sous TAR qui ont reçu un traitement préventif contre la tuberculose au cours de la période du rapport.
+
+",Yes,88.7,42.3,77.8,89.9,33769,321,556,32892,38059,759,715,36585,No,,,,,,,,,,,,,,,,,Yes
+CAF,Africa,Sub-Saharan Africa,Western and central Africa,Central African Republic,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,DHIS2,2024-01-01,2024-12-31,,,published,"Date: 2025-06-02 13:45:19.278070
+Il n'y a pas de desagregation 
+--------
+Date: 2025-06-02 11:15:55.345838
+Il n'y a pas de desagregation 
+--------
+Date: 2025-03-25 15:04:55.794610
+Il n'y a pas de desagregation 
+--------
+","Certaines valeurs sont manquantes. Veuillez expliquer.
+La ventilation par âge ne correspond pas au total.
+Veuillez vérifier et confirmer que certains pourcentages ont changé de plus de 20% par rapport à l'année précédente.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: Le nombre de personnes ayant commencé un traitement préventif contre la tuberculose parmi les personnes nouvellement inscrites à un traitement antirétroviral [4729] semble refléter une augmentation importante par rapport au nombre de personnes ayant commencé un traitement préventif contre la tuberculose parmi toutes les personnes sous traitement antirétroviral [990] rapporté l'année dernière. Veuillez vérifier ou fournir une explication à ce sujet. Veuillez également vérifier si les données sur le nombre de personnes ayant reçu un traitement préventif contre la tuberculose parmi toutes les personnes sous traitement antirétroviral sont disponibles pour cette période de rapport.
+
+Augustin Balekouzou (OTHER) said on 02/06/25 at 11:45: Il y avait une erreur de saisie pour les données de l'année passée
+
+",Yes,57.2,,,,4729,,,,8269,,,,No,,,,,,,,,,,,,,,,,Yes
+TCD,Africa,Sub-Saharan Africa,Western and central Africa,Chad,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,Les outils ne permettent pas d'avoir les informations sur la mise sous traitement préventif parmi les nouvelles inclusions.,published,"Date: 2025-03-26 14:45:22.844661
+les données de la mise sous traitement préventif parmi les nouvelles inclusions ne sont pas disponibles.
+--------
+",Certaines valeurs sont manquantes. Veuillez expliquer.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: L'année dernière, il a été rapporté que [801] personnes vivant avec le VIH nouvellement inscrites sous traitement antirétroviral ont commencé un traitement préventif contre la tuberculoseparmi [7929] personnes vivant avec le VIH nouvellement inscrites sous traitement antirétroviral. Veuillez vérifier si des données sont disponibles pour cette période de rapport. Le nombre de personnes nouvellement inscrites à un traitement antirétroviral qui ont commencé un traitement préventif contre la TB [3945] semble refléter un changement important par rapport au nombre rapporté pour la période de rapport précédente [6178]. Veuillez expliquer la raison de ce changement ou réviser les données en conséquence.
+
+",Yes,,,,,,,,,,,,,Yes,5.1,13.6,12.7,4.9,3945,99,186,3660,77011,727,1468,74816,3945,99,186,3660,Yes
+COG,Africa,Sub-Saharan Africa,Western and central Africa,Congo,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+CIV,Africa,Sub-Saharan Africa,Western and central Africa,Côte d'Ivoire,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-03-26 10:51:20.868235
+Les désagrégations au niveau pays ne sont pas conforme aux agrégations de l'outil de rapportage GAM
+--------
+","Certaines valeurs sont manquantes. Veuillez expliquer.
+La ventilation par âge ne correspond pas au total.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: L'année dernière, il a été rapporté que [19697] personnes vivant avec le VIH nouvellement inscrites à un traitement antirétroviral ont commencé un traitement préventif contre la tuberculose, sur [83084] personnes vivant avec le VIH nouvellement inscrites à un traitement antirétroviral. Veuillez vérifier si les données sont disponibles pour cette période de rapport. Le nombre de personnes ayant reçu un traitement préventif contre la tuberculose avant la période de rapport correspond au nombre de personnes actuellement sous traitement antirétroviral et ayant reçu un traitement préventif contre la tuberculose en 2023 ou avant ; le même nombre est actuellement rapporté pour cet élément que le nombre de personnes sous traitement antirétroviral ayant reçu un traitement préventif contre la tuberculose en 2024, veuillez vérifier.
+
+",No,,,,,,,,,,,,,Yes,19.4,,,,50372,,,,259793,,,,50372,,,,Yes
+COD,Africa,Sub-Saharan Africa,Western and central Africa,Democratic Republic of the Congo,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-05-31 05:17:44.882451
+Pour les données manquantes, le canevas de collecte ne renseigne pas certaines tranches d'age.
+Aussi faut-il signaler que notre canevas de collecte ne renseigne que les nouvelles inclusions qui ont beneficié de la TPT pas les anciens Cas.
+--------
+Date: 2025-05-31 05:17:17.001151
+Pour les données manquantes, le canevas de collecte ne renseigne pas certaines tranches d'age.
+Aussi faut-il signaler que notre canevas de collecte ne renseigne que les nouvelles inclusions qui ont beneficié de la TPT pas les anciens Cas.
+--------
+Date: 2025-03-30 15:58:50.373500
+Pour les données manquantes, le canevas de collecte ne renseigne pas certaines tranches d'age.
+Aussi faut-il signaler que notre canevas de collecte ne renseigne que les nouvelles inclusions qui ont beneficié de la TPT pas les anciens Cas.
+--------
+","Certaines valeurs sont manquantes. Veuillez expliquer.
+La ventilation par âge ne correspond pas au total.
+Veuillez vérifier et confirmer que certains pourcentages ont changé de plus de 20% par rapport à l'année précédente.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: Le nombre de personnes nouvellement inscrites à un traitement antirétroviral qui ont commencé un traitement préventif contre la tuberculose rapporté [33 924] et le nombre de personnes nouvellement inscrites à un traitement antirétroviral [65 651] semblent refléter un changement important par rapport à la période précédente [49 209 et 83 436, respectivement]. Veuillez expliquer la raison de ce changement ou réviser les données en conséquence.
+
+Lisa NTUMBA (OTHER) said on 31/05/25 at 03:17: Nous reviendrons vers vous pour vous fournir des amples explications à près concertation avec l'équipe.
+
+",Yes,51.7,,,,33924,,,,65651,,,,No,,,,,,,,,,,,,,,,,Yes
+GNQ,Africa,Sub-Saharan Africa,Western and central Africa,Equatorial Guinea,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+GAB,Africa,Sub-Saharan Africa,Western and central Africa,Gabon,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-03-26 13:50:05.025019
+OK
+--------
+Date: 2025-03-26 13:49:22.720529
+OK
+--------
+","Nouvellement inscrit au traitement antirétroviral : le numérateur et le dénominateur ne correspondent pas à son pourcentage.
+Veuillez vérifier et confirmer que certains pourcentages ont changé de plus de 20% par rapport à l'année précédente.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: Le nombre de personnes nouvellement inscrites à un traitement antirétroviral qui ont commencé un traitement préventif contre la tuberculose rapporté [169] semble refléter un changement important par rapport à la période précédente [285]. Veuillez expliquer la raison de ce changement ou modifier les données en conséquence. L'année dernière, il a été rapporté que [285] personnes vivant avec le VIH et actuellement sous traitement antirétroviral avaient commencé un traitement préventif contre la tuberculoseparmi les [29835] personnes vivant avec le VIH inscrites à un traitement antirétroviral. Veuillez vérifier si les données sont disponibles pour cette période de rapport. Le nombre de personnes ayant reçu un traitement préventif contre la tuberculose avant la période de rapport correspond au nombre de personnes actuellement sous TAR et ayant reçu un traitement préventif contre la tuberculose en 2023 ou avant ; le même nombre est actuellement rapporté pour cet élément que le nombre de personnes nouvellement inscrites sous TAR en 2024, veuillez vérifier.
+
+",Yes,6.35,0,5.26,6.43,169,0,2,167,2658,22,38,2598,No,,,,,,,,,,,,,2658,22,38,2598,Yes
+GMB,Africa,Sub-Saharan Africa,Western and central Africa,Gambia (Republic of The),2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-05-28 11:25:54.554301
+Disaggregation for this indicator is only available from July 2023
+--------
+Date: 2025-04-04 13:54:08.460968
+Disaggregation for this indicator is only available from July 2023
+--------
+",The age disaggregation does not add up to the total.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people currently enrolled on ART that started TB preventive treatment reported [2428] seems to reflect an important change from the number reported for the previous reporting period [4563]. The number of people currently enrolled on ART reported [11187] seems to reflect an important change from the previous reporting period [7879]. Please can you explain the reason for this or revise the data accordingly. Please verify if data are available on the number of people newly enrolled on ART who received TB preventive treatment during the reporting period.
+
+Lamin F.S Badjie (OTHER) said on 28/05/25 at 09:25: TPT was started very late in The Gambia and as a result there are some old PLHIV in some ART sites that started providing the services to PLHIV and not necessarily newly enrolled on ART who received TB preventive treatment during the reporting period.
+
+",No,,,,,,,,,,,,,Yes,21.7,19.6,22.1,21.7,2428,37,108,2283,11187,189,488,10510,4568,,,,Yes
+GHA,Africa,Sub-Saharan Africa,Western and central Africa,Ghana,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-06-03 14:56:24.632030
+Missing data not available
+
+
+--------
+Date: 2025-03-26 19:57:25.115981
+Missing data not available
+
+
+--------
+Date: 2025-03-26 19:48:41.244033
+Missing data not available
+
+
+--------
+Date: 2025-03-26 19:19:47.605921
+Missing data not available
+
+
+--------
+Date: 2025-03-25 14:12:52.871633
+Missing data not available
+
+
+--------
+","Some values are missing. Please explain.
+The age disaggregation does not add up to the total.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: The number of people who received TB preventive treatment among all people on ART [13752] should be greater than the number of people who received TB preventive treatment among people newly enrolled on ART during the reporting period [14965], please verify. The number of people currently enrolled on ART that started TB preventive treatment reported [13752] seems to reflect an important change from the number reported for the previous reporting period [10173]. Please can you explain the reason for this or revise the data accordingly.
+
+Dennis Annang (OTHER) said on 03/06/25 at 12:58: The values for the number of people who received TB preventive treatment among people newly enrolled on ART during the reporting period and the number of people who received TB preventive treatment among all people on ART has been corrected.
+
+",Yes,42.2,,,,13752,,,,32551,,,,Yes,9.5,7.5,3.5,9,14965,,,,156821,1383,6521,148917,,,,,Yes
+GIN,Africa,Sub-Saharan Africa,Western and central Africa,Guinea,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,Données du programme de Plan international Guinée,2024-01-01,2024-12-31,,,published,"Date: 2025-03-14 11:54:33.314228
+Confirmé
+--------
+Date: 2025-03-13 16:48:41.713473
+Confirmé
+--------
+Date: 2025-03-13 16:47:43.941945
+Confirmé
+--------
+","Certaines valeurs sont manquantes. Veuillez expliquer.
+La ventilation par âge ne correspond pas au total.
+Veuillez vérifier et confirmer que certains pourcentages ont changé de plus de 20% par rapport à l'année précédente.",,,19.7,,,,1552,,,,7884,,,,,19.7,,,,19492,,,,98998,,,,,,,,Yes
+GNB,Africa,Sub-Saharan Africa,Western and central Africa,Guinea-Bissau,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+LBR,Africa,Sub-Saharan Africa,Western and central Africa,Liberia,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+LBY,Eastern Mediterranean,Middle East and North Africa,Western and central Africa,Libya,2024,GARPR,Yes,No,,,,,,,edit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+MLI,Africa,Sub-Saharan Africa,Western and central Africa,Mali,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),DHIS2,2024-01-01,2024-12-31,,,published,"Date: 2025-03-18 13:03:59.340597
+RAS
+
+--------
+Date: 2025-03-18 12:57:59.774718
+RAS
+
+--------
+","Certaines valeurs sont manquantes. Veuillez expliquer.
+La ventilation par âge ne correspond pas au total.
+Veuillez vérifier et confirmer que certains pourcentages ont changé de plus de 20% par rapport à l'année précédente.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: Le nombre de personnes nouvellement inscrites à un traitement antirétroviral qui ont commencé un traitement préventif contre la tuberculose rapporté [9742] semble refléter un changement important par rapport à la période précédente [6786]. Veuillez expliquer la raison de ce changement ou réviser les données en conséquence. Veuillez vérifier si des données sont disponibles sur le nombre de personnes actuellement inscrites à un traitement antirétroviral qui ont reçu un traitement préventif contre la tuberculose pendant la période du rapport.
+
+",Yes,82.3,,,82.8,9742,,,8982,11833,,,10844,No,,,,,,,,,,,,,,,,,Yes
+MRT,Africa,Sub-Saharan Africa,Western and central Africa,Mauritania,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+MAR,Eastern Mediterranean,Middle East and North Africa,Western and central Africa,Morocco,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,Service de la santé publique CDTMD,2024-01-01,2024-12-31,,,published,"Date: 2025-07-29 16:46:54.035753
+ 
+--------
+Date: 2025-07-29 16:46:48.720394
+ 
+--------
+Date: 2025-05-22 22:00:00.402705
+ 
+--------
+Date: 2025-04-23 16:31:22.000705
+ 
+--------
+","Some values are missing. Please explain.
+The age disaggregation does not add up to the total.
+The denominator for this indicator should be the same as the denominator for indicator 7.7. Please verify.
+Please verify and confirm that some percentages have changed by more than 20% compared to the previous year.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: Veuillez vérifier si des données sont disponibles sur le nombre de personnes actuellement sous TAR qui ont reçu un traitement préventif contre la tuberculose au cours de la période du rapport.
+
+Hind EL HAJJI (UNAIDS) said on 22/05/25 at 19:59: Numérateur : 224 nouvelles inclusions sous ARV mise sous traitement préventif de la TB
+Dénominateur : 1443 nouvelles inclusions  sous TAR
+
+",Yes,15.5,,,,224,,,,1443,,,,No,,,,,,,,,,,,,,,,,Yes
+NER,Africa,Sub-Saharan Africa,Western and central Africa,Niger,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),DHIS2,2024-01-01,2024-12-31,Néant,Néant,published,,,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: Veuillez vérifier si des données sont disponibles sur le nombre de personnes actuellement sous TAR qui ont reçu un traitement préventif contre la tuberculose au cours de la période du rapport.
+
+Mariama Hamidou (MINISTRY) said on 30/05/25 at 15:55: les données concernant sur cet indicateur ne sont disponibles car non pris en compte dans nos supports.
+
+",Yes,61.9,62.1,62.1,61.9,1800,36,54,1710,2908,58,87,2763,No,,,,,,,,,,,,,,,,,Yes
+NGA,Africa,Sub-Saharan Africa,Western and central Africa,Nigeria,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,NDARS,2024-01-01,2024-12-31,,,published,"Date: 2025-03-21 13:04:54.240497
+The indicator is not disaggregated by the age groups currently on the country reporting tools rather , It is disaggregated by sex male and female
+--------
+Date: 2025-03-16 21:16:34.660140
+The indicator is not disaggregated by the age groups currently on the country reporting tools rather , It is disaggregated by sex male and female
+--------
+Date: 2025-03-16 21:16:09.662098
+The indicator is not disaggregated by the age groups currently on the country reporting tools rather , It is disaggregated by sex male and female
+--------
+","Some values are missing. Please explain.
+The age disaggregation does not add up to the total.","Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: Data reported on the number of people currently on ART who received TPT seem to be similar to data reported in the last three reporting rounds on the number of people newly enrolled on ART who received TB preventive treatment. Please verify if data reported refer to people newly enrolled on ART during the reporting period. The number of people reported to have receive TB preventive treatment prior to the reporting period (in 2023 and prior years) seems low compared to the number of people reported to have received TB preventive treatment in previous reporting rounds. Please verify.
+
+Dr Adebobola Bashorun (MINISTRY) said on 23/05/25 at 06:45: The data reported is for PLHIV currently on ART initiated on TPT and not for those newly enrolled on ART. 
+The reporting seems low compared to previous years most likely due to the PELTOM DQA, facility verification checks) in 2023. Findings led to justifiably applying correction factors to the treatment data
+
+",No,,,,,,,,,,,,,Yes,8.9,,,,145242,,,,1629359,,,,172950,,,,Yes
+STP,Africa,Sub-Saharan Africa,Western and central Africa,Sao Tome and Principe,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+SEN,Africa,Sub-Saharan Africa,Western and central Africa,Senegal,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),LA MAQUETTE NATIONALE DE SUIVI DES PvVIH 2024,2024-01-01,2024-12-31,,,published,"Date: 2025-03-30 23:25:53.696276
+Oui 
+--------
+",Veuillez vérifier et confirmer que certains pourcentages ont changé de plus de 20% par rapport à l'année précédente.,,Yes,23.8,4.6,7,24.9,1263,6,11,1246,5302,131,157,5014,Yes,4.3,3.3,2,4.4,1631,8,24,1599,37638,242,1194,36202,,,,,Yes
+SLE,Africa,Sub-Saharan Africa,Western and central Africa,Sierra Leone,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,National HMIS/DHIS2,,published,"Date: 2025-06-04 14:11:13.447443
+The submitted data is from the National DHIS2. There has been improvement in reporting from the facilities.
+--------
+",Please verify and confirm that some percentages have changed by more than 20% compared to the previous year.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:18: Last year it was reported [9372] people living with HIV newly enrolled on ART started TB preventive treatment and [9455] people living with HIV on ART started TB preventive treatment. Please verify if data are available for this reporting period.
+
+",Yes,79.6,43.3,65.6,80.8,10562,132,214,10216,13272,305,326,12641,No,,,,,,,,,,,,,,,,,Yes
+TGO,Africa,Sub-Saharan Africa,Western and central Africa,Togo,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator and denominator below),DHIS2,2023-12-26,2024-12-25,,,published,"Date: 2025-03-24 15:56:59.381969
+La mise en œuvre de l'approche TPT a effectivement commencé en 2024
+--------
+Date: 2025-03-24 13:32:50.614632
+La mise en œuvre de l'approche TPT a effectivement commencé en 2024
+--------
+",Veuillez vérifier et confirmer que certains pourcentages ont changé de plus de 20% par rapport à l'année précédente.,,Yes,9.7,12.4,8.4,9.6,946,31,25,890,9787,249,297,9241,Yes,1.9,8.7,2.2,1.9,1785,55,71,1659,93153,632,3169,89352,,,,,Yes
+TUN,Eastern Mediterranean,Middle East and North Africa,Western and central Africa,Tunisia,2024,GARPR,Yes,No,,,,,,,edit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+AND,Europe,,Western and central Europe and North America,Andorra,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+AUT,Europe,,Western and central Europe and North America,Austria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+BEL,Europe,,Western and central Europe and North America,Belgium,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+BGR,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Western and central Europe and North America,Bulgaria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+CAN,America,,Western and central Europe and North America,Canada,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+HRV,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Western and central Europe and North America,Croatia,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+CYP,Europe,,Western and central Europe and North America,Cyprus,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+CZE,Europe,,Western and central Europe and North America,Czechia,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+DNK,Europe,,Western and central Europe and North America,Denmark,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+EST,Europe,,Western and central Europe and North America,Estonia,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+FIN,Europe,,Western and central Europe and North America,Finland,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+FRA,Europe,,Western and central Europe and North America,France,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+DEU,Europe,,Western and central Europe and North America,Germany,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+GRC,Europe,,Western and central Europe and North America,Greece,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+HUN,Europe,,Western and central Europe and North America,Hungary,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+ISL,Europe,,Western and central Europe and North America,Iceland,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+IRL,Europe,,Western and central Europe and North America,Ireland,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+ISR,Europe,,Western and central Europe and North America,Israel,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+ITA,Europe,,Western and central Europe and North America,Italy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+002,Europe,,Western and central Europe and North America,Kosovo,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+LVA,Europe,,Western and central Europe and North America,Latvia,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+LIE,Europe,,Western and central Europe and North America,Liechtenstein,2024,GARPR,Yes,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+LTU,Europe,,Western and central Europe and North America,Lithuania,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+LUX,Europe,,Western and central Europe and North America,Luxembourg,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+MLT,Europe,,Western and central Europe and North America,Malta,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+MCO,Europe,,Western and central Europe and North America,Monaco,2024,GARPR,No,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+NLD,Europe,,Western and central Europe and North America,Netherlands,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+NOR,Europe,,Western and central Europe and North America,Norway,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+POL,Europe,,Western and central Europe and North America,Poland,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+PRT,Europe,,Western and central Europe and North America,Portugal,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+SMR,Europe,,Western and central Europe and North America,San Marino,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+SRB,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Western and central Europe and North America,Serbia,2024,GARPR,No,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+SVK,Europe,,Western and central Europe and North America,Slovakia,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+SVN,Europe,,Western and central Europe and North America,Slovenia,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+ESP,Europe,,Western and central Europe and North America,Spain,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+SWE,Europe,,Western and central Europe and North America,Sweden,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+CHE,Europe,,Western and central Europe and North America,Switzerland,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+TUR,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Western and central Europe and North America,Türkiye,2024,GARPR,No,No,,,,,,,published,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+GBR,Europe,,Western and central Europe and North America,United Kingdom of Great Britain and Northern Ireland,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+USA,America,,Western and central Europe and North America,United States of America,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes

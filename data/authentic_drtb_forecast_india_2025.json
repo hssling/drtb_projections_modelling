@@ -1,0 +1,159 @@
+{
+  "metadata": {
+    "version": "3.0 (World Class)",
+    "date": "2025-12-18T21:09:50.385850",
+    "model": "Holt-Winters (Damped Trend)",
+    "data_sources": "India TB Reports 2017-2024, WHO GTR 2025"
+  },
+  "historical_data": [
+    {
+      "year": 2017,
+      "mdr_rr_detected": 39009,
+      "treatment_success": 0.68,
+      "total_tb_notified": 1800000,
+      "estimated_true_burden": 78018.0
+    },
+    {
+      "year": 2018,
+      "mdr_rr_detected": 58347,
+      "treatment_success": 0.7,
+      "total_tb_notified": 2100000,
+      "estimated_true_burden": 97245.0
+    },
+    {
+      "year": 2019,
+      "mdr_rr_detected": 66359,
+      "treatment_success": 0.72,
+      "total_tb_notified": 2400000,
+      "estimated_true_burden": 94798.57142857143
+    },
+    {
+      "year": 2020,
+      "mdr_rr_detected": 44000,
+      "treatment_success": 0.74,
+      "total_tb_notified": 1800000,
+      "estimated_true_burden": 67692.30769230769
+    },
+    {
+      "year": 2021,
+      "mdr_rr_detected": 48232,
+      "treatment_success": 0.75,
+      "total_tb_notified": 2100000,
+      "estimated_true_burden": 68902.85714285714
+    },
+    {
+      "year": 2022,
+      "mdr_rr_detected": 63801,
+      "treatment_success": 0.76,
+      "total_tb_notified": 2420000,
+      "estimated_true_burden": 85068.0
+    },
+    {
+      "year": 2023,
+      "mdr_rr_detected": 63939,
+      "treatment_success": 0.65,
+      "total_tb_notified": 2550000,
+      "estimated_true_burden": 81973.07692307692
+    },
+    {
+      "year": 2024,
+      "mdr_rr_detected": 65200,
+      "treatment_success": 0.68,
+      "total_tb_notified": 2607000,
+      "estimated_true_burden": 81500.0
+    }
+  ],
+  "forecast_scenarios": [
+    {
+      "year": 2025,
+      "forecast_burden": 82233.22199749752,
+      "method": "Holt-Winters Damped Trend",
+      "Scenario_Status_Quo": 82233.22199749752,
+      "Scenario_Optimistic": 77425.0,
+      "Scenario_Pessimistic": 83130.0
+    },
+    {
+      "year": 2026,
+      "forecast_burden": 82819.79957893016,
+      "method": "Holt-Winters Damped Trend",
+      "Scenario_Status_Quo": 82819.79957893016,
+      "Scenario_Optimistic": 73553.75,
+      "Scenario_Pessimistic": 84792.6
+    },
+    {
+      "year": 2027,
+      "forecast_burden": 83289.06164407627,
+      "method": "Holt-Winters Damped Trend",
+      "Scenario_Status_Quo": 83289.06164407627,
+      "Scenario_Optimistic": 69876.06249999999,
+      "Scenario_Pessimistic": 86488.45200000002
+    },
+    {
+      "year": 2028,
+      "forecast_burden": 83664.47129619317,
+      "method": "Holt-Winters Damped Trend",
+      "Scenario_Status_Quo": 83664.47129619317,
+      "Scenario_Optimistic": 66382.259375,
+      "Scenario_Pessimistic": 88218.22104
+    },
+    {
+      "year": 2029,
+      "forecast_burden": 83964.79901788667,
+      "method": "Holt-Winters Damped Trend",
+      "Scenario_Status_Quo": 83964.79901788667,
+      "Scenario_Optimistic": 63063.14640624998,
+      "Scenario_Pessimistic": 89982.58546080001
+    },
+    {
+      "year": 2030,
+      "forecast_burden": 84205.06119524148,
+      "method": "Holt-Winters Damped Trend",
+      "Scenario_Status_Quo": 84205.06119524148,
+      "Scenario_Optimistic": 59909.98908593749,
+      "Scenario_Pessimistic": 91782.237170016
+    },
+    {
+      "year": 2031,
+      "forecast_burden": 84397.27093712533,
+      "method": "Holt-Winters Damped Trend",
+      "Scenario_Status_Quo": 84397.27093712533,
+      "Scenario_Optimistic": 56914.4896316406,
+      "Scenario_Pessimistic": 93617.88191341632
+    },
+    {
+      "year": 2032,
+      "forecast_burden": 84551.03873063241,
+      "method": "Holt-Winters Damped Trend",
+      "Scenario_Status_Quo": 84551.03873063241,
+      "Scenario_Optimistic": 54068.76515005857,
+      "Scenario_Pessimistic": 95490.23955168466
+    },
+    {
+      "year": 2033,
+      "forecast_burden": 84674.05296543807,
+      "method": "Holt-Winters Damped Trend",
+      "Scenario_Status_Quo": 84674.05296543807,
+      "Scenario_Optimistic": 51365.32689255564,
+      "Scenario_Pessimistic": 97400.04434271835
+    },
+    {
+      "year": 2034,
+      "forecast_burden": 84772.4643532826,
+      "method": "Holt-Winters Damped Trend",
+      "Scenario_Status_Quo": 84772.4643532826,
+      "Scenario_Optimistic": 48797.06054792786,
+      "Scenario_Pessimistic": 99348.04522957272
+    }
+  ],
+  "model_params": {
+    "aic": 161.70478457741615,
+    "bic": 162.10199228581533
+  },
+  "policy_implications": {
+    "2030_projection_status_quo": 84205.06119524148,
+    "2030_projection_optimistic": 59909.98908593749,
+    "cumulative_cases_averted_optimistic": 217215.39212693356,
+    "cumulative_excess_cases_pessimistic": 71679.0649919043,
+    "recommendation": "Accelerate TPT and ACF to bridge the gap between Status Quo (stable) and Optimistic (declining) trajectories."
+  }
+}

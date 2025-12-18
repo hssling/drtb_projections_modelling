@@ -1,0 +1,301 @@
+---
+title: "FT: The impact of 2025 funding cuts on TB services"
+author: "Irwin Law (using content from Dennis Falzon and Yi Wang)" 
+date: "`r Sys.Date()`"
+knit: (function(inputFile, encoding) {
+      out_dir <- "./local";
+      rmarkdown::render(inputFile,
+                        encoding=encoding,
+                        output_dir=file.path(dirname(inputFile), out_dir))})
+output: 
+  html_fragment:
+    # Do not include a table of contents
+    toc: no
+    # Set standard figure width to 12 inches
+    fig_width: 12
+    # Do not write figure captions
+    fig_caption: FALSE
+    # to save intermediate .png
+    keep_md: true
+    # Don't embed external resources (stylesheets, JS libraries) in the output 
+    self_contained: False    
+    # Don't include <div> tags around a header and the content found until the next header
+    section_divs: FALSE  
+
+---
+  
+```{r setup, include=FALSE}
+
+# Set chunk options.
+# Results "asis" is needed to avoid xtable output being html encoded
+# Suppress messages, warnings and also the ## at the beginning of printed text
+# Set a default figure width too.
+
+knitr::opts_chunk$set(echo = FALSE,
+                      results = "asis",
+                      message = FALSE,
+                      warning = FALSE,
+                      fig.width = 12)
+
+# Load output packages ----
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+library(ggplot2)
+library(dplyr)
+library(gtbreport)
+library(Cairo)
+library(tidyr)
+library(jsonlite)
+library(here)
+library(reshape2)
+library(gridExtra)
+library(scales)
+
+# Load R functions ----
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+source(here("report/functions/html_links.R"))
+source(here("report/functions/output_ggplot.R"))
+
+
+source(here("import/load_gtb.R"))
+source(here("report/functions/country_region_lists.R"))
+source(here("report/functions/NZ.R"))
+source(here("report/functions/html_links.R"))
+source(here("report/functions/output_ggplot.R"))
+
+# Show static chart in addition to Kendo chart?
+show_static = F
+
+# Save underlying data files as CSV and charts as PDF files?
+pdf_csv_folder = here::here("report/local/figures/ft_TBTinChina")
+save_csv = TRUE
+save_pdf = TRUE
+save_cairo = TRUE
+
+# Create the output folder (only if it doesn't yet exist)
+dir.create(pdf_csv_folder, showWarnings = FALSE, recursive = TRUE)
+```
+
+
+```{r css_js}
+# Add standard stylesheets and javascript to support kendo
+cat(writeLines(readLines(here("report/resources/headers.htm"))))
+```
+
+<span class="red">**_Draft! Prepared `r Sys.time()` _**</span>  
+
+# Scaling up TB preventive treatment in China
+
+
+## Background and context
+
+China has faced several challenges in scaling up tuberculosis (TB) preventive treatment (TPT). These challenges include low acceptance of TPT among people at risk (<60%), insufficient implementation of innovative diagnostic and treatment technologies, and geographical disparities in TB disease burden and demography (`r ref_lnk("1")`). Before 2021, TPT was only piloted or studied – there was no national policy or dedicated funding to support its systematic use across the country. 
+
+## Development of a strong national framework for TPT
+
+Since 2021, a strong national framework for TPT implementation and expansion has been put in place:
+
+* technical guidelines were developed by the Chinese Center for Disease Control and Prevention (China CDC) and published in 2021 (`r ref_lnk("2")`);
+
+* national guidelines were published in 2023 (`r ref_lnk("3")`);
+
+* the national plan for TB prevention and control for the period 2024–2030 included TPT coverage targets for close contacts of people with TB; the targets were 60% by 2025 and 80% by 2030 (`r ref_lnk("4")`); and
+
+* between 2022 and 2024, the Zero TB Community Initiative expanded the number of sites in which systematic screening for TB and TPT were integrated, with the number increasing from 36 in 2022 to 790 in 2024 (`r ref_lnk("5")`). 
+
+The World Health Organization (WHO) supported these developments through technical inputs, sharing of international best practices, advocacy and building policy consensus among stakeholders.
+
+China’s TPT guidelines are aligned with WHO recommendations (`r ref_lnk("6")`). For the detection of TB infection, all three WHO-approved technologies are recommended: the tuberculin skin test, a Mycobacterium tuberculosis antigen-based skin test and interferon-gamma release assays (IGRAs). For contacts of people with drug-susceptible TB, recommended regimens include 6 or 9 months of daily isoniazid monotherapy, 3 months of daily isoniazid and rifampicin, and 4 months of daily rifampicin monotherapy. A 6-month daily levofloxacin regimen is recommended for close contacts of people with rifampicin-resistant TB. 
+
+In China, there are ongoing trials of TPT regimens of isoniazid and rifapentine given three times weekly for 1 month.
+
+To facilitate TPT expansion, a coordinated service system has been established. This links disease control agencies, designated TB hospitals and primary health care; the aim is to ensure seamless screening, diagnosis and management. 
+
+## An illustrative provincial example: Jiangsu
+
+Jiangsu Province, with a population of 85 million, has shown how a comprehensive approach to TPT services can be put in place, supported by new technology and information systems, and collaboration with the health insurance system. 
+
+The approach prioritizes active TB case-finding among high-risk groups, including close contacts of TB patients and individuals with comorbidities, using artificial intelligence (AI)-assisted chest X-ray imaging and molecular diagnostics. Specialized clinics have been set up to manage the detection of TB infection and provision of TPT to those who are eligible, with structured follow-up. An online information system is used to support the entire process, from screening to the provision of TPT and support for adherence. To ensure sustainability and accessibility, health insurance policies have been optimized. In addition, mechanisms for obtaining funding from multiple sources are being explored to reduce the financial burden on people being treated with TPT, as part of the province’s 14th 5-year plan to significantly reduce the burden of TB disease. 
+
+## Progress and impact, 2021–2024
+
+There has been a rapid expansion of TPT in China since 2021. The number of individuals started on TPT increased from 22 778 in 2021 to 87 034 in 2024 (`r lnk("Fig. 1")`). 
+
+### `r anch("Fig. 1")` <span class="fig" style="color:#F21905">Fig. 1</span> Number of people provided with TPT in China, 2021–2024
+
+``` {r fig_1, fig.alt="Number of people provided with TPT", fig.height = 6}
+
+
+f1_data <- read.table(header=TRUE, text='
+year  household students other
+2021  0 0 22778
+2022  7683 21654  8207
+2023  7848 24285  20703
+2024  15744 28666 42624
+                     ')
+library(ggplot2)
+library(tidyr)
+library(dplyr)
+
+# Wide → long format
+f1_long <- f1_data %>%
+  pivot_longer(
+    cols = c(household, students, other),
+    names_to = "category",
+    values_to = "value"
+  )
+
+# Set stacking order: bottom → top (household → students → other)
+f1_long$category <- factor(
+  f1_long$category,
+  levels = c("household", "students", "other")
+)
+
+# Plot
+f1_plot <- ggplot(f1_long, aes(x = factor(year), y = value, fill = category)) +
+  geom_bar(stat = "identity") +
+  xlab("Year") +
+  ylab("Number of people") +
+  scale_y_continuous(labels = label_number(big.mark = " ")) +
+  scale_fill_manual(
+    values = c(
+      "household" = "#FFD700",
+      "students" = "#7570b3",
+      "other" = "#e7298a"
+    ),
+    labels = c(
+      "household" = "Household contacts",
+      "students" = "Students who were close contacts",
+      "other" = "Other"
+    ),
+    name = "Category"
+  ) +
+  theme_gtb()
+
+output_ggplot(f1_plot, f1_data, show_static, pdf_csv_folder, save_csv, save_pdf) 
+```
+
+
+<div id="fig_1"></div>
+
+<hr />
+<br />
+
+
+TPT has been provided to household contacts of people diagnosed with pulmonary TB, students who have been in contact with a person with pulmonary TB in a school setting and people in other risk groups (e.g. people living with HIV, prisoners, people on long-term dialysis therapy, people preparing for organ transplantation or bone marrow transplantation, and people with silicosis). 
+
+During this period, the TB incidence rate has decreased, from 58 cases per 100 000 population in 2020 to 49 cases per 100 000 population in 2024.
+
+## Future direction
+
+In line with targets set in the <i>National Tuberculosis Prevention and Control Plan (2024–2030)</i> (`r ref_lnk("4")`), the number of people provided with TPT is expected to increase further in the coming years. 
+
+To effectively monitor progress towards the targets and support evidence-based programmatic refinements, a standardized individual-level registration and reporting system for TPT-related activities will be implemented through the China CDC. The system will include data on results from testing for TB infection and screening for TB disease, and on TPT initiation, adherence and completion status. It will enable real-time tracking of nationwide progress on implementation of TPT, and facilitate quarterly data analysis, which in turn will provide a scientific basis for optimizing TPT interventions and monitoring progress towards coverage targets.
+
+`r anch("refs")`
+
+<hr style="border:1px solid gray20">
+  
+  **References**
+
+1.	Ren J, Huang F, Chen H, Zhang H, Sun J, Zhao A et al. Barriers to the acceptance of tuberculosis preventive treatment: A multicenter cross-sectional study in China. Biomed Environ Sci. 2024;37:1303–9 (https://doi.org/10.3967/bes2024.150).
+
+2.	Technical guidelines for tuberculosis prevention and control in China, 2020 ed. Beijing: Chinese Center for Disease Control and Prevention; 2020 (https://tb.chinacdc.cn/ggl/202004/P020200414515703939844.pdf).
+
+3.	Xu C, Zhao Y (eds). China national guidelines on tuberculosis preventive treatment. Beijing; People's Medical Publishing House. 2023.
+
+4.	National Disease Control and Prevention Administration, National Health Commission, National Development and Reform Commission, Ministry of Education, Ministry of Public Security, Ministry of Justice et al. Circular on issuing the National Tuberculosis Prevention and Control Plan (2024–2030) [Press release]. 2024 (https://www.gov.cn/zhengce/zhengceku/202412/content_6991217.htm).
+
+5.	Xu C, Zhao Y. Commit, invest and deliver: towards achieving end tuberculosis strategy goals through active case finding and preventive treatment in China. China CDC Wkly. 2025;7:407–12 (https://pubmed.ncbi.nlm.nih.gov/40226522/).
+
+6.	WHO consolidated guidelines on tuberculosis: module 1: prevention: tuberculosis preventive treatment. Geneva: World Health Organization; 2020 (https://iris.who.int/items/d4b1072d-8984-4c78-84cb-9bceb2ce6087). License: CC BY-NC-SA 3.0 IGO.
+
+
+
+```{r js_functions}
+# Insert javascript file containing common Kendo number formatting functions ----
+cat(writeLines(readLines(here("report/resources/gtbr_js.htm")))) 
+```
+
+<script type="text/javascript">
+
+/* JSON data objects for the figures */
+
+var fig_1_data = `r f1_data |> toJSON("rows")`;
+
+</script>
+
+
+```{js, echo=FALSE}
+
+/* Functions to create the figures */
+
+function createFig_1() {
+        $("#fig_1").kendoChart({
+            dataSource: {
+                data: fig_1_data
+            },
+            legend: {
+                position: "bottom"
+            },
+            seriesDefaults: {
+                type: "column",
+                stack: true,
+                gap: 0.2,
+                tooltip: {
+                    visible: true,
+                    template: "#= series.name #: #= num_spacer(value) #"
+                }
+            },
+            series: [{
+                name: "Household contacts",
+                field: "household",
+                color: "#FFD700"
+                }, {
+                name: "Students who were close contacts",
+                field: "students",
+                color: "#7570b3"
+                }, {
+                name: "Other",
+                field: "other",
+                color: "#e7298a"
+            }],
+            valueAxis: {
+                labels: {
+                  template: "#= axis_spacer(value) #"
+                },
+                title: {
+                    text: "Number of people"
+                },
+                line: {
+                    visible: false
+                }
+            },
+            categoryAxis: {
+                field: "year",
+                labels: {
+                    rotation: "auto"
+                },
+                majorGridLines: {
+                    visible: false
+                }
+            }
+        });
+}
+
+
+```
+
+
+```{js, echo=FALSE}
+
+/* Create the figures after the document has been loaded */
+
+$(document).ready(function() {
+  
+  createFig_1();
+
+});
+
+```
+
+

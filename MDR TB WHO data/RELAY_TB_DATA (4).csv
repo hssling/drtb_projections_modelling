@@ -1,0 +1,16 @@
+IND_ID,IND_CODE,INDICATOR_NAME,YEAR,COUNTRY,DISAGGR_1,UNIT,VALUE,VALUE_LO,VALUE_HI
+683EC4A47996BC,TB_drs_rr_oth_r_prct,Prevalence additional drug resistance among people with RR-TB,2017,Democratic Republic of the Congo,Fqr-resistance among people with RR-TB,Percentage,0,0,10
+683EC4A47996BC,TB_drs_rr_oth_r_prct,Prevalence additional drug resistance among people with RR-TB,2017,Democratic Republic of the Congo,XDR-TB,Percentage,0,0,10
+683EC4A47996BC,TB_drs_rr_oth_r_prct,Prevalence additional drug resistance among people with RR-TB,2015,Djibouti,Fqr-resistance among people with RR-TB,Percentage,0,0,10.2
+683EC4A47996BC,TB_drs_rr_oth_r_prct,Prevalence additional drug resistance among people with RR-TB,2018,Eritrea,Fqr-resistance among people with RR-TB,Percentage,7.1,0.2,33.9
+683EC4A47996BC,TB_drs_rr_oth_r_prct,Prevalence additional drug resistance among people with RR-TB,2018,Ethiopia,Fqr-resistance among people with RR-TB,Percentage,2.7,0.07,14.1
+683EC4A47996BC,TB_drs_rr_oth_r_prct,Prevalence additional drug resistance among people with RR-TB,2018,Indonesia,Fqr-resistance among people with RR-TB,Percentage,8,5.1,12.4
+683EC4A47996BC,TB_drs_rr_oth_r_prct,Prevalence additional drug resistance among people with RR-TB,2018,Indonesia,XDR-TB,Percentage,1.7,0.4,4.9
+683EC4A47996BC,TB_drs_rr_oth_r_prct,Prevalence additional drug resistance among people with RR-TB,2013,Pakistan,Lfx-resistance among people with RR-TB,Percentage,21.8,13.1,30.5
+683EC4A47996BC,TB_drs_rr_oth_r_prct,Prevalence additional drug resistance among people with RR-TB,2013,Pakistan,Mfx-resistance among people with RR-TB,Percentage,13.8,6.3,21.4
+683EC4A47996BC,TB_drs_rr_oth_r_prct,Prevalence additional drug resistance among people with RR-TB,2013,Pakistan,Fqr-resistance among people with RR-TB,Percentage,21.8,13.1,30.5
+683EC4A47996BC,TB_drs_rr_oth_r_prct,Prevalence additional drug resistance among people with RR-TB,2013,Pakistan,XDR-TB,Percentage,3.1,0.64,8.8
+683EC4A47996BC,TB_drs_rr_oth_r_prct,Prevalence additional drug resistance among people with RR-TB,2014,Ukraine,Mfx-resistance among people with RR-TB,Percentage,17.9,14,21.7
+683EC4A47996BC,TB_drs_rr_oth_r_prct,Prevalence additional drug resistance among people with RR-TB,2014,Ukraine,Fqr-resistance among people with RR-TB,Percentage,17.9,14,21.7
+683EC4A47996BC,TB_drs_rr_oth_r_prct,Prevalence additional drug resistance among people with RR-TB,2014,Ukraine,XDR-TB,Percentage,11.2,8.1,14.4
+683EC4A47996BC,TB_drs_rr_oth_r_prct,Prevalence additional drug resistance among people with RR-TB,2014,South Africa,XDR-TB,Percentage,4.9,1,8.8

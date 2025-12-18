@@ -1,0 +1,2161 @@
+region,sex,year,ghecause,causename,deaths,rank_deaths
+1_Afr,1,2000,100,HIV/AIDS,535148.0252,1
+1_Afr,1,2000,390,Lower respiratory infections,452003.6716,2
+1_Afr,1,2000,30,Tuberculosis,438081.657,3
+1_Afr,1,2000,220,Malaria,409714.7686,4
+1_Afr,1,2000,110,Diarrhoeal diseases,396663.4201,5
+1_Afr,1,2000,500,Preterm birth complications,200867.536,6
+1_Afr,1,2000,1140,Stroke,164301.4043,7
+1_Afr,1,2000,150,Measles,162888.4833,8
+1_Afr,1,2000,510,Birth asphyxia and birth trauma,155718.7315,9
+1_Afr,1,2000,1530,Road injury,119159.3878,10
+1_Afr,1,2000,1130,Ischaemic heart disease,116795.9408,11
+1_Afr,1,2000,170,Meningitis,99387.34388,12
+1_Afr,1,2000,1230,Cirrhosis of the liver,77704.85085,13
+1_Afr,1,2000,550,Protein-energy malnutrition,73557.33139,14
+1_Afr,1,2000,1630,Collective violence and legal intervention,68495.09824,15
+1_Afr,1,2019,390,Lower respiratory infections,420304.4356,1
+1_Afr,1,2019,30,Tuberculosis,324371.5468,2
+1_Afr,1,2019,220,Malaria,285724.3758,3
+1_Afr,1,2019,110,Diarrhoeal diseases,275880.7052,4
+1_Afr,1,2019,100,HIV/AIDS,233664.7884,5
+1_Afr,1,2019,1140,Stroke,230589.3762,6
+1_Afr,1,2019,500,Preterm birth complications,216364.1307,7
+1_Afr,1,2019,1130,Ischaemic heart disease,189456.2289,8
+1_Afr,1,2019,510,Birth asphyxia and birth trauma,162066.2551,9
+1_Afr,1,2019,1530,Road injury,155067.1856,10
+1_Afr,1,2019,1230,Cirrhosis of the liver,111491.214,11
+1_Afr,1,2019,800,Diabetes mellitus,88860.42105,12
+1_Afr,1,2019,1270,Kidney diseases,88207.08993,13
+1_Afr,1,2019,1620,Interpersonal violence,83939.87097,14
+1_Afr,1,2019,1400,Congenital anomalies,75081.80948,15
+1_Afr,1,2020,390,Lower respiratory infections,412312.6328,1
+1_Afr,1,2020,30,Tuberculosis,318231.8154,2
+1_Afr,1,2020,220,Malaria,311797.448,3
+1_Afr,1,2020,110,Diarrhoeal diseases,269543.7263,4
+1_Afr,1,2020,1140,Stroke,251017.2436,5
+1_Afr,1,2020,100,HIV/AIDS,218469.6919,6
+1_Afr,1,2020,500,Preterm birth complications,215890.6344,7
+1_Afr,1,2020,1130,Ischaemic heart disease,207204.4663,8
+1_Afr,1,2020,510,Birth asphyxia and birth trauma,160948.5768,9
+1_Afr,1,2020,1530,Road injury,146754.9246,10
+1_Afr,1,2020,395,COVID-19,125811.5245,11
+1_Afr,1,2020,1230,Cirrhosis of the liver,116976.8288,12
+1_Afr,1,2020,800,Diabetes mellitus,96888.70792,13
+1_Afr,1,2020,1270,Kidney diseases,94488.00224,14
+1_Afr,1,2020,1620,Interpersonal violence,84404.37573,15
+1_Afr,1,2021,390,Lower respiratory infections,410689.3005,1
+1_Afr,1,2021,220,Malaria,300763.1676,2
+1_Afr,1,2021,30,Tuberculosis,286581.0541,3
+1_Afr,1,2021,395,COVID-19,279103.7416,4
+1_Afr,1,2021,110,Diarrhoeal diseases,264865.6512,5
+1_Afr,1,2021,1140,Stroke,241661.101,6
+1_Afr,1,2021,500,Preterm birth complications,215763.0936,7
+1_Afr,1,2021,1130,Ischaemic heart disease,205389.2273,8
+1_Afr,1,2021,100,HIV/AIDS,198205.5184,9
+1_Afr,1,2021,510,Birth asphyxia and birth trauma,160518.2656,10
+1_Afr,1,2021,1530,Road injury,156155.7798,11
+1_Afr,1,2021,1230,Cirrhosis of the liver,120483.0419,12
+1_Afr,1,2021,800,Diabetes mellitus,94069.20095,13
+1_Afr,1,2021,1270,Kidney diseases,93832.67941,14
+1_Afr,1,2021,1620,Interpersonal violence,84977.72133,15
+1_Afr,2,2000,100,HIV/AIDS,666099.2837,1
+1_Afr,2,2000,220,Malaria,386865.1355,2
+1_Afr,2,2000,390,Lower respiratory infections,370731.9745,3
+1_Afr,2,2000,110,Diarrhoeal diseases,349718.6443,4
+1_Afr,2,2000,30,Tuberculosis,341328.3767,5
+1_Afr,2,2000,420,Maternal conditions,182144.4824,6
+1_Afr,2,2000,150,Measles,167586.481,7
+1_Afr,2,2000,1140,Stroke,161218.7291,8
+1_Afr,2,2000,500,Preterm birth complications,161125.8216,9
+1_Afr,2,2000,510,Birth asphyxia and birth trauma,124810.0395,10
+1_Afr,2,2000,1130,Ischaemic heart disease,105457.0274,11
+1_Afr,2,2000,170,Meningitis,81456.08999,12
+1_Afr,2,2000,1120,Hypertensive heart disease,64391.96545,13
+1_Afr,2,2000,550,Protein-energy malnutrition,64287.46486,14
+1_Afr,2,2000,710,Cervix uteri cancer,56077.96335,15
+1_Afr,2,2019,390,Lower respiratory infections,354253.294,1
+1_Afr,2,2019,220,Malaria,268793.3671,2
+1_Afr,2,2019,1140,Stroke,246284.9869,3
+1_Afr,2,2019,110,Diarrhoeal diseases,232048.7893,4
+1_Afr,2,2019,100,HIV/AIDS,229080.5165,5
+1_Afr,2,2019,30,Tuberculosis,228242.508,6
+1_Afr,2,2019,1130,Ischaemic heart disease,174137.6397,7
+1_Afr,2,2019,500,Preterm birth complications,168007.6301,8
+1_Afr,2,2019,420,Maternal conditions,140826.5212,9
+1_Afr,2,2019,510,Birth asphyxia and birth trauma,126165.4017,10
+1_Afr,2,2019,1120,Hypertensive heart disease,105187.4355,11
+1_Afr,2,2019,800,Diabetes mellitus,91513.63872,12
+1_Afr,2,2019,710,Cervix uteri cancer,81357.78432,13
+1_Afr,2,2019,700,Breast cancer,72740.56654,14
+1_Afr,2,2019,1270,Kidney diseases,71976.65059,15
+1_Afr,2,2020,390,Lower respiratory infections,347235.485,1
+1_Afr,2,2020,220,Malaria,295217.8525,2
+1_Afr,2,2020,1140,Stroke,263944.8367,3
+1_Afr,2,2020,30,Tuberculosis,234343.2356,4
+1_Afr,2,2020,110,Diarrhoeal diseases,226995.9412,5
+1_Afr,2,2020,100,HIV/AIDS,215138.1876,6
+1_Afr,2,2020,1130,Ischaemic heart disease,188394.6203,7
+1_Afr,2,2020,500,Preterm birth complications,167607.4351,8
+1_Afr,2,2020,420,Maternal conditions,131443.0182,9
+1_Afr,2,2020,510,Birth asphyxia and birth trauma,125391.0456,10
+1_Afr,2,2020,1120,Hypertensive heart disease,112770.1279,11
+1_Afr,2,2020,800,Diabetes mellitus,102474.8384,12
+1_Afr,2,2020,1270,Kidney diseases,77150.57338,13
+1_Afr,2,2020,395,COVID-19,76916.68191,14
+1_Afr,2,2020,710,Cervix uteri cancer,76009.25888,15
+1_Afr,2,2021,390,Lower respiratory infections,353965.871,1
+1_Afr,2,2021,220,Malaria,285544.4783,2
+1_Afr,2,2021,1140,Stroke,272430.2891,3
+1_Afr,2,2021,110,Diarrhoeal diseases,226217.4341,4
+1_Afr,2,2021,30,Tuberculosis,216099.7327,5
+1_Afr,2,2021,100,HIV/AIDS,203831.405,6
+1_Afr,2,2021,1130,Ischaemic heart disease,196078.6909,7
+1_Afr,2,2021,395,COVID-19,189670.1354,8
+1_Afr,2,2021,500,Preterm birth complications,167129.7666,9
+1_Afr,2,2021,420,Maternal conditions,147330.1729,10
+1_Afr,2,2021,510,Birth asphyxia and birth trauma,124633.5897,11
+1_Afr,2,2021,1120,Hypertensive heart disease,116375.2256,12
+1_Afr,2,2021,800,Diabetes mellitus,106316.9882,13
+1_Afr,2,2021,1270,Kidney diseases,82081.15423,14
+1_Afr,2,2021,710,Cervix uteri cancer,75607.00017,15
+1_Afr,3,2000,100,HIV/AIDS,1201247.309,1
+1_Afr,3,2000,390,Lower respiratory infections,822735.6461,2
+1_Afr,3,2000,220,Malaria,796579.9041,3
+1_Afr,3,2000,30,Tuberculosis,779410.0337,4
+1_Afr,3,2000,110,Diarrhoeal diseases,746382.0645,5
+1_Afr,3,2000,500,Preterm birth complications,361993.3576,6
+1_Afr,3,2000,150,Measles,330474.9644,7
+1_Afr,3,2000,1140,Stroke,325520.1333,8
+1_Afr,3,2000,510,Birth asphyxia and birth trauma,280528.771,9
+1_Afr,3,2000,1130,Ischaemic heart disease,222252.9681,10
+1_Afr,3,2000,420,Maternal conditions,182144.4824,11
+1_Afr,3,2000,170,Meningitis,180843.4339,12
+1_Afr,3,2000,1530,Road injury,173187.9486,13
+1_Afr,3,2000,550,Protein-energy malnutrition,137844.7962,14
+1_Afr,3,2000,1230,Cirrhosis of the liver,119963.4106,15
+1_Afr,3,2019,390,Lower respiratory infections,774557.7296,1
+1_Afr,3,2019,220,Malaria,554517.7429,2
+1_Afr,3,2019,30,Tuberculosis,552614.0549,3
+1_Afr,3,2019,110,Diarrhoeal diseases,507929.4945,4
+1_Afr,3,2019,1140,Stroke,476874.3631,5
+1_Afr,3,2019,100,HIV/AIDS,462745.305,6
+1_Afr,3,2019,500,Preterm birth complications,384371.7609,7
+1_Afr,3,2019,1130,Ischaemic heart disease,363593.8686,8
+1_Afr,3,2019,510,Birth asphyxia and birth trauma,288231.6569,9
+1_Afr,3,2019,1530,Road injury,219210.1154,10
+1_Afr,3,2019,800,Diabetes mellitus,180374.0598,11
+1_Afr,3,2019,1230,Cirrhosis of the liver,174393.0181,12
+1_Afr,3,2019,1270,Kidney diseases,160183.7405,13
+1_Afr,3,2019,1120,Hypertensive heart disease,149595.4516,14
+1_Afr,3,2019,420,Maternal conditions,140826.5212,15
+1_Afr,3,2020,390,Lower respiratory infections,759548.1178,1
+1_Afr,3,2020,220,Malaria,607015.3005,2
+1_Afr,3,2020,30,Tuberculosis,552575.051,3
+1_Afr,3,2020,1140,Stroke,514962.0802,4
+1_Afr,3,2020,110,Diarrhoeal diseases,496539.6675,5
+1_Afr,3,2020,100,HIV/AIDS,433607.8795,6
+1_Afr,3,2020,1130,Ischaemic heart disease,395599.0866,7
+1_Afr,3,2020,500,Preterm birth complications,383498.0695,8
+1_Afr,3,2020,510,Birth asphyxia and birth trauma,286339.6224,9
+1_Afr,3,2020,1530,Road injury,211246.7968,10
+1_Afr,3,2020,395,COVID-19,202728.2064,11
+1_Afr,3,2020,800,Diabetes mellitus,199363.5464,12
+1_Afr,3,2020,1230,Cirrhosis of the liver,182254.9419,13
+1_Afr,3,2020,1270,Kidney diseases,171638.5756,14
+1_Afr,3,2020,1120,Hypertensive heart disease,160689.7033,15
+1_Afr,3,2021,390,Lower respiratory infections,764655.1715,1
+1_Afr,3,2021,220,Malaria,586307.6459,2
+1_Afr,3,2021,1140,Stroke,514091.3901,3
+1_Afr,3,2021,30,Tuberculosis,502680.7868,4
+1_Afr,3,2021,110,Diarrhoeal diseases,491083.0853,5
+1_Afr,3,2021,395,COVID-19,468773.877,6
+1_Afr,3,2021,100,HIV/AIDS,402036.9233,7
+1_Afr,3,2021,1130,Ischaemic heart disease,401467.9182,8
+1_Afr,3,2021,500,Preterm birth complications,382892.8602,9
+1_Afr,3,2021,510,Birth asphyxia and birth trauma,285151.8553,10
+1_Afr,3,2021,1530,Road injury,225712.4771,11
+1_Afr,3,2021,800,Diabetes mellitus,200386.1892,12
+1_Afr,3,2021,1230,Cirrhosis of the liver,189983.2025,13
+1_Afr,3,2021,1270,Kidney diseases,175913.8336,14
+1_Afr,3,2021,1120,Hypertensive heart disease,161916.8392,15
+1_LI,1,2000,390,Lower respiratory infections,269882.6656,1
+1_LI,1,2000,110,Diarrhoeal diseases,213766.4789,2
+1_LI,1,2000,220,Malaria,196723.2241,3
+1_LI,1,2000,30,Tuberculosis,194052.3658,4
+1_LI,1,2000,100,HIV/AIDS,191720.055,5
+1_LI,1,2000,500,Preterm birth complications,144070.1791,6
+1_LI,1,2000,150,Measles,121508.9105,7
+1_LI,1,2000,1140,Stroke,107113.2942,8
+1_LI,1,2000,510,Birth asphyxia and birth trauma,93816.73808,9
+1_LI,1,2000,1130,Ischaemic heart disease,91928.78965,10
+1_LI,1,2000,1530,Road injury,73617.03476,11
+1_LI,1,2000,1630,Collective violence and legal intervention,66549.04743,12
+1_LI,1,2000,550,Protein-energy malnutrition,64468.17816,13
+1_LI,1,2000,170,Meningitis,61834.4575,14
+1_LI,1,2000,1230,Cirrhosis of the liver,45469.51737,15
+1_LI,1,2019,390,Lower respiratory infections,226234.7583,1
+1_LI,1,2019,1140,Stroke,164864.243,2
+1_LI,1,2019,1130,Ischaemic heart disease,151992.3697,3
+1_LI,1,2019,500,Preterm birth complications,147033.2045,4
+1_LI,1,2019,110,Diarrhoeal diseases,139769.3555,5
+1_LI,1,2019,220,Malaria,133748.7006,6
+1_LI,1,2019,30,Tuberculosis,118085.5489,7
+1_LI,1,2019,1530,Road injury,102326.2113,8
+1_LI,1,2019,1630,Collective violence and legal intervention,99030.93337,9
+1_LI,1,2019,510,Birth asphyxia and birth trauma,92417.54227,10
+1_LI,1,2019,100,HIV/AIDS,85034.11962,11
+1_LI,1,2019,1230,Cirrhosis of the liver,66775.53283,12
+1_LI,1,2019,1270,Kidney diseases,48399.04543,13
+1_LI,1,2019,1180,Chronic obstructive pulmonary disease,48327.58905,14
+1_LI,1,2019,1400,Congenital anomalies,45327.9553,15
+1_LI,1,2020,390,Lower respiratory infections,219123.0215,1
+1_LI,1,2020,1140,Stroke,176867.1295,2
+1_LI,1,2020,1130,Ischaemic heart disease,164409.0044,3
+1_LI,1,2020,220,Malaria,148803.1117,4
+1_LI,1,2020,500,Preterm birth complications,146791.3153,5
+1_LI,1,2020,110,Diarrhoeal diseases,135087.4293,6
+1_LI,1,2020,30,Tuberculosis,122652.5326,7
+1_LI,1,2020,1530,Road injury,96598.02184,8
+1_LI,1,2020,510,Birth asphyxia and birth trauma,91752.37448,9
+1_LI,1,2020,100,HIV/AIDS,81247.0568,10
+1_LI,1,2020,1230,Cirrhosis of the liver,69553.18455,11
+1_LI,1,2020,1630,Collective violence and legal intervention,63706.91641,12
+1_LI,1,2020,395,COVID-19,63059.63636,13
+1_LI,1,2020,1180,Chronic obstructive pulmonary disease,52103.22358,14
+1_LI,1,2020,1270,Kidney diseases,51749.54886,15
+1_LI,1,2021,390,Lower respiratory infections,217744.3854,1
+1_LI,1,2021,1140,Stroke,168405.4971,2
+1_LI,1,2021,395,COVID-19,163209.5793,3
+1_LI,1,2021,1130,Ischaemic heart disease,158045.378,4
+1_LI,1,2021,500,Preterm birth complications,146763.3273,5
+1_LI,1,2021,220,Malaria,142423.6639,6
+1_LI,1,2021,110,Diarrhoeal diseases,132448.1404,7
+1_LI,1,2021,30,Tuberculosis,114535.5306,8
+1_LI,1,2021,1530,Road injury,101203.3088,9
+1_LI,1,2021,510,Birth asphyxia and birth trauma,91602.1392,10
+1_LI,1,2021,1630,Collective violence and legal intervention,81451.10642,11
+1_LI,1,2021,100,HIV/AIDS,74786.64205,12
+1_LI,1,2021,1230,Cirrhosis of the liver,70701.21623,13
+1_LI,1,2021,1270,Kidney diseases,50784.05561,14
+1_LI,1,2021,1180,Chronic obstructive pulmonary disease,49393.5114,15
+1_LI,2,2000,100,HIV/AIDS,227236.099,1
+1_LI,2,2000,390,Lower respiratory infections,226747.4362,2
+1_LI,2,2000,220,Malaria,191022.4802,3
+1_LI,2,2000,110,Diarrhoeal diseases,184775.1449,4
+1_LI,2,2000,30,Tuberculosis,172408.4882,5
+1_LI,2,2000,1140,Stroke,115841.1566,6
+1_LI,2,2000,500,Preterm birth complications,115096.9806,7
+1_LI,2,2000,150,Measles,111826.9979,8
+1_LI,2,2000,420,Maternal conditions,109602.3823,9
+1_LI,2,2000,1130,Ischaemic heart disease,84339.37365,10
+1_LI,2,2000,510,Birth asphyxia and birth trauma,74672.11824,11
+1_LI,2,2000,550,Protein-energy malnutrition,68877.20908,12
+1_LI,2,2000,170,Meningitis,51234.2429,13
+1_LI,2,2000,1120,Hypertensive heart disease,41489.18373,14
+1_LI,2,2000,1530,Road injury,33455.55157,15
+1_LI,2,2019,390,Lower respiratory infections,192215.2594,1
+1_LI,2,2019,1140,Stroke,172374.6446,2
+1_LI,2,2019,1130,Ischaemic heart disease,136859.1114,3
+1_LI,2,2019,220,Malaria,125336.185,4
+1_LI,2,2019,110,Diarrhoeal diseases,115824.6748,5
+1_LI,2,2019,500,Preterm birth complications,113901.1095,6
+1_LI,2,2019,30,Tuberculosis,93313.0992,7
+1_LI,2,2019,420,Maternal conditions,83563.55663,8
+1_LI,2,2019,100,HIV/AIDS,80939.84158,9
+1_LI,2,2019,510,Birth asphyxia and birth trauma,71356.78895,10
+1_LI,2,2019,1120,Hypertensive heart disease,68601.32024,11
+1_LI,2,2019,1180,Chronic obstructive pulmonary disease,46534.09733,12
+1_LI,2,2019,800,Diabetes mellitus,44549.21974,13
+1_LI,2,2019,1270,Kidney diseases,43973.88364,14
+1_LI,2,2019,1530,Road injury,41934.87138,15
+1_LI,2,2020,390,Lower respiratory infections,185951.834,1
+1_LI,2,2020,1140,Stroke,178700.3274,2
+1_LI,2,2020,1130,Ischaemic heart disease,143526.7575,3
+1_LI,2,2020,220,Malaria,139028.6404,4
+1_LI,2,2020,500,Preterm birth complications,113780.4246,5
+1_LI,2,2020,110,Diarrhoeal diseases,112986.6809,6
+1_LI,2,2020,30,Tuberculosis,99413.08932,7
+1_LI,2,2020,420,Maternal conditions,79196.69885,8
+1_LI,2,2020,100,HIV/AIDS,76529.95694,9
+1_LI,2,2020,1120,Hypertensive heart disease,72091.90699,10
+1_LI,2,2020,510,Birth asphyxia and birth trauma,70910.01487,11
+1_LI,2,2020,1180,Chronic obstructive pulmonary disease,48020.0758,12
+1_LI,2,2020,800,Diabetes mellitus,47203.12813,13
+1_LI,2,2020,1270,Kidney diseases,46439.48864,14
+1_LI,2,2020,1530,Road injury,42452.64653,15
+1_LI,2,2021,390,Lower respiratory infections,188605.6388,1
+1_LI,2,2021,1140,Stroke,184268.7075,2
+1_LI,2,2021,1130,Ischaemic heart disease,148753.4785,3
+1_LI,2,2021,220,Malaria,132774.4594,4
+1_LI,2,2021,500,Preterm birth complications,113564.0444,5
+1_LI,2,2021,110,Diarrhoeal diseases,112884.2598,6
+1_LI,2,2021,30,Tuberculosis,96361.32615,7
+1_LI,2,2021,395,COVID-19,94832.33147,8
+1_LI,2,2021,420,Maternal conditions,88372.90309,9
+1_LI,2,2021,100,HIV/AIDS,76094.9705,10
+1_LI,2,2021,1120,Hypertensive heart disease,74678.30841,11
+1_LI,2,2021,510,Birth asphyxia and birth trauma,70633.57353,12
+1_LI,2,2021,800,Diabetes mellitus,49705.85605,13
+1_LI,2,2021,1180,Chronic obstructive pulmonary disease,49573.58328,14
+1_LI,2,2021,1270,Kidney diseases,49263.61761,15
+1_LI,3,2000,390,Lower respiratory infections,496630.1019,1
+1_LI,3,2000,100,HIV/AIDS,418956.154,2
+1_LI,3,2000,110,Diarrhoeal diseases,398541.6237,3
+1_LI,3,2000,220,Malaria,387745.7043,4
+1_LI,3,2000,30,Tuberculosis,366460.8541,5
+1_LI,3,2000,500,Preterm birth complications,259167.1597,6
+1_LI,3,2000,150,Measles,233335.9084,7
+1_LI,3,2000,1140,Stroke,222954.4508,8
+1_LI,3,2000,1130,Ischaemic heart disease,176268.1633,9
+1_LI,3,2000,510,Birth asphyxia and birth trauma,168488.8563,10
+1_LI,3,2000,550,Protein-energy malnutrition,133345.3872,11
+1_LI,3,2000,170,Meningitis,113068.7004,12
+1_LI,3,2000,420,Maternal conditions,109602.3823,13
+1_LI,3,2000,1530,Road injury,107072.5863,14
+1_LI,3,2000,1630,Collective violence and legal intervention,82138.22304,15
+1_LI,3,2019,390,Lower respiratory infections,418450.0177,1
+1_LI,3,2019,1140,Stroke,337238.8876,2
+1_LI,3,2019,1130,Ischaemic heart disease,288851.481,3
+1_LI,3,2019,500,Preterm birth complications,260934.3141,4
+1_LI,3,2019,220,Malaria,259084.8856,5
+1_LI,3,2019,110,Diarrhoeal diseases,255594.0303,6
+1_LI,3,2019,30,Tuberculosis,211398.6481,7
+1_LI,3,2019,100,HIV/AIDS,165973.9612,8
+1_LI,3,2019,510,Birth asphyxia and birth trauma,163774.3312,9
+1_LI,3,2019,1530,Road injury,144261.0827,10
+1_LI,3,2019,1630,Collective violence and legal intervention,120074.5479,11
+1_LI,3,2019,1230,Cirrhosis of the liver,103944.2771,12
+1_LI,3,2019,1120,Hypertensive heart disease,99038.20339,13
+1_LI,3,2019,1180,Chronic obstructive pulmonary disease,94861.68638,14
+1_LI,3,2019,1270,Kidney diseases,92372.92907,15
+1_LI,3,2020,390,Lower respiratory infections,405074.8555,1
+1_LI,3,2020,1140,Stroke,355567.4568,2
+1_LI,3,2020,1130,Ischaemic heart disease,307935.762,3
+1_LI,3,2020,220,Malaria,287831.7521,4
+1_LI,3,2020,500,Preterm birth complications,260571.7399,5
+1_LI,3,2020,110,Diarrhoeal diseases,248074.1102,6
+1_LI,3,2020,30,Tuberculosis,222065.6219,7
+1_LI,3,2020,510,Birth asphyxia and birth trauma,162662.3894,8
+1_LI,3,2020,100,HIV/AIDS,157777.0137,9
+1_LI,3,2020,1530,Road injury,139050.6684,10
+1_LI,3,2020,1230,Cirrhosis of the liver,107931.7829,11
+1_LI,3,2020,1120,Hypertensive heart disease,104944.0647,12
+1_LI,3,2020,395,COVID-19,100679.5836,13
+1_LI,3,2020,1180,Chronic obstructive pulmonary disease,100123.2994,14
+1_LI,3,2020,1270,Kidney diseases,98189.03749,15
+1_LI,3,2021,390,Lower respiratory infections,406350.0243,1
+1_LI,3,2021,1140,Stroke,352674.2046,2
+1_LI,3,2021,1130,Ischaemic heart disease,306798.8565,3
+1_LI,3,2021,220,Malaria,275198.1232,4
+1_LI,3,2021,500,Preterm birth complications,260327.3717,5
+1_LI,3,2021,395,COVID-19,258041.9107,6
+1_LI,3,2021,110,Diarrhoeal diseases,245332.4002,7
+1_LI,3,2021,30,Tuberculosis,210896.8567,8
+1_LI,3,2021,510,Birth asphyxia and birth trauma,162235.7127,9
+1_LI,3,2021,100,HIV/AIDS,150881.6125,10
+1_LI,3,2021,1530,Road injury,144665.3232,11
+1_LI,3,2021,1230,Cirrhosis of the liver,111078.0035,12
+1_LI,3,2021,1120,Hypertensive heart disease,105271.1729,13
+1_LI,3,2021,1270,Kidney diseases,100047.6732,14
+1_LI,3,2021,1630,Collective violence and legal intervention,99909.57185,15
+2_Amr,1,2000,1130,Ischaemic heart disease,524649.1764,1
+2_Amr,1,2000,1140,Stroke,192754.8122,2
+2_Amr,1,2000,1620,Interpersonal violence,139920.9901,3
+2_Amr,1,2000,680,"Trachea, bronchus, lung cancers",137929.9022,4
+2_Amr,1,2000,1180,Chronic obstructive pulmonary disease,137840.2592,5
+2_Amr,1,2000,390,Lower respiratory infections,111988.9552,6
+2_Amr,1,2000,1530,Road injury,98730.53909,7
+2_Amr,1,2000,800,Diabetes mellitus,76432.80702,8
+2_Amr,1,2000,740,Prostate cancer,72951.37799,9
+2_Amr,1,2000,1230,Cirrhosis of the liver,72286.55057,10
+2_Amr,1,2000,1270,Kidney diseases,68362.76458,11
+2_Amr,1,2000,500,Preterm birth complications,51810.01709,12
+2_Amr,1,2000,650,Colon and rectum cancers,51603.23251,13
+2_Amr,1,2000,1610,Self-harm,49631.98507,14
+2_Amr,1,2000,100,HIV/AIDS,47479.17819,15
+2_Amr,1,2019,1130,Ischaemic heart disease,586147.7036,1
+2_Amr,1,2019,1140,Stroke,217198.1918,2
+2_Amr,1,2019,1180,Chronic obstructive pulmonary disease,174222.4468,3
+2_Amr,1,2019,1620,Interpersonal violence,174096.3162,4
+2_Amr,1,2019,390,Lower respiratory infections,154168.0186,5
+2_Amr,1,2019,680,"Trachea, bronchus, lung cancers",134442.429,6
+2_Amr,1,2019,1270,Kidney diseases,133330.4015,7
+2_Amr,1,2019,950,Alzheimer disease and other dementias,129545.3049,8
+2_Amr,1,2019,800,Diabetes mellitus,129014.3768,9
+2_Amr,1,2019,1530,Road injury,107372.6927,10
+2_Amr,1,2019,1230,Cirrhosis of the liver,99292.30799,11
+2_Amr,1,2019,740,Prostate cancer,97899.39899,12
+2_Amr,1,2019,1120,Hypertensive heart disease,82432.61725,13
+2_Amr,1,2019,1610,Self-harm,75912.78197,14
+2_Amr,1,2019,650,Colon and rectum cancers,70841.72794,15
+2_Amr,1,2020,395,COVID-19,771079.4111,1
+2_Amr,1,2020,1130,Ischaemic heart disease,647366.4697,2
+2_Amr,1,2020,1140,Stroke,227225.0335,3
+2_Amr,1,2020,1620,Interpersonal violence,174127.7361,4
+2_Amr,1,2020,1180,Chronic obstructive pulmonary disease,163636.2579,5
+2_Amr,1,2020,800,Diabetes mellitus,155177.7742,6
+2_Amr,1,2020,1270,Kidney diseases,145804.9218,7
+2_Amr,1,2020,950,Alzheimer disease and other dementias,138634.2264,8
+2_Amr,1,2020,390,Lower respiratory infections,138398.4192,9
+2_Amr,1,2020,680,"Trachea, bronchus, lung cancers",129975.495,10
+2_Amr,1,2020,1530,Road injury,103844.4943,11
+2_Amr,1,2020,1230,Cirrhosis of the liver,103453.469,12
+2_Amr,1,2020,740,Prostate cancer,100711.4953,13
+2_Amr,1,2020,1120,Hypertensive heart disease,93909.76719,14
+2_Amr,1,2020,1610,Self-harm,75247.66055,15
+2_Amr,1,2021,395,COVID-19,1062836.154,1
+2_Amr,1,2021,1130,Ischaemic heart disease,659206.0818,2
+2_Amr,1,2021,1140,Stroke,228751.4705,3
+2_Amr,1,2021,1620,Interpersonal violence,173587.8681,4
+2_Amr,1,2021,1180,Chronic obstructive pulmonary disease,157606.2452,5
+2_Amr,1,2021,800,Diabetes mellitus,148739.2285,6
+2_Amr,1,2021,1270,Kidney diseases,144706.4042,7
+2_Amr,1,2021,390,Lower respiratory infections,135015.0065,8
+2_Amr,1,2021,950,Alzheimer disease and other dementias,132509.6208,9
+2_Amr,1,2021,680,"Trachea, bronchus, lung cancers",126818.2471,10
+2_Amr,1,2021,1530,Road injury,112962.8476,11
+2_Amr,1,2021,1230,Cirrhosis of the liver,107989.4808,12
+2_Amr,1,2021,740,Prostate cancer,101517.442,13
+2_Amr,1,2021,1120,Hypertensive heart disease,95216.64747,14
+2_Amr,1,2021,870,Drug use disorders,83831.61385,15
+2_Amr,2,2000,1130,Ischaemic heart disease,506594.4618,1
+2_Amr,2,2000,1140,Stroke,244665.4249,2
+2_Amr,2,2000,1180,Chronic obstructive pulmonary disease,123240.4552,3
+2_Amr,2,2000,390,Lower respiratory infections,111989.0875,4
+2_Amr,2,2000,800,Diabetes mellitus,99004.37617,5
+2_Amr,2,2000,680,"Trachea, bronchus, lung cancers",88411.46155,6
+2_Amr,2,2000,700,Breast cancer,84477.13397,7
+2_Amr,2,2000,950,Alzheimer disease and other dementias,77932.0547,8
+2_Amr,2,2000,1270,Kidney diseases,70667.4443,9
+2_Amr,2,2000,650,Colon and rectum cancers,53005.40779,10
+2_Amr,2,2000,1120,Hypertensive heart disease,46003.55158,11
+2_Amr,2,2000,500,Preterm birth complications,39873.1188,12
+2_Amr,2,2000,1400,Congenital anomalies,34319.01258,13
+2_Amr,2,2000,710,Cervix uteri cancer,34088.16567,14
+2_Amr,2,2000,1530,Road injury,33299.91661,15
+2_Amr,2,2019,1130,Ischaemic heart disease,467548.0918,1
+2_Amr,2,2019,1140,Stroke,251798.9874,2
+2_Amr,2,2019,950,Alzheimer disease and other dementias,251544.4554,3
+2_Amr,2,2019,1180,Chronic obstructive pulmonary disease,172576.2933,4
+2_Amr,2,2019,390,Lower respiratory infections,155457.0377,5
+2_Amr,2,2019,800,Diabetes mellitus,135486.2985,6
+2_Amr,2,2019,1270,Kidney diseases,122391.0884,7
+2_Amr,2,2019,700,Breast cancer,112177.4854,8
+2_Amr,2,2019,680,"Trachea, bronchus, lung cancers",108512.963,9
+2_Amr,2,2019,1120,Hypertensive heart disease,88833.09947,10
+2_Amr,2,2019,650,Colon and rectum cancers,66179.23053,11
+2_Amr,2,2019,670,Pancreas cancer,42655.5999,12
+2_Amr,2,2019,1230,Cirrhosis of the liver,41630.23071,13
+2_Amr,2,2019,710,Cervix uteri cancer,38332.20813,14
+2_Amr,2,2019,1550,Falls,35953.92921,15
+2_Amr,2,2020,395,COVID-19,519226.2992,1
+2_Amr,2,2020,1130,Ischaemic heart disease,501720.3891,2
+2_Amr,2,2020,950,Alzheimer disease and other dementias,273943.0351,3
+2_Amr,2,2020,1140,Stroke,255757.0311,4
+2_Amr,2,2020,1180,Chronic obstructive pulmonary disease,154886.9249,5
+2_Amr,2,2020,800,Diabetes mellitus,153771.5441,6
+2_Amr,2,2020,1270,Kidney diseases,130260.4751,7
+2_Amr,2,2020,390,Lower respiratory infections,126967.3818,8
+2_Amr,2,2020,700,Breast cancer,110537.308,9
+2_Amr,2,2020,680,"Trachea, bronchus, lung cancers",105649.2607,10
+2_Amr,2,2020,1120,Hypertensive heart disease,98963.08149,11
+2_Amr,2,2020,650,Colon and rectum cancers,65155.97545,12
+2_Amr,2,2020,1230,Cirrhosis of the liver,43825.22495,13
+2_Amr,2,2020,670,Pancreas cancer,43181.29128,14
+2_Amr,2,2020,710,Cervix uteri cancer,37723.61874,15
+2_Amr,2,2021,395,COVID-19,757410.8318,1
+2_Amr,2,2021,1130,Ischaemic heart disease,522068.9059,2
+2_Amr,2,2021,1140,Stroke,264991.8918,3
+2_Amr,2,2021,950,Alzheimer disease and other dementias,260439.1341,4
+2_Amr,2,2021,1180,Chronic obstructive pulmonary disease,153865.6028,5
+2_Amr,2,2021,800,Diabetes mellitus,153860.7672,6
+2_Amr,2,2021,1270,Kidney diseases,133837.406,7
+2_Amr,2,2021,390,Lower respiratory infections,127786.9648,8
+2_Amr,2,2021,700,Breast cancer,112349.9797,9
+2_Amr,2,2021,680,"Trachea, bronchus, lung cancers",106071.3695,10
+2_Amr,2,2021,1120,Hypertensive heart disease,102929.0637,11
+2_Amr,2,2021,650,Colon and rectum cancers,67194.39843,12
+2_Amr,2,2021,1230,Cirrhosis of the liver,47259.13084,13
+2_Amr,2,2021,670,Pancreas cancer,44094.23818,14
+2_Amr,2,2021,1550,Falls,39478.4766,15
+2_Amr,3,2000,1130,Ischaemic heart disease,1031243.638,1
+2_Amr,3,2000,1140,Stroke,437420.2371,2
+2_Amr,3,2000,1180,Chronic obstructive pulmonary disease,261080.7144,3
+2_Amr,3,2000,680,"Trachea, bronchus, lung cancers",226341.3637,4
+2_Amr,3,2000,390,Lower respiratory infections,223978.0427,5
+2_Amr,3,2000,800,Diabetes mellitus,175437.1832,6
+2_Amr,3,2000,1620,Interpersonal violence,159708.6215,7
+2_Amr,3,2000,1270,Kidney diseases,139030.2089,8
+2_Amr,3,2000,1530,Road injury,132030.4557,9
+2_Amr,3,2000,950,Alzheimer disease and other dementias,112719.1434,10
+2_Amr,3,2000,650,Colon and rectum cancers,104608.6403,11
+2_Amr,3,2000,1230,Cirrhosis of the liver,99394.26366,12
+2_Amr,3,2000,500,Preterm birth complications,91683.13589,13
+2_Amr,3,2000,700,Breast cancer,85335.5714,14
+2_Amr,3,2000,1120,Hypertensive heart disease,81091.398,15
+2_Amr,3,2019,1130,Ischaemic heart disease,1053695.795,1
+2_Amr,3,2019,1140,Stroke,468997.1793,2
+2_Amr,3,2019,950,Alzheimer disease and other dementias,381089.7603,3
+2_Amr,3,2019,1180,Chronic obstructive pulmonary disease,346798.7401,4
+2_Amr,3,2019,390,Lower respiratory infections,309625.0563,5
+2_Amr,3,2019,800,Diabetes mellitus,264500.6754,6
+2_Amr,3,2019,1270,Kidney diseases,255721.4899,7
+2_Amr,3,2019,680,"Trachea, bronchus, lung cancers",242955.392,8
+2_Amr,3,2019,1620,Interpersonal violence,198621.1526,9
+2_Amr,3,2019,1120,Hypertensive heart disease,171265.7167,10
+2_Amr,3,2019,1230,Cirrhosis of the liver,140922.5387,11
+2_Amr,3,2019,1530,Road injury,138237.2358,12
+2_Amr,3,2019,650,Colon and rectum cancers,137020.9585,13
+2_Amr,3,2019,700,Breast cancer,113357.5518,14
+2_Amr,3,2019,740,Prostate cancer,97899.39899,15
+2_Amr,3,2020,395,COVID-19,1290305.71,1
+2_Amr,3,2020,1130,Ischaemic heart disease,1149086.859,2
+2_Amr,3,2020,1140,Stroke,482982.0646,3
+2_Amr,3,2020,950,Alzheimer disease and other dementias,412577.2615,4
+2_Amr,3,2020,1180,Chronic obstructive pulmonary disease,318523.1828,5
+2_Amr,3,2020,800,Diabetes mellitus,308949.3183,6
+2_Amr,3,2020,1270,Kidney diseases,276065.3969,7
+2_Amr,3,2020,390,Lower respiratory infections,265365.8009,8
+2_Amr,3,2020,680,"Trachea, bronchus, lung cancers",235624.7556,9
+2_Amr,3,2020,1620,Interpersonal violence,198993.5161,10
+2_Amr,3,2020,1120,Hypertensive heart disease,192872.8487,11
+2_Amr,3,2020,1230,Cirrhosis of the liver,147278.694,12
+2_Amr,3,2020,650,Colon and rectum cancers,136286.6514,13
+2_Amr,3,2020,1530,Road injury,132222.991,14
+2_Amr,3,2020,700,Breast cancer,111773.9412,15
+2_Amr,3,2021,395,COVID-19,1820246.986,1
+2_Amr,3,2021,1130,Ischaemic heart disease,1181274.988,2
+2_Amr,3,2021,1140,Stroke,493743.3623,3
+2_Amr,3,2021,950,Alzheimer disease and other dementias,392948.7549,4
+2_Amr,3,2021,1180,Chronic obstructive pulmonary disease,311471.848,5
+2_Amr,3,2021,800,Diabetes mellitus,302599.9957,6
+2_Amr,3,2021,1270,Kidney diseases,278543.8102,7
+2_Amr,3,2021,390,Lower respiratory infections,262801.9712,8
+2_Amr,3,2021,680,"Trachea, bronchus, lung cancers",232889.6166,9
+2_Amr,3,2021,1620,Interpersonal violence,198763.7826,10
+2_Amr,3,2021,1120,Hypertensive heart disease,198145.7112,11
+2_Amr,3,2021,1230,Cirrhosis of the liver,155248.6116,12
+2_Amr,3,2021,1530,Road injury,145478.0503,13
+2_Amr,3,2021,650,Colon and rectum cancers,139749.6653,14
+2_Amr,3,2021,870,Drug use disorders,117221.5798,15
+2_LMI,1,2000,30,Tuberculosis,1014634.493,1
+2_LMI,1,2000,1130,Ischaemic heart disease,965033.4011,2
+2_LMI,1,2000,110,Diarrhoeal diseases,810799.7568,3
+2_LMI,1,2000,390,Lower respiratory infections,711934.2114,4
+2_LMI,1,2000,1140,Stroke,639326.8471,5
+2_LMI,1,2000,500,Preterm birth complications,496018.8866,6
+2_LMI,1,2000,1180,Chronic obstructive pulmonary disease,446556.1556,7
+2_LMI,1,2000,100,HIV/AIDS,430606.7373,8
+2_LMI,1,2000,510,Birth asphyxia and birth trauma,364714.3048,9
+2_LMI,1,2000,1530,Road injury,306538.7858,10
+2_LMI,1,2000,1230,Cirrhosis of the liver,276959.4097,11
+2_LMI,1,2000,220,Malaria,239224.109,12
+2_LMI,1,2000,150,Measles,223563.0838,13
+2_LMI,1,2000,1610,Self-harm,154293.9517,14
+2_LMI,1,2000,800,Diabetes mellitus,136155.2531,15
+2_LMI,1,2019,1130,Ischaemic heart disease,1795186.34,1
+2_LMI,1,2019,1140,Stroke,965464.0632,2
+2_LMI,1,2019,1180,Chronic obstructive pulmonary disease,770389.815,3
+2_LMI,1,2019,390,Lower respiratory infections,599229.3784,4
+2_LMI,1,2019,30,Tuberculosis,519945.8485,5
+2_LMI,1,2019,110,Diarrhoeal diseases,444557.2309,6
+2_LMI,1,2019,1230,Cirrhosis of the liver,392253.3909,7
+2_LMI,1,2019,1530,Road injury,385780.5734,8
+2_LMI,1,2019,500,Preterm birth complications,325425.7277,9
+2_LMI,1,2019,800,Diabetes mellitus,306452.0315,10
+2_LMI,1,2019,1270,Kidney diseases,244269.751,11
+2_LMI,1,2019,510,Birth asphyxia and birth trauma,222545.2163,12
+2_LMI,1,2019,1610,Self-harm,188558.0706,13
+2_LMI,1,2019,100,HIV/AIDS,177052.482,14
+2_LMI,1,2019,1550,Falls,175389.8654,15
+2_LMI,1,2020,1130,Ischaemic heart disease,1854789.378,1
+2_LMI,1,2020,1140,Stroke,1001146.827,2
+2_LMI,1,2020,1180,Chronic obstructive pulmonary disease,800762.8646,3
+2_LMI,1,2020,395,COVID-19,790005.8435,4
+2_LMI,1,2020,390,Lower respiratory infections,581835.5066,5
+2_LMI,1,2020,30,Tuberculosis,533888.6328,6
+2_LMI,1,2020,110,Diarrhoeal diseases,435762.853,7
+2_LMI,1,2020,1230,Cirrhosis of the liver,389477.9865,8
+2_LMI,1,2020,1530,Road injury,343707.1052,9
+2_LMI,1,2020,800,Diabetes mellitus,321873.2217,10
+2_LMI,1,2020,500,Preterm birth complications,315389.3018,11
+2_LMI,1,2020,1270,Kidney diseases,252315.7241,12
+2_LMI,1,2020,510,Birth asphyxia and birth trauma,215925.7987,13
+2_LMI,1,2020,1550,Falls,178255.7935,14
+2_LMI,1,2020,1610,Self-harm,175946.9953,15
+2_LMI,1,2021,395,COVID-19,2705682.084,1
+2_LMI,1,2021,1130,Ischaemic heart disease,1731825.007,2
+2_LMI,1,2021,1140,Stroke,944204.4268,3
+2_LMI,1,2021,1180,Chronic obstructive pulmonary disease,706184.4342,4
+2_LMI,1,2021,390,Lower respiratory infections,559625.9626,5
+2_LMI,1,2021,30,Tuberculosis,525170.6355,6
+2_LMI,1,2021,110,Diarrhoeal diseases,392384.0845,7
+2_LMI,1,2021,1530,Road injury,374752.9825,8
+2_LMI,1,2021,1230,Cirrhosis of the liver,371591.3655,9
+2_LMI,1,2021,500,Preterm birth complications,306385.0182,10
+2_LMI,1,2021,800,Diabetes mellitus,301221.2583,11
+2_LMI,1,2021,1270,Kidney diseases,242557.1236,12
+2_LMI,1,2021,510,Birth asphyxia and birth trauma,209887.1618,13
+2_LMI,1,2021,1610,Self-harm,170835.245,14
+2_LMI,1,2021,220,Malaria,170729.4825,15
+2_LMI,2,2000,110,Diarrhoeal diseases,859011.0598,1
+2_LMI,2,2000,1130,Ischaemic heart disease,820204.6303,2
+2_LMI,2,2000,30,Tuberculosis,668096.586,3
+2_LMI,2,2000,390,Lower respiratory infections,667824.8835,4
+2_LMI,2,2000,1140,Stroke,645897.2888,5
+2_LMI,2,2000,100,HIV/AIDS,448880.7703,6
+2_LMI,2,2000,500,Preterm birth complications,427333.5854,7
+2_LMI,2,2000,1180,Chronic obstructive pulmonary disease,320430.7578,8
+2_LMI,2,2000,510,Birth asphyxia and birth trauma,311335.028,9
+2_LMI,2,2000,420,Maternal conditions,260537.7639,10
+2_LMI,2,2000,150,Measles,236398.1136,11
+2_LMI,2,2000,220,Malaria,220437.2032,12
+2_LMI,2,2000,1230,Cirrhosis of the liver,158240.4645,13
+2_LMI,2,2000,800,Diabetes mellitus,146203.1858,14
+2_LMI,2,2000,1120,Hypertensive heart disease,137846.4033,15
+2_LMI,2,2019,1130,Ischaemic heart disease,1372521.698,1
+2_LMI,2,2019,1140,Stroke,944548.3586,2
+2_LMI,2,2019,1180,Chronic obstructive pulmonary disease,626591.5289,3
+2_LMI,2,2019,390,Lower respiratory infections,547768.0146,4
+2_LMI,2,2019,110,Diarrhoeal diseases,493834.0306,5
+2_LMI,2,2019,800,Diabetes mellitus,353492.5269,6
+2_LMI,2,2019,30,Tuberculosis,333806.8766,7
+2_LMI,2,2019,500,Preterm birth complications,270179.5465,8
+2_LMI,2,2019,1120,Hypertensive heart disease,253461.0748,9
+2_LMI,2,2019,1270,Kidney diseases,203464.6478,10
+2_LMI,2,2019,1230,Cirrhosis of the liver,203374.1484,11
+2_LMI,2,2019,700,Breast cancer,197278.2224,12
+2_LMI,2,2019,510,Birth asphyxia and birth trauma,182708.4948,13
+2_LMI,2,2019,1190,Asthma,170387.4108,14
+2_LMI,2,2019,950,Alzheimer disease and other dementias,169276.4734,15
+2_LMI,2,2020,1130,Ischaemic heart disease,1380539.947,1
+2_LMI,2,2020,1140,Stroke,943358.5624,2
+2_LMI,2,2020,1180,Chronic obstructive pulmonary disease,624086.817,3
+2_LMI,2,2020,390,Lower respiratory infections,518158.3952,4
+2_LMI,2,2020,395,COVID-19,487915.7715,5
+2_LMI,2,2020,110,Diarrhoeal diseases,477967.1056,6
+2_LMI,2,2020,800,Diabetes mellitus,357234.0626,7
+2_LMI,2,2020,30,Tuberculosis,348357.105,8
+2_LMI,2,2020,500,Preterm birth complications,260389.3528,9
+2_LMI,2,2020,1120,Hypertensive heart disease,254851.1112,10
+2_LMI,2,2020,1270,Kidney diseases,204375.7007,11
+2_LMI,2,2020,1230,Cirrhosis of the liver,201696.4806,12
+2_LMI,2,2020,700,Breast cancer,193508.7033,13
+2_LMI,2,2020,950,Alzheimer disease and other dementias,176970.0426,14
+2_LMI,2,2020,510,Birth asphyxia and birth trauma,176575.9311,15
+2_LMI,2,2021,395,COVID-19,1583302.956,1
+2_LMI,2,2021,1130,Ischaemic heart disease,1497633.169,2
+2_LMI,2,2021,1140,Stroke,1025194.075,3
+2_LMI,2,2021,1180,Chronic obstructive pulmonary disease,675805.8281,4
+2_LMI,2,2021,390,Lower respiratory infections,547550.0255,5
+2_LMI,2,2021,110,Diarrhoeal diseases,488795.0126,6
+2_LMI,2,2021,800,Diabetes mellitus,395735.4849,7
+2_LMI,2,2021,30,Tuberculosis,357088.179,8
+2_LMI,2,2021,1120,Hypertensive heart disease,276428.5914,9
+2_LMI,2,2021,500,Preterm birth complications,252109.4141,10
+2_LMI,2,2021,1270,Kidney diseases,227436.6396,11
+2_LMI,2,2021,700,Breast cancer,225696.7307,12
+2_LMI,2,2021,1230,Cirrhosis of the liver,215088.7279,13
+2_LMI,2,2021,950,Alzheimer disease and other dementias,185468.6163,14
+2_LMI,2,2021,1190,Asthma,179856.1611,15
+2_LMI,3,2000,1130,Ischaemic heart disease,1785238.031,1
+2_LMI,3,2000,30,Tuberculosis,1682731.079,2
+2_LMI,3,2000,110,Diarrhoeal diseases,1669810.817,3
+2_LMI,3,2000,390,Lower respiratory infections,1379759.095,4
+2_LMI,3,2000,1140,Stroke,1285224.136,5
+2_LMI,3,2000,500,Preterm birth complications,923352.4719,6
+2_LMI,3,2000,100,HIV/AIDS,879487.5076,7
+2_LMI,3,2000,1180,Chronic obstructive pulmonary disease,766986.9135,8
+2_LMI,3,2000,510,Birth asphyxia and birth trauma,676049.3328,9
+2_LMI,3,2000,150,Measles,459961.1974,10
+2_LMI,3,2000,220,Malaria,459661.3122,11
+2_LMI,3,2000,1230,Cirrhosis of the liver,435199.8743,12
+2_LMI,3,2000,1530,Road injury,409150.1488,13
+2_LMI,3,2000,800,Diabetes mellitus,282358.4389,14
+2_LMI,3,2000,420,Maternal conditions,260537.7639,15
+2_LMI,3,2019,1130,Ischaemic heart disease,3167708.038,1
+2_LMI,3,2019,1140,Stroke,1910012.422,2
+2_LMI,3,2019,1180,Chronic obstructive pulmonary disease,1396981.344,3
+2_LMI,3,2019,390,Lower respiratory infections,1146997.393,4
+2_LMI,3,2019,110,Diarrhoeal diseases,938391.2616,5
+2_LMI,3,2019,30,Tuberculosis,853752.7251,6
+2_LMI,3,2019,800,Diabetes mellitus,659944.5584,7
+2_LMI,3,2019,1230,Cirrhosis of the liver,595627.5393,8
+2_LMI,3,2019,500,Preterm birth complications,595605.2742,9
+2_LMI,3,2019,1530,Road injury,496969.4348,10
+2_LMI,3,2019,1270,Kidney diseases,447734.3988,11
+2_LMI,3,2019,510,Birth asphyxia and birth trauma,405253.7111,12
+2_LMI,3,2019,1120,Hypertensive heart disease,397644.4959,13
+2_LMI,3,2019,1550,Falls,333041.0922,14
+2_LMI,3,2019,100,HIV/AIDS,322950.7544,15
+2_LMI,3,2020,1130,Ischaemic heart disease,3235329.326,1
+2_LMI,3,2020,1140,Stroke,1944505.39,2
+2_LMI,3,2020,1180,Chronic obstructive pulmonary disease,1424849.682,3
+2_LMI,3,2020,395,COVID-19,1277921.615,4
+2_LMI,3,2020,390,Lower respiratory infections,1099993.902,5
+2_LMI,3,2020,110,Diarrhoeal diseases,913729.9587,6
+2_LMI,3,2020,30,Tuberculosis,882245.7379,7
+2_LMI,3,2020,800,Diabetes mellitus,679107.2843,8
+2_LMI,3,2020,1230,Cirrhosis of the liver,591174.4671,9
+2_LMI,3,2020,500,Preterm birth complications,575778.6545,10
+2_LMI,3,2020,1270,Kidney diseases,456691.4247,11
+2_LMI,3,2020,1530,Road injury,447784.8241,12
+2_LMI,3,2020,1120,Hypertensive heart disease,404465.9051,13
+2_LMI,3,2020,510,Birth asphyxia and birth trauma,392501.7298,14
+2_LMI,3,2020,220,Malaria,342683.0184,15
+2_LMI,3,2021,395,COVID-19,4288985.04,1
+2_LMI,3,2021,1130,Ischaemic heart disease,3229458.176,2
+2_LMI,3,2021,1140,Stroke,1969398.502,3
+2_LMI,3,2021,1180,Chronic obstructive pulmonary disease,1381990.262,4
+2_LMI,3,2021,390,Lower respiratory infections,1107175.988,5
+2_LMI,3,2021,30,Tuberculosis,882258.8145,6
+2_LMI,3,2021,110,Diarrhoeal diseases,881179.0971,7
+2_LMI,3,2021,800,Diabetes mellitus,696956.7432,8
+2_LMI,3,2021,1230,Cirrhosis of the liver,586680.0935,9
+2_LMI,3,2021,500,Preterm birth complications,558494.4323,10
+2_LMI,3,2021,1530,Road injury,493504.3578,11
+2_LMI,3,2021,1270,Kidney diseases,469993.7632,12
+2_LMI,3,2021,1120,Hypertensive heart disease,420862.3504,13
+2_LMI,3,2021,510,Birth asphyxia and birth trauma,380825.5592,14
+2_LMI,3,2021,1550,Falls,334675.5431,15
+3_Sear,1,2000,30,Tuberculosis,793933.7629,1
+3_Sear,1,2000,1130,Ischaemic heart disease,596632.3327,2
+3_Sear,1,2000,110,Diarrhoeal diseases,564623.7213,3
+3_Sear,1,2000,1140,Stroke,460246.4177,4
+3_Sear,1,2000,390,Lower respiratory infections,397427.8191,5
+3_Sear,1,2000,1180,Chronic obstructive pulmonary disease,381781.8701,6
+3_Sear,1,2000,500,Preterm birth complications,329854.7555,7
+3_Sear,1,2000,1530,Road injury,222059.4143,8
+3_Sear,1,2000,510,Birth asphyxia and birth trauma,214376.9247,9
+3_Sear,1,2000,1230,Cirrhosis of the liver,213790.2721,10
+3_Sear,1,2000,100,HIV/AIDS,184348.6145,11
+3_Sear,1,2000,150,Measles,123284.3008,12
+3_Sear,1,2000,1610,Self-harm,111637.6257,13
+3_Sear,1,2000,800,Diabetes mellitus,95855.13258,14
+3_Sear,1,2000,1190,Asthma,90652.9675,15
+3_Sear,1,2019,1130,Ischaemic heart disease,1301009.083,1
+3_Sear,1,2019,1140,Stroke,783021.9036,2
+3_Sear,1,2019,1180,Chronic obstructive pulmonary disease,715649.3362,3
+3_Sear,1,2019,30,Tuberculosis,341410.8631,4
+3_Sear,1,2019,1230,Cirrhosis of the liver,309942.7817,5
+3_Sear,1,2019,390,Lower respiratory infections,294052.1112,6
+3_Sear,1,2019,110,Diarrhoeal diseases,281585.3564,7
+3_Sear,1,2019,1530,Road injury,258185.2467,8
+3_Sear,1,2019,800,Diabetes mellitus,227730.8189,9
+3_Sear,1,2019,1270,Kidney diseases,162529.4526,10
+3_Sear,1,2019,500,Preterm birth complications,150425.5424,11
+3_Sear,1,2019,1550,Falls,142198.5463,12
+3_Sear,1,2019,1610,Self-harm,139854.1844,13
+3_Sear,1,2019,620,Mouth and oropharynx cancers,120065.8474,14
+3_Sear,1,2019,1190,Asthma,119075.4686,15
+3_Sear,1,2020,1130,Ischaemic heart disease,1335582.456,1
+3_Sear,1,2020,1140,Stroke,799917.3592,2
+3_Sear,1,2020,1180,Chronic obstructive pulmonary disease,739873.1918,3
+3_Sear,1,2020,395,COVID-19,629469.1495,4
+3_Sear,1,2020,30,Tuberculosis,360650.5127,5
+3_Sear,1,2020,1230,Cirrhosis of the liver,303857.2084,6
+3_Sear,1,2020,390,Lower respiratory infections,278451.6979,7
+3_Sear,1,2020,110,Diarrhoeal diseases,276171.412,8
+3_Sear,1,2020,800,Diabetes mellitus,235502.2882,9
+3_Sear,1,2020,1530,Road injury,234486.0547,10
+3_Sear,1,2020,1270,Kidney diseases,164675.8353,11
+3_Sear,1,2020,1550,Falls,143828.7541,12
+3_Sear,1,2020,500,Preterm birth complications,141463.7274,13
+3_Sear,1,2020,1610,Self-harm,130737.4145,14
+3_Sear,1,2020,620,Mouth and oropharynx cancers,119465.8547,15
+3_Sear,1,2021,395,COVID-19,2547110.328,1
+3_Sear,1,2021,1130,Ischaemic heart disease,1180985.919,2
+3_Sear,1,2021,1140,Stroke,701445.9808,3
+3_Sear,1,2021,1180,Chronic obstructive pulmonary disease,635325.6473,4
+3_Sear,1,2021,30,Tuberculosis,387262.3676,5
+3_Sear,1,2021,1230,Cirrhosis of the liver,273639.2285,6
+3_Sear,1,2021,1530,Road injury,250680.1672,7
+3_Sear,1,2021,390,Lower respiratory infections,245217.8332,8
+3_Sear,1,2021,110,Diarrhoeal diseases,231540.8646,9
+3_Sear,1,2021,800,Diabetes mellitus,207477.1778,10
+3_Sear,1,2021,1270,Kidney diseases,146071.9513,11
+3_Sear,1,2021,620,Mouth and oropharynx cancers,136045.9332,12
+3_Sear,1,2021,500,Preterm birth complications,134402.7343,13
+3_Sear,1,2021,1550,Falls,125243.9127,14
+3_Sear,1,2021,1610,Self-harm,122859.5252,15
+3_Sear,2,2000,110,Diarrhoeal diseases,646073.4468,1
+3_Sear,2,2000,30,Tuberculosis,534568.1247,2
+3_Sear,2,2000,1140,Stroke,484941.7138,3
+3_Sear,2,2000,1130,Ischaemic heart disease,423429.6419,4
+3_Sear,2,2000,390,Lower respiratory infections,404936.3086,5
+3_Sear,2,2000,1180,Chronic obstructive pulmonary disease,294777.9721,6
+3_Sear,2,2000,500,Preterm birth complications,294634.6326,7
+3_Sear,2,2000,510,Birth asphyxia and birth trauma,190709.671,8
+3_Sear,2,2000,420,Maternal conditions,146528.6976,9
+3_Sear,2,2000,150,Measles,131813.0951,10
+3_Sear,2,2000,1230,Cirrhosis of the liver,116343.5502,11
+3_Sear,2,2000,800,Diabetes mellitus,106428.0767,12
+3_Sear,2,2000,100,HIV/AIDS,101462.4561,13
+3_Sear,2,2000,1190,Asthma,98997.94028,14
+3_Sear,2,2000,550,Protein-energy malnutrition,91197.56667,15
+3_Sear,2,2019,1130,Ischaemic heart disease,870705.6583,1
+3_Sear,2,2019,1140,Stroke,786918.6265,2
+3_Sear,2,2019,1180,Chronic obstructive pulmonary disease,596588.3849,3
+3_Sear,2,2019,110,Diarrhoeal diseases,365702.8084,4
+3_Sear,2,2019,390,Lower respiratory infections,291463.9653,5
+3_Sear,2,2019,800,Diabetes mellitus,257559.7216,6
+3_Sear,2,2019,30,Tuberculosis,204045.4117,7
+3_Sear,2,2019,1120,Hypertensive heart disease,169580.427,8
+3_Sear,2,2019,1190,Asthma,153087.3663,9
+3_Sear,2,2019,1230,Cirrhosis of the liver,150876.0535,10
+3_Sear,2,2019,1550,Falls,143853.5263,11
+3_Sear,2,2019,950,Alzheimer disease and other dementias,134984.7422,12
+3_Sear,2,2019,500,Preterm birth complications,133653.1139,13
+3_Sear,2,2019,1270,Kidney diseases,127272.2775,14
+3_Sear,2,2019,700,Breast cancer,116448.9571,15
+3_Sear,2,2020,1130,Ischaemic heart disease,876403.9242,1
+3_Sear,2,2020,1140,Stroke,784544.0882,2
+3_Sear,2,2020,1180,Chronic obstructive pulmonary disease,594757.214,3
+3_Sear,2,2020,395,COVID-19,377160.9361,4
+3_Sear,2,2020,110,Diarrhoeal diseases,355893.6707,5
+3_Sear,2,2020,390,Lower respiratory infections,271419.0308,6
+3_Sear,2,2020,800,Diabetes mellitus,260465.2216,7
+3_Sear,2,2020,30,Tuberculosis,217223.7849,8
+3_Sear,2,2020,1120,Hypertensive heart disease,169870.6121,9
+3_Sear,2,2020,1190,Asthma,149208.4954,10
+3_Sear,2,2020,1230,Cirrhosis of the liver,147929.1279,11
+3_Sear,2,2020,1550,Falls,146082.7371,12
+3_Sear,2,2020,950,Alzheimer disease and other dementias,143287.0515,13
+3_Sear,2,2020,1270,Kidney diseases,129406.3688,14
+3_Sear,2,2020,500,Preterm birth complications,125009.5395,15
+3_Sear,2,2021,395,COVID-19,1455514.189,1
+3_Sear,2,2021,1130,Ischaemic heart disease,954602.014,2
+3_Sear,2,2021,1140,Stroke,829283.6711,3
+3_Sear,2,2021,1180,Chronic obstructive pulmonary disease,640050.7622,4
+3_Sear,2,2021,110,Diarrhoeal diseases,364643.4869,5
+3_Sear,2,2021,800,Diabetes mellitus,285096.7943,6
+3_Sear,2,2021,390,Lower respiratory infections,282512.8082,7
+3_Sear,2,2021,30,Tuberculosis,248513.5733,8
+3_Sear,2,2021,1120,Hypertensive heart disease,179695.9027,9
+3_Sear,2,2021,1190,Asthma,159222.4653,10
+3_Sear,2,2021,1230,Cirrhosis of the liver,156371.3432,11
+3_Sear,2,2021,1550,Falls,155788.8132,12
+3_Sear,2,2021,950,Alzheimer disease and other dementias,146497.5753,13
+3_Sear,2,2021,700,Breast cancer,145786.803,14
+3_Sear,2,2021,1270,Kidney diseases,140443.1335,15
+3_Sear,3,2000,30,Tuberculosis,1328501.888,1
+3_Sear,3,2000,110,Diarrhoeal diseases,1210697.168,2
+3_Sear,3,2000,1130,Ischaemic heart disease,1020061.975,3
+3_Sear,3,2000,1140,Stroke,945188.1315,4
+3_Sear,3,2000,390,Lower respiratory infections,802364.1277,5
+3_Sear,3,2000,1180,Chronic obstructive pulmonary disease,676559.8422,6
+3_Sear,3,2000,500,Preterm birth complications,624489.3881,7
+3_Sear,3,2000,510,Birth asphyxia and birth trauma,405086.5956,8
+3_Sear,3,2000,1230,Cirrhosis of the liver,330133.8223,9
+3_Sear,3,2000,1530,Road injury,289163.2984,10
+3_Sear,3,2000,100,HIV/AIDS,285811.0706,11
+3_Sear,3,2000,150,Measles,255097.3959,12
+3_Sear,3,2000,800,Diabetes mellitus,202283.2093,13
+3_Sear,3,2000,1610,Self-harm,201568.9367,14
+3_Sear,3,2000,1190,Asthma,189650.9078,15
+3_Sear,3,2019,1130,Ischaemic heart disease,2171714.741,1
+3_Sear,3,2019,1140,Stroke,1569940.53,2
+3_Sear,3,2019,1180,Chronic obstructive pulmonary disease,1312237.721,3
+3_Sear,3,2019,110,Diarrhoeal diseases,647288.1648,4
+3_Sear,3,2019,390,Lower respiratory infections,585516.0765,5
+3_Sear,3,2019,30,Tuberculosis,545456.2748,6
+3_Sear,3,2019,800,Diabetes mellitus,485290.5405,7
+3_Sear,3,2019,1230,Cirrhosis of the liver,460818.8352,8
+3_Sear,3,2019,1530,Road injury,323089.0436,9
+3_Sear,3,2019,1270,Kidney diseases,289801.7301,10
+3_Sear,3,2019,1550,Falls,286052.0726,11
+3_Sear,3,2019,500,Preterm birth complications,284078.6563,12
+3_Sear,3,2019,1190,Asthma,272162.8349,13
+3_Sear,3,2019,1120,Hypertensive heart disease,259218.1278,14
+3_Sear,3,2019,1610,Self-harm,223942.6382,15
+3_Sear,3,2020,1130,Ischaemic heart disease,2211986.38,1
+3_Sear,3,2020,1140,Stroke,1584461.447,2
+3_Sear,3,2020,1180,Chronic obstructive pulmonary disease,1334630.406,3
+3_Sear,3,2020,395,COVID-19,1006630.086,4
+3_Sear,3,2020,110,Diarrhoeal diseases,632065.0827,5
+3_Sear,3,2020,30,Tuberculosis,577874.2976,6
+3_Sear,3,2020,390,Lower respiratory infections,549870.7287,7
+3_Sear,3,2020,800,Diabetes mellitus,495967.5098,8
+3_Sear,3,2020,1230,Cirrhosis of the liver,451786.3362,9
+3_Sear,3,2020,1530,Road injury,296300.1952,10
+3_Sear,3,2020,1270,Kidney diseases,294082.2042,11
+3_Sear,3,2020,1550,Falls,289911.4912,12
+3_Sear,3,2020,1190,Asthma,268099.0419,13
+3_Sear,3,2020,500,Preterm birth complications,266473.2669,14
+3_Sear,3,2020,1120,Hypertensive heart disease,260973.2522,15
+3_Sear,3,2021,395,COVID-19,4002624.517,1
+3_Sear,3,2021,1130,Ischaemic heart disease,2135587.933,2
+3_Sear,3,2021,1140,Stroke,1530729.652,3
+3_Sear,3,2021,1180,Chronic obstructive pulmonary disease,1275376.41,4
+3_Sear,3,2021,30,Tuberculosis,635775.9409,5
+3_Sear,3,2021,110,Diarrhoeal diseases,596184.3514,6
+3_Sear,3,2021,390,Lower respiratory infections,527730.6414,7
+3_Sear,3,2021,800,Diabetes mellitus,492573.9721,8
+3_Sear,3,2021,1230,Cirrhosis of the liver,430010.5717,9
+3_Sear,3,2021,1530,Road injury,319498.0508,10
+3_Sear,3,2021,1270,Kidney diseases,286515.0848,11
+3_Sear,3,2021,1550,Falls,281032.726,12
+3_Sear,3,2021,1190,Asthma,260952.2934,13
+3_Sear,3,2021,1120,Hypertensive heart disease,257777.7598,14
+3_Sear,3,2021,500,Preterm birth complications,252865.245,15
+3_UMI,1,2000,1140,Stroke,1523879.31,1
+3_UMI,1,2000,1130,Ischaemic heart disease,1190584.087,2
+3_UMI,1,2000,1180,Chronic obstructive pulmonary disease,891363.4966,3
+3_UMI,1,2000,680,"Trachea, bronchus, lung cancers",417342.5045,4
+3_UMI,1,2000,1530,Road injury,378144.6657,5
+3_UMI,1,2000,640,Stomach cancer,334198.445,6
+3_UMI,1,2000,390,Lower respiratory infections,325028.2401,7
+3_UMI,1,2000,30,Tuberculosis,273560.8945,8
+3_UMI,1,2000,1230,Cirrhosis of the liver,248719.2277,9
+3_UMI,1,2000,1610,Self-harm,212804.623,10
+3_UMI,1,2000,1620,Interpersonal violence,203564.0724,11
+3_UMI,1,2000,630,Oesophagus cancer,192746.9985,12
+3_UMI,1,2000,100,HIV/AIDS,173056.8967,13
+3_UMI,1,2000,1120,Hypertensive heart disease,164843.2491,14
+3_UMI,1,2000,500,Preterm birth complications,151622.5626,15
+3_UMI,1,2019,1140,Stroke,1972573.918,1
+3_UMI,1,2019,1130,Ischaemic heart disease,1889228.089,2
+3_UMI,1,2019,1180,Chronic obstructive pulmonary disease,905801.0263,3
+3_UMI,1,2019,680,"Trachea, bronchus, lung cancers",667945.845,4
+3_UMI,1,2019,640,Stomach cancer,353596.3458,5
+3_UMI,1,2019,1530,Road injury,344384.8238,6
+3_UMI,1,2019,390,Lower respiratory infections,341091.9437,7
+3_UMI,1,2019,1230,Cirrhosis of the liver,291268.6406,8
+3_UMI,1,2019,1120,Hypertensive heart disease,253679.4464,9
+3_UMI,1,2019,1270,Kidney diseases,251374.9582,10
+3_UMI,1,2019,800,Diabetes mellitus,243916.6222,11
+3_UMI,1,2019,650,Colon and rectum cancers,239720.039,12
+3_UMI,1,2019,630,Oesophagus cancer,234585.8904,13
+3_UMI,1,2019,950,Alzheimer disease and other dementias,203851.9208,14
+3_UMI,1,2019,660,Liver cancer,185748.6897,15
+3_UMI,1,2020,1140,Stroke,2011960.92,1
+3_UMI,1,2020,1130,Ischaemic heart disease,1950246.994,2
+3_UMI,1,2020,395,COVID-19,966379.8105,3
+3_UMI,1,2020,1180,Chronic obstructive pulmonary disease,915172.6909,4
+3_UMI,1,2020,680,"Trachea, bronchus, lung cancers",684565.4536,5
+3_UMI,1,2020,640,Stomach cancer,358664.2975,6
+3_UMI,1,2020,1530,Road injury,332304.369,7
+3_UMI,1,2020,390,Lower respiratory infections,307825.1988,8
+3_UMI,1,2020,1230,Cirrhosis of the liver,286471.1875,9
+3_UMI,1,2020,800,Diabetes mellitus,266871.6977,10
+3_UMI,1,2020,1120,Hypertensive heart disease,262750.2623,11
+3_UMI,1,2020,1270,Kidney diseases,261353.0605,12
+3_UMI,1,2020,650,Colon and rectum cancers,247601.3659,13
+3_UMI,1,2020,630,Oesophagus cancer,242326.1403,14
+3_UMI,1,2020,950,Alzheimer disease and other dementias,210453.4748,15
+3_UMI,1,2021,1140,Stroke,1968576.521,1
+3_UMI,1,2021,1130,Ischaemic heart disease,1926717.943,2
+3_UMI,1,2021,395,COVID-19,1668771.99,3
+3_UMI,1,2021,1180,Chronic obstructive pulmonary disease,901118.9507,4
+3_UMI,1,2021,680,"Trachea, bronchus, lung cancers",686508.1608,5
+3_UMI,1,2021,640,Stomach cancer,357361.0548,6
+3_UMI,1,2021,1530,Road injury,333734.4029,7
+3_UMI,1,2021,390,Lower respiratory infections,308594.5487,8
+3_UMI,1,2021,1230,Cirrhosis of the liver,276973.6195,9
+3_UMI,1,2021,1120,Hypertensive heart disease,254341.7824,10
+3_UMI,1,2021,1270,Kidney diseases,252752.5729,11
+3_UMI,1,2021,800,Diabetes mellitus,252171.0082,12
+3_UMI,1,2021,650,Colon and rectum cancers,250567.3965,13
+3_UMI,1,2021,630,Oesophagus cancer,245364.1951,14
+3_UMI,1,2021,950,Alzheimer disease and other dementias,217519.4884,15
+3_UMI,2,2000,1140,Stroke,1616577.247,1
+3_UMI,2,2000,1130,Ischaemic heart disease,1138400.608,2
+3_UMI,2,2000,1180,Chronic obstructive pulmonary disease,756409.8518,3
+3_UMI,2,2000,390,Lower respiratory infections,256564.4908,4
+3_UMI,2,2000,1120,Hypertensive heart disease,191272.6629,5
+3_UMI,2,2000,950,Alzheimer disease and other dementias,186987.1944,6
+3_UMI,2,2000,800,Diabetes mellitus,176496.9743,7
+3_UMI,2,2000,30,Tuberculosis,175587.7979,8
+3_UMI,2,2000,640,Stomach cancer,173300.6775,9
+3_UMI,2,2000,680,"Trachea, bronchus, lung cancers",165718.1637,10
+3_UMI,2,2000,1270,Kidney diseases,138331.0072,11
+3_UMI,2,2000,1230,Cirrhosis of the liver,138197.2511,12
+3_UMI,2,2000,700,Breast cancer,133056.3326,13
+3_UMI,2,2000,100,HIV/AIDS,127598.5464,14
+3_UMI,2,2000,1530,Road injury,125714.0319,15
+3_UMI,2,2019,1140,Stroke,1785371.292,1
+3_UMI,2,2019,1130,Ischaemic heart disease,1687503.434,2
+3_UMI,2,2019,1180,Chronic obstructive pulmonary disease,640768.0437,3
+3_UMI,2,2019,950,Alzheimer disease and other dementias,440015.7812,4
+3_UMI,2,2019,800,Diabetes mellitus,307271.385,5
+3_UMI,2,2019,680,"Trachea, bronchus, lung cancers",307004.4963,6
+3_UMI,2,2019,390,Lower respiratory infections,294335.2763,7
+3_UMI,2,2019,1120,Hypertensive heart disease,276580.1905,8
+3_UMI,2,2019,1270,Kidney diseases,232301.8849,9
+3_UMI,2,2019,700,Breast cancer,209107.7664,10
+3_UMI,2,2019,650,Colon and rectum cancers,169945.2429,11
+3_UMI,2,2019,640,Stomach cancer,164505.146,12
+3_UMI,2,2019,1230,Cirrhosis of the liver,152008.6855,13
+3_UMI,2,2019,710,Cervix uteri cancer,116135.189,14
+3_UMI,2,2019,1530,Road injury,106960.9115,15
+3_UMI,2,2020,1140,Stroke,1764992.137,1
+3_UMI,2,2020,1130,Ischaemic heart disease,1690370.252,2
+3_UMI,2,2020,395,COVID-19,710106.02,3
+3_UMI,2,2020,1180,Chronic obstructive pulmonary disease,630041.1608,4
+3_UMI,2,2020,950,Alzheimer disease and other dementias,443837.2331,5
+3_UMI,2,2020,800,Diabetes mellitus,326708.0566,6
+3_UMI,2,2020,680,"Trachea, bronchus, lung cancers",314499.2893,7
+3_UMI,2,2020,1120,Hypertensive heart disease,282071.0548,8
+3_UMI,2,2020,390,Lower respiratory infections,257486.6537,9
+3_UMI,2,2020,1270,Kidney diseases,238969.3774,10
+3_UMI,2,2020,700,Breast cancer,211397.7552,11
+3_UMI,2,2020,650,Colon and rectum cancers,171542.3486,12
+3_UMI,2,2020,640,Stomach cancer,163078.1071,13
+3_UMI,2,2020,1230,Cirrhosis of the liver,146170.5018,14
+3_UMI,2,2020,710,Cervix uteri cancer,116949.9697,15
+3_UMI,2,2021,1140,Stroke,1850118.747,1
+3_UMI,2,2021,1130,Ischaemic heart disease,1806314.044,2
+3_UMI,2,2021,395,COVID-19,1343764.337,3
+3_UMI,2,2021,1180,Chronic obstructive pulmonary disease,681211.7646,4
+3_UMI,2,2021,950,Alzheimer disease and other dementias,498267.4875,5
+3_UMI,2,2021,680,"Trachea, bronchus, lung cancers",337647.9981,6
+3_UMI,2,2021,800,Diabetes mellitus,334462.5004,7
+3_UMI,2,2021,1120,Hypertensive heart disease,295258.9133,8
+3_UMI,2,2021,390,Lower respiratory infections,275917.1365,9
+3_UMI,2,2021,1270,Kidney diseases,249885.6287,10
+3_UMI,2,2021,700,Breast cancer,224850.7397,11
+3_UMI,2,2021,650,Colon and rectum cancers,181553.1601,12
+3_UMI,2,2021,640,Stomach cancer,171402.489,13
+3_UMI,2,2021,1230,Cirrhosis of the liver,151304.1322,14
+3_UMI,2,2021,710,Cervix uteri cancer,123405.7796,15
+3_UMI,3,2000,1140,Stroke,3140456.557,1
+3_UMI,3,2000,1130,Ischaemic heart disease,2328984.695,2
+3_UMI,3,2000,1180,Chronic obstructive pulmonary disease,1647773.348,3
+3_UMI,3,2000,680,"Trachea, bronchus, lung cancers",583060.6682,4
+3_UMI,3,2000,390,Lower respiratory infections,581592.7308,5
+3_UMI,3,2000,640,Stomach cancer,507499.1225,6
+3_UMI,3,2000,1530,Road injury,503858.6976,7
+3_UMI,3,2000,30,Tuberculosis,449148.6924,8
+3_UMI,3,2000,1230,Cirrhosis of the liver,386916.4788,9
+3_UMI,3,2000,1120,Hypertensive heart disease,356115.912,10
+3_UMI,3,2000,1610,Self-harm,332114.7762,11
+3_UMI,3,2000,800,Diabetes mellitus,300853.7426,12
+3_UMI,3,2000,100,HIV/AIDS,300655.4431,13
+3_UMI,3,2000,1270,Kidney diseases,280682.1997,14
+3_UMI,3,2000,630,Oesophagus cancer,270215.5006,15
+3_UMI,3,2019,1140,Stroke,3757945.209,1
+3_UMI,3,2019,1130,Ischaemic heart disease,3576731.523,2
+3_UMI,3,2019,1180,Chronic obstructive pulmonary disease,1546569.07,3
+3_UMI,3,2019,680,"Trachea, bronchus, lung cancers",974950.3412,4
+3_UMI,3,2019,950,Alzheimer disease and other dementias,643867.702,5
+3_UMI,3,2019,390,Lower respiratory infections,635427.2199,6
+3_UMI,3,2019,800,Diabetes mellitus,551188.0071,7
+3_UMI,3,2019,1120,Hypertensive heart disease,530259.6369,8
+3_UMI,3,2019,640,Stomach cancer,518101.4919,9
+3_UMI,3,2019,1270,Kidney diseases,483676.8431,10
+3_UMI,3,2019,1530,Road injury,451345.7353,11
+3_UMI,3,2019,1230,Cirrhosis of the liver,443277.3261,12
+3_UMI,3,2019,650,Colon and rectum cancers,409665.2819,13
+3_UMI,3,2019,630,Oesophagus cancer,303976.9875,14
+3_UMI,3,2019,660,Liver cancer,272141.7697,15
+3_UMI,3,2020,1140,Stroke,3776953.057,1
+3_UMI,3,2020,1130,Ischaemic heart disease,3640617.246,2
+3_UMI,3,2020,395,COVID-19,1676485.831,3
+3_UMI,3,2020,1180,Chronic obstructive pulmonary disease,1545213.852,4
+3_UMI,3,2020,680,"Trachea, bronchus, lung cancers",999064.7429,5
+3_UMI,3,2020,950,Alzheimer disease and other dementias,654290.7078,6
+3_UMI,3,2020,800,Diabetes mellitus,593579.7543,7
+3_UMI,3,2020,390,Lower respiratory infections,565311.8525,8
+3_UMI,3,2020,1120,Hypertensive heart disease,544821.3171,9
+3_UMI,3,2020,640,Stomach cancer,521742.4046,10
+3_UMI,3,2020,1270,Kidney diseases,500322.4379,11
+3_UMI,3,2020,1230,Cirrhosis of the liver,432641.6893,12
+3_UMI,3,2020,1530,Road injury,432304.9368,13
+3_UMI,3,2020,650,Colon and rectum cancers,419143.7145,14
+3_UMI,3,2020,630,Oesophagus cancer,311767.316,15
+3_UMI,3,2021,1140,Stroke,3818695.268,1
+3_UMI,3,2021,1130,Ischaemic heart disease,3733031.987,2
+3_UMI,3,2021,395,COVID-19,3012536.328,3
+3_UMI,3,2021,1180,Chronic obstructive pulmonary disease,1582330.715,4
+3_UMI,3,2021,680,"Trachea, bronchus, lung cancers",1024156.159,5
+3_UMI,3,2021,950,Alzheimer disease and other dementias,715786.9759,6
+3_UMI,3,2021,800,Diabetes mellitus,586633.5086,7
+3_UMI,3,2021,390,Lower respiratory infections,584511.6852,8
+3_UMI,3,2021,1120,Hypertensive heart disease,549600.6956,9
+3_UMI,3,2021,640,Stomach cancer,528763.5438,10
+3_UMI,3,2021,1270,Kidney diseases,502638.2015,11
+3_UMI,3,2021,1530,Road injury,439402.8684,12
+3_UMI,3,2021,650,Colon and rectum cancers,432120.5566,13
+3_UMI,3,2021,1230,Cirrhosis of the liver,428277.7517,14
+3_UMI,3,2021,630,Oesophagus cancer,318450.575,15
+4_Eur,1,2000,1130,Ischaemic heart disease,1198574.271,1
+4_Eur,1,2000,1140,Stroke,554772.0674,2
+4_Eur,1,2000,680,"Trachea, bronchus, lung cancers",306759.7766,3
+4_Eur,1,2000,1180,Chronic obstructive pulmonary disease,204349.6222,4
+4_Eur,1,2000,1610,Self-harm,148409.2228,5
+4_Eur,1,2000,390,Lower respiratory infections,140608.4917,6
+4_Eur,1,2000,650,Colon and rectum cancers,117753.7703,7
+4_Eur,1,2000,1230,Cirrhosis of the liver,109124.2125,8
+4_Eur,1,2000,1530,Road injury,100442.3111,9
+4_Eur,1,2000,640,Stomach cancer,99057.56542,10
+4_Eur,1,2000,740,Prostate cancer,94712.54254,11
+4_Eur,1,2000,1150,"Cardiomyopathy, myocarditis, endocarditis",78271.85992,12
+4_Eur,1,2000,860,Alcohol use disorders,70522.38272,13
+4_Eur,1,2000,30,Tuberculosis,60105.56797,14
+4_Eur,1,2000,800,Diabetes mellitus,51959.43747,15
+4_Eur,1,2019,1130,Ischaemic heart disease,1002194.712,1
+4_Eur,1,2019,1140,Stroke,421801.0006,2
+4_Eur,1,2019,680,"Trachea, bronchus, lung cancers",292457.3741,3
+4_Eur,1,2019,1180,Chronic obstructive pulmonary disease,182091.8044,4
+4_Eur,1,2019,950,Alzheimer disease and other dementias,146288.4379,5
+4_Eur,1,2019,650,Colon and rectum cancers,139473.2321,6
+4_Eur,1,2019,390,Lower respiratory infections,131749.0955,7
+4_Eur,1,2019,740,Prostate cancer,121464.9512,8
+4_Eur,1,2019,1230,Cirrhosis of the liver,115086.7468,9
+4_Eur,1,2019,1610,Self-harm,94590.4683,10
+4_Eur,1,2019,1150,"Cardiomyopathy, myocarditis, endocarditis",93123.61408,11
+4_Eur,1,2019,800,Diabetes mellitus,79747.33767,12
+4_Eur,1,2019,1120,Hypertensive heart disease,76097.29409,13
+4_Eur,1,2019,640,Stomach cancer,73736.53611,14
+4_Eur,1,2019,670,Pancreas cancer,72348.5954,15
+4_Eur,1,2020,1130,Ischaemic heart disease,1006613.967,1
+4_Eur,1,2020,395,COVID-19,565599.3402,2
+4_Eur,1,2020,1140,Stroke,426059.6499,3
+4_Eur,1,2020,680,"Trachea, bronchus, lung cancers",289636.6532,4
+4_Eur,1,2020,1180,Chronic obstructive pulmonary disease,177497.4467,5
+4_Eur,1,2020,950,Alzheimer disease and other dementias,148598.409,6
+4_Eur,1,2020,650,Colon and rectum cancers,138899.5869,7
+4_Eur,1,2020,390,Lower respiratory infections,124960.0082,8
+4_Eur,1,2020,740,Prostate cancer,124555.0868,9
+4_Eur,1,2020,1230,Cirrhosis of the liver,113152.2527,10
+4_Eur,1,2020,1150,"Cardiomyopathy, myocarditis, endocarditis",89457.23434,11
+4_Eur,1,2020,1610,Self-harm,89155.19999,12
+4_Eur,1,2020,800,Diabetes mellitus,87432.80946,13
+4_Eur,1,2020,1120,Hypertensive heart disease,87006.02974,14
+4_Eur,1,2020,670,Pancreas cancer,73396.55748,15
+4_Eur,1,2021,1130,Ischaemic heart disease,981006.9008,1
+4_Eur,1,2021,395,COVID-19,869005.6864,2
+4_Eur,1,2021,1140,Stroke,411445.2275,3
+4_Eur,1,2021,680,"Trachea, bronchus, lung cancers",284663.633,4
+4_Eur,1,2021,1180,Chronic obstructive pulmonary disease,173737.1516,5
+4_Eur,1,2021,950,Alzheimer disease and other dementias,147951.9345,6
+4_Eur,1,2021,650,Colon and rectum cancers,136662.1022,7
+4_Eur,1,2021,740,Prostate cancer,122193.9719,8
+4_Eur,1,2021,390,Lower respiratory infections,119370.0053,9
+4_Eur,1,2021,1230,Cirrhosis of the liver,113037.4139,10
+4_Eur,1,2021,1610,Self-harm,88212.38789,11
+4_Eur,1,2021,1150,"Cardiomyopathy, myocarditis, endocarditis",87727.71199,12
+4_Eur,1,2021,1120,Hypertensive heart disease,85584.23885,13
+4_Eur,1,2021,800,Diabetes mellitus,84653.04559,14
+4_Eur,1,2021,670,Pancreas cancer,73007.06387,15
+4_Eur,2,2000,1130,Ischaemic heart disease,1345891.325,1
+4_Eur,2,2000,1140,Stroke,863617.4095,2
+4_Eur,2,2000,700,Breast cancer,149511.6433,3
+4_Eur,2,2000,1180,Chronic obstructive pulmonary disease,136069.6415,4
+4_Eur,2,2000,390,Lower respiratory infections,135617.7003,5
+4_Eur,2,2000,950,Alzheimer disease and other dementias,115458.1563,6
+4_Eur,2,2000,650,Colon and rectum cancers,115209.6854,7
+4_Eur,2,2000,680,"Trachea, bronchus, lung cancers",79120.93067,8
+4_Eur,2,2000,800,Diabetes mellitus,78966.97692,9
+4_Eur,2,2000,1120,Hypertensive heart disease,77285.98884,10
+4_Eur,2,2000,640,Stomach cancer,67336.69137,11
+4_Eur,2,2000,1230,Cirrhosis of the liver,63267.31717,12
+4_Eur,2,2000,1150,"Cardiomyopathy, myocarditis, endocarditis",50066.68522,13
+4_Eur,2,2000,1270,Kidney diseases,49522.57766,14
+4_Eur,2,2000,730,Ovary cancer,45319.77183,15
+4_Eur,2,2019,1130,Ischaemic heart disease,1100953.115,1
+4_Eur,2,2019,1140,Stroke,602293.4806,2
+4_Eur,2,2019,950,Alzheimer disease and other dementias,319689.7499,3
+4_Eur,2,2019,700,Breast cancer,160286.7255,4
+4_Eur,2,2019,1180,Chronic obstructive pulmonary disease,134642.759,5
+4_Eur,2,2019,1120,Hypertensive heart disease,133916.8137,6
+4_Eur,2,2019,680,"Trachea, bronchus, lung cancers",124876.4838,7
+4_Eur,2,2019,390,Lower respiratory infections,123192.7501,8
+4_Eur,2,2019,650,Colon and rectum cancers,118845.8134,9
+4_Eur,2,2019,800,Diabetes mellitus,107776.105,10
+4_Eur,2,2019,1270,Kidney diseases,84689.04466,11
+4_Eur,2,2019,670,Pancreas cancer,68863.79492,12
+4_Eur,2,2019,1230,Cirrhosis of the liver,65648.41589,13
+4_Eur,2,2019,1150,"Cardiomyopathy, myocarditis, endocarditis",64056.4063,14
+4_Eur,2,2019,730,Ovary cancer,48713.07554,15
+4_Eur,2,2020,1130,Ischaemic heart disease,1077605.033,1
+4_Eur,2,2020,1140,Stroke,593143.6187,2
+4_Eur,2,2020,395,COVID-19,527111.7693,3
+4_Eur,2,2020,950,Alzheimer disease and other dementias,326872.6879,4
+4_Eur,2,2020,700,Breast cancer,161379.07,5
+4_Eur,2,2020,1120,Hypertensive heart disease,147478.3378,6
+4_Eur,2,2020,1180,Chronic obstructive pulmonary disease,126984.7001,7
+4_Eur,2,2020,680,"Trachea, bronchus, lung cancers",124982.9956,8
+4_Eur,2,2020,650,Colon and rectum cancers,118523.8835,9
+4_Eur,2,2020,800,Diabetes mellitus,113674.141,10
+4_Eur,2,2020,390,Lower respiratory infections,108331.2491,11
+4_Eur,2,2020,1270,Kidney diseases,88596.52613,12
+4_Eur,2,2020,670,Pancreas cancer,69602.69716,13
+4_Eur,2,2020,1230,Cirrhosis of the liver,63377.52967,14
+4_Eur,2,2020,1150,"Cardiomyopathy, myocarditis, endocarditis",60832.60467,15
+4_Eur,2,2021,1130,Ischaemic heart disease,1098440.947,1
+4_Eur,2,2021,395,COVID-19,834974.9892,2
+4_Eur,2,2021,1140,Stroke,598561.2405,3
+4_Eur,2,2021,950,Alzheimer disease and other dementias,325237.3425,4
+4_Eur,2,2021,700,Breast cancer,162985.8586,5
+4_Eur,2,2021,1120,Hypertensive heart disease,146942.1906,6
+4_Eur,2,2021,1180,Chronic obstructive pulmonary disease,131315.9738,7
+4_Eur,2,2021,680,"Trachea, bronchus, lung cancers",127606.0291,8
+4_Eur,2,2021,650,Colon and rectum cancers,119225.4145,9
+4_Eur,2,2021,800,Diabetes mellitus,113487.9723,10
+4_Eur,2,2021,390,Lower respiratory infections,109498.3342,11
+4_Eur,2,2021,1270,Kidney diseases,90334.6912,12
+4_Eur,2,2021,670,Pancreas cancer,70651.99113,13
+4_Eur,2,2021,1230,Cirrhosis of the liver,65698.8116,14
+4_Eur,2,2021,1150,"Cardiomyopathy, myocarditis, endocarditis",61574.22999,15
+4_Eur,3,2000,1130,Ischaemic heart disease,2544465.597,1
+4_Eur,3,2000,1140,Stroke,1418389.477,2
+4_Eur,3,2000,680,"Trachea, bronchus, lung cancers",385880.7073,3
+4_Eur,3,2000,1180,Chronic obstructive pulmonary disease,340419.2637,4
+4_Eur,3,2000,390,Lower respiratory infections,276226.192,5
+4_Eur,3,2000,650,Colon and rectum cancers,232963.4557,6
+4_Eur,3,2000,1610,Self-harm,186149.0783,7
+4_Eur,3,2000,1230,Cirrhosis of the liver,172391.5296,8
+4_Eur,3,2000,640,Stomach cancer,166394.2568,9
+4_Eur,3,2000,950,Alzheimer disease and other dementias,158675.04,10
+4_Eur,3,2000,700,Breast cancer,151189.6636,11
+4_Eur,3,2000,1530,Road injury,134457.8927,12
+4_Eur,3,2000,800,Diabetes mellitus,130926.4144,13
+4_Eur,3,2000,1150,"Cardiomyopathy, myocarditis, endocarditis",128338.5451,14
+4_Eur,3,2000,1120,Hypertensive heart disease,123855.7154,15
+4_Eur,3,2019,1130,Ischaemic heart disease,2103147.827,1
+4_Eur,3,2019,1140,Stroke,1024094.481,2
+4_Eur,3,2019,950,Alzheimer disease and other dementias,465978.1878,3
+4_Eur,3,2019,680,"Trachea, bronchus, lung cancers",417333.8578,4
+4_Eur,3,2019,1180,Chronic obstructive pulmonary disease,316734.5634,5
+4_Eur,3,2019,650,Colon and rectum cancers,258319.0455,6
+4_Eur,3,2019,390,Lower respiratory infections,254941.8456,7
+4_Eur,3,2019,1120,Hypertensive heart disease,210014.1078,8
+4_Eur,3,2019,800,Diabetes mellitus,187523.4427,9
+4_Eur,3,2019,1230,Cirrhosis of the liver,180735.1627,10
+4_Eur,3,2019,700,Breast cancer,162065.0183,11
+4_Eur,3,2019,1150,"Cardiomyopathy, myocarditis, endocarditis",157180.0204,12
+4_Eur,3,2019,1270,Kidney diseases,154688.4074,13
+4_Eur,3,2019,670,Pancreas cancer,141212.3903,14
+4_Eur,3,2019,1610,Self-harm,122003.1294,15
+4_Eur,3,2020,1130,Ischaemic heart disease,2084219,1
+4_Eur,3,2020,395,COVID-19,1092711.109,2
+4_Eur,3,2020,1140,Stroke,1019203.269,3
+4_Eur,3,2020,950,Alzheimer disease and other dementias,475471.0969,4
+4_Eur,3,2020,680,"Trachea, bronchus, lung cancers",414619.6488,5
+4_Eur,3,2020,1180,Chronic obstructive pulmonary disease,304482.1468,6
+4_Eur,3,2020,650,Colon and rectum cancers,257423.4704,7
+4_Eur,3,2020,1120,Hypertensive heart disease,234484.3675,8
+4_Eur,3,2020,390,Lower respiratory infections,233291.2574,9
+4_Eur,3,2020,800,Diabetes mellitus,201106.9505,10
+4_Eur,3,2020,1230,Cirrhosis of the liver,176529.7824,11
+4_Eur,3,2020,700,Breast cancer,163194.8448,12
+4_Eur,3,2020,1270,Kidney diseases,161831.0228,13
+4_Eur,3,2020,1150,"Cardiomyopathy, myocarditis, endocarditis",150289.839,14
+4_Eur,3,2020,670,Pancreas cancer,142999.2546,15
+4_Eur,3,2021,1130,Ischaemic heart disease,2079447.848,1
+4_Eur,3,2021,395,COVID-19,1703980.676,2
+4_Eur,3,2021,1140,Stroke,1010006.468,3
+4_Eur,3,2021,950,Alzheimer disease and other dementias,473189.2769,4
+4_Eur,3,2021,680,"Trachea, bronchus, lung cancers",412269.6622,5
+4_Eur,3,2021,1180,Chronic obstructive pulmonary disease,305053.1254,6
+4_Eur,3,2021,650,Colon and rectum cancers,255887.5167,7
+4_Eur,3,2021,1120,Hypertensive heart disease,232526.4295,8
+4_Eur,3,2021,390,Lower respiratory infections,228868.3394,9
+4_Eur,3,2021,800,Diabetes mellitus,198141.0179,10
+4_Eur,3,2021,1230,Cirrhosis of the liver,178736.2255,11
+4_Eur,3,2021,700,Breast cancer,164743.4742,12
+4_Eur,3,2021,1270,Kidney diseases,162324.9001,13
+4_Eur,3,2021,1150,"Cardiomyopathy, myocarditis, endocarditis",149301.942,14
+4_Eur,3,2021,670,Pancreas cancer,143659.055,15
+4_HI,1,2000,1130,Ischaemic heart disease,994465.067,1
+4_HI,1,2000,1140,Stroke,407525.1801,2
+4_HI,1,2000,680,"Trachea, bronchus, lung cancers",350155.8107,3
+4_HI,1,2000,1180,Chronic obstructive pulmonary disease,225492.9655,4
+4_HI,1,2000,390,Lower respiratory infections,175063.2492,5
+4_HI,1,2000,650,Colon and rectum cancers,149350.5666,6
+4_HI,1,2000,740,Prostate cancer,131591.1247,7
+4_HI,1,2000,1610,Self-harm,111568.8546,8
+4_HI,1,2000,1530,Road injury,109495.7395,9
+4_HI,1,2000,640,Stomach cancer,104916.5898,10
+4_HI,1,2000,1230,Cirrhosis of the liver,101729.1348,11
+4_HI,1,2000,800,Diabetes mellitus,80634.42986,12
+4_HI,1,2000,1270,Kidney diseases,77302.53841,13
+4_HI,1,2000,660,Liver cancer,72077.73615,14
+4_HI,1,2000,950,Alzheimer disease and other dementias,65725.84473,15
+4_HI,1,2019,1130,Ischaemic heart disease,881244.9339,1
+4_HI,1,2019,680,"Trachea, bronchus, lung cancers",358564.8122,2
+4_HI,1,2019,1140,Stroke,340319.6439,3
+4_HI,1,2019,1180,Chronic obstructive pulmonary disease,263243.7765,4
+4_HI,1,2019,950,Alzheimer disease and other dementias,262634.8992,5
+4_HI,1,2019,390,Lower respiratory infections,209356.8061,6
+4_HI,1,2019,650,Colon and rectum cancers,182004.7728,7
+4_HI,1,2019,740,Prostate cancer,160654.489,8
+4_HI,1,2019,1270,Kidney diseases,138693.4239,9
+4_HI,1,2019,1610,Self-harm,119249.1342,10
+4_HI,1,2019,1120,Hypertensive heart disease,107222.9786,11
+4_HI,1,2019,1230,Cirrhosis of the liver,106111.9946,12
+4_HI,1,2019,670,Pancreas cancer,104907.2905,13
+4_HI,1,2019,800,Diabetes mellitus,103306.5786,14
+4_HI,1,2019,660,Liver cancer,90876.59436,15
+4_HI,1,2020,1130,Ischaemic heart disease,915258.0173,1
+4_HI,1,2020,395,COVID-19,538597.4731,2
+4_HI,1,2020,680,"Trachea, bronchus, lung cancers",354108.1405,3
+4_HI,1,2020,1140,Stroke,352876.0122,4
+4_HI,1,2020,950,Alzheimer disease and other dementias,273076.7234,5
+4_HI,1,2020,1180,Chronic obstructive pulmonary disease,254111.955,6
+4_HI,1,2020,390,Lower respiratory infections,194659.5655,7
+4_HI,1,2020,650,Colon and rectum cancers,182238.9175,8
+4_HI,1,2020,740,Prostate cancer,164001.025,9
+4_HI,1,2020,1270,Kidney diseases,147375.0145,10
+4_HI,1,2020,1120,Hypertensive heart disease,123989.4691,11
+4_HI,1,2020,1610,Self-harm,118395.7904,12
+4_HI,1,2020,800,Diabetes mellitus,116597.1729,13
+4_HI,1,2020,1230,Cirrhosis of the liver,114382.891,14
+4_HI,1,2020,670,Pancreas cancer,107747.8214,15
+4_HI,1,2021,1130,Ischaemic heart disease,925384.0914,1
+4_HI,1,2021,395,COVID-19,662128.713,2
+4_HI,1,2021,1140,Stroke,353497.784,3
+4_HI,1,2021,680,"Trachea, bronchus, lung cancers",351595.5119,4
+4_HI,1,2021,950,Alzheimer disease and other dementias,269675.6889,5
+4_HI,1,2021,1180,Chronic obstructive pulmonary disease,251963.0399,6
+4_HI,1,2021,390,Lower respiratory infections,184142.739,7
+4_HI,1,2021,650,Colon and rectum cancers,182643.6551,8
+4_HI,1,2021,740,Prostate cancer,164553.5047,9
+4_HI,1,2021,1270,Kidney diseases,151313.9049,10
+4_HI,1,2021,1120,Hypertensive heart disease,125774.2672,11
+4_HI,1,2021,1230,Cirrhosis of the liver,120535.1468,12
+4_HI,1,2021,1610,Self-harm,120149.112,13
+4_HI,1,2021,800,Diabetes mellitus,116228.3994,14
+4_HI,1,2021,670,Pancreas cancer,109573.9525,15
+4_HI,2,2000,1130,Ischaemic heart disease,1061710.638,1
+4_HI,2,2000,1140,Stroke,586577.2975,2
+4_HI,2,2000,390,Lower respiratory infections,202248.8912,3
+4_HI,2,2000,1180,Chronic obstructive pulmonary disease,190300.1265,4
+4_HI,2,2000,700,Breast cancer,175748.7525,5
+4_HI,2,2000,680,"Trachea, bronchus, lung cancers",154679.6541,6
+4_HI,2,2000,950,Alzheimer disease and other dementias,151207.5999,7
+4_HI,2,2000,650,Colon and rectum cancers,141807.4672,8
+4_HI,2,2000,800,Diabetes mellitus,102855.2452,9
+4_HI,2,2000,1270,Kidney diseases,88323.61519,10
+4_HI,2,2000,1120,Hypertensive heart disease,78464.53804,11
+4_HI,2,2000,640,Stomach cancer,67173.18027,12
+4_HI,2,2000,670,Pancreas cancer,60996.57645,13
+4_HI,2,2000,760,"Lymphomas, multiple myeloma",60289.21381,14
+4_HI,2,2000,730,Ovary cancer,52461.97328,15
+4_HI,2,2019,1130,Ischaemic heart disease,809126.0898,1
+4_HI,2,2019,950,Alzheimer disease and other dementias,521311.9798,2
+4_HI,2,2019,1140,Stroke,447793.2592,3
+4_HI,2,2019,1180,Chronic obstructive pulmonary disease,234372.8093,4
+4_HI,2,2019,680,"Trachea, bronchus, lung cancers",215639.1649,5
+4_HI,2,2019,390,Lower respiratory infections,208643.6067,6
+4_HI,2,2019,700,Breast cancer,196654.6617,7
+4_HI,2,2019,650,Colon and rectum cancers,155760.1148,8
+4_HI,2,2019,1120,Hypertensive heart disease,154901.8875,9
+4_HI,2,2019,1270,Kidney diseases,147728.1053,10
+4_HI,2,2019,670,Pancreas cancer,103470.442,11
+4_HI,2,2019,800,Diabetes mellitus,94641.38553,12
+4_HI,2,2019,760,"Lymphomas, multiple myeloma",67744.41276,13
+4_HI,2,2019,1550,Falls,66337.7933,14
+4_HI,2,2019,730,Ovary cancer,56445.7371,15
+4_HI,2,2020,1130,Ischaemic heart disease,814713.2352,1
+4_HI,2,2020,950,Alzheimer disease and other dementias,551095.0351,2
+4_HI,2,2020,1140,Stroke,459032.1111,3
+4_HI,2,2020,395,COVID-19,457020.3717,4
+4_HI,2,2020,1180,Chronic obstructive pulmonary disease,219830.178,5
+4_HI,2,2020,680,"Trachea, bronchus, lung cancers",214547.2915,6
+4_HI,2,2020,700,Breast cancer,197320.3794,7
+4_HI,2,2020,390,Lower respiratory infections,178313.9918,8
+4_HI,2,2020,1120,Hypertensive heart disease,174413.0209,9
+4_HI,2,2020,1270,Kidney diseases,156380.0166,10
+4_HI,2,2020,650,Colon and rectum cancers,155347.9575,11
+4_HI,2,2020,800,Diabetes mellitus,106037.7373,12
+4_HI,2,2020,670,Pancreas cancer,105899.3602,13
+4_HI,2,2020,1550,Falls,69668.3807,14
+4_HI,2,2020,760,"Lymphomas, multiple myeloma",68427.55786,15
+4_HI,2,2021,1130,Ischaemic heart disease,824559.4849,1
+4_HI,2,2021,950,Alzheimer disease and other dementias,536950.5813,2
+4_HI,2,2021,395,COVID-19,534988.9573,3
+4_HI,2,2021,1140,Stroke,457403.893,4
+4_HI,2,2021,1180,Chronic obstructive pulmonary disease,222457.8487,5
+4_HI,2,2021,680,"Trachea, bronchus, lung cancers",217308.1969,6
+4_HI,2,2021,700,Breast cancer,198660.4177,7
+4_HI,2,2021,1120,Hypertensive heart disease,176106.846,8
+4_HI,2,2021,390,Lower respiratory infections,169665.9405,9
+4_HI,2,2021,1270,Kidney diseases,161390.6624,10
+4_HI,2,2021,650,Colon and rectum cancers,156990.2956,11
+4_HI,2,2021,670,Pancreas cancer,107899.3725,12
+4_HI,2,2021,800,Diabetes mellitus,104240.6463,13
+4_HI,2,2021,1550,Falls,73130.60346,14
+4_HI,2,2021,760,"Lymphomas, multiple myeloma",68467.23443,15
+4_HI,3,2000,1130,Ischaemic heart disease,2056175.705,1
+4_HI,3,2000,1140,Stroke,994102.4776,2
+4_HI,3,2000,680,"Trachea, bronchus, lung cancers",504835.4648,3
+4_HI,3,2000,1180,Chronic obstructive pulmonary disease,415793.092,4
+4_HI,3,2000,390,Lower respiratory infections,377312.1404,5
+4_HI,3,2000,650,Colon and rectum cancers,291158.0338,6
+4_HI,3,2000,950,Alzheimer disease and other dementias,216933.4446,7
+4_HI,3,2000,800,Diabetes mellitus,183489.6751,8
+4_HI,3,2000,700,Breast cancer,177540.1901,9
+4_HI,3,2000,640,Stomach cancer,172089.77,10
+4_HI,3,2000,1270,Kidney diseases,165626.1536,11
+4_HI,3,2000,1530,Road injury,151611.4104,12
+4_HI,3,2000,1230,Cirrhosis of the liver,149227.2693,13
+4_HI,3,2000,1610,Self-harm,149159.8174,14
+4_HI,3,2000,740,Prostate cancer,131591.1247,15
+4_HI,3,2019,1130,Ischaemic heart disease,1690371.024,1
+4_HI,3,2019,1140,Stroke,788112.9031,2
+4_HI,3,2019,950,Alzheimer disease and other dementias,783946.879,3
+4_HI,3,2019,680,"Trachea, bronchus, lung cancers",574203.9771,4
+4_HI,3,2019,1180,Chronic obstructive pulmonary disease,497616.5858,5
+4_HI,3,2019,390,Lower respiratory infections,418000.4128,6
+4_HI,3,2019,650,Colon and rectum cancers,337764.8875,7
+4_HI,3,2019,1270,Kidney diseases,286421.5293,8
+4_HI,3,2019,1120,Hypertensive heart disease,262124.8662,9
+4_HI,3,2019,670,Pancreas cancer,208377.7325,10
+4_HI,3,2019,700,Breast cancer,198727.9462,11
+4_HI,3,2019,800,Diabetes mellitus,197947.9642,12
+4_HI,3,2019,740,Prostate cancer,160654.489,13
+4_HI,3,2019,1610,Self-harm,159436.6874,14
+4_HI,3,2019,1230,Cirrhosis of the liver,157872.7512,15
+4_HI,3,2020,1130,Ischaemic heart disease,1729971.252,1
+4_HI,3,2020,395,COVID-19,995617.8448,2
+4_HI,3,2020,950,Alzheimer disease and other dementias,824171.7585,3
+4_HI,3,2020,1140,Stroke,811908.1233,4
+4_HI,3,2020,680,"Trachea, bronchus, lung cancers",568655.432,5
+4_HI,3,2020,1180,Chronic obstructive pulmonary disease,473942.133,6
+4_HI,3,2020,390,Lower respiratory infections,372973.5572,7
+4_HI,3,2020,650,Colon and rectum cancers,337586.875,8
+4_HI,3,2020,1270,Kidney diseases,303755.0311,9
+4_HI,3,2020,1120,Hypertensive heart disease,298402.49,10
+4_HI,3,2020,800,Diabetes mellitus,222634.9102,11
+4_HI,3,2020,670,Pancreas cancer,213647.1816,12
+4_HI,3,2020,700,Breast cancer,199526.0483,13
+4_HI,3,2020,1230,Cirrhosis of the liver,170422.6744,14
+4_HI,3,2020,740,Prostate cancer,164001.025,15
+4_HI,3,2021,1130,Ischaemic heart disease,1749943.576,1
+4_HI,3,2021,395,COVID-19,1197117.67,2
+4_HI,3,2021,1140,Stroke,810901.677,3
+4_HI,3,2021,950,Alzheimer disease and other dementias,806626.2702,4
+4_HI,3,2021,680,"Trachea, bronchus, lung cancers",568903.7088,5
+4_HI,3,2021,1180,Chronic obstructive pulmonary disease,474420.8885,6
+4_HI,3,2021,390,Lower respiratory infections,353808.6795,7
+4_HI,3,2021,650,Colon and rectum cancers,339633.9507,8
+4_HI,3,2021,1270,Kidney diseases,312704.5673,9
+4_HI,3,2021,1120,Hypertensive heart disease,301881.1132,10
+4_HI,3,2021,800,Diabetes mellitus,220469.0457,11
+4_HI,3,2021,670,Pancreas cancer,217473.325,12
+4_HI,3,2021,700,Breast cancer,200785.4075,13
+4_HI,3,2021,1230,Cirrhosis of the liver,180089.7371,14
+4_HI,3,2021,740,Prostate cancer,164553.5047,15
+5_Emr,1,2000,1130,Ischaemic heart disease,232580.3462,1
+5_Emr,1,2000,390,Lower respiratory infections,126557.7413,2
+5_Emr,1,2000,1140,Stroke,124403.7366,3
+5_Emr,1,2000,500,Preterm birth complications,115937.8642,4
+5_Emr,1,2000,110,Diarrhoeal diseases,99011.75345,5
+5_Emr,1,2000,510,Birth asphyxia and birth trauma,93642.84232,6
+5_Emr,1,2000,1530,Road injury,67949.23288,7
+5_Emr,1,2000,150,Measles,63631.11,8
+5_Emr,1,2000,1180,Chronic obstructive pulmonary disease,56083.43167,9
+5_Emr,1,2000,30,Tuberculosis,55796.21443,10
+5_Emr,1,2000,1230,Cirrhosis of the liver,50657.49914,11
+5_Emr,1,2000,1400,Congenital anomalies,39037.21423,12
+5_Emr,1,2000,1120,Hypertensive heart disease,30936.58524,13
+5_Emr,1,2000,1270,Kidney diseases,30197.56232,14
+5_Emr,1,2000,800,Diabetes mellitus,26271.35101,15
+5_Emr,1,2019,1130,Ischaemic heart disease,378167.022,1
+5_Emr,1,2019,1140,Stroke,163987.7705,2
+5_Emr,1,2019,500,Preterm birth complications,107273.175,3
+5_Emr,1,2019,390,Lower respiratory infections,106919.267,4
+5_Emr,1,2019,1630,Collective violence and legal intervention,95522.95902,5
+5_Emr,1,2019,1530,Road injury,93965.49254,6
+5_Emr,1,2019,510,Birth asphyxia and birth trauma,74372.97624,7
+5_Emr,1,2019,1180,Chronic obstructive pulmonary disease,70287.23099,8
+5_Emr,1,2019,1230,Cirrhosis of the liver,65303.76855,9
+5_Emr,1,2019,1270,Kidney diseases,59441.87347,10
+5_Emr,1,2019,1400,Congenital anomalies,57519.426,11
+5_Emr,1,2019,800,Diabetes mellitus,54599.45103,12
+5_Emr,1,2019,1120,Hypertensive heart disease,51919.54214,13
+5_Emr,1,2019,110,Diarrhoeal diseases,51631.2601,14
+5_Emr,1,2019,30,Tuberculosis,43299.93996,15
+5_Emr,1,2020,1130,Ischaemic heart disease,395898.5447,1
+5_Emr,1,2020,395,COVID-19,252688.4643,2
+5_Emr,1,2020,1140,Stroke,174347.3342,3
+5_Emr,1,2020,500,Preterm birth complications,105546.2655,4
+5_Emr,1,2020,390,Lower respiratory infections,101572.6025,5
+5_Emr,1,2020,1530,Road injury,83489.08097,6
+5_Emr,1,2020,1180,Chronic obstructive pulmonary disease,75393.12162,7
+5_Emr,1,2020,510,Birth asphyxia and birth trauma,72896.08446,8
+5_Emr,1,2020,1230,Cirrhosis of the liver,64447.22139,9
+5_Emr,1,2020,1270,Kidney diseases,62170.74863,10
+5_Emr,1,2020,800,Diabetes mellitus,58294.78956,11
+5_Emr,1,2020,1400,Congenital anomalies,56841.3726,12
+5_Emr,1,2020,1630,Collective violence and legal intervention,56102.20631,13
+5_Emr,1,2020,1120,Hypertensive heart disease,54550.18508,14
+5_Emr,1,2020,110,Diarrhoeal diseases,48568.25818,15
+5_Emr,1,2021,1130,Ischaemic heart disease,375271.9585,1
+5_Emr,1,2021,395,COVID-19,361784.2546,2
+5_Emr,1,2021,1140,Stroke,162211.444,3
+5_Emr,1,2021,500,Preterm birth complications,103453.5574,4
+5_Emr,1,2021,390,Lower respiratory infections,95383.14661,5
+5_Emr,1,2021,1530,Road injury,93244.4524,6
+5_Emr,1,2021,510,Birth asphyxia and birth trauma,71396.77702,7
+5_Emr,1,2021,1180,Chronic obstructive pulmonary disease,68545.32305,8
+5_Emr,1,2021,1630,Collective violence and legal intervention,64669.61876,9
+5_Emr,1,2021,1230,Cirrhosis of the liver,62596.26169,10
+5_Emr,1,2021,1270,Kidney diseases,59298.45756,11
+5_Emr,1,2021,800,Diabetes mellitus,55258.34318,12
+5_Emr,1,2021,1400,Congenital anomalies,55171.68309,13
+5_Emr,1,2021,1120,Hypertensive heart disease,50589.90546,14
+5_Emr,1,2021,30,Tuberculosis,46469.60492,15
+5_Emr,2,2000,1130,Ischaemic heart disease,198451.15,1
+5_Emr,2,2000,1140,Stroke,133192.8507,2
+5_Emr,2,2000,390,Lower respiratory infections,111141.7893,3
+5_Emr,2,2000,500,Preterm birth complications,93678.5943,4
+5_Emr,2,2000,110,Diarrhoeal diseases,91978.86262,5
+5_Emr,2,2000,510,Birth asphyxia and birth trauma,75411.16155,6
+5_Emr,2,2000,150,Measles,54968.82611,7
+5_Emr,2,2000,1230,Cirrhosis of the liver,51612.55831,8
+5_Emr,2,2000,420,Maternal conditions,48996.13835,9
+5_Emr,2,2000,30,Tuberculosis,46044.61233,10
+5_Emr,2,2000,1120,Hypertensive heart disease,41482.5344,11
+5_Emr,2,2000,1400,Congenital anomalies,34293.63779,12
+5_Emr,2,2000,800,Diabetes mellitus,32372.92299,13
+5_Emr,2,2000,1270,Kidney diseases,29828.6452,14
+5_Emr,2,2000,1180,Chronic obstructive pulmonary disease,28664.5498,15
+5_Emr,2,2019,1130,Ischaemic heart disease,339541.2072,1
+5_Emr,2,2019,1140,Stroke,197713.0476,2
+5_Emr,2,2019,390,Lower respiratory infections,90289.78801,3
+5_Emr,2,2019,500,Preterm birth complications,84623.7725,4
+5_Emr,2,2019,800,Diabetes mellitus,75755.60061,5
+5_Emr,2,2019,1120,Hypertensive heart disease,68365.51716,6
+5_Emr,2,2019,1270,Kidney diseases,67323.65685,7
+5_Emr,2,2019,1230,Cirrhosis of the liver,63253.03098,8
+5_Emr,2,2019,510,Birth asphyxia and birth trauma,58499.87323,9
+5_Emr,2,2019,700,Breast cancer,49076.23392,10
+5_Emr,2,2019,1400,Congenital anomalies,49021.03756,11
+5_Emr,2,2019,110,Diarrhoeal diseases,47658.19985,12
+5_Emr,2,2019,1180,Chronic obstructive pulmonary disease,44977.62935,13
+5_Emr,2,2019,420,Maternal conditions,38339.61028,14
+5_Emr,2,2019,30,Tuberculosis,36727.27514,15
+5_Emr,2,2020,1130,Ischaemic heart disease,346435.1522,1
+5_Emr,2,2020,1140,Stroke,201881.1842,2
+5_Emr,2,2020,395,COVID-19,181883.3396,3
+5_Emr,2,2020,390,Lower respiratory infections,84211.91172,4
+5_Emr,2,2020,500,Preterm birth complications,83061.61781,5
+5_Emr,2,2020,800,Diabetes mellitus,77870.1295,6
+5_Emr,2,2020,1120,Hypertensive heart disease,69463.02052,7
+5_Emr,2,2020,1270,Kidney diseases,68617.42417,8
+5_Emr,2,2020,1230,Cirrhosis of the liver,62954.8559,9
+5_Emr,2,2020,510,Birth asphyxia and birth trauma,57185.94919,10
+5_Emr,2,2020,700,Breast cancer,48918.48317,11
+5_Emr,2,2020,1400,Congenital anomalies,47937.35224,12
+5_Emr,2,2020,1180,Chronic obstructive pulmonary disease,45947.9632,13
+5_Emr,2,2020,110,Diarrhoeal diseases,44156.93737,14
+5_Emr,2,2020,30,Tuberculosis,41368.93893,15
+5_Emr,2,2021,1130,Ischaemic heart disease,357308.7519,1
+5_Emr,2,2021,395,COVID-19,254320.8099,2
+5_Emr,2,2021,1140,Stroke,206327.9549,3
+5_Emr,2,2021,390,Lower respiratory infections,81546.17726,4
+5_Emr,2,2021,800,Diabetes mellitus,81456.57711,5
+5_Emr,2,2021,500,Preterm birth complications,81311.31036,6
+5_Emr,2,2021,1270,Kidney diseases,72092.15739,7
+5_Emr,2,2021,1120,Hypertensive heart disease,71401.24343,8
+5_Emr,2,2021,1230,Cirrhosis of the liver,63940.03521,9
+5_Emr,2,2021,510,Birth asphyxia and birth trauma,55918.33699,10
+5_Emr,2,2021,700,Breast cancer,51325.73575,11
+5_Emr,2,2021,1180,Chronic obstructive pulmonary disease,47461.72679,12
+5_Emr,2,2021,1400,Congenital anomalies,46999.75752,13
+5_Emr,2,2021,110,Diarrhoeal diseases,44064.33464,14
+5_Emr,2,2021,30,Tuberculosis,42425.53481,15
+5_Emr,3,2000,1130,Ischaemic heart disease,431031.4961,1
+5_Emr,3,2000,1140,Stroke,257596.5873,2
+5_Emr,3,2000,390,Lower respiratory infections,237699.5305,3
+5_Emr,3,2000,500,Preterm birth complications,209616.4585,4
+5_Emr,3,2000,110,Diarrhoeal diseases,190990.6161,5
+5_Emr,3,2000,510,Birth asphyxia and birth trauma,169054.0039,6
+5_Emr,3,2000,150,Measles,118599.9361,7
+5_Emr,3,2000,1230,Cirrhosis of the liver,102270.0574,8
+5_Emr,3,2000,30,Tuberculosis,101840.8268,9
+5_Emr,3,2000,1530,Road injury,90677.53424,10
+5_Emr,3,2000,1180,Chronic obstructive pulmonary disease,84747.98147,11
+5_Emr,3,2000,1400,Congenital anomalies,73330.85202,12
+5_Emr,3,2000,1120,Hypertensive heart disease,72419.11964,13
+5_Emr,3,2000,1270,Kidney diseases,60026.20752,14
+5_Emr,3,2000,800,Diabetes mellitus,58644.27401,15
+5_Emr,3,2019,1130,Ischaemic heart disease,717708.2291,1
+5_Emr,3,2019,1140,Stroke,361700.8181,2
+5_Emr,3,2019,390,Lower respiratory infections,197209.055,3
+5_Emr,3,2019,500,Preterm birth complications,191896.9475,4
+5_Emr,3,2019,510,Birth asphyxia and birth trauma,132872.8495,5
+5_Emr,3,2019,800,Diabetes mellitus,130355.0516,6
+5_Emr,3,2019,1230,Cirrhosis of the liver,128556.7995,7
+5_Emr,3,2019,1270,Kidney diseases,126765.5303,8
+5_Emr,3,2019,1530,Road injury,123273.598,9
+5_Emr,3,2019,1120,Hypertensive heart disease,120285.0593,10
+5_Emr,3,2019,1630,Collective violence and legal intervention,115407.1584,11
+5_Emr,3,2019,1180,Chronic obstructive pulmonary disease,115264.8603,12
+5_Emr,3,2019,1400,Congenital anomalies,106540.4636,13
+5_Emr,3,2019,110,Diarrhoeal diseases,99289.45995,14
+5_Emr,3,2019,30,Tuberculosis,80027.2151,15
+5_Emr,3,2020,1130,Ischaemic heart disease,742333.6969,1
+5_Emr,3,2020,395,COVID-19,434571.8038,2
+5_Emr,3,2020,1140,Stroke,376228.5184,3
+5_Emr,3,2020,500,Preterm birth complications,188607.8833,4
+5_Emr,3,2020,390,Lower respiratory infections,185784.5142,5
+5_Emr,3,2020,800,Diabetes mellitus,136164.9191,6
+5_Emr,3,2020,1270,Kidney diseases,130788.1728,7
+5_Emr,3,2020,510,Birth asphyxia and birth trauma,130082.0336,8
+5_Emr,3,2020,1230,Cirrhosis of the liver,127402.0773,9
+5_Emr,3,2020,1120,Hypertensive heart disease,124013.2056,10
+5_Emr,3,2020,1180,Chronic obstructive pulmonary disease,121341.0848,11
+5_Emr,3,2020,1530,Road injury,111080.8684,12
+5_Emr,3,2020,1400,Congenital anomalies,104778.7248,13
+5_Emr,3,2020,110,Diarrhoeal diseases,92725.19555,14
+5_Emr,3,2020,30,Tuberculosis,87948.75967,15
+5_Emr,3,2021,1130,Ischaemic heart disease,732580.7104,1
+5_Emr,3,2021,395,COVID-19,616105.0646,2
+5_Emr,3,2021,1140,Stroke,368539.3988,3
+5_Emr,3,2021,500,Preterm birth complications,184764.8678,4
+5_Emr,3,2021,390,Lower respiratory infections,176929.3239,5
+5_Emr,3,2021,800,Diabetes mellitus,136714.9203,6
+5_Emr,3,2021,1270,Kidney diseases,131390.615,7
+5_Emr,3,2021,510,Birth asphyxia and birth trauma,127315.114,8
+5_Emr,3,2021,1230,Cirrhosis of the liver,126536.2969,9
+5_Emr,3,2021,1530,Road injury,124560.3429,10
+5_Emr,3,2021,1120,Hypertensive heart disease,121991.1489,11
+5_Emr,3,2021,1180,Chronic obstructive pulmonary disease,116007.0498,12
+5_Emr,3,2021,1400,Congenital anomalies,102171.4406,13
+5_Emr,3,2021,110,Diarrhoeal diseases,90216.537,14
+5_Emr,3,2021,30,Tuberculosis,88895.13972,15
+6_Wpr,1,2000,1140,Stroke,1183695.513,1
+6_Wpr,1,2000,1180,Chronic obstructive pulmonary disease,773878.1123,2
+6_Wpr,1,2000,1130,Ischaemic heart disease,578411.8654,3
+6_Wpr,1,2000,680,"Trachea, bronchus, lung cancers",337432.6823,4
+6_Wpr,1,2000,640,Stomach cancer,320887.6149,5
+6_Wpr,1,2000,1530,Road injury,264074.7025,6
+6_Wpr,1,2000,390,Lower respiratory infections,254100.7549,7
+6_Wpr,1,2000,630,Oesophagus cancer,183552.539,8
+6_Wpr,1,2000,1230,Cirrhosis of the liver,150538.4618,9
+6_Wpr,1,2000,660,Liver cancer,142679.0936,10
+6_Wpr,1,2000,1610,Self-harm,136926.3543,11
+6_Wpr,1,2000,30,Tuberculosis,126813.9303,12
+6_Wpr,1,2000,1120,Hypertensive heart disease,121151.5929,13
+6_Wpr,1,2000,650,Colon and rectum cancers,114578.7993,14
+6_Wpr,1,2000,1270,Kidney diseases,99132.58872,15
+6_Wpr,1,2019,1140,Stroke,1631706.702,1
+6_Wpr,1,2019,1130,Ischaemic heart disease,1275282.767,2
+6_Wpr,1,2019,1180,Chronic obstructive pulmonary disease,791737.7553,3
+6_Wpr,1,2019,680,"Trachea, bronchus, lung cancers",598970.6282,4
+6_Wpr,1,2019,640,Stomach cancer,340666.0424,5
+6_Wpr,1,2019,390,Lower respiratory infections,271301.9814,6
+6_Wpr,1,2019,1530,Road injury,234697.7672,7
+6_Wpr,1,2019,630,Oesophagus cancer,225083.1146,8
+6_Wpr,1,2019,650,Colon and rectum cancers,210959.3732,9
+6_Wpr,1,2019,1120,Hypertensive heart disease,192551.4703,10
+6_Wpr,1,2019,950,Alzheimer disease and other dementias,183060.8358,11
+6_Wpr,1,2019,660,Liver cancer,178846.6519,12
+6_Wpr,1,2019,1270,Kidney diseases,172846.1989,13
+6_Wpr,1,2019,1230,Cirrhosis of the liver,157664.7434,14
+6_Wpr,1,2019,800,Diabetes mellitus,121644.3303,15
+6_Wpr,1,2020,1140,Stroke,1670681.586,1
+6_Wpr,1,2020,1130,Ischaemic heart disease,1310659.998,2
+6_Wpr,1,2020,1180,Chronic obstructive pulmonary disease,807427.3548,3
+6_Wpr,1,2020,680,"Trachea, bronchus, lung cancers",615979.6622,4
+6_Wpr,1,2020,640,Stomach cancer,346475.4976,5
+6_Wpr,1,2020,390,Lower respiratory infections,250418.7693,6
+6_Wpr,1,2020,630,Oesophagus cancer,232890.7294,7
+6_Wpr,1,2020,1530,Road injury,225241.5257,8
+6_Wpr,1,2020,650,Colon and rectum cancers,217841.4122,9
+6_Wpr,1,2020,1120,Hypertensive heart disease,196662.5079,10
+6_Wpr,1,2020,950,Alzheimer disease and other dementias,189255.4222,11
+6_Wpr,1,2020,660,Liver cancer,178746.5531,12
+6_Wpr,1,2020,1270,Kidney diseases,176972.8658,13
+6_Wpr,1,2020,1230,Cirrhosis of the liver,160852.3257,14
+6_Wpr,1,2020,800,Diabetes mellitus,124802.4732,15
+6_Wpr,1,2021,1140,Stroke,1695462.165,1
+6_Wpr,1,2021,1130,Ischaemic heart disease,1358982.803,2
+6_Wpr,1,2021,1180,Chronic obstructive pulmonary disease,819527.4782,3
+6_Wpr,1,2021,680,"Trachea, bronchus, lung cancers",624805.6284,4
+6_Wpr,1,2021,640,Stomach cancer,346208.7838,5
+6_Wpr,1,2021,390,Lower respiratory infections,267126.5876,6
+6_Wpr,1,2021,630,Oesophagus cancer,236298.0591,7
+6_Wpr,1,2021,650,Colon and rectum cancers,223107.1033,8
+6_Wpr,1,2021,1530,Road injury,221238.137,9
+6_Wpr,1,2021,950,Alzheimer disease and other dementias,202263.4457,10
+6_Wpr,1,2021,1120,Hypertensive heart disease,201905.3472,11
+6_Wpr,1,2021,1270,Kidney diseases,185974.8645,12
+6_Wpr,1,2021,660,Liver cancer,179215.9392,13
+6_Wpr,1,2021,1230,Cirrhosis of the liver,164994.709,14
+6_Wpr,1,2021,800,Diabetes mellitus,130945.7796,15
+6_Wpr,2,2000,1140,Stroke,1079432.486,1
+6_Wpr,2,2000,1180,Chronic obstructive pulmonary disease,687017.8427,2
+6_Wpr,2,2000,1130,Ischaemic heart disease,528113.0679,3
+6_Wpr,2,2000,390,Lower respiratory infections,219472.7752,4
+6_Wpr,2,2000,640,Stomach cancer,160561.0373,5
+6_Wpr,2,2000,680,"Trachea, bronchus, lung cancers",154474.6909,6
+6_Wpr,2,2000,950,Alzheimer disease and other dementias,148195.3568,7
+6_Wpr,2,2000,1120,Hypertensive heart disease,133543.3549,8
+6_Wpr,2,2000,1610,Self-harm,107527.1864,9
+6_Wpr,2,2000,1270,Kidney diseases,98383.69021,10
+6_Wpr,2,2000,1530,Road injury,93784.26267,11
+6_Wpr,2,2000,650,Colon and rectum cancers,90411.65866,12
+6_Wpr,2,2000,800,Diabetes mellitus,87351.51929,13
+6_Wpr,2,2000,700,Breast cancer,79421.88091,14
+6_Wpr,2,2000,30,Tuberculosis,74312.21678,15
+6_Wpr,2,2019,1140,Stroke,1269806.591,1
+6_Wpr,2,2019,1130,Ischaemic heart disease,1062950.085,2
+6_Wpr,2,2019,1180,Chronic obstructive pulmonary disease,555751.5207,3
+6_Wpr,2,2019,950,Alzheimer disease and other dementias,379511.6042,4
+6_Wpr,2,2019,680,"Trachea, bronchus, lung cancers",289689.9808,5
+6_Wpr,2,2019,390,Lower respiratory infections,230342.0166,6
+6_Wpr,2,2019,1120,Hypertensive heart disease,189317.9498,7
+6_Wpr,2,2019,1270,Kidney diseases,156982.0798,8
+6_Wpr,2,2019,640,Stomach cancer,153265.0702,9
+6_Wpr,2,2019,650,Colon and rectum cancers,142735.8254,10
+6_Wpr,2,2019,800,Diabetes mellitus,135353.9993,11
+6_Wpr,2,2019,700,Breast cancer,133677.0075,12
+6_Wpr,2,2019,1530,Road injury,77784.36757,13
+6_Wpr,2,2019,660,Liver cancer,74691.31404,14
+6_Wpr,2,2019,1550,Falls,74584.43758,15
+6_Wpr,2,2020,1140,Stroke,1252501.134,1
+6_Wpr,2,2020,1130,Ischaemic heart disease,1050427.592,2
+6_Wpr,2,2020,1180,Chronic obstructive pulmonary disease,552142.7202,3
+6_Wpr,2,2020,950,Alzheimer disease and other dementias,380286.6,4
+6_Wpr,2,2020,680,"Trachea, bronchus, lung cancers",296123.3368,5
+6_Wpr,2,2020,390,Lower respiratory infections,203776.2016,6
+6_Wpr,2,2020,1120,Hypertensive heart disease,186868.8541,7
+6_Wpr,2,2020,1270,Kidney diseases,155908.1843,8
+6_Wpr,2,2020,640,Stomach cancer,151903.4613,9
+6_Wpr,2,2020,650,Colon and rectum cancers,143340.3205,10
+6_Wpr,2,2020,800,Diabetes mellitus,133123.2046,11
+6_Wpr,2,2020,700,Breast cancer,132922.0338,12
+6_Wpr,2,2020,670,Pancreas cancer,73975.14529,13
+6_Wpr,2,2020,1550,Falls,73585.19387,14
+6_Wpr,2,2020,660,Liver cancer,72639.20775,15
+6_Wpr,2,2021,1140,Stroke,1351743.96,1
+6_Wpr,2,2021,1130,Ischaemic heart disease,1161912.788,2
+6_Wpr,2,2021,1180,Chronic obstructive pulmonary disease,607503.305,3
+6_Wpr,2,2021,950,Alzheimer disease and other dementias,440494.4104,4
+6_Wpr,2,2021,680,"Trachea, bronchus, lung cancers",319899.6191,5
+6_Wpr,2,2021,390,Lower respiratory infections,228668.4128,6
+6_Wpr,2,2021,1120,Hypertensive heart disease,207250.2075,7
+6_Wpr,2,2021,1270,Kidney diseases,173268.877,8
+6_Wpr,2,2021,640,Stomach cancer,159835.7901,9
+6_Wpr,2,2021,650,Colon and rectum cancers,153688.5662,10
+6_Wpr,2,2021,800,Diabetes mellitus,148568.5168,11
+6_Wpr,2,2021,700,Breast cancer,146912.6832,12
+6_Wpr,2,2021,1550,Falls,81590.62738,13
+6_Wpr,2,2021,670,Pancreas cancer,79112.29604,14
+6_Wpr,2,2021,660,Liver cancer,76362.52535,15
+6_Wpr,3,2000,1140,Stroke,2263127.999,1
+6_Wpr,3,2000,1180,Chronic obstructive pulmonary disease,1460895.955,2
+6_Wpr,3,2000,1130,Ischaemic heart disease,1106524.933,3
+6_Wpr,3,2000,680,"Trachea, bronchus, lung cancers",491907.3732,4
+6_Wpr,3,2000,640,Stomach cancer,481448.6522,5
+6_Wpr,3,2000,390,Lower respiratory infections,473573.5302,6
+6_Wpr,3,2000,1530,Road injury,357858.9652,7
+6_Wpr,3,2000,630,Oesophagus cancer,255181.5255,8
+6_Wpr,3,2000,1120,Hypertensive heart disease,254694.9478,9
+6_Wpr,3,2000,1610,Self-harm,244453.5408,10
+6_Wpr,3,2000,1230,Cirrhosis of the liver,220696.607,11
+6_Wpr,3,2000,950,Alzheimer disease and other dementias,216428.5505,12
+6_Wpr,3,2000,650,Colon and rectum cancers,204990.458,13
+6_Wpr,3,2000,30,Tuberculosis,201126.1471,14
+6_Wpr,3,2000,1270,Kidney diseases,197516.2789,15
+6_Wpr,3,2019,1140,Stroke,2901513.293,1
+6_Wpr,3,2019,1130,Ischaemic heart disease,2338232.852,2
+6_Wpr,3,2019,1180,Chronic obstructive pulmonary disease,1347489.276,3
+6_Wpr,3,2019,680,"Trachea, bronchus, lung cancers",888660.609,4
+6_Wpr,3,2019,950,Alzheimer disease and other dementias,562572.44,5
+6_Wpr,3,2019,390,Lower respiratory infections,501643.998,6
+6_Wpr,3,2019,640,Stomach cancer,493931.1126,7
+6_Wpr,3,2019,1120,Hypertensive heart disease,381869.4201,8
+6_Wpr,3,2019,650,Colon and rectum cancers,353695.1986,9
+6_Wpr,3,2019,1270,Kidney diseases,329828.2787,10
+6_Wpr,3,2019,1530,Road injury,312482.1347,11
+6_Wpr,3,2019,630,Oesophagus cancer,288769.7738,12
+6_Wpr,3,2019,800,Diabetes mellitus,256998.3296,13
+6_Wpr,3,2019,660,Liver cancer,253537.966,14
+6_Wpr,3,2019,1230,Cirrhosis of the liver,218267.8144,15
+6_Wpr,3,2020,1140,Stroke,2923182.719,1
+6_Wpr,3,2020,1130,Ischaemic heart disease,2361087.591,2
+6_Wpr,3,2020,1180,Chronic obstructive pulmonary disease,1359570.075,3
+6_Wpr,3,2020,680,"Trachea, bronchus, lung cancers",912102.9991,4
+6_Wpr,3,2020,950,Alzheimer disease and other dementias,569542.0223,5
+6_Wpr,3,2020,640,Stomach cancer,498378.9589,6
+6_Wpr,3,2020,390,Lower respiratory infections,454194.9709,7
+6_Wpr,3,2020,1120,Hypertensive heart disease,383531.362,8
+6_Wpr,3,2020,650,Colon and rectum cancers,361181.7328,9
+6_Wpr,3,2020,1270,Kidney diseases,332881.0501,10
+6_Wpr,3,2020,1530,Road injury,297144.6396,11
+6_Wpr,3,2020,630,Oesophagus cancer,296617.0666,12
+6_Wpr,3,2020,800,Diabetes mellitus,257925.6778,13
+6_Wpr,3,2020,660,Liver cancer,251385.7608,14
+6_Wpr,3,2020,1230,Cirrhosis of the liver,220484.3175,15
+6_Wpr,3,2021,1140,Stroke,3047206.125,1
+6_Wpr,3,2021,1130,Ischaemic heart disease,2520895.591,2
+6_Wpr,3,2021,1180,Chronic obstructive pulmonary disease,1427030.783,3
+6_Wpr,3,2021,680,"Trachea, bronchus, lung cancers",944705.2475,4
+6_Wpr,3,2021,950,Alzheimer disease and other dementias,642757.8561,5
+6_Wpr,3,2021,640,Stomach cancer,506044.5739,6
+6_Wpr,3,2021,390,Lower respiratory infections,495795.0004,7
+6_Wpr,3,2021,1120,Hypertensive heart disease,409155.5547,8
+6_Wpr,3,2021,650,Colon and rectum cancers,376795.6695,9
+6_Wpr,3,2021,1270,Kidney diseases,359243.7415,10
+6_Wpr,3,2021,630,Oesophagus cancer,303731.8776,11
+6_Wpr,3,2021,1530,Road injury,296043.4145,12
+6_Wpr,3,2021,800,Diabetes mellitus,279514.2964,13
+6_Wpr,3,2021,660,Liver cancer,255578.4646,14
+6_Wpr,3,2021,1230,Cirrhosis of the liver,229296.3635,15
+7_NonMS,1,2000,1140,Stroke,9966.710398,1
+7_NonMS,1,2000,1130,Ischaemic heart disease,9396.229197,2
+7_NonMS,1,2000,800,Diabetes mellitus,5966.846165,3
+7_NonMS,1,2000,680,"Trachea, bronchus, lung cancers",5525.528017,4
+7_NonMS,1,2000,1230,Cirrhosis of the liver,5351.105666,5
+7_NonMS,1,2000,1180,Chronic obstructive pulmonary disease,4196.910229,6
+7_NonMS,1,2000,390,Lower respiratory infections,4068.449963,7
+7_NonMS,1,2000,650,Colon and rectum cancers,3306.59877,8
+7_NonMS,1,2000,1530,Road injury,2861.310168,9
+7_NonMS,1,2000,1610,Self-harm,2607.54199,10
+7_NonMS,1,2000,640,Stomach cancer,2556.740668,11
+7_NonMS,1,2000,1270,Kidney diseases,2476.845753,12
+7_NonMS,1,2000,620,Mouth and oropharynx cancers,2200.853064,13
+7_NonMS,1,2000,630,Oesophagus cancer,2016.085745,14
+7_NonMS,1,2000,1630,Collective violence and legal intervention,1976.478274,15
+7_NonMS,1,2019,1130,Ischaemic heart disease,12180.13218,1
+7_NonMS,1,2019,1140,Stroke,9236.602399,2
+7_NonMS,1,2019,390,Lower respiratory infections,8254.751902,3
+7_NonMS,1,2019,680,"Trachea, bronchus, lung cancers",7467.553434,4
+7_NonMS,1,2019,800,Diabetes mellitus,6571.975105,5
+7_NonMS,1,2019,650,Colon and rectum cancers,5697.344028,6
+7_NonMS,1,2019,1180,Chronic obstructive pulmonary disease,5517.49576,7
+7_NonMS,1,2019,1270,Kidney diseases,5112.978047,8
+7_NonMS,1,2019,1230,Cirrhosis of the liver,4512.139083,9
+7_NonMS,1,2019,620,Mouth and oropharynx cancers,3612.142975,10
+7_NonMS,1,2019,950,Alzheimer disease and other dementias,3266.838226,11
+7_NonMS,1,2019,1610,Self-harm,2939.464927,12
+7_NonMS,1,2019,630,Oesophagus cancer,2847.2074,13
+7_NonMS,1,2019,1120,Hypertensive heart disease,2791.037041,14
+7_NonMS,1,2019,660,Liver cancer,2790.075355,15
+7_NonMS,1,2020,1130,Ischaemic heart disease,12125.62664,1
+7_NonMS,1,2020,1140,Stroke,9126.858293,2
+7_NonMS,1,2020,680,"Trachea, bronchus, lung cancers",7415.451255,3
+7_NonMS,1,2020,390,Lower respiratory infections,7299.878479,4
+7_NonMS,1,2020,800,Diabetes mellitus,6584.394094,5
+7_NonMS,1,2020,650,Colon and rectum cancers,5660.487203,6
+7_NonMS,1,2020,1180,Chronic obstructive pulmonary disease,5542.190471,7
+7_NonMS,1,2020,1270,Kidney diseases,5165.907047,8
+7_NonMS,1,2020,1230,Cirrhosis of the liver,4384.967873,9
+7_NonMS,1,2020,950,Alzheimer disease and other dementias,3707.573512,10
+7_NonMS,1,2020,620,Mouth and oropharynx cancers,3530.352518,11
+7_NonMS,1,2020,660,Liver cancer,2862.112224,12
+7_NonMS,1,2020,1610,Self-harm,2821.333189,13
+7_NonMS,1,2020,1120,Hypertensive heart disease,2801.868944,14
+7_NonMS,1,2020,630,Oesophagus cancer,2794.106183,15
+7_NonMS,1,2021,1130,Ischaemic heart disease,12483.31159,1
+7_NonMS,1,2021,1140,Stroke,9491.575273,2
+7_NonMS,1,2021,680,"Trachea, bronchus, lung cancers",7747.384451,3
+7_NonMS,1,2021,390,Lower respiratory infections,7128.056139,4
+7_NonMS,1,2021,800,Diabetes mellitus,6878.149228,5
+7_NonMS,1,2021,650,Colon and rectum cancers,5889.834307,6
+7_NonMS,1,2021,1180,Chronic obstructive pulmonary disease,5705.669471,7
+7_NonMS,1,2021,1270,Kidney diseases,5441.138572,8
+7_NonMS,1,2021,1230,Cirrhosis of the liver,4476.342851,9
+7_NonMS,1,2021,950,Alzheimer disease and other dementias,3940.110652,10
+7_NonMS,1,2021,395,COVID-19,3865.767018,11
+7_NonMS,1,2021,620,Mouth and oropharynx cancers,3617.304982,12
+7_NonMS,1,2021,1120,Hypertensive heart disease,3044.408318,13
+7_NonMS,1,2021,660,Liver cancer,3002.137759,14
+7_NonMS,1,2021,630,Oesophagus cancer,2868.588089,15
+7_NonMS,2,2000,1140,Stroke,7527.768939,1
+7_NonMS,2,2000,800,Diabetes mellitus,6631.198293,2
+7_NonMS,2,2000,1130,Ischaemic heart disease,6555.094394,3
+7_NonMS,2,2000,390,Lower respiratory infections,2663.625918,4
+7_NonMS,2,2000,1270,Kidney diseases,2454.90281,5
+7_NonMS,2,2000,680,"Trachea, bronchus, lung cancers",2315.304782,6
+7_NonMS,2,2000,950,Alzheimer disease and other dementias,2290.73354,7
+7_NonMS,2,2000,650,Colon and rectum cancers,2272.828672,8
+7_NonMS,2,2000,1180,Chronic obstructive pulmonary disease,2088.139516,9
+7_NonMS,2,2000,700,Breast cancer,1899.255776,10
+7_NonMS,2,2000,1230,Cirrhosis of the liver,1864.697007,11
+7_NonMS,2,2000,1120,Hypertensive heart disease,1307.003546,12
+7_NonMS,2,2000,710,Cervix uteri cancer,1267.943626,13
+7_NonMS,2,2000,640,Stomach cancer,1245.993856,14
+7_NonMS,2,2000,1610,Self-harm,1164.756147,15
+7_NonMS,2,2019,1130,Ischaemic heart disease,8395.838684,1
+7_NonMS,2,2019,1140,Stroke,6938.540141,2
+7_NonMS,2,2019,950,Alzheimer disease and other dementias,6677.866116,3
+7_NonMS,2,2019,800,Diabetes mellitus,6379.475473,4
+7_NonMS,2,2019,390,Lower respiratory infections,5606.179036,5
+7_NonMS,2,2019,1270,Kidney diseases,5451.16628,6
+7_NonMS,2,2019,680,"Trachea, bronchus, lung cancers",4365.988431,7
+7_NonMS,2,2019,650,Colon and rectum cancers,3947.259584,8
+7_NonMS,2,2019,700,Breast cancer,3553.48173,9
+7_NonMS,2,2019,1120,Hypertensive heart disease,3016.576542,10
+7_NonMS,2,2019,1180,Chronic obstructive pulmonary disease,2563.167308,11
+7_NonMS,2,2019,1230,Cirrhosis of the liver,1874.835934,12
+7_NonMS,2,2019,660,Liver cancer,1403.29019,13
+7_NonMS,2,2019,670,Pancreas cancer,1375.637922,14
+7_NonMS,2,2019,640,Stomach cancer,1357.081648,15
+7_NonMS,2,2020,1130,Ischaemic heart disease,8185.314188,1
+7_NonMS,2,2020,950,Alzheimer disease and other dementias,7849.624166,2
+7_NonMS,2,2020,1140,Stroke,6735.052639,3
+7_NonMS,2,2020,800,Diabetes mellitus,6256.502935,4
+7_NonMS,2,2020,1270,Kidney diseases,5400.919074,5
+7_NonMS,2,2020,390,Lower respiratory infections,4798.726445,6
+7_NonMS,2,2020,680,"Trachea, bronchus, lung cancers",4287.825894,7
+7_NonMS,2,2020,650,Colon and rectum cancers,3840.67172,8
+7_NonMS,2,2020,700,Breast cancer,3502.641901,9
+7_NonMS,2,2020,1120,Hypertensive heart disease,2941.481164,10
+7_NonMS,2,2020,1180,Chronic obstructive pulmonary disease,2522.920538,11
+7_NonMS,2,2020,1230,Cirrhosis of the liver,1818.171159,12
+7_NonMS,2,2020,660,Liver cancer,1428.086064,13
+7_NonMS,2,2020,670,Pancreas cancer,1358.478745,14
+7_NonMS,2,2020,1610,Self-harm,1323.946269,15
+7_NonMS,2,2021,1130,Ischaemic heart disease,8651.194299,1
+7_NonMS,2,2021,950,Alzheimer disease and other dementias,8512.508273,2
+7_NonMS,2,2021,1140,Stroke,7078.0094,3
+7_NonMS,2,2021,800,Diabetes mellitus,6547.469423,4
+7_NonMS,2,2021,1270,Kidney diseases,5744.622371,5
+7_NonMS,2,2021,390,Lower respiratory infections,4717.903974,6
+7_NonMS,2,2021,680,"Trachea, bronchus, lung cancers",4519.54351,7
+7_NonMS,2,2021,650,Colon and rectum cancers,4052.068891,8
+7_NonMS,2,2021,700,Breast cancer,3599.57823,9
+7_NonMS,2,2021,1120,Hypertensive heart disease,3199.291792,10
+7_NonMS,2,2021,395,COVID-19,2906.864228,11
+7_NonMS,2,2021,1180,Chronic obstructive pulmonary disease,2650.325512,12
+7_NonMS,2,2021,1230,Cirrhosis of the liver,1911.201868,13
+7_NonMS,2,2021,660,Liver cancer,1548.501886,14
+7_NonMS,2,2021,670,Pancreas cancer,1434.354303,15
+7_NonMS,3,2000,1140,Stroke,17494.47934,1
+7_NonMS,3,2000,1130,Ischaemic heart disease,15951.32359,2
+7_NonMS,3,2000,800,Diabetes mellitus,12598.04446,3
+7_NonMS,3,2000,680,"Trachea, bronchus, lung cancers",7840.8328,4
+7_NonMS,3,2000,1230,Cirrhosis of the liver,7215.802673,5
+7_NonMS,3,2000,390,Lower respiratory infections,6732.075881,6
+7_NonMS,3,2000,1180,Chronic obstructive pulmonary disease,6285.049746,7
+7_NonMS,3,2000,650,Colon and rectum cancers,5579.427442,8
+7_NonMS,3,2000,1270,Kidney diseases,4931.748563,9
+7_NonMS,3,2000,640,Stomach cancer,3802.734524,10
+7_NonMS,3,2000,1530,Road injury,3800.623732,11
+7_NonMS,3,2000,1610,Self-harm,3772.298137,12
+7_NonMS,3,2000,950,Alzheimer disease and other dementias,3697.144821,13
+7_NonMS,3,2000,620,Mouth and oropharynx cancers,2589.455184,14
+7_NonMS,3,2000,1120,Hypertensive heart disease,2484.065054,15
+7_NonMS,3,2019,1130,Ischaemic heart disease,20575.97086,1
+7_NonMS,3,2019,1140,Stroke,16175.14254,2
+7_NonMS,3,2019,390,Lower respiratory infections,13860.93094,3
+7_NonMS,3,2019,800,Diabetes mellitus,12951.45058,4
+7_NonMS,3,2019,680,"Trachea, bronchus, lung cancers",11833.54187,5
+7_NonMS,3,2019,1270,Kidney diseases,10564.14433,6
+7_NonMS,3,2019,950,Alzheimer disease and other dementias,9944.704342,7
+7_NonMS,3,2019,650,Colon and rectum cancers,9644.603612,8
+7_NonMS,3,2019,1180,Chronic obstructive pulmonary disease,8080.663068,9
+7_NonMS,3,2019,1230,Cirrhosis of the liver,6386.975017,10
+7_NonMS,3,2019,1120,Hypertensive heart disease,5807.613583,11
+7_NonMS,3,2019,1610,Self-harm,4270.438602,12
+7_NonMS,3,2019,660,Liver cancer,4193.365545,13
+7_NonMS,3,2019,620,Mouth and oropharynx cancers,4051.291047,14
+7_NonMS,3,2019,640,Stomach cancer,3861.976522,15
+7_NonMS,3,2020,1130,Ischaemic heart disease,20310.94082,1
+7_NonMS,3,2020,1140,Stroke,15861.91093,2
+7_NonMS,3,2020,800,Diabetes mellitus,12840.89703,3
+7_NonMS,3,2020,390,Lower respiratory infections,12098.60492,4
+7_NonMS,3,2020,680,"Trachea, bronchus, lung cancers",11703.27715,5
+7_NonMS,3,2020,950,Alzheimer disease and other dementias,11557.19768,6
+7_NonMS,3,2020,1270,Kidney diseases,10566.82612,7
+7_NonMS,3,2020,650,Colon and rectum cancers,9501.158922,8
+7_NonMS,3,2020,1180,Chronic obstructive pulmonary disease,8065.111009,9
+7_NonMS,3,2020,1230,Cirrhosis of the liver,6203.139032,10
+7_NonMS,3,2020,1120,Hypertensive heart disease,5743.350108,11
+7_NonMS,3,2020,660,Liver cancer,4290.198289,12
+7_NonMS,3,2020,1610,Self-harm,4145.279457,13
+7_NonMS,3,2020,620,Mouth and oropharynx cancers,3965.286092,14
+7_NonMS,3,2020,640,Stomach cancer,3772.433239,15
+7_NonMS,3,2021,1130,Ischaemic heart disease,21134.50589,1
+7_NonMS,3,2021,1140,Stroke,16569.58467,2
+7_NonMS,3,2021,800,Diabetes mellitus,13425.61865,3
+7_NonMS,3,2021,950,Alzheimer disease and other dementias,12452.61893,4
+7_NonMS,3,2021,680,"Trachea, bronchus, lung cancers",12266.92796,5
+7_NonMS,3,2021,390,Lower respiratory infections,11845.96011,6
+7_NonMS,3,2021,1270,Kidney diseases,11185.76094,7
+7_NonMS,3,2021,650,Colon and rectum cancers,9941.903198,8
+7_NonMS,3,2021,1180,Chronic obstructive pulmonary disease,8355.994983,9
+7_NonMS,3,2021,395,COVID-19,6772.631246,10
+7_NonMS,3,2021,1230,Cirrhosis of the liver,6387.544719,11
+7_NonMS,3,2021,1120,Hypertensive heart disease,6243.70011,12
+7_NonMS,3,2021,660,Liver cancer,4550.639644,13
+7_NonMS,3,2021,1610,Self-harm,4198.665314,14
+7_NonMS,3,2021,620,Mouth and oropharynx cancers,4069.679059,15
+World,1,2000,1130,Ischaemic heart disease,3257040.162,1
+World,1,2000,1140,Stroke,2690140.661,2
+World,1,2000,1180,Chronic obstructive pulmonary disease,1596512.413,3
+World,1,2000,30,Tuberculosis,1499368.304,4
+World,1,2000,390,Lower respiratory infections,1486755.884,5
+World,1,2000,110,Diarrhoeal diseases,1139186.46,6
+World,1,2000,680,"Trachea, bronchus, lung cancers",881244.5118,7
+World,1,2000,1530,Road injury,875276.8978,8
+World,1,2000,100,HIV/AIDS,817031.0669,9
+World,1,2000,500,Preterm birth complications,809284.3493,10
+World,1,2000,1230,Cirrhosis of the liver,679452.9526,11
+World,1,2000,510,Birth asphyxia and birth trauma,566243.4812,12
+World,1,2000,640,Stomach cancer,527858.2334,13
+World,1,2000,1610,Self-harm,500186.9255,14
+World,1,2000,220,Malaria,438218.5815,15
+World,1,2019,1130,Ischaemic heart disease,4744437.649,1
+World,1,2019,1140,Stroke,3457541.547,2
+World,1,2019,1180,Chronic obstructive pulmonary disease,1995242.998,3
+World,1,2019,390,Lower respiratory infections,1386749.661,4
+World,1,2019,680,"Trachea, bronchus, lung cancers",1201216.162,5
+World,1,2019,1530,Road injury,906178.4196,6
+World,1,2019,1230,Cirrhosis of the liver,863293.7014,7
+World,1,2019,30,Tuberculosis,810277.362,8
+World,1,2019,800,Diabetes mellitus,708168.7109,9
+World,1,2019,1270,Kidney diseases,691467.3573,10
+World,1,2019,110,Diarrhoeal diseases,646553.2815,11
+World,1,2019,950,Alzheimer disease and other dementias,570643.1414,12
+World,1,2019,640,Stomach cancer,557368.1147,13
+World,1,2019,500,Preterm birth complications,541617.9357,14
+World,1,2019,1120,Hypertensive heart disease,539837.6778,15
+World,1,2020,1130,Ischaemic heart disease,4915451.529,1
+World,1,2020,1140,Stroke,3558375.064,2
+World,1,2020,395,COVID-19,2359181.341,3
+World,1,2020,1180,Chronic obstructive pulmonary disease,2030226.926,4
+World,1,2020,390,Lower respiratory infections,1313414.008,5
+World,1,2020,680,"Trachea, bronchus, lung cancers",1209821.765,6
+World,1,2020,1230,Cirrhosis of the liver,867124.2739,7
+World,1,2020,1530,Road injury,843608.8282,8
+World,1,2020,30,Tuberculosis,833056.7524,9
+World,1,2020,800,Diabetes mellitus,764683.2367,10
+World,1,2020,1270,Kidney diseases,722512.7775,11
+World,1,2020,110,Diarrhoeal diseases,630002.4085,12
+World,1,2020,950,Alzheimer disease and other dementias,597513.4693,13
+World,1,2020,1120,Hypertensive heart disease,573952.5744,14
+World,1,2020,640,Stomach cancer,559199.4576,15
+World,1,2021,395,COVID-19,5210370.023,1
+World,1,2021,1130,Ischaemic heart disease,4773326.202,2
+World,1,2021,1140,Stroke,3450468.964,3
+World,1,2021,1180,Chronic obstructive pulmonary disease,1916932.341,4
+World,1,2021,390,Lower respiratory infections,1279929.936,5
+World,1,2021,680,"Trachea, bronchus, lung cancers",1215636.527,6
+World,1,2021,1530,Road injury,883246.7944,7
+World,1,2021,1230,Cirrhosis of the liver,847216.4786,8
+World,1,2021,30,Tuberculosis,836115.2498,9
+World,1,2021,800,Diabetes mellitus,728020.9248,10
+World,1,2021,1270,Kidney diseases,707315.7045,11
+World,1,2021,950,Alzheimer disease and other dementias,587689.2371,12
+World,1,2021,110,Diarrhoeal diseases,578124.9349,13
+World,1,2021,1120,Hypertensive heart disease,559964.018,14
+World,1,2021,640,Stomach cancer,557618.0977,15
+World,2,2000,1130,Ischaemic heart disease,3114491.769,1
+World,2,2000,1140,Stroke,2974596.383,2
+World,2,2000,390,Lower respiratory infections,1356553.261,3
+World,2,2000,1180,Chronic obstructive pulmonary disease,1298536.331,4
+World,2,2000,110,Diarrhoeal diseases,1154547.653,5
+World,2,2000,30,Tuberculosis,1023948.377,6
+World,2,2000,100,HIV/AIDS,810684.8189,7
+World,2,2000,500,Preterm birth complications,672956.5369,8
+World,2,2000,510,Birth asphyxia and birth trauma,468795.8834,9
+World,2,2000,800,Diabetes mellitus,457993.5293,10
+World,2,2000,1120,Hypertensive heart disease,451291.1051,11
+World,2,2000,950,Alzheimer disease and other dementias,429502.6202,12
+World,2,2000,700,Breast cancer,426052.7503,13
+World,2,2000,220,Malaria,413626.1837,14
+World,2,2000,420,Maternal conditions,407125.5101,15
+World,2,2019,1130,Ischaemic heart disease,4024231.635,1
+World,2,2019,1140,Stroke,3361754.26,2
+World,2,2019,1180,Chronic obstructive pulmonary disease,1552402.131,3
+World,2,2019,390,Lower respiratory infections,1250605.031,4
+World,2,2019,950,Alzheimer disease and other dementias,1164531.874,5
+World,2,2019,800,Diabetes mellitus,809824.8393,6
+World,2,2019,1120,Hypertensive heart disease,758217.8191,7
+World,2,2019,110,Diarrhoeal diseases,687382.4051,8
+World,2,2019,700,Breast cancer,647960.4577,9
+World,2,2019,1270,Kidney diseases,636085.964,10
+World,2,2019,680,"Trachea, bronchus, lung cancers",595890.7951,11
+World,2,2019,30,Tuberculosis,513310.0405,12
+World,2,2019,1230,Cirrhosis of the liver,446787.4423,13
+World,2,2019,500,Preterm birth complications,437888.4757,14
+World,2,2019,650,Colon and rectum cancers,406463.0279,15
+World,2,2020,1130,Ischaemic heart disease,4049172.025,1
+World,2,2020,1140,Stroke,3358506.945,2
+World,2,2020,395,COVID-19,1693398.644,3
+World,2,2020,1180,Chronic obstructive pulmonary disease,1526346.971,4
+World,2,2020,950,Alzheimer disease and other dementias,1208870.294,5
+World,2,2020,390,Lower respiratory infections,1146739.987,6
+World,2,2020,800,Diabetes mellitus,847635.5822,7
+World,2,2020,1120,Hypertensive heart disease,788355.515,8
+World,2,2020,110,Diarrhoeal diseases,665670.629,9
+World,2,2020,1270,Kidney diseases,655340.4709,10
+World,2,2020,700,Breast cancer,644111.8529,11
+World,2,2020,680,"Trachea, bronchus, lung cancers",601411.1248,12
+World,2,2020,30,Tuberculosis,537924.3736,13
+World,2,2020,1230,Cirrhosis of the liver,444815.0144,14
+World,2,2020,500,Preterm birth complications,423328.4788,15
+World,2,2021,1130,Ischaemic heart disease,4299063.292,1
+World,2,2021,395,COVID-19,3563833.356,2
+World,2,2021,1140,Stroke,3530417.017,3
+World,2,2021,1180,Chronic obstructive pulmonary disease,1633775.056,4
+World,2,2021,950,Alzheimer disease and other dementias,1259267.593,5
+World,2,2021,390,Lower respiratory infections,1188696.472,6
+World,2,2021,800,Diabetes mellitus,895335.0854,7
+World,2,2021,1120,Hypertensive heart disease,827793.1254,8
+World,2,2021,1270,Kidney diseases,697802.0417,9
+World,2,2021,700,Breast cancer,693419.1884,10
+World,2,2021,110,Diarrhoeal diseases,674391.3626,11
+World,2,2021,680,"Trachea, bronchus, lung cancers",637691.399,12
+World,2,2021,30,Tuberculosis,558199.8768,13
+World,2,2021,1230,Cirrhosis of the liver,468982.3379,14
+World,2,2021,650,Colon and rectum cancers,427683.1821,15
+World,3,2000,1130,Ischaemic heart disease,6371531.931,1
+World,3,2000,1140,Stroke,5664737.044,2
+World,3,2000,1180,Chronic obstructive pulmonary disease,2895048.744,3
+World,3,2000,390,Lower respiratory infections,2843309.145,4
+World,3,2000,30,Tuberculosis,2523316.681,5
+World,3,2000,110,Diarrhoeal diseases,2293734.113,6
+World,3,2000,100,HIV/AIDS,1627715.886,7
+World,3,2000,500,Preterm birth complications,1482240.886,8
+World,3,2000,680,"Trachea, bronchus, lung cancers",1237991.249,9
+World,3,2000,1530,Road injury,1181176.719,10
+World,3,2000,1230,Cirrhosis of the liver,1052065.493,11
+World,3,2000,510,Birth asphyxia and birth trauma,1035039.365,12
+World,3,2000,220,Malaria,851844.7652,13
+World,3,2000,800,Diabetes mellitus,831836.2565,14
+World,3,2000,640,Stomach cancer,821757.1767,15
+World,3,2019,1130,Ischaemic heart disease,8768669.284,1
+World,3,2019,1140,Stroke,6819295.807,2
+World,3,2019,1180,Chronic obstructive pulmonary disease,3547645.129,3
+World,3,2019,390,Lower respiratory infections,2637354.692,4
+World,3,2019,680,"Trachea, bronchus, lung cancers",1797106.958,5
+World,3,2019,950,Alzheimer disease and other dementias,1735175.015,6
+World,3,2019,800,Diabetes mellitus,1517993.55,7
+World,3,2019,110,Diarrhoeal diseases,1333935.687,8
+World,3,2019,1270,Kidney diseases,1327553.321,9
+World,3,2019,30,Tuberculosis,1323587.403,10
+World,3,2019,1230,Cirrhosis of the liver,1310081.144,11
+World,3,2019,1120,Hypertensive heart disease,1298055.497,12
+World,3,2019,1530,Road injury,1191454.712,13
+World,3,2019,500,Preterm birth complications,979506.4114,14
+World,3,2019,650,Colon and rectum cancers,922632.7114,15
+World,3,2020,1130,Ischaemic heart disease,8964623.553,1
+World,3,2020,1140,Stroke,6916882.009,2
+World,3,2020,395,COVID-19,4052579.985,3
+World,3,2020,1180,Chronic obstructive pulmonary disease,3556573.896,4
+World,3,2020,390,Lower respiratory infections,2460153.995,5
+World,3,2020,680,"Trachea, bronchus, lung cancers",1811232.889,6
+World,3,2020,950,Alzheimer disease and other dementias,1806383.763,7
+World,3,2020,800,Diabetes mellitus,1612318.819,8
+World,3,2020,1270,Kidney diseases,1377853.248,9
+World,3,2020,30,Tuberculosis,1370981.126,10
+World,3,2020,1120,Hypertensive heart disease,1362308.089,11
+World,3,2020,1230,Cirrhosis of the liver,1311939.288,12
+World,3,2020,110,Diarrhoeal diseases,1295673.038,13
+World,3,2020,1530,Road injury,1113665.471,14
+World,3,2020,500,Preterm birth complications,948626.1929,15
+World,3,2021,1130,Ischaemic heart disease,9072389.494,1
+World,3,2021,395,COVID-19,8774203.379,2
+World,3,2021,1140,Stroke,6980885.981,3
+World,3,2021,1180,Chronic obstructive pulmonary disease,3550707.397,4
+World,3,2021,390,Lower respiratory infections,2468626.408,5
+World,3,2021,680,"Trachea, bronchus, lung cancers",1853327.927,6
+World,3,2021,950,Alzheimer disease and other dementias,1846956.831,7
+World,3,2021,800,Diabetes mellitus,1623356.01,8
+World,3,2021,1270,Kidney diseases,1405117.746,9
+World,3,2021,30,Tuberculosis,1394315.127,10
+World,3,2021,1120,Hypertensive heart disease,1387757.143,11
+World,3,2021,1230,Cirrhosis of the liver,1316198.816,12
+World,3,2021,110,Diarrhoeal diseases,1252516.297,13
+World,3,2021,1530,Road injury,1176393.251,14
+World,3,2021,650,Colon and rectum cancers,954845.7758,15

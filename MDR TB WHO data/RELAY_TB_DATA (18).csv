@@ -1,0 +1,760 @@
+IND_ID,IND_CODE,INDICATOR_NAME,YEAR,COUNTRY,DISAGGR_1,UNIT,VALUE,VALUE_LO,VALUE_HI
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Samoa,Alcohol use disorder,Number,1,0,2
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Samoa,Smoking,Number,1,0,3
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Samoa,,Number,1,0,2
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Samoa,Undernutrition,Number,0,0,0
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Sao Tome and Principe,Alcohol use disorder,Number,29,1,98
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Sao Tome and Principe,Smoking,Number,7,0,27
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Sao Tome and Principe,,Number,8,0,30
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Sao Tome and Principe,HIV,Number,40,5,110
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Sao Tome and Principe,Undernutrition,Number,13,4,27
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Saudi Arabia,Alcohol use disorder,Number,18,6,38
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Saudi Arabia,Smoking,Number,200,43,460
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Liberia,Undernutrition,Number,840,430,1400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Libya,Alcohol use disorder,Number,27,5,66
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Libya,,Number,290,79,640
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Libya,HIV,Number,160,61,300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Libya,Undernutrition,Number,190,75,360
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Lithuania,Alcohol use disorder,Number,160,70,270
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Lithuania,Smoking,Number,110,34,220
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Lithuania,,Number,29,10,56
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Lithuania,HIV,Number,33,18,53
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Lithuania,Undernutrition,Number,13,5,24
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Madagascar,Alcohol use disorder,Number,3600,540,9600
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Saudi Arabia,,Number,220,92,390
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Saudi Arabia,HIV,Number,64,43,89
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Saudi Arabia,Undernutrition,Number,130,78,200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Senegal,Alcohol use disorder,Number,280,45,710
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Senegal,Smoking,Number,600,54,1800
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Senegal,,Number,610,110,1600
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Senegal,HIV,Number,750,360,1300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Senegal,Undernutrition,Number,2700,1600,4100
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Serbia,Alcohol use disorder,Number,100,43,190
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Serbia,Smoking,Number,160,53,320
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Serbia,,Number,29,11,55
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Madagascar,Smoking,Number,5400,480,16000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Madagascar,,Number,1700,230,4600
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Madagascar,HIV,Number,2100,710,4200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Madagascar,Undernutrition,Number,7700,4000,13000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Malawi,Alcohol use disorder,Number,1700,110,5300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Malawi,Smoking,Number,990,29,3600
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Malawi,,Number,680,40,2200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Malawi,HIV,Number,11000,3900,22000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Malawi,Undernutrition,Number,1300,500,2400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Malaysia,Alcohol use disorder,Number,2600,820,5300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Malaysia,Smoking,Number,4100,930,9500
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Democratic Republic of the Congo,Undernutrition,Number,27000,14000,45000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Djibouti,Alcohol use disorder,Number,40,10,89
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Djibouti,,Number,85,22,190
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Djibouti,HIV,Number,72,30,130
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Djibouti,Undernutrition,Number,250,110,450
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Dominican Republic,Alcohol use disorder,Number,620,200,1300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Dominican Republic,Smoking,Number,230,40,570
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Dominican Republic,,Number,220,62,470
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Dominican Republic,HIV,Number,1100,620,1600
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Dominican Republic,Undernutrition,Number,200,100,320
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Serbia,HIV,Number,2,0,4
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Serbia,Undernutrition,Number,22,12,36
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Seychelles,Alcohol use disorder,Number,3,1,6
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Seychelles,Smoking,Number,2,0,5
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Seychelles,,Number,1,0,2
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Seychelles,Undernutrition,Number,1,0,1
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Sierra Leone,Alcohol use disorder,Number,1600,240,4100
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Sierra Leone,Smoking,Number,1300,99,3800
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Sierra Leone,,Number,700,100,1900
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Sierra Leone,HIV,Number,3100,1300,5700
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Sierra Leone,Undernutrition,Number,1200,640,2000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Malaysia,,Number,2100,720,4100
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Malaysia,HIV,Number,1700,930,2600
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Malaysia,Undernutrition,Number,2200,1400,3200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Maldives,Alcohol use disorder,Number,10,3,20
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Maldives,Smoking,Number,23,6,52
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Maldives,,Number,10,3,21
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Maldives,Undernutrition,Number,13,8,20
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mali,Alcohol use disorder,Number,190,18,560
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mali,Smoking,Number,370,15,1300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mali,,Number,370,33,1100
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mali,HIV,Number,730,280,1400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Ecuador,Alcohol use disorder,Number,1300,430,2600
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Ecuador,Smoking,Number,520,92,1300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Ecuador,,Number,370,110,790
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Ecuador,HIV,Number,1500,920,2200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Ecuador,Undernutrition,Number,150,82,230
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Egypt,Alcohol use disorder,Number,310,85,680
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Egypt,Smoking,Number,1200,240,2900
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Egypt,,Number,810,290,1600
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Egypt,HIV,Number,110,69,160
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Egypt,Undernutrition,Number,290,170,440
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,El Salvador,Alcohol use disorder,Number,620,210,1300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Singapore,Alcohol use disorder,Number,60,24,110
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Singapore,Smoking,Number,200,58,440
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Singapore,,Number,92,41,160
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Singapore,HIV,Number,28,14,46
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Singapore,Undernutrition,Number,170,100,250
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Solomon Islands,Alcohol use disorder,Number,43,10,100
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Solomon Islands,Smoking,Number,68,10,180
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Solomon Islands,,Number,26,6,60
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Solomon Islands,Undernutrition,Number,11,5,18
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Somalia,Alcohol use disorder,Number,330,24,1000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Somalia,,Number,1200,87,3600
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mali,Undernutrition,Number,950,480,1600
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Marshall Islands,Smoking,Number,18,2,48
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Marshall Islands,,Number,14,3,32
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Marshall Islands,Undernutrition,Number,3,1,5
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mauritania,Alcohol use disorder,Number,31,3,91
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mauritania,Smoking,Number,140,6,470
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mauritania,,Number,140,15,420
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mauritania,HIV,Number,95,30,190
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mauritania,Undernutrition,Number,320,140,580
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mauritius,Alcohol use disorder,Number,17,6,32
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mauritius,Smoking,Number,16,4,35
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Somalia,HIV,Number,260,93,500
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Somalia,Undernutrition,Number,5100,2500,8700
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,South Africa,Alcohol use disorder,Number,34000,8900,76000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,South Africa,Smoking,Number,26000,4200,66000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,South Africa,,Number,13000,3200,30000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,South Africa,HIV,Number,128000,67000,209000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,South Africa,Undernutrition,Number,12000,6300,20000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,South Sudan,HIV,Number,2700,1100,5000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,South Sudan,Undernutrition,Number,3000,1500,4900
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Sri Lanka,Alcohol use disorder,Number,910,280,1900
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,El Salvador,Smoking,Number,240,42,610
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,El Salvador,,Number,240,76,490
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,El Salvador,HIV,Number,310,180,470
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,El Salvador,Undernutrition,Number,82,39,140
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Equatorial Guinea,Alcohol use disorder,Number,630,120,1600
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Equatorial Guinea,,Number,210,30,560
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Equatorial Guinea,HIV,Number,3100,1800,4800
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Equatorial Guinea,Undernutrition,Number,340,120,690
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Eritrea,Alcohol use disorder,Number,86,2,320
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Eritrea,,Number,47,1,180
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Eritrea,HIV,Number,57,5,170
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Albania,Smoking,Number,45,12,97
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Albania,,Number,14,5,28
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Albania,HIV,Number,4,0,11
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Albania,Undernutrition,Number,6,4,10
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Algeria,Alcohol use disorder,Number,400,96,910
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Algeria,Smoking,Number,1700,270,4500
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Algeria,,Number,1300,380,2700
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Algeria,HIV,Number,170,66,340
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Algeria,Undernutrition,Number,850,420,1400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Angola,Alcohol use disorder,Number,13000,1400,37000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Angola,,Number,4200,290,13000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mauritius,,Number,9,3,17
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mauritius,HIV,Number,24,11,41
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mauritius,Undernutrition,Number,10,5,15
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mexico,Alcohol use disorder,Number,1800,460,4000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mexico,Smoking,Number,2700,510,6800
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mexico,,Number,1900,530,4000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mexico,HIV,Number,4200,2000,7400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mexico,Undernutrition,Number,550,320,830
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mongolia,Alcohol use disorder,Number,2400,440,5900
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mongolia,Smoking,Number,2100,250,6000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mongolia,,Number,860,160,2100
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Eritrea,Undernutrition,Number,440,150,870
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Estonia,Alcohol use disorder,Number,23,10,41
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Estonia,Smoking,Number,13,4,28
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Estonia,,Number,3,1,7
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Estonia,HIV,Number,13,6,23
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Estonia,Undernutrition,Number,2,1,3
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Eswatini,Alcohol use disorder,Number,530,85,1400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Eswatini,Smoking,Number,170,11,530
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Eswatini,,Number,170,25,460
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Eswatini,HIV,Number,2200,770,4200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Eswatini,Undernutrition,Number,150,56,290
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Angola,HIV,Number,9300,3300,18000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Angola,Undernutrition,Number,8400,3500,15000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Argentina,Alcohol use disorder,Number,2000,760,3800
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Argentina,Smoking,Number,1700,450,3800
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Argentina,,Number,680,250,1300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Argentina,HIV,Number,940,500,1500
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Argentina,Undernutrition,Number,220,130,330
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Armenia,Alcohol use disorder,Number,78,28,150
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Armenia,Smoking,Number,82,21,180
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Armenia,,Number,36,13,71
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Armenia,HIV,Number,82,46,130
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Ethiopia,Alcohol use disorder,Number,9000,1500,23000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Ethiopia,Smoking,Number,3300,260,10000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Ethiopia,,Number,4300,630,12000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Ethiopia,HIV,Number,15000,7000,27000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Ethiopia,Undernutrition,Number,24000,14000,36000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Fiji,Alcohol use disorder,Number,63,19,130
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Fiji,Smoking,Number,76,16,180
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Fiji,,Number,45,15,92
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Fiji,HIV,Number,120,43,220
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Fiji,Undernutrition,Number,24,11,41
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Gabon,Alcohol use disorder,Number,1500,290,3800
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mongolia,HIV,Number,16,0,55
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mongolia,Undernutrition,Number,430,180,800
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Montenegro,Alcohol use disorder,Number,10,4,20
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Montenegro,Smoking,Number,13,3,29
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Montenegro,,Number,3,1,5
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Montenegro,HIV,Number,2,0,9
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Montenegro,Undernutrition,Number,1,1,3
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Morocco,Alcohol use disorder,Number,300,90,620
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Morocco,Smoking,Number,2200,460,5300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Morocco,,Number,2000,760,4000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Morocco,HIV,Number,390,120,810
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Armenia,Undernutrition,Number,20,10,32
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Australia,Alcohol use disorder,Number,150,57,280
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Australia,Smoking,Number,110,30,240
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Australia,,Number,45,18,85
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Australia,HIV,Number,28,15,45
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Australia,Undernutrition,Number,20,12,31
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Azerbaijan,Alcohol use disorder,Number,850,240,1800
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Azerbaijan,Smoking,Number,690,120,1700
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Azerbaijan,,Number,400,120,860
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Azerbaijan,HIV,Number,110,40,210
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Azerbaijan,Undernutrition,Number,190,85,340
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Morocco,Undernutrition,Number,1500,890,2300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mozambique,Alcohol use disorder,Number,7300,750,21000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mozambique,,Number,3300,320,9600
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mozambique,HIV,Number,21000,7600,42000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Mozambique,Undernutrition,Number,7500,3600,13000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Myanmar,Alcohol use disorder,Number,11000,2400,26000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Myanmar,Smoking,Number,26000,3900,67000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Myanmar,,Number,9200,2200,21000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Myanmar,HIV,Number,20000,7000,39000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Myanmar,Undernutrition,Number,28000,14000,45000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bahrain,Alcohol use disorder,Number,6,2,12
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bahrain,Smoking,Number,14,3,32
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bahrain,,Number,9,3,18
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bahrain,HIV,Number,9,3,18
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bahrain,Undernutrition,Number,7,3,11
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bangladesh,Alcohol use disorder,Number,6300,1600,14000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bangladesh,Smoking,Number,31000,5800,77000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bangladesh,,Number,16000,4700,34000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bangladesh,HIV,Number,720,290,1300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bangladesh,Undernutrition,Number,42000,27000,62000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Barbados,Alcohol use disorder,Number,0,0,0
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Namibia,Alcohol use disorder,Number,1500,270,3900
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Namibia,Smoking,Number,810,64,2500
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Namibia,,Number,430,65,1100
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Namibia,HIV,Number,3400,1300,6400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Namibia,Undernutrition,Number,1300,630,2200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Nauru,Alcohol use disorder,Number,1,0,4
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Nauru,Smoking,Number,3,0,8
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Nauru,,Number,2,0,4
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Nauru,Undernutrition,Number,0,0,0
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Nepal,Alcohol use disorder,Number,2500,460,6300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Nepal,Smoking,Number,5300,680,15000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Nepal,,Number,3100,670,7500
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Nepal,HIV,Number,380,110,840
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Nepal,Undernutrition,Number,5900,3000,9900
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Netherlands (Kingdom of the),Alcohol use disorder,Number,26,10,50
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Netherlands (Kingdom of the),Smoking,Number,84,25,180
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Netherlands (Kingdom of the),,Number,16,6,31
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Netherlands (Kingdom of the),HIV,Number,32,18,51
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Netherlands (Kingdom of the),Undernutrition,Number,10,4,17
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Nicaragua,Alcohol use disorder,Number,360,110,750
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Nicaragua,,Number,130,36,280
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Barbados,Smoking,Number,0,0,0
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Barbados,,Number,0,0,0
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Barbados,HIV,Number,0,0,0
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Barbados,Undernutrition,Number,0,0,0
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Belarus,Alcohol use disorder,Number,710,320,1200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Belarus,Smoking,Number,300,83,640
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Belarus,,Number,88,29,180
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Belarus,HIV,Number,200,100,330
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Belarus,Undernutrition,Number,46,23,77
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Belgium,Alcohol use disorder,Number,130,55,230
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Belgium,Smoking,Number,100,30,210
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Nicaragua,HIV,Number,190,95,320
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Nicaragua,Undernutrition,Number,74,26,150
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Niger,Alcohol use disorder,Number,290,24,870
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Niger,Smoking,Number,620,17,2300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Niger,,Number,490,36,1500
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Niger,HIV,Number,500,190,970
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Niger,Undernutrition,Number,2600,1400,4200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Nigeria,Alcohol use disorder,Number,6100,790,17000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Nigeria,Smoking,Number,7600,450,25000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Nigeria,,Number,13000,1800,35000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Nigeria,HIV,Number,21000,8500,40000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Gabon,,Number,530,73,1400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Gabon,HIV,Number,3600,1300,7000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Gabon,Undernutrition,Number,680,290,1200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Gambia,Alcohol use disorder,Number,80,13,200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Gambia,Smoking,Number,190,16,570
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Gambia,,Number,150,25,370
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Gambia,HIV,Number,460,230,770
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Gambia,Undernutrition,Number,340,180,540
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Georgia,Alcohol use disorder,Number,190,66,370
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Georgia,Smoking,Number,290,80,640
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Georgia,,Number,120,42,220
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Belgium,,Number,18,7,35
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Belgium,HIV,Number,31,9,65
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Belgium,Undernutrition,Number,15,8,25
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Belize,Alcohol use disorder,Number,15,5,30
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Belize,Smoking,Number,5,0,12
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Belize,,Number,6,2,13
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Belize,HIV,Number,16,8,26
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Belize,Undernutrition,Number,3,1,4
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Benin,Alcohol use disorder,Number,830,120,2200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Benin,Smoking,Number,160,9,520
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Benin,,Number,220,28,610
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Georgia,HIV,Number,43,21,72
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Georgia,Undernutrition,Number,49,25,80
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Germany,Alcohol use disorder,Number,530,230,940
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Germany,Smoking,Number,410,130,850
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Germany,,Number,94,38,170
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Germany,HIV,Number,100,49,170
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Germany,Undernutrition,Number,56,29,91
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Ghana,Alcohol use disorder,Number,3300,250,10000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Ghana,Smoking,Number,510,14,1800
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Ghana,,Number,1200,83,3700
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Ghana,HIV,Number,4900,990,12000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Benin,HIV,Number,860,350,1600
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Benin,Undernutrition,Number,460,230,780
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bhutan,Alcohol use disorder,Number,58,19,120
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bhutan,Smoking,Number,44,9,100
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bhutan,,Number,69,26,130
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bhutan,HIV,Number,7,0,19
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bhutan,Undernutrition,Number,44,23,71
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bolivia (Plurinational State of),Alcohol use disorder,Number,1600,380,3700
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bolivia (Plurinational State of),Smoking,Number,780,81,2300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bolivia (Plurinational State of),,Number,460,91,1100
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bolivia (Plurinational State of),HIV,Number,710,290,1300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Ghana,Undernutrition,Number,2600,1000,5000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Greece,Alcohol use disorder,Number,65,28,120
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Greece,Smoking,Number,81,26,170
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Greece,,Number,16,6,31
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Greece,HIV,Number,14,6,25
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Greece,Undernutrition,Number,4,2,7
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Guatemala,Alcohol use disorder,Number,650,180,1400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Guatemala,Smoking,Number,320,39,880
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Guatemala,,Number,230,60,520
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Guatemala,HIV,Number,470,290,700
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Guatemala,Undernutrition,Number,100,53,170
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bolivia (Plurinational State of),Undernutrition,Number,200,81,360
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bosnia and Herzegovina,Alcohol use disorder,Number,90,35,170
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bosnia and Herzegovina,Smoking,Number,120,32,270
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bosnia and Herzegovina,,Number,26,9,51
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bosnia and Herzegovina,HIV,Number,1,0,3
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bosnia and Herzegovina,Undernutrition,Number,15,6,29
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Botswana,Alcohol use disorder,Number,730,170,1700
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Botswana,Smoking,Number,410,52,1100
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Botswana,,Number,220,46,510
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Botswana,HIV,Number,2200,960,3800
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Nigeria,Undernutrition,Number,45000,25000,71000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,North Macedonia,Alcohol use disorder,Number,19,7,39
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,North Macedonia,,Number,5,1,11
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,North Macedonia,HIV,Number,1,0,5
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,North Macedonia,Undernutrition,Number,5,2,9
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Oman,Alcohol use disorder,Number,5,1,10
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Oman,Smoking,Number,23,4,55
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Oman,,Number,35,13,66
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Oman,HIV,Number,7,2,16
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Oman,Undernutrition,Number,20,12,31
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Pakistan,Alcohol use disorder,Number,5500,980,14000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Guinea,Alcohol use disorder,Number,370,48,1000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Guinea,,Number,710,100,1900
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Guinea,HIV,Number,4300,1900,7500
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Guinea,Undernutrition,Number,1900,900,3200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Guinea-Bissau,Alcohol use disorder,Number,150,21,410
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Guinea-Bissau,Smoking,Number,290,17,930
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Guinea-Bissau,,Number,230,34,600
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Guinea-Bissau,HIV,Number,2300,1200,3800
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Guinea-Bissau,Undernutrition,Number,550,230,1000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Guyana,Alcohol use disorder,Number,73,23,150
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Guyana,Smoking,Number,18,2,49
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Botswana,Undernutrition,Number,560,300,910
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Brazil,Alcohol use disorder,Number,8800,3300,17000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Brazil,Smoking,Number,6400,1600,15000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Brazil,,Number,4000,1500,7700
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Brazil,HIV,Number,20000,14000,26000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Brazil,Undernutrition,Number,2600,1700,3600
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Brunei Darussalam,Alcohol use disorder,Number,14,5,29
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Brunei Darussalam,Smoking,Number,24,6,56
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Brunei Darussalam,,Number,13,4,25
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Brunei Darussalam,HIV,Number,7,0,26
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Brunei Darussalam,Undernutrition,Number,8,4,12
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Pakistan,Smoking,Number,42000,4800,118000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Pakistan,,Number,35000,7700,81000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Pakistan,HIV,Number,1900,1,10000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Pakistan,Undernutrition,Number,63000,38000,94000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Panama,Alcohol use disorder,Number,310,100,630
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Panama,Smoking,Number,63,11,160
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Panama,,Number,100,32,210
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Panama,HIV,Number,430,270,630
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Panama,Undernutrition,Number,45,24,71
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Papua New Guinea,Alcohol use disorder,Number,3600,970,7900
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Papua New Guinea,Smoking,Number,5900,1100,15000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bulgaria,Alcohol use disorder,Number,140,57,270
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bulgaria,Smoking,Number,190,57,390
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bulgaria,,Number,38,14,74
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bulgaria,HIV,Number,4,0,12
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Bulgaria,Undernutrition,Number,25,14,38
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Burkina Faso,Alcohol use disorder,Number,350,43,990
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Burkina Faso,Smoking,Number,480,25,1600
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Burkina Faso,,Number,270,32,750
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Burkina Faso,HIV,Number,630,250,1200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Burkina Faso,Undernutrition,Number,930,510,1500
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Burundi,Alcohol use disorder,Number,1600,190,4400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Papua New Guinea,,Number,2300,580,5000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Papua New Guinea,HIV,Number,2200,1400,3200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Papua New Guinea,Undernutrition,Number,1600,760,2700
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Paraguay,Alcohol use disorder,Number,570,200,1100
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Paraguay,Smoking,Number,230,38,600
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Paraguay,,Number,160,47,340
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Paraguay,HIV,Number,370,250,520
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Paraguay,Undernutrition,Number,68,30,120
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Peru,Alcohol use disorder,Number,9200,2700,20000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Peru,Smoking,Number,2100,320,5500
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Peru,,Number,2000,510,4500
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Burundi,Smoking,Number,540,16,1900
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Burundi,,Number,240,18,740
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Burundi,HIV,Number,710,270,1400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Burundi,Undernutrition,Number,1300,590,2200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Cabo Verde,Alcohol use disorder,Number,30,9,61
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Cabo Verde,Smoking,Number,9,1,24
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Cabo Verde,,Number,9,2,20
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Cabo Verde,HIV,Number,26,12,44
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Cabo Verde,Undernutrition,Number,10,6,16
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Cambodia,Alcohol use disorder,Number,4900,990,12000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Cambodia,Smoking,Number,3600,460,10000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Peru,HIV,Number,3500,1500,6300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Peru,Undernutrition,Number,510,300,780
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Philippines,Alcohol use disorder,Number,74000,11000,197000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Philippines,Smoking,Number,70000,6500,205000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Philippines,,Number,24000,3400,62000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Philippines,HIV,Number,4700,730,12000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Philippines,Undernutrition,Number,59000,26000,106000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Poland,Alcohol use disorder,Number,870,410,1500
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Poland,Smoking,Number,450,140,940
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Poland,,Number,140,58,260
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Poland,HIV,Number,42,20,70
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Poland,Undernutrition,Number,83,50,120
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Portugal,Alcohol use disorder,Number,210,93,380
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Portugal,Smoking,Number,200,62,410
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Portugal,,Number,52,20,97
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Portugal,HIV,Number,170,120,230
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Portugal,Undernutrition,Number,26,13,43
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Qatar,Alcohol use disorder,Number,7,2,13
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Qatar,Smoking,Number,59,15,130
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Qatar,,Number,89,40,160
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Qatar,HIV,Number,5,1,13
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Qatar,Undernutrition,Number,22,9,39
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Guyana,,Number,26,7,58
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Guyana,HIV,Number,110,58,190
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Guyana,Undernutrition,Number,32,18,51
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Haiti,Alcohol use disorder,Number,2100,600,4600
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Haiti,Smoking,Number,680,93,1800
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Haiti,,Number,650,150,1500
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Haiti,HIV,Number,2200,1200,3500
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Haiti,Undernutrition,Number,1500,820,2400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Honduras,Alcohol use disorder,Number,410,120,880
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Honduras,Smoking,Number,200,32,520
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Honduras,,Number,140,36,300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Honduras,HIV,Number,200,110,310
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Honduras,Undernutrition,Number,86,31,170
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,India,Alcohol use disorder,Number,253000,88000,502000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,India,Smoking,Number,96000,20000,230000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,India,,Number,103000,37000,203000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,India,HIV,Number,38000,25000,54000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,India,Undernutrition,Number,373000,274000,487000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Indonesia,Alcohol use disorder,Number,16000,5200,33000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Indonesia,Smoking,Number,147000,41000,319000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Indonesia,,Number,32000,12000,64000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Indonesia,HIV,Number,23000,8800,43000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Cambodia,,Number,1600,300,3900
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Cambodia,HIV,Number,530,140,1200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Cambodia,Undernutrition,Number,4800,2600,7700
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Cameroon,Alcohol use disorder,Number,5200,700,14000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Cameroon,Smoking,Number,1000,50,3400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Cameroon,,Number,1200,140,3500
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Cameroon,HIV,Number,6700,2600,13000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Cameroon,Undernutrition,Number,2100,940,3800
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Central African Republic,Alcohol use disorder,Number,1900,170,5700
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Central African Republic,,Number,880,53,2800
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Republic of Korea,Alcohol use disorder,Number,4700,2400,7800
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Republic of Korea,Smoking,Number,2000,660,4000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Republic of Korea,,Number,750,340,1300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Republic of Korea,HIV,Number,170,87,270
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Republic of Korea,Undernutrition,Number,710,510,940
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Republic of Moldova,Alcohol use disorder,Number,260,100,490
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Republic of Moldova,Smoking,Number,290,84,630
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Republic of Moldova,,Number,83,28,170
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Republic of Moldova,HIV,Number,280,190,400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Republic of Moldova,Undernutrition,Number,46,26,73
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Central African Republic,HIV,Number,6100,2800,11000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Central African Republic,Undernutrition,Number,3100,1600,5200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Chad,Alcohol use disorder,Number,380,33,1100
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Chad,Smoking,Number,950,35,3300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Chad,,Number,800,70,2400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Chad,HIV,Number,2900,1200,5300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Chad,Undernutrition,Number,2700,1300,4500
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Chile,Alcohol use disorder,Number,420,170,790
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Chile,Smoking,Number,480,150,1000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Chile,,Number,170,70,320
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Chile,HIV,Number,320,230,430
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Indonesia,Undernutrition,Number,84000,56000,117000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Iran (Islamic Republic of),Alcohol use disorder,Number,210,62,450
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Iran (Islamic Republic of),Smoking,Number,460,90,1100
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Iran (Islamic Republic of),,Number,530,190,1000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Iran (Islamic Republic of),HIV,Number,170,53,360
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Iran (Islamic Republic of),Undernutrition,Number,450,280,670
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Iraq,Alcohol use disorder,Number,76,17,180
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Iraq,Smoking,Number,810,89,2300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Iraq,,Number,660,210,1400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Iraq,Undernutrition,Number,300,150,510
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Romania,Alcohol use disorder,Number,610,240,1200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Romania,Smoking,Number,1400,440,2900
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Romania,,Number,330,120,630
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Romania,HIV,Number,230,160,320
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Romania,Undernutrition,Number,260,160,390
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Russian Federation,Alcohol use disorder,Number,17000,5600,34000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Russian Federation,Smoking,Number,7400,1600,18000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Russian Federation,,Number,2000,470,4500
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Russian Federation,HIV,Number,14000,5300,26000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Russian Federation,Undernutrition,Number,1400,600,2500
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Jamaica,Alcohol use disorder,Number,9,3,18
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Jamaica,Smoking,Number,4,0,11
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Jamaica,,Number,5,1,9
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Jamaica,HIV,Number,14,6,25
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Jamaica,Undernutrition,Number,3,2,5
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Japan,Alcohol use disorder,Number,850,350,1500
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Japan,Smoking,Number,1100,360,2300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Japan,,Number,370,170,660
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Japan,HIV,Number,59,17,120
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Japan,Undernutrition,Number,820,570,1100
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Jordan,Alcohol use disorder,Number,3,0,7
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Chile,Undernutrition,Number,23,10,41
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,China,Alcohol use disorder,Number,65000,26000,122000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,China,Smoking,Number,82000,24000,173000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,China,,Number,30000,12000,55000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,China,HIV,Number,8800,6400,12000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,China,Undernutrition,Number,27000,18000,37000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Colombia,Alcohol use disorder,Number,3200,1100,6300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Colombia,Smoking,Number,1000,210,2400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Colombia,,Number,930,300,1900
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Colombia,HIV,Number,3600,1800,6000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Colombia,Undernutrition,Number,580,320,920
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Jordan,Smoking,Number,58,10,150
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Jordan,,Number,27,7,59
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Jordan,Undernutrition,Number,13,7,21
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Kazakhstan,Alcohol use disorder,Number,1600,300,4100
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Kazakhstan,Smoking,Number,1500,180,4100
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Kazakhstan,,Number,750,130,1900
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Kazakhstan,HIV,Number,910,270,1900
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Kazakhstan,Undernutrition,Number,480,220,850
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Kenya,Alcohol use disorder,Number,9000,1200,24000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Kenya,Smoking,Number,4800,340,15000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Kenya,,Number,3100,400,8400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Kenya,HIV,Number,26000,11000,49000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Kenya,Undernutrition,Number,11000,6000,18000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Kiribati,Alcohol use disorder,Number,53,12,120
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Kiribati,Smoking,Number,89,15,230
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Kiribati,,Number,49,13,110
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Kiribati,Undernutrition,Number,5,2,9
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Kuwait,Alcohol use disorder,Number,4,1,8
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Kuwait,Smoking,Number,46,11,100
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Kuwait,,Number,40,18,72
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Kuwait,HIV,Number,2,0,7
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Kuwait,Undernutrition,Number,6,3,10
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Comoros,Alcohol use disorder,Number,4,0,11
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Comoros,Smoking,Number,17,1,53
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Comoros,,Number,10,1,25
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Comoros,HIV,Number,6,0,23
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Comoros,Undernutrition,Number,18,8,31
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Congo,Alcohol use disorder,Number,930,120,2600
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Congo,Smoking,Number,1500,76,5100
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Congo,,Number,740,71,2200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Congo,HIV,Number,6700,2600,13000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Congo,Undernutrition,Number,2100,1000,3500
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Costa Rica,Alcohol use disorder,Number,66,23,130
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Kyrgyzstan,Alcohol use disorder,Number,860,250,1800
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Kyrgyzstan,Smoking,Number,920,160,2300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Kyrgyzstan,,Number,350,100,760
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Kyrgyzstan,HIV,Number,260,170,380
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Kyrgyzstan,Undernutrition,Number,230,120,380
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Lao People's Democratic Republic,Alcohol use disorder,Number,1000,210,2400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Lao People's Democratic Republic,Smoking,Number,1100,160,3100
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Lao People's Democratic Republic,,Number,340,72,820
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Lao People's Democratic Republic,HIV,Number,470,180,900
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Lao People's Democratic Republic,Undernutrition,Number,710,330,1200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Costa Rica,Smoking,Number,23,5,54
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Costa Rica,,Number,20,7,41
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Costa Rica,HIV,Number,57,29,93
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Costa Rica,Undernutrition,Number,11,5,19
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Côte d'Ivoire,Alcohol use disorder,Number,6200,950,16000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Côte d'Ivoire,Smoking,Number,1600,77,5200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Côte d'Ivoire,,Number,1100,130,3100
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Côte d'Ivoire,HIV,Number,4500,1700,8600
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Côte d'Ivoire,Undernutrition,Number,2500,1100,4400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Cuba,Alcohol use disorder,Number,110,47,200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Cuba,Smoking,Number,75,21,160
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Latvia,Alcohol use disorder,Number,75,36,130
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Latvia,Smoking,Number,42,13,86
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Latvia,,Number,10,3,19
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Latvia,HIV,Number,26,15,39
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Latvia,Undernutrition,Number,6,3,11
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Lebanon,Alcohol use disorder,Number,87,32,170
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Lebanon,Smoking,Number,83,20,190
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Lebanon,,Number,32,12,63
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Lebanon,HIV,Number,4,0,11
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Lebanon,Undernutrition,Number,12,6,21
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Lesotho,Alcohol use disorder,Number,1500,240,3800
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Cuba,,Number,34,12,65
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Cuba,HIV,Number,63,41,91
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Cuba,Undernutrition,Number,29,17,43
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Czechia,Alcohol use disorder,Number,58,24,110
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Czechia,Smoking,Number,68,21,140
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Czechia,,Number,17,6,33
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Czechia,HIV,Number,31,17,48
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Czechia,Undernutrition,Number,7,4,11
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Democratic People's Republic of Korea,Alcohol use disorder,Number,9200,3500,18000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Democratic People's Republic of Korea,Smoking,Number,10000,2700,23000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Democratic People's Republic of Korea,,Number,3500,1100,7300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Sri Lanka,Smoking,Number,640,130,1500
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Sri Lanka,,Number,480,150,1000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Sri Lanka,HIV,Number,67,32,110
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Sri Lanka,Undernutrition,Number,1700,1000,2400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Sudan,Alcohol use disorder,Number,630,74,1800
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Sudan,,Number,910,120,2500
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Sudan,HIV,Number,570,99,1400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Sudan,Undernutrition,Number,3400,1900,5400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Suriname,Alcohol use disorder,Number,23,7,47
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Suriname,,Number,9,3,20
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Suriname,HIV,Number,19,8,34
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Suriname,Undernutrition,Number,10,5,18
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Syrian Arab Republic,Alcohol use disorder,Number,50,12,110
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Syrian Arab Republic,,Number,250,78,510
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Syrian Arab Republic,HIV,Number,3,1,7
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Syrian Arab Republic,Undernutrition,Number,170,70,300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Tajikistan,Alcohol use disorder,Number,150,33,370
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Tajikistan,,Number,360,85,830
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Tajikistan,HIV,Number,240,140,370
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Tajikistan,Undernutrition,Number,400,240,610
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Thailand,Alcohol use disorder,Number,12000,4400,23000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Thailand,Smoking,Number,11000,2800,23000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Thailand,,Number,4400,1600,8600
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Thailand,HIV,Number,8800,4200,15000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Thailand,Undernutrition,Number,6300,3800,9300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Timor-Leste,Alcohol use disorder,Number,250,46,610
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Timor-Leste,Smoking,Number,920,120,2500
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Timor-Leste,,Number,160,31,410
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Timor-Leste,HIV,Number,57,20,110
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Timor-Leste,Undernutrition,Number,1000,580,1600
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Togo,Alcohol use disorder,Number,490,130,1100
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Togo,Smoking,Number,80,7,240
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Togo,,Number,93,19,220
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Togo,HIV,Number,350,200,530
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Togo,Undernutrition,Number,170,100,260
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Tonga,Alcohol use disorder,Number,0,0,2
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Tonga,Smoking,Number,1,0,3
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Tonga,,Number,0,0,1
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Tonga,Undernutrition,Number,0,0,0
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Trinidad and Tobago,Alcohol use disorder,Number,41,16,76
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Trinidad and Tobago,,Number,16,6,33
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Trinidad and Tobago,HIV,Number,62,43,86
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Trinidad and Tobago,Undernutrition,Number,17,10,26
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Tunisia,Alcohol use disorder,Number,58,17,120
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Tunisia,Smoking,Number,440,97,1000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Tunisia,,Number,250,90,490
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Tunisia,HIV,Number,32,6,76
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Tunisia,Undernutrition,Number,160,73,280
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Türkiye,Alcohol use disorder,Number,1100,380,2200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Türkiye,Smoking,Number,1600,420,3500
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Türkiye,,Number,690,280,1300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Türkiye,HIV,Number,150,85,230
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Türkiye,Undernutrition,Number,230,130,360
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Turkmenistan,Alcohol use disorder,Number,410,120,880
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Turkmenistan,Smoking,Number,100,14,280
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Turkmenistan,,Number,200,60,410
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Turkmenistan,HIV,Number,810,370,1400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Turkmenistan,Undernutrition,Number,120,64,190
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Tuvalu,Alcohol use disorder,Number,2,0,6
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Tuvalu,Smoking,Number,4,0,10
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Tuvalu,,Number,2,1,5
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Tuvalu,Undernutrition,Number,0,0,1
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Uganda,Alcohol use disorder,Number,12000,1400,33000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Uganda,Smoking,Number,2900,130,10000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Uganda,,Number,1900,170,5600
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Uganda,HIV,Number,34000,16000,59000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Uganda,Undernutrition,Number,7200,3700,12000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Ukraine,Alcohol use disorder,Number,4900,1500,10000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Ukraine,Smoking,Number,4900,1100,11000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Ukraine,,Number,1400,380,3100
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Ukraine,HIV,Number,10000,4400,18000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Ukraine,Undernutrition,Number,860,420,1400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,United Kingdom of Great Britain and Northern Ireland,Alcohol use disorder,Number,840,370,1500
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,United Kingdom of Great Britain and Northern Ireland,Smoking,Number,370,110,800
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,United Kingdom of Great Britain and Northern Ireland,,Number,140,61,250
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,United Kingdom of Great Britain and Northern Ireland,HIV,Number,170,58,340
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,United Kingdom of Great Britain and Northern Ireland,Undernutrition,Number,80,54,110
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,United Republic of Tanzania,Alcohol use disorder,Number,14000,450,50000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,United Republic of Tanzania,Smoking,Number,3900,43,16000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,United Republic of Tanzania,,Number,3000,87,11000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,United Republic of Tanzania,HIV,Number,20000,3200,52000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,United Republic of Tanzania,Undernutrition,Number,9400,3200,19000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,United States of America,Alcohol use disorder,Number,2400,1100,4200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,United States of America,Smoking,Number,1000,300,2200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,United States of America,,Number,350,140,650
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,United States of America,HIV,Number,490,340,680
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,United States of America,Undernutrition,Number,130,81,190
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Uruguay,Alcohol use disorder,Number,170,69,320
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Uruguay,Smoking,Number,140,39,300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Uruguay,,Number,60,23,120
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Uruguay,HIV,Number,190,110,280
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Uruguay,Undernutrition,Number,22,11,37
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Uzbekistan,Alcohol use disorder,Number,2100,490,4900
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Uzbekistan,Smoking,Number,1000,120,2900
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Uzbekistan,,Number,890,200,2100
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Uzbekistan,HIV,Number,670,290,1200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Uzbekistan,Undernutrition,Number,520,230,930
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Vanuatu,Alcohol use disorder,Number,13,3,31
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Vanuatu,,Number,9,2,21
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Vanuatu,Undernutrition,Number,3,1,6
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Venezuela (Bolivarian Republic of),Alcohol use disorder,Number,1600,520,3300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Venezuela (Bolivarian Republic of),,Number,530,160,1100
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Venezuela (Bolivarian Republic of),HIV,Number,940,310,1900
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Venezuela (Bolivarian Republic of),Undernutrition,Number,470,250,770
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Viet Nam,Alcohol use disorder,Number,19000,5400,42000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Viet Nam,Smoking,Number,19000,3600,47000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Viet Nam,,Number,4500,1200,10000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Viet Nam,HIV,Number,4400,1700,8200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Viet Nam,Undernutrition,Number,17000,9400,26000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Yemen,Alcohol use disorder,Number,150,30,360
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Yemen,Smoking,Number,1400,100,4400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Yemen,,Number,860,200,2000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Yemen,HIV,Number,140,45,280
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Yemen,Undernutrition,Number,2200,1400,3100
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Zambia,Alcohol use disorder,Number,5600,710,15000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Zambia,Smoking,Number,3400,200,11000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Afghanistan,Alcohol use disorder,Number,550,54,1600
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Afghanistan,Smoking,Number,2900,130,9800
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Afghanistan,,Number,3400,430,9200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Afghanistan,HIV,Number,14,0,110
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Afghanistan,Undernutrition,Number,4300,2100,7400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Albania,Alcohol use disorder,Number,49,20,91
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Democratic People's Republic of Korea,HIV,Number,1300,430,2600
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Democratic People's Republic of Korea,Undernutrition,Number,10000,4400,19000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Democratic Republic of the Congo,Alcohol use disorder,Number,30000,3400,83000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Democratic Republic of the Congo,Smoking,Number,14000,380,51000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Democratic Republic of the Congo,,Number,8600,550,27000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Democratic Republic of the Congo,HIV,Number,21000,8600,39000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Rwanda,Alcohol use disorder,Number,1000,260,2300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Rwanda,Smoking,Number,400,37,1200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Rwanda,,Number,160,29,400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Rwanda,HIV,Number,850,490,1300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Rwanda,Undernutrition,Number,450,270,680
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Saint Lucia,Alcohol use disorder,Number,0,0,0
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Saint Lucia,Smoking,Number,0,0,0
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Saint Lucia,,Number,0,0,0
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Saint Lucia,Undernutrition,Number,0,0,0
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Zambia,,Number,1600,180,4500
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Zambia,HIV,Number,16000,7100,29000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Zambia,Undernutrition,Number,3300,1600,5700
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Zimbabwe,Alcohol use disorder,Number,3900,680,9700
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Zimbabwe,Smoking,Number,1700,120,5300
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Zimbabwe,,Number,1000,150,2700
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Zimbabwe,HIV,Number,21000,12000,33000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Zimbabwe,Undernutrition,Number,1800,900,2900
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Lesotho,Smoking,Number,1400,140,4200
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Lesotho,,Number,580,85,1500
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Lesotho,HIV,Number,8300,3500,15000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Lesotho,Undernutrition,Number,790,340,1400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Liberia,Alcohol use disorder,Number,1500,240,4000
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Liberia,Smoking,Number,540,25,1800
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Liberia,,Number,530,77,1400
+94BFA31A52F4E8,TB_e_attr_risk_num,Number of people with TB attributable to five risk factors,2023,Liberia,HIV,Number,1800,750,3300

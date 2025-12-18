@@ -1,0 +1,669 @@
+﻿COUNTRY_CODE,REGION_WHO,REGION_UNICEF,REGION_UNAIDS,COUNTRY_NAME,TIME_PERIOD,DATA_SOURCE,is_indicator_relevant,are_data_available,measurement_source,measurement_source_other,period_start_date,period_end_date,data_source_comment,data_comment,state,no_validation_comment_log,no_validation_warnings_list,comments,NUMERATOR-TOTAL,include_in_csv_export
+AFG,Eastern Mediterranean,South Asia,Asia and the Pacific,Afghanistan,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator below),The program data.,2024-01-01,2024-12-31,,,published,"Date: 2025-04-14 11:53:47.539074
+A total of 290 Patients were newly enrolled during the reporting period and seventeen (17) patients were diagnosed with TB/HIV during the reporting period. So seventeen patients are newly diagnosed and have TB/HIV four (4) patients were HIV diagnosed during previous years and freshly diagnosed with TB during the reporting period.
+We have a total of 21 patients with TB/HIV Co infection.
+--------
+Date: 2025-03-25 07:49:16.003248
+A total of 290 Patients were newly enrolled during the reporting period and seventeen (17) patients were diagnosed with TB/HIV during the reporting period. So seventeen patients are newly diagnosed and have TB/HIV four (4) patients were HIV diagnosed during previous years and freshly diagnosed with TB during the reporting period.
+We have a total of 21 patients with TB/HIV Co infection.
+--------
+Date: 2025-03-23 10:36:15.296127
+A total of 290 Patients were newly enrolled during the reporting period and seventeen (17) patients were diagnosed with TB/HIV during the reporting period. So seventeen patients are newly diagnosed and have TB/HIV four (4) patients were HIV diagnosed during previous years and freshly diagnosed with TB during the reporting period.
+We have a total of 21 patients with TB/HIV Co infection.
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,,21,Yes
+AUS,Western Pacific,,Asia and the Pacific,Australia,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+BGD,South-East Asia,South Asia,Asia and the Pacific,Bangladesh,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator below),Program Data,2024-01-01,2024-12-31,,,published,,,,90,Yes
+BTN,South-East Asia,South Asia,Asia and the Pacific,Bhutan,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator below),"Care, Support and Treatment Unit",2024-01-01,2024-12-31,,,published,"Date: 2025-05-20 11:09:56.709170
+Updated the Data
+--------
+Date: 2025-05-20 10:58:24.990936
+Updated the Data
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: Data were reported on the number of people living with HIV with TB who were on ART and had started TB treatment during the reporting period for 2023. Please kindly consult with the National TB Programme and report for the current reporting period, or provide an explanation.
+
+Dechen Wangmo (MINISTRY) said on 20/05/25 at 09:09: @Victoria Bendaud
+We have updated the data.
+
+",3,Yes
+BRN,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Brunei Darussalam,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+KHM,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Cambodia,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,,,,370,Yes
+CHN,Western Pacific,East Asia and the Pacific,Asia and the Pacific,China,2024,GARPR,Yes,No,,,,,,,published,,,,,Yes
+COK,Western Pacific,,Asia and the Pacific,Cook Islands,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,,,,1,Yes
+PRK,South-East Asia,East Asia and the Pacific,Asia and the Pacific,Democratic People's Republic of Korea,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+FJI,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Fiji,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-05-30 13:22:23.112124
+Yes, this is correct as we have more that 2 fold increase in TB/HIV co-infections.
+--------
+Date: 2025-05-30 13:15:44.436239
+Yes, this is correct as we have more that 2 fold increase in TB/HIV co-infections.
+--------
+Date: 2025-05-30 13:13:31.300914
+Yes, this is correct as we have more that 2 fold increase in TB/HIV co-infections.
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: The National TB Programme has reported [105] TB cases among people living with HIV on ART to WHO. Data were reported on the number of people living with HIV with TB who were on ART and had started TB treatment during the reporting period for 2023. Please kindly consult with the National TB Programme and report for the current reporting period, or provide an explanation.
+
+Rachel Devi (MINISTRY) said on 30/05/25 at 11:22: Have entered data extracted from the TB program.
+
+",148,Yes
+IND,South-East Asia,South Asia,Asia and the Pacific,India,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,,,,32361,Yes
+IDN,South-East Asia,East Asia and the Pacific,Asia and the Pacific,Indonesia,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-05-21 10:17:45.442360
+confirmed
+--------
+Date: 2025-05-16 09:17:38.684955
+confirmed
+--------
+Date: 2025-03-24 08:51:32.441799
+confirmed
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,"Endang Lukitosari (MINISTRY) said on 16/05/25 at 07:17: This is revised to align with the final figure reported by the National TB Programme.
+
+Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: It was reported that [6736] people living with HIV with TB were on ART in 2023, compared to [8960] for 2024. This seems to reflect an important change. The National TB Programme has reported [9569] TB cases among people living with HIV on ART to WHO, which is different from the number of people living with HIV with TB on ART reported for this indicator [8960]. Please could you discuss with your colleagues in the National TB Programme and agree on one value for this indicator
+
+Endang Lukitosari (MINISTRY) said on 21/05/25 at 08:17: On 16 May, we have revised the figure for this indicator to be 9,569 as this is the final number from the NTP.
+
+",9569,Yes
+IRN,Eastern Mediterranean,Middle East and North Africa,Asia and the Pacific,Iran (Islamic Republic of),2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,Cross-checked with Antiretroviral registry system.,2024-01-01,2024-12-31,,,published,"Date: 2025-04-01 01:23:43.120151
+Yes, the change is correct. 
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,,93,Yes
+JPN,Western Pacific,,Asia and the Pacific,Japan,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+KIR,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Kiribati,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,Not specified.,2024-01-01,2024-12-31,,,published,,,,0,Yes
+LAO,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Lao People's Democratic Republic,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-03-29 15:01:16.697569
+Data from DHIS2
+--------
+Date: 2025-03-28 14:23:52.422595
+Data from DHIS2
+--------
+Date: 2025-03-22 11:15:41.633593
+let check and confirm with NTC
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,,255,Yes
+MYS,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Malaysia,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,"TB is a mandatory notifiable infectious disease in Malaysia. Data was collected from the National Tuberculosis Registry, which is an online registry for all TB patients.",,published,"Date: 2025-05-30 10:04:53.426008
+The data had been confirmed and verified by state health departments.
+--------
+Date: 2025-03-10 04:23:12.489650
+The data had been confirmed and verified by state health departments.
+--------
+Date: 2025-03-05 08:20:44.431570
+The data had been confirmed and verified by state health departments.
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: It was reported that [360] people living with HIV with TB on ART had started TB treatment in 2023, compared to [473] for 2024. This seems to reflect an important change. Please can you explain the reason for this or consult with the National TB Programme, review the data and revise accordingly.
+
+Dr. Fazidah Yuswan (MINISTRY) said on 30/05/25 at 08:04: In Malaysia, there are established policies for HIV and TB screening that emphasize the integration of screening and management for coinfections. This includes conducting TB screenings for people living with HIV (PLHIV) and testing for HIV in individuals diagnosed with TB. Efforts also target high-risk environments, such as prisons and drug rehabilitation centers, for TB screening initiatives. 
+
+To enhance antiretroviral therapy (ART) coverage, Malaysia is scaling up the use of the drug Dolutegravir (DTG), in line with recommendations from the World Health Organization (WHO). DTG, an antiretroviral medication used to treat HIV, is recommended by WHO as part of both first-line and second-line ART for individuals with HIV, including adults and children. It is preferred due to its effectiveness, tolerability, and strong resistance barrier.
+
+",473,Yes
+MDV,South-East Asia,South Asia,Asia and the Pacific,Maldives,2024,GARPR,Yes,No,,,,,,,published,,,,,Yes
+MHL,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Marshall Islands,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,,,,0,Yes
+FSM,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Micronesia (Federated States of),-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+MNG,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Mongolia,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,routine data of NCCD,2024-01-01,2024-12-31,,,published,"Date: 2025-03-12 06:57:05.819441
+Yes, we have checked.
+--------
+Date: 2025-02-26 08:15:41.750658
+Yes, we have checked.
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,,2,Yes
+MMR,South-East Asia,East Asia and the Pacific,Asia and the Pacific,Myanmar,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,,,,5315,Yes
+NRU,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Nauru,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+NPL,South-East Asia,South Asia,Asia and the Pacific,Nepal,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,"Information on this indicator is collected through HIV Care and ART Tracking (DHIS2 Tracker, mHealth and Biometric) system.",,published,,,,198,Yes
+NZL,Western Pacific,,Asia and the Pacific,New Zealand,2024,GARPR,Yes,No,,,,,,,published,,,,,Yes
+NIU,,,Asia and the Pacific,Niue,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+PAK,Eastern Mediterranean,South Asia,Asia and the Pacific,Pakistan,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,Facilities data,2024-01-01,2024-12-31,,,published,,,,665,Yes
+PLW,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Palau,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,,,,0,Yes
+PNG,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Papua New Guinea,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-05-21 21:05:18.737092
+The national program scaled up its case based reporting to cover more than 80% nationally
+--------
+Date: 2025-03-30 00:45:59.825384
+The national program scaled up its case based reporting to cover more than 80% nationally
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: It was reported that [1307] people living with HIV with TB on ART started TB treatment in 2023, compared to [4720] for 2024. This seems to reflect an important change. The National TB Programme has reported [1409] TB cases among people living with HIV on ART to WHO, which is different from the number of people living with HIV with TB on ART reported for this indicator [4720]. The National TB Programme has also reported [1526] TB cases among people living with HIV to WHO (irrespective of whether on ART). The number of people living with HIV with TB on ART reported for this indicator [4720] should not be greater than that. Please could you discuss with your colleagues in the National TB Programme and agree on the number to report.
+
+Namarola Lote (WHO) said on 21/05/25 at 19:04: The 1409 is the TB patients diagnosed with HIV and started ART. The 4720 is the total active PLHIV (both new and current) who were started on TB treatment. 
+The difference between the 2 years is due to TB drug supply issues in 2023.
+
+The number from HIV program will always be higher than the TB program as HIV program is treating all active patients (new and current PLHIV) while TB is only for the new cases for that year.
+
+",4720,Yes
+PHL,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Philippines,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-03-23 05:40:56.338838
+This is confirmed
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: The National TB Programme has reported [2717] TB cases among people living with HIV on ART to WHO, which is different from the number of people living with HIV with TB on ART reported for this indicator [11006]. The National TB Programme has also reported [2776] TB cases among people living with HIV to WHO (irrespective of whether on ART). The number of people living with HIV with TB on ART reported for this indicator [11006] should not be greater than that. We understand data reported through GAM may also include data available from the private sector. Please verify.
+
+Jayne Eunice Yang (MINISTRY) said on 30/05/25 at 07:27: There are data discrepancies between the TB-HIV data reported by the National TB Program and the HIV Unit of the Epidemiology Bureau because of the different information systems being used. The TB Program uses the Integrated TB Information System (ITIS) which captures diagnosed TB patients, including indicators for TB-HIV. On the other hand, The HIV Unit uses the One HIV, AIDS, and STI Information System (OHASIS) which captures HIV-positive patients, including indicators on HIV patients with TB and given TB Preventive Treatment. TB-HIV data tend to be underreported.
+
+Jayne Eunice Yang (MINISTRY) said on 02/06/25 at 06:05: Per agreement with the Philippine National AIDS Council, we deem the figures being reported in the OHASIS database to be more complete, since the cohort being requested for this indicator is on PLHIV.
+
+",11006,Yes
+KOR,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Republic of Korea,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+WSM,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Samoa,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+SGP,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Singapore,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator below),NCID HIV Database,2024-01-01,2024-12-31,"This data is from NCID HIV Programme Database which only accounts for HIV diagnosed patients of age 15 and above presenting at the National Centre for Infectious Diseases (NCID) and Tan Tock Seng Hospital (TTSH) Infectious Diseases clinics, which covers about 60-70% of HIV cases in Singapore. 
+The data does not cover patients seen at other healthcare institutions. 
+
+RECRUITMENT/SCREENING CRITERIA
+1. Only patients who have clinic visit to NCID/TTSH Infectious Diseases starting from 2006 onwards; 
+2. HIV-positive patients 
+3. At least one time outpatient clinic visit
+*Note: Added the list of new foreigners cases starting from January 2017 onwards 
+
+EXCLUSION CRITERIA 
+- Only inpatient cases 
+- GRT/Eye referral patients from other hospitals
+- Foreigners whose first clinic visit earlier than 2017",,published,,,,9,Yes
+SLB,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Solomon Islands,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,Nil,2024-01-01,2024-12-31,Nil,,published,"Date: 2025-04-08 08:22:49.196232
+This is the first Report
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,,0,Yes
+LKA,South-East Asia,South Asia,Asia and the Pacific,Sri Lanka,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-06-02 10:21:44.389026
+confirmed with NPTCCD
+--------
+Date: 2025-06-02 10:07:06.921503
+confirmed with NPTCCD
+--------
+Date: 2025-05-22 11:29:54.628070
+confirmed
+--------
+Date: 2025-05-22 11:29:02.516858
+confirmed
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: The National TB Programme has reported [43] TB cases among people living with HIV on ART to WHO. Data were reported on the number of people living with HIV with TB who were on ART and had started TB treatment during the reporting period for 2023. Please kindly consult with the National TB Programme and report for the current reporting period, or provide an explanation.
+
+Ariyaratne Manathunge (MINISTRY) said on 02/06/25 at 08:21: Clarified number with National Tuberculosis Control Programme
+
+",68,Yes
+THA,South-East Asia,East Asia and the Pacific,Asia and the Pacific,Thailand,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2023-10-01,2024-09-30,,,published,,,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: The National TB Programme has reported [4590] TB cases among people living with HIV on ART to WHO, which is different from the number of people living with HIV with TB on ART reported for this indicator [4518]. Please could you discuss with your colleagues in the National TB Programme and agree on one value for this indicator.
+
+naruemon tripetchsriu-rai (MINISTRY) said on 22/05/25 at 04:10: Due to the increasing number of reports entering the NTIP program, the data retrieved at different times may have differed. We have changed the numbers to match.
+
+",4590,Yes
+TLS,South-East Asia,East Asia and the Pacific,Asia and the Pacific,Timor-Leste,2024,GARPR,Yes,No,,,,,,,published,,,,,Yes
+TON,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Tonga,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,HIV ART Registry - MOH,2024-01-01,2024-12-31,"This Indicator is relevant to Tonga as all PLHIV are screened for TB annually however, NONE of the 4 PLHIV on ART and under the care of the Treatment Core Team was diagnose for TB during the reporting period.",,published,,,,0,Yes
+TUV,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Tuvalu,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,,,,0,Yes
+VUT,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Vanuatu,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,Tuberculosis Patient registers,2024-01-01,2024-12-31,,,published,,,,0,Yes
+VNM,Western Pacific,East Asia and the Pacific,Asia and the Pacific,Viet Nam,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator below),National TB program,2024-01-01,2024-12-31,,,published,,,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: The National TB Programme has reported [1823] TB cases among people living with HIV on ART to WHO, which is different from the number of people living with HIV with TB on ART reported for this indicator [1882]. Please could you discuss with your colleagues in the National TB Programme and agree on one value for this indicator.
+
+HOANG DUC BUI (MINISTRY) said on 28/05/25 at 09:55: We have discussed with the national TB program focal point, who provides the data reported to GAM. The figure 1,823 refers to the number of new and relapsed TB patients who received ARV treatment in 2024, while the figure 1,882 they provided to us refers to the total number of TB patients of all forms who received ARV treatment.
+
+",1882,Yes
+ATG,America,Latin America and the Caribbean,Caribbean,Antigua and Barbuda,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,,,,0,Yes
+BHS,America,Latin America and the Caribbean,Caribbean,Bahamas,2024,GARPR,Yes,No,,,,,,,published,,,,,Yes
+BRB,America,Latin America and the Caribbean,Caribbean,Barbados,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-03-11 16:42:23.655594
+There was 1 TB case in 2024
+--------
+Date: 2025-03-11 16:23:35.480246
+There was 1 TB case in 2024
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,,1,Yes
+BLZ,America,Latin America and the Caribbean,Caribbean,Belize,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,BHIS- NAP and TB Reporting Tool,2024-01-01,2024-12-31,,,published,"Date: 2025-03-18 23:27:01.036491
+Reviewing
+--------
+Date: 2025-03-18 23:08:01.496400
+This figure is correct
+--------
+Date: 2025-03-18 23:07:01.190478
+This figure is correct
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,,13,Yes
+CUB,America,Latin America and the Caribbean,Caribbean,Cuba,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator below),Medisys: Registro informatizado Nacional de casos de VIH,2024-01-01,2024-12-31,,,published,"Date: 2025-05-07 13:49:21.679165
+Si, los datos son correctos 
+Se corrigieron los datos en el documento, son 111 casos no 1804
+--------
+Date: 2025-05-05 18:30:17.374076
+Si, los datos son correctos 
+Se corrigieron los datos en el documento, son 111 casos no 1804
+--------
+Date: 2025-05-05 18:24:37.053506
+Si, los datos son correctos 
+Se corrigieron los datos en el documento, son 111 casos no 1804
+--------
+Date: 2025-05-05 18:22:53.029467
+Si, los datos son correctos 
+Se corrigieron los datos en el documento, son 111 casos no 1804
+--------
+Date: 2025-03-24 23:31:43.594166
+Si, los datos son correctos 
+--------
+",Verifique y confirme que algunos numeradores han cambiado en más de un 20% respecto al año anterior.,"Jose Joaquin Joanes fiol (MINISTRY) said on 05/05/25 at 16:30: Se corrigieron los datos en el documento, son 111 casos y no 1804, es cierto que hay un incremento de los casos, pero no a la cifra de 1804
+
+",111,Yes
+DMA,America,Latin America and the Caribbean,Caribbean,Dominica,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,"Program Data, IDC HIV Care Chart",2024-01-01,2024-12-31,,,published,,,,0,Yes
+DOM,America,Latin America and the Caribbean,Caribbean,Dominican Republic,2024,GARPR,Yes,No,,,,,,,published,,,,,Yes
+GRD,America,Latin America and the Caribbean,Caribbean,Grenada,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+GUY,America,Latin America and the Caribbean,Caribbean,Guyana,2024,GARPR,Yes,No,,,,,,,published,,,,,Yes
+HTI,America,Latin America and the Caribbean,Caribbean,Haiti,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,Rapport PNLT,2024-01-01,2024-12-31,,,published,,,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: Il a été rapporté que [1184] personnes vivant avec le VIH et avec tuberculose sous TAR ont commencé un traitement contre la tuberculose en 2023, contre [1388] en 2024. Cela semble refléter un changement important. Veuillez expliquer la raison de cette évolution ou consulter le Programme national de lutte contre la tuberculose, examiner les données et les réviser en conséquence.
+
+Emmanuel Pierre (MINISTRY) said on 28/05/25 at 16:26: L'analyse des données indique que globalement:
+- Couverture tests plus importante en 2024 (96%) qu'en 2023 (85%);
+- Couverture traitement légèrement améliorée, 85% en 2023 contre 88% en 2024.
+En effet, la stratégies de mise en réseaux des institutions et le fonctionnement des comités TB/VIH a tous les niveaux ont permis au PNLS et au PNLT de réaliser des progrès remarquables en 2024, notamment dans la sensibilisation des prestataires de soins et services et l'intensification du dépistage du VIH au niveau des centres de traitement de la TB (CDT). 
+Selon la Coordination du PNLT, les départements du Sud et du Centre ont améliore l'offre de traitement en 2024 (93%). Au niveau de la plupart des sites a grand volume dans les départements (plus peuples) du Nord, de l'Artibonite et de l'Ouest, l'amélioration de l'enrôlement a favorisé une hausse de la couverture au niveau national.
+
+",1383,Yes
+JAM,America,Latin America and the Caribbean,Caribbean,Jamaica,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-02-26 19:42:25.542518
+To review.
+--------
+Date: 2025-02-26 19:42:22.536631
+To review.
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,,10,Yes
+KNA,America,Latin America and the Caribbean,Caribbean,Saint Kitts and Nevis,2024,GARPR,Yes,No,,,,,,No TB cases for the period,published,,,,,Yes
+LCA,America,Latin America and the Caribbean,Caribbean,Saint Lucia,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,,,,0,Yes
+VCT,America,Latin America and the Caribbean,Caribbean,Saint Vincent and the Grenadines,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator below),Health Security Unit- OECS Report,2024-01-01,2024-12-31,,,published,"Date: 2025-04-29 19:56:51.619149
+No data reported for previous year
+--------
+Date: 2025-04-29 19:56:49.750929
+No data reported for previous year
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,,3,Yes
+SUR,America,Latin America and the Caribbean,Caribbean,Suriname,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+TTO,America,Latin America and the Caribbean,Caribbean,Trinidad and Tobago,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,Numerator: National TB Programme,,published,"Date: 2025-04-14 22:25:43.964805
+The result as reported forthe ""Number of HIV-positive newand relapse TB patients started on TB treatment during 2024 who were already on antiretroviraltherapy or started on antiretroviral therapy during TB treatment within January - December 2024 emanated from the National TB programme. The result (37) as reported represents deduplicated data (unique cases). 
+
+It is noted that a total of 49 cases were reported for the period January - December 2023 by the National TB programme as the result for this indicator. The data reported  then also represented unique cases seen and managed by the national TB programme.  
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,,37,Yes
+ALB,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Albania,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,,,,3,Yes
+ARM,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Armenia,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,,,,28,Yes
+AZE,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Azerbaijan,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-03-17 09:35:59.875389
+Based on WHO guideline the prevention of TB among PLHIV is being implemented in country. 
+--------
+","Пожалуйста, проверьте и подтвердите, что некоторые числители изменились более, чем на 20% по сравнению с прошлым годом.",,43,Yes
+BLR,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Belarus,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,Отчетность Министерства здравоохранения Республики Беларусь,2024-01-01,2024-12-31,Отчетность Министерства здравоохранения Республики Беларусь,,published,,,,125,No
+BIH,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Bosnia and Herzegovina,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+GEO,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Georgia,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator below),"""AIDSHIS"", Health Information System, Infectious Diseases, AIDS and Clinical Immunology Research Center.",2024-01-01,2024-12-31,,,published,"Date: 2025-03-28 15:49:55.611419
+updated
+--------
+Date: 2025-03-28 15:49:52.874770
+updated
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,,28,Yes
+KAZ,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Kazakhstan,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator below),"Информационная система ""Электронное слежение за случаями ВИЧ-инфекции""",2024-01-01,2024-12-31,,,published,,,,448,Yes
+KGZ,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Kyrgyzstan,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,,,,120,Yes
+MNE,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Montenegro,2024,GARPR,No,No,,,,,,,published,,,,,Yes
+MKD,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,North Macedonia,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+MDA,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Republic of Moldova,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,,,,205,Yes
+RUS,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Russian Federation,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+TJK,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Tajikistan,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator below),Данные Национальной программы. Система электронного слежения за случаями ВИЧ-инфекции.,2024-01-01,2024-12-31,,,published,"Date: 2025-03-19 18:06:54.500489
+Подтверждается.
+--------
+","Пожалуйста, проверьте и подтвердите, что некоторые числители изменились более, чем на 20% по сравнению с прошлым годом.",,98,Yes
+TKM,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Turkmenistan,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+UKR,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Ukraine,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator below),"Information system ""Monitoring of Socially Significant Diseases"" (was put into commercial operation by Order of the Ministry of Health of Ukraine No. 1317 dated 25.07.2022 ""On the Functioning of the Information System ""Monitoring of Socially Significant Diseases"").",2024-01-01,2024-12-31,,,published,,,,2613,Yes
+UZB,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Eastern Europe and central Asia,Uzbekistan,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator below),Годовые отчеты службы СПИД,2024-01-01,2024-12-31,,,published,"Date: 2025-03-29 08:21:45.178319
+Данные были взяты с электронного слежения службы СПИД.
+--------
+","Пожалуйста, проверьте и подтвердите, что некоторые числители изменились более, чем на 20% по сравнению с прошлым годом.",,56,Yes
+AGO,Africa,Sub-Saharan Africa,Eastern and southern Africa,Angola,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,Reference to the tuberculosis patients registry book,National Tuberculosis Control Database,edit,,,,4559,Yes
+BWA,Africa,Sub-Saharan Africa,Eastern and southern Africa,Botswana,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,TB OpenMRS,2024-01-01,2024-12-31,,,published,,,,1380,No
+COM,Africa,Sub-Saharan Africa,Eastern and southern Africa,Comoros,2024,GARPR,Yes,No,,,,,,,published,,,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: Data were reported on the number of people living with HIV with TB who were on ART and had started TB treatment during the reporting period for 2023 [2]. Please kindly consult with the National TB Programme and report for the current reporting period, or provide an explanation.
+
+youssouf Nouroulhoudah (MINISTRY) said on 22/05/25 at 07:56: D'après les données du programme TB 2024, aucun cas de co-infection TB/VIH n'a été signalé.
+
+",,Yes
+ERI,Africa,Sub-Saharan Africa,Eastern and southern Africa,Eritrea,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+SWZ,Africa,Sub-Saharan Africa,Eastern and southern Africa,Eswatini,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-04-23 22:22:58.841356
+Data reported for 2024
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: It was reported that [1505] people living with HIV with TB on ART started TB treatment in 2023, compared to [7717] for 2024. This seems to reflect an important change. The National TB Programme has reported [1541] TB cases among people living with HIV on ART to WHO, which is different from the number of people living with HIV with TB on ART reported for this indicator [7717]. The National TB Programme has also reported [1563] TB cases among people living with HIV to WHO (irrespective of whether on ART). The number of people living with HIV with TB on ART reported for this indicator [7717] should not be greater than that. Please could you discuss with your colleagues in the National TB Programme and agree on the number to report.
+
+Bongani Dube (OTHER) said on 27/05/25 at 09:27: Number reviewed to 1541
+
+",1541,Yes
+ETH,Africa,Sub-Saharan Africa,Eastern and southern Africa,Ethiopia,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,DHIS2-aggregated data,2023-07-01,2024-06-30,,,published,,,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: The National TB Programme has reported [7833] TB cases among people living with HIV on ART to WHO, which is different from the number of people living with HIV with TB on ART reported for this indicator [6998]. Please could you discuss with your colleagues in the National TB Programme and agree on one value for this indicator.
+
+Mirtie Meselu (MINISTRY) said on 26/05/25 at 12:25: Based on the input and subsequent discussion with the National TB Program, the variation was identified as primarily due to differences in data reporting timing. Additionally, some data cleaning activities contributed to the new figure of 7592. The data has since been updated with the most recent HMIS data(DHIS2).
+
+",7592,Yes
+KEN,Africa,Sub-Saharan Africa,Eastern and southern Africa,Kenya,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,"Kenya Health Information System (KHIS)
+National TB repository (TIBU)",2024-01-01,2024-12-31,,,published,"Date: 2025-03-31 21:41:50.713677
+Pending update of correct data upon access to the national repository
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: The National TB Programme has reported [22618] TB cases among people living with HIV on ART to WHO. Please could you discuss with your colleagues in the National TB Programme and report this indicator here.
+
+JOSHUA M'IMAITA (MINISTRY) said on 21/05/25 at 11:59: 2024 performance updated
+
+",22618,Yes
+LSO,Africa,Sub-Saharan Africa,Eastern and southern Africa,Lesotho,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,DHIS2,2024-01-01,2024-12-31,,,published,"Date: 2025-04-07 10:31:18.258613
+Yes, data provided by the TB programme
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: The National TB Programme has reported [3080] TB cases among people living with HIV on ART to WHO, which is different from the number of people living with HIV with TB on ART reported for this indicator [2412]. Please could you discuss with your colleagues in the National TB Programme and agree on one value for this indicator.
+
+Morongoe Nyakane (MINISTRY) said on 22/05/25 at 09:49: We discussed with TB Programme M&E, so we agreed to use that 3080, this number is reported through TB programme,
+
+",3080,Yes
+MDG,Africa,Sub-Saharan Africa,Eastern and southern Africa,Madagascar,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+MWI,Africa,Sub-Saharan Africa,Eastern and southern Africa,Malawi,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,Tuberculosis Patient Registers,2024-01-01,2024-12-31,,Quarterly reporting in the national HIV and TB programmes,published,,,,7803,Yes
+MUS,Africa,Sub-Saharan Africa,Eastern and southern Africa,Mauritius,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+MOZ,Africa,Sub-Saharan Africa,Eastern and southern Africa,Mozambique,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,"The TB program launched new instruments in 2024, so the data quality has hopefully improved, however it resulted in a small number of TB/HIV cases than previous years.",,published,"Date: 2025-04-02 12:30:13.046316
+As written in the comments, the TB program launched new instruments in 2024 leading to a substantial reduction in almost all indicators, including the TB/HIV cases
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: The National TB Programme has reported [24838] TB cases among people living with HIV on ART to WHO, which is different from the number of people living with HIV with TB on ART reported for this indicator [17450]. Please could you discuss with your colleagues in the National TB Programme and agree on one value for this indicator.
+
+Orrin Tiberi (MINISTRY) said on 21/05/25 at 15:17: We updated this after a dicussion with them, please see the updated figures in the table.  If possible, in future years this would be good to be taken directly from the TB program and not requested as part of the GAM.  Thank you.
+
+",24838,Yes
+NAM,Africa,Sub-Saharan Africa,Eastern and southern Africa,Namibia,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-03-24 08:38:03.662047
+I confirm that the numerator have changed.
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: The National TB Programme has reported [2347] TB cases among people living with HIV on ART to WHO, which is different from the number of people living with HIV with TB on ART reported for this indicator [2267]. Please could you discuss with your colleagues in the National TB Programme and agree on one value for this indicator.
+
+Udeilange Kornelius (MINISTRY) said on 19/05/25 at 10:14: Resolved with the help of TB Programme guidance
+
+",2347,Yes
+RWA,Africa,Sub-Saharan Africa,Eastern and southern Africa,Rwanda,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator below),TB Case surveillance system,2024-01-01,2024-12-31,,,published,,,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: The National TB Programme has reported [978] TB cases among people living with HIV on ART to WHO, which is different from the number of people living with HIV with TB on ART reported for this indicator [1089]. Please could you discuss with your colleagues in the National TB Programme and agree on one value for this indicator.
+
+Doris Mukandori (MINISTRY) said on 23/05/25 at 09:31: we have corrected the reported cases for the indicator.
+
+",978,Yes
+SYC,Africa,Sub-Saharan Africa,Eastern and southern Africa,Seychelles,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,,,,6,Yes
+ZAF,Africa,Sub-Saharan Africa,Eastern and southern Africa,South Africa,2024,GARPR,Yes,No,,,,,,,published,,,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: Data were reported on the number of people living with HIV with TB who were on ART and had started TB treatment during the reporting period for 2023. Please kindly consult with the National TB Programme and report for the current reporting period, or provide an explanation.
+
+",,Yes
+SSD,Africa,Sub-Saharan Africa,Eastern and southern Africa,South Sudan,2024,GARPR,Yes,No,,,,,,,published,,,,,Yes
+UGA,Africa,Sub-Saharan Africa,Eastern and southern Africa,Uganda,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,,,,28573,Yes
+TZA,Africa,Sub-Saharan Africa,Eastern and southern Africa,United Republic of Tanzania,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-04-02 10:32:06.858968
+I confirm
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,,12311,Yes
+ZMB,Africa,Sub-Saharan Africa,Eastern and southern Africa,Zambia,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,,,,13640,Yes
+ZWE,Africa,Sub-Saharan Africa,Eastern and southern Africa,Zimbabwe,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,,,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: The National TB Programme has reported [3597] TB cases among people living with HIV on ART to WHO, which is different from the number of people living with HIV with TB on ART reported for this indicator [8172]. The National TB Programme has also reported [3796] TB cases among people living with HIV to WHO (irrespective of whether on ART). The number of people living with HIV with TB on ART reported for this indicator [8172] should not be greater than that. Please could you discuss with your colleagues in the National TB Programme and agree on the number to report.
+
+",8172,Yes
+ARG,America,Latin America and the Caribbean,Latin America,Argentina,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator below),"Registros de pacientes que reciben tratamiento antirretroviral				
+Registros de pacientes con tuberculosis				
+Estos datos se obtienen del cruce de información proveniente del Instituto Nacional de Enfermedades Respiratorias (INER) “Dr. Emilio Coni"", el Sistema Nacional de vigilancia de la  salud (SNVS 2.0) y del Sistema de Administración de Pacientes VIH (SVIH).",2024-01-01,2024-12-31,,,published,,,,743,Yes
+BOL,America,Latin America and the Caribbean,Latin America,Bolivia (Plurinational State of),2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,,,,306,Yes
+BRA,America,Latin America and the Caribbean,Latin America,Brazil,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,"Brazil does not work with estimatives of TB cases. Only with the reported cases.
+Data available from Notifiable Disease Information System (SINAN).",,published,"Date: 2025-03-10 19:58:49.736026
+From 2023 there was an increase in cases of TB-HIV co-infection in Brazil. And in 2024 it showed the same behavior, increasing the proportion of co-infection.
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,,6119,Yes
+CHL,America,Latin America and the Caribbean,Latin America,Chile,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,,,,175,Yes
+COL,America,Latin America and the Caribbean,Latin America,Colombia,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,"La información de las personas que viven con VIH y sus comorbilidades se reporta a la Cuenta de Alto Costo (CAC), registro nominal de todas las personas viviendo con VIH.",2023-02-01,2024-01-31,,"Es importante mencionar que a esta fuente no se reportan hasta el momento, los casos de TB/VIH en personas migrantes irregulares, los cuales se pueden identificar desde la base de tuberculosis.",published,"Date: 2025-04-09 16:59:29.968908
+La Cuenta de Alto Costo reporta para el período 1 de febrero de 2023 a 31 de enero de 2024 un incremento en el número de personas con coinfección TB/VIH que recibieron ambos tratamientos
+--------
+",Verifique y confirme que algunos numeradores han cambiado en más de un 20% respecto al año anterior.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: Se ha reportado que [1005] personas que viven con el VIH y TB en tratamiento antirretroviral iniciaron el tratamiento contra la TB en 2023, en comparación con [1721] en 2024. Esto parece reflejar un cambio importante. Por favor, explique el motivo o consulte con el Programa Nacional contra la TB, revise los datos y modifíquelos según corresponda.
+
+Ricardo Luque Núñez (MINISTRY) said on 28/05/25 at 17:58: Se revisa los datos reportados por la Cuenta de Alto Costo para el periodo 1 de febrero del 2023 al 31 de enero 2024 (datos principalmente del año 2023) y se identifica que el número de personas de TB (nuevos y que recaen en la enfermedad) que son VIH-positivos que iniciaron el tratamiento para TB durante el periodo del que se informa que ya estaban recibiendo terapia antirretroviral o que empezaron terapia antirretroviral durante el tratamiento de TB dentro del año de reporte fue de 1.071 personas. Por tanto se ajusta el dato reportado y se informará al programa de tuberculosis.
+
+Es de anotar que la diferencia entre estos 1.071 y los 1.005 pacientes reportados por el programa de tuberculosis en el año 2023 puede estar dada por la diferencia del periodo de corte (Programa de tuberculosis Enero a diciembre 2023 y Cuenta de Alto Costo 1 de febrero 2023 a 31 de enero 2024).
+
+No se cuenta con datos disponibles aún para el año 2024.
+
+",1071,Yes
+CRI,America,Latin America and the Caribbean,Latin America,Costa Rica,2024,GARPR,Yes,No,,,,,,,published,,,,,Yes
+ECU,America,Latin America and the Caribbean,Latin America,Ecuador,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,Registros administrativos de la EN TB,2024-01-01,2024-12-31,,,published,,,,1031,Yes
+SLV,America,Latin America and the Caribbean,Latin America,El Salvador,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator below),"Registro sobre pacientes en tratamiento antirretroviral, registro sobre pacientes con tuberculosis.",2024-01-01,2024-12-31,,,published,,,,188,Yes
+GTM,America,Latin America and the Caribbean,Latin America,Guatemala,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,Matrices de llenado para coinfección TB y VIH.,2024-01-01,2024-12-31,No se obtuvo información de Hospicio San José y otras organizaciones cooperantes dada la salida de USAID lo cual afectó el reporting de información al PNS.,,published,,,"Victoria Bendaud (UNAIDS) said on 16/05/25 at 07:24: Numerador actualizado en base a correo de LR Tapia del 15 de mayo de 2025.
+
+",350,Yes
+HND,America,Latin America and the Caribbean,Latin America,Honduras,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,"""Informe de personas con diagnostico nuevo de VIH y vinculado por primera vez en el SAI en el año 2024. Evaluados para TB y manejo de sus infecciones oportunistas.
+Informe de Personas con VIH atendidas en los SAI Coinfectadas con TB en el año evaluado""",2024-01-01,2024-12-31,"""Información enviada por los 64 Servicios de Atención Integral (SAI) distribuidas en las 20 regiones del pais, y cotejada con el equipo de Tuberculosis de la Unidad de Vigilancia de Salud y el equipo del Programa de Atencion Enfermedades Transmisibles Infecciosas y Otras del Componente de TB y VIH.""","""Se incorporaron 15 usuarios identificados por el componente de TB al informe de Personas con VIH atendidas en los SAI y coinfectadas con TB en 2024, con fines de vigilancia. La distribución de estos casos es la siguiente:
+
+6 fallecieron antes de vincularse a un SAI.
+
+8 no se vincularon a ningún SAI y se encuentran en proceso de aceptación del diagnóstico.
+
+1 no se vinculó debido a TB/VIH y se encontraba en abandono de tratamiento ARV.
+
+Asimismo, del cotejo realizado con el equipo del componente de TB, se identificó que, de los 172 casos de coinfección",published,,,,167,Yes
+MEX,America,Latin America and the Caribbean,Latin America,Mexico,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+NIC,America,Latin America and the Caribbean,Latin America,Nicaragua,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator below),"Base de registros de casos de coinfección TB/VIH correspondiente al  año 2024, ambos programas llevan el seguimiento en la misma base.",2024-01-01,2024-12-31,Estos datos de coinfección son cotejados por las responsables de ambos programas  a nivel Nacional dando seguimiento para asegurar los tratamiento de la TB y el VIH.,,edit,,,,165,Yes
+PAN,America,Latin America and the Caribbean,Latin America,Panama,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator below),"Fuentes de los   Datos: La fuente de Información  para el año 2024 proviene de los registros de las Clínicas de las Terapia Antirretroviral en coordinación con los  Programas locales, Regionales y el Programa Nacional de Control de la Tuberculosis.",2024-01-01,2024-12-31,,,published,,,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: El Programa Nacional de TB ha reportado [367] casos de TB entre personas que viven con el VIH y están en tratamiento antirretroviral a la OMS, lo cual difiere del número de personas que viven con el VIH y TB en tratamiento antirretroviral reportado para este indicador [316]. Agradecemos puedan consultar con sus colegas del Programa Nacional de TB y acordar un valor para este indicador.
+
+Rosa Lowe (MINISTRY) said on 21/05/25 at 19:37: Debido a que el informe GAM fue entregado antes que, el del Programa de TB, nos hizo falta el dato de los pacientes coinfectados de una región de salud, ya que no lo pudimos obtener de manera oportuna. Sin embargo, la información brindada por el Programa de TB, sí incluyó esta región, de allí la diferencia en los datos. Por todo lo explicado, procedimos a realizar la corrección en el informe GAM y colocamos el total de 367 pacientes coinfectados que recibieron ambas terapias.
+
+",367,Yes
+PRY,America,Latin America and the Caribbean,Latin America,Paraguay,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator below),"Registro consolidado de datos del PRONASIDA y el PNCT de los pacientes con la coinfeccion TB_VIH 
+Registro de PVV con la coinfeccion TB-VIH enviados por los SAI
+Ficha de notificacion del seguimiento de casos de TB del PNCT",2024-01-01,2024-12-31,,,published,"Date: 2025-03-27 15:41:37.774823
+En Paraguay, los datos de Tuberculosis se cierran en abril del año siguiente (2025) tendremos datos más precisos luego de ese periodo.
+--------
+Date: 2025-03-27 15:41:33.861648
+En Paraguay, los datos de Tuberculosis se cierran en abril del año siguiente (2025) tendremos datos más precisos luego de ese periodo.
+--------
+",Verifique y confirme que algunos numeradores han cambiado en más de un 20% respecto al año anterior.,,109,Yes
+PER,America,Latin America and the Caribbean,Latin America,Peru,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,"Sistema de Información Gerencial de Tuberculosis - SIGTB, Dirección de Prevención y Control de Tuberculosis",2024-01-01,2024-12-31,"Incluye información de MINSA, EsSALUD, Fuerzas Armadas y Policiales.",,published,"Date: 2025-04-23 21:25:00.324757
+Es la información preliminar de la DPCTB
+--------
+",Verifique y confirme que algunos numeradores han cambiado en más de un 20% respecto al año anterior.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: Se ha reportado que [1010] personas que viven con el VIH y TB en tratamiento antirretroviral iniciaron tratamiento contra la TB en 2023, en comparación con [2544] en 2024. Esto parece reflejar un cambio importante. El Programa Nacional de TB ha reportado [926] casos de TB entre personas que viven con el VIH en tratamiento antirretroviral a la OMS, lo que difiere del número de personas que viven con el VIH y TB en tratamiento antirretroviral reportado para este indicador [2544]. El Programa Nacional de TB también ha reportado [1618] casos de TB entre personas que viven con el VIH a la OMS (independientemente de si reciben tratamiento antirretroviral). El número de personas que viven con el VIH y TB que reciben tratamiento antirretroviral reportado para este indicador [2544] no debería ser mayor que ese. Agradecemos puedan consultar con sus colegas del Programa Nacional de TB y acordar el número a reportar.
+
+Patricia Ruiz Pizarro (MINISTRY) said on 28/05/25 at 13:55: Se realiza la corrección pendiente. La información anterior solo fue preliminar siempre.
+
+",926,Yes
+URY,America,Latin America and the Caribbean,Latin America,Uruguay,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator below),Datos de DEVISA (Departamento de Vigilancia en Salud),2023-01-01,2023-12-31,,,published,"Date: 2025-05-23 14:35:36.178157
+Esos son los datos para el período 2024 ya especificado.
+--------
+Date: 2025-05-13 15:08:18.156326
+Esos son los datos para el período 2024 ya especificado.
+--------
+",Verifique y confirme que algunos numeradores han cambiado en más de un 20% respecto al año anterior.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: Se ha reportado que [46] personas que viven con el VIH y tuberculosis y están en tratamiento antirretroviral comenzaron el tratamiento contra la tuberculosis en 2023, en comparación con [172] en 2024. El Programa Nacional de TB ha reportado [53] casos de TB entre personas que viven con VIH y reciben antirretrovirales a la OMS, lo cual difiere del número de personas que viven con VIH y TB y reciben antirretrovirales reportado para este indicador [172]. Ademas, el Programa Nacional de TB ha reportado [136] casos de TB entre personas que viven con el VIH a la OMS (independientemente de si reciben tratamiento antirretroviral). El número de personas que viven con el VIH y TB en tratamiento antirretroviral reportado para este indicador [172] no debería ser mayor que ese. Agradecemos puedan consultar con sus colegas del Programa Nacional de TB y acordar el número a reportar.
+
+Susana Cabrera Alonso (MINISTRY) said on 30/05/25 at 10:31: Se toma reporte del año 2023
+
+",53,Yes
+VEN,America,Latin America and the Caribbean,Latin America,"Venezuela, Bolivarian Republic of",2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-05-28 18:32:13.363345
+Durante el año 2024 el Programa Nacional de Salud Respiratoria ha hecho esfuerzos para mejorar la notificación de información desde las coordinaciones regionales hacia el nivel central. Además, se ha logrado establecer una buena alianza entre los programas de salud respiratoria y de VIH mejorando el intercambio de información.
+--------
+Date: 2025-04-28 08:02:05.318023
+Durante el año 2024 el Programa Nacional de Salud Respiratoria ha hecho esfuerzos para mejorar la notificación de información desde las coordinaciones regionales hacia el nivel central. Además, se ha logrado establecer una buena alianza entre los programas de salud respiratoria y de VIH mejorando el intercambio de información.
+--------
+",Verifique y confirme que algunos numeradores han cambiado en más de un 20% respecto al año anterior.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: Se ha reportado que [459] personas que viven con el VIH y con TB estaban recibiendo tratamiento antirretroviral en 2023, en comparación con [576] en 2024. Esto parece reflejar un cambio importante. Por favor, explique el motivo o consulte con el Programa Nacional de TB, revise los datos y modifíquelos según corresponda.
+
+Yolimar Gil Sojo (MINISTRY) said on 28/05/25 at 16:31: Durante el 2024 se dispuso de mayor cantidad de pruebas rápidas para realizar serología de VIH a los pacientes de TB lo que permitió aumentar el conocimiento sobre el estado serológico con respecto al VIH de más personas, sobre todo en estados que reportaban en años anteriores pocas pruebas como son: Amazonas, Delta Amacuro y Zulia.
+
+",576,Yes
+BHR,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Bahrain,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator below),HIV and Tuberculosis survillance data in Public health,2024-01-01,2024-12-31,,,published,"Date: 2025-04-08 15:45:39.996683
+No new cases of TB among people living with HIV 
+--------
+Date: 2025-04-08 15:45:36.340882
+No new cases of TB among people living with HIV 
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,,0,Yes
+DJI,Eastern Mediterranean,Sub-Saharan Africa,Middle East and North Africa,Djibouti,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-03-14 19:54:24.558418
+16 PVVIH ont été déclaré positive à la tuberculose et mis sous traitement
+--------
+Date: 2025-03-14 19:53:53.167138
+16 PVVIH ont été déclaré positive à la tuberculose et mis sous traitement
+--------
+",Veuillez vérifier et confirmer que certains numérateurs ont changé de plus de 20% par rapport à l'année précédente.,,16,Yes
+EGY,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Egypt,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-03-27 11:43:54.837303
+yes 
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,,143,Yes
+IRQ,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Iraq,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+JOR,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Jordan,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+KWT,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Kuwait,2024,GARPR,Yes,No,,,,,,,published,,,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: The National TB Programme has reported [1] TB cases among people living with HIV on ART to WHO. Please kindly consult with the National TB Programme and report for the current reporting period, or provide an explanation.
+
+Sarah Alawi (MINISTRY) said on 27/05/25 at 06:30: According to statistics we received from National TB Programme, there are no TB cases among patients living with HIV. We contacted them and they confirmed that and will adjust their reported number.
+
+",,Yes
+LBN,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Lebanon,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,TB and HIV Registers,2024-01-01,2024-12-31,,,published,"Date: 2025-05-23 07:55:58.548067
+confirmed
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: Le Programme national de lutte contre la tuberculose a rapporté à l'OMS [1] cas de tuberculose parmi les personnes vivant avec le VIH sous TAR. Les données ont été rapportées sur le nombre de personnes vivant avec le VIH et avec tuberculose qui étaient sous TAR et avaient commencé un traitement contre la tuberculose pendant la période de rapport pour 2023. Veuillez consulter le Programme national de lutte contre la tuberculose et rendre compte de la période de rapport actuelle, ou fournir une explication.
+
+",1,Yes
+PSE,Eastern Mediterranean,,Middle East and North Africa,Occupied Palestinian Territory,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+OMN,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Oman,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator below),HIV and TB program records,2024-01-01,2024-12-31,,"Out of the 4 patients, 2 are non-nationals",published,"Date: 2025-03-17 09:44:49.667290
+Verified
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,,4,Yes
+QAT,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Qatar,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-05-22 07:36:26.748024
+2 patients in 2024
+--------
+Date: 2025-05-22 07:32:08.999888
+2 patients in 2024
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: The National TB Programme has reported [2] TB cases among people living with HIV on ART to WHO. Data were reported on the number of people living with HIV with TB who were on ART and had started TB treatment during the reporting period for 2023. Please kindly consult with the National TB Programme and report for the current reporting period, or provide an explanation.
+
+Joanne Daghfal Nader (OTHER) said on 22/05/25 at 05:28: the NTP has up-to-date data on HIV+ individuals on ART who started TB treatment in the current reporting year jan 2024 to dec 2024
+
+",2,Yes
+SAU,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Saudi Arabia,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,,,,62,Yes
+SOM,Eastern Mediterranean,Sub-Saharan Africa,Middle East and North Africa,Somalia,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+SDN,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Sudan,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,,,,109,Yes
+SYR,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Syrian Arab Republic,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+ARE,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,United Arab Emirates,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator below),National TB program and NAP records,2024-01-01,2024-12-31,,,published,"Date: 2025-03-27 10:09:54.439835
+-----
+--------
+Date: 2025-03-27 08:49:51.250180
+-----
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,,1,Yes
+YEM,Eastern Mediterranean,Middle East and North Africa,Middle East and North Africa,Yemen,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+ROU,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Western and Central Europe and North America,Romania,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+DZA,Africa,Middle East and North Africa,Western and central Africa,Algeria,2024,GARPR,Yes,No,,,,,,,published,,,,,Yes
+BEN,Africa,Sub-Saharan Africa,Western and central Africa,Benin,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,,,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: Le Programme national de lutte contre la tuberculose a rapporté [431] cas de tuberculose parmi les personnes vivant avec le VIH sous TAR à l'OMS. Veuillez consulter le Programme national de lutte contre la tuberculose et rapporter les données pour la période considérée, ou fournir une explication.
+
+Achille ADOKO (UNAIDS) said on 21/05/25 at 15:33: Merci
+
+",431,Yes
+BFA,Africa,Sub-Saharan Africa,Western and central Africa,Burkina Faso,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,,,,466,Yes
+BDI,Africa,Sub-Saharan Africa,Western and central Africa,Burundi,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,Rapport PNILT,2024-01-01,2024-12-31,,,edit,"Date: 2025-03-31 13:42:23.924993
+Qualités des données
+--------
+",Veuillez vérifier et confirmer que certains numérateurs ont changé de plus de 20% par rapport à l'année précédente.,,492,Yes
+CPV,Africa,Sub-Saharan Africa,Western and central Africa,Cabo Verde,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+CMR,Africa,Sub-Saharan Africa,Western and central Africa,Cameroon,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,,,,3685,Yes
+CAF,Africa,Sub-Saharan Africa,Western and central Africa,Central African Republic,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,DHIS2,2024-01-01,2024-12-31,,,published,,,,2828,Yes
+TCD,Africa,Sub-Saharan Africa,Western and central Africa,Chad,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,,,,1505,Yes
+COG,Africa,Sub-Saharan Africa,Western and central Africa,Congo,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+CIV,Africa,Sub-Saharan Africa,Western and central Africa,Côte d'Ivoire,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,,,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: Le Programme national de lutte contre la tuberculose a rapporté [2573] cas de tuberculose parmi les personnes vivant avec le VIH sous TAR à l'OMS, ce qui diffère du nombre de personnes vivant avec le VIH et la tuberculose sous TAR rapporté pour cet indicateur [2496]. Pourriez-vous en discuter avec vos collègues du Programme national de lutte contre la tuberculose et convenir d'une valeur unique pour cet indicateur.
+
+",2496,Yes
+COD,Africa,Sub-Saharan Africa,Western and central Africa,Democratic Republic of the Congo,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,"Date: 2025-05-31 05:08:24.955659
+Nous confirmons cet indicateur, du fait que le cas incident de la TB ont augmenté au pays.
+--------
+Date: 2025-03-30 15:50:26.054160
+Nous confirmons cet indicateur, du fait que le cas incident de la TB ont augmenté au pays.
+--------
+",Veuillez vérifier et confirmer que certains numérateurs ont changé de plus de 20% par rapport à l'année précédente.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: Les données rapportées semblent refléter un changement important par rapport aux données rapportées l'année dernière. Le Programme national de lutte contre la tuberculose a rapporté [11 054] cas de tuberculose parmi les personnes vivant avec le VIH sous TAR à l'OMS, ce qui diffère du nombre de personnes vivant avec le VIH et la tuberculose sous TAR rapporté pour cet indicateur [16 809]. Le Programme national de lutte contre la tuberculose a également rapporté [12 323] cas de tuberculose parmi les personnes vivant avec le VIH à l'OMS (qu'elles soient sous TAR ou non). Le nombre de personnes vivant avec le VIH et avec tuberculose sous TAR rapporté pour cet indicateur [16 809] ne devrait pas être supérieur à ce chiffre. Veuillez en discuter avec vos collègues du Programme national de lutte contre la tuberculose et convenir du nombre à rapporter.
+
+Lisa NTUMBA (OTHER) said on 31/05/25 at 03:08: Nous allons en discuter avec nos collègues de PNLT et nous allons corriger le nombre à rapporter
+
+",16809,No
+GNQ,Africa,Sub-Saharan Africa,Western and central Africa,Equatorial Guinea,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+GAB,Africa,Sub-Saharan Africa,Western and central Africa,Gabon,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,published,,,,791,Yes
+GMB,Africa,Sub-Saharan Africa,Western and central Africa,Gambia (Republic of The),2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,,,,297,Yes
+GHA,Africa,Sub-Saharan Africa,Western and central Africa,Ghana,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2024-01-01,2024-12-31,,,published,,,,2131,Yes
+GIN,Africa,Sub-Saharan Africa,Western and central Africa,Guinea,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,donnée du programme du plan international guinée,2024-01-01,2024-12-31,,,published,"Date: 2025-03-13 14:29:15.891038
+CONFIRMER
+--------
+Date: 2025-03-13 14:28:01.975651
+CONFIRMER
+--------
+",Veuillez vérifier et confirmer que certains numérateurs ont changé de plus de 20% par rapport à l'année précédente.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: Il a été rapporté que [3407] personnes vivant avec le VIH et avec tuberculose sous TAR ont commencé un traitement contre la tuberculose en 2023, contre [4442] en 2024. Cela semble refléter un changement important. Le Programme national de lutte contre la tuberculose a rapporté [2956] cas de tuberculose parmi les personnes vivant avec le VIH sous TAR à l'OMS, ce qui diffère du nombre de personnes vivant avec le VIH et avec tuberculose sous TAR rapporté pour cet indicateur [4442]. Le Programme national de lutte contre la tuberculose a également rapporté [2965] cas de tuberculose parmi les personnes vivant avec le VIH à l'OMS (qu'elles soient ou non sous TAR). Le nombre de personnes vivant avec le VIH et la tuberculose sous TAR rapporté pour cet indicateur [4442] ne devrait pas être supérieur à ce chiffre. Veuillez en discuter avec vos collègues du Programme national de lutte contre la tuberculose et vous mettre d'accord sur le nombre à rapporter.
+
+",4442,No
+GNB,Africa,Sub-Saharan Africa,Western and central Africa,Guinea-Bissau,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+LBR,Africa,Sub-Saharan Africa,Western and central Africa,Liberia,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,HMIS/DHIS2,2024-01-01,2024-12-31,,,published,,,,730,Yes
+LBY,Eastern Mediterranean,Middle East and North Africa,Western and central Africa,Libya,2024,GARPR,No,No,,,,,,,edit,,,,,Yes
+MLI,Africa,Sub-Saharan Africa,Western and central Africa,Mali,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator below),DHIS2,2024-01-01,2024-12-31,,,published,"Date: 2025-03-18 12:18:55.848017
+Il y avait une erreur dans le calcul de l'indicateur en 2023 (on avait ajouté les cas de TB testée positive au VIH et qui avaient commencé le traitement ARV)
+--------
+",Veuillez vérifier et confirmer que certains numérateurs ont changé de plus de 20% par rapport à l'année précédente.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: Le Programme national de lutte contre la tuberculose a rapporté [433] cas de tuberculose parmi les personnes vivant avec le VIH sous TAR à l'OMS, ce qui diffère du nombre de personnes vivant avec le VIH et la tuberculose sous TAR rapporté pour cet indicateur [293]. Pourriez-vous discuter avec vos collègues du Programme national de lutte contre la tuberculose et convenir d'une valeur unique pour cet indicateur.
+
+",293,No
+MRT,Africa,Sub-Saharan Africa,Western and central Africa,Mauritania,2024,GARPR,Yes,No,,,,,,,published,,,,,Yes
+MAR,Eastern Mediterranean,Middle East and North Africa,Western and central Africa,Morocco,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,Données des centres CDTMR,2024-01-01,2024-12-31,,,published,,,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: Le Programme national de lutte contre la tuberculose a rapporté [334] cas de tuberculose parmi les personnes vivant avec le VIH sous TAR à l'OMS, ce qui diffère du nombre de personnes vivant avec le VIH et la tuberculose sous TAR rapporté pour cet indicateur [240]. Pourriez-vous en discuter avec vos collègues du Programme national de lutte contre la tuberculose et convenir d'une valeur unique pour cet indicateur.
+
+Hind EL HAJJI (UNAIDS) said on 22/05/25 at 19:57: Après vérification avec l’équipe du Programme National de Lutte contre la Tuberculose, il en ressort que la valeur de cet indicateur est de 334
+
+",240,Yes
+NER,Africa,Sub-Saharan Africa,Western and central Africa,Niger,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator below),DHIS2,2024-01-01,2024-12-31,,,published,"Date: 2025-05-30 17:39:44.519760
+correction apportée avec les données mise à jour
+--------
+",Veuillez vérifier et confirmer que certains numérateurs ont changé de plus de 20% par rapport à l'année précédente.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: Le Programme national de lutte contre la tuberculose a rapporté [330] cas de tuberculose parmi les personnes vivant avec le VIH sous TAR à l'OMS. Les données ont été rapportées sur le nombre de personnes vivant avec le VIH et avec tuberculose qui étaient sous TAR et avaient commencé un traitement contre la tuberculose pendant la période de rapport pour 2023. Veuillez consulter le Programme national de lutte contre la tuberculose et rapporter les données pour la période de rapport actuelle, ou fournir une explication.
+
+Mariama Hamidou (MINISTRY) said on 30/05/25 at 15:44: Données révisés et publiées dans le rapport DHIS2 2024 du programme National de lutte contre le Sida et les Hépatites
+
+",361,Yes
+NGA,Africa,Sub-Saharan Africa,Western and central Africa,Nigeria,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,NDARS,2024-01-01,2024-12-31,,"The data reported here is Number of PLHIV on ART with active TB disease who initiated TB treatment, this is inclusive of those new on ART and those previously on ART",published,,,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: It was reported that [16467] people living with HIV with TB on ART started TB treatment in 2023, compared to [17520] for 2024. This seems to reflect an important change. Please can you explain the reason for this or consult with the National TB Programme, review the data and revise accordingly.
+
+",17520,Yes
+STP,Africa,Sub-Saharan Africa,Western and central Africa,Sao Tome and Principe,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+SEN,Africa,Sub-Saharan Africa,Western and central Africa,Senegal,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator below),DONNEES COLLECTEES DU PROGRAMME NATIONAL DE LUTTE CONTRE LA TUBERCULOSE,2024-01-01,2024-12-31,,,published,,,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: Le Programme national de lutte contre la tuberculose a rapporté [519] cas de tuberculose parmi les personnes vivant avec le VIH sous TAR à l'OMS, ce qui diffère du nombre de personnes vivant avec le VIH et la tuberculose sous TAR rapporté pour cet indicateur [700]. Pourriez-vous en discuter avec vos collègues du Programme national de lutte contre la tuberculose et convenir d'une valeur unique pour cet indicateur.
+
+",700,Yes
+SLE,Africa,Sub-Saharan Africa,Western and central Africa,Sierra Leone,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,National HMIS/DHIS2,2024-01-01,2024-12-31,,,published,"Date: 2025-06-04 12:44:53.476245
+The reported figure in GAM is the data on DHIS2.
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,,11151,No
+TGO,Africa,Sub-Saharan Africa,Western and central Africa,Togo,2024,GARPR,Yes,Yes,Tuberculosis Patient Registers,,2023-12-26,2024-12-25,,,published,"Date: 2025-03-28 11:15:50.848586
+Renforcement des capacités des prestataires sur la recherche active de la tuberculose
+L'enquête autour des cas contagieux qui se faisait sur 35 sites CDT est passée à 90 en 2024;
+--------
+Date: 2025-03-24 15:54:52.965363
+Renforcement des capacités des prestataires sur la recherche active de la tuberculose
+--------
+Date: 2025-03-24 12:55:24.127764
+Renforcement des capacités des prestataires sur la recherche active de la tuberculose
+--------
+",Veuillez vérifier et confirmer que certains numérateurs ont changé de plus de 20% par rapport à l'année précédente.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: Il est rapporté que [398] personnes vivant avec le VIH et avec tuberculose sous TAR ont commencé un traitement contre la tuberculose en 2023, contre [510] en 2024. Cela semble refléter un changement important. Le Programme national de lutte contre la tuberculose a rapporté [390] cas de tuberculose parmi les personnes vivant avec le VIH sous TAR à l'OMS, ce qui diffère du nombre de personnes vivant avec le VIH et la tuberculité sous TAR rapporté pour cet indicateur [510]. Pourriez-vous discuter avec vos collègues du Programme national de lutte contre la tuberculose et vous mettre d'accord sur le nombre à rapporter.
+
+Abalo LIMAZIE (MINISTRY) said on 04/06/25 at 15:10: Merci pour cette question.
+Nous avions travaillé avec nos collegues du programme de Tuberculose qui ont rapporté dans le rapport annuel 392.
+Nous avions corrigé la donnée rapportée
+
+",392,Yes
+TUN,Eastern Mediterranean,Middle East and North Africa,Western and central Africa,Tunisia,2024,GARPR,Yes,Yes,Antiretroviral Patient Registers,,2024-01-01,2024-12-31,,,edit,"Date: 2025-03-31 12:10:31.955164
+je confirme
+--------
+",Veuillez vérifier et confirmer que certains numérateurs ont changé de plus de 20% par rapport à l'année précédente.,,6,Yes
+AND,Europe,,Western and central Europe and North America,Andorra,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+AUT,Europe,,Western and central Europe and North America,Austria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+BEL,Europe,,Western and central Europe and North America,Belgium,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+BGR,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Western and central Europe and North America,Bulgaria,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+CAN,America,,Western and central Europe and North America,Canada,2024,GARPR,Yes,No,,,,,,,published,,,,,Yes
+HRV,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Western and central Europe and North America,Croatia,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+CYP,Europe,,Western and central Europe and North America,Cyprus,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+CZE,Europe,,Western and central Europe and North America,Czechia,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+DNK,Europe,,Western and central Europe and North America,Denmark,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+EST,Europe,,Western and central Europe and North America,Estonia,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+FIN,Europe,,Western and central Europe and North America,Finland,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+FRA,Europe,,Western and central Europe and North America,France,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+DEU,Europe,,Western and central Europe and North America,Germany,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+GRC,Europe,,Western and central Europe and North America,Greece,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+HUN,Europe,,Western and central Europe and North America,Hungary,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+ISL,Europe,,Western and central Europe and North America,Iceland,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+IRL,Europe,,Western and central Europe and North America,Ireland,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+ISR,Europe,,Western and central Europe and North America,Israel,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+ITA,Europe,,Western and central Europe and North America,Italy,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+002,Europe,,Western and central Europe and North America,Kosovo,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+LVA,Europe,,Western and central Europe and North America,Latvia,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+LIE,Europe,,Western and central Europe and North America,Liechtenstein,2024,GARPR,Yes,No,,,,,,,published,,,,,Yes
+LTU,Europe,,Western and central Europe and North America,Lithuania,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+LUX,Europe,,Western and central Europe and North America,Luxembourg,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+MLT,Europe,,Western and central Europe and North America,Malta,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+MCO,Europe,,Western and central Europe and North America,Monaco,2024,GARPR,No,No,,,,,,,published,,,,,Yes
+NLD,Europe,,Western and central Europe and North America,Netherlands,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+NOR,Europe,,Western and central Europe and North America,Norway,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+POL,Europe,,Western and central Europe and North America,Poland,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+PRT,Europe,,Western and central Europe and North America,Portugal,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+SMR,Europe,,Western and central Europe and North America,San Marino,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+SRB,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Western and central Europe and North America,Serbia,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator below),Entered  data are derived from from National AIDS register (there are 4  new TB case among newly diagnosed PLHIV/AIDS cases registered in 2024) and  data from National TB register/ NTP .,2024-01-01,2024-12-31,"Based on the estimates of HIV-positive incident TB cases for 2014 (WHO TB Data) which is 12 cases for Serbia (<10 cases - 20 cases) or Inc rate of 0.12 per 100.000 population and in line with estimated HIV sera-prevalence among hospitalized TB patients which was 0.3% (representative cross-sectional survey conducted in 2011 by IPH of Serbia),  notified TB cases and incident HIV+ TB cases in previous period the best estimates of HIV+ incident TB cases provided by experts is less than 10 for 2024.",,published,"Date: 2025-04-02 14:54:55.798688
+I cinfirm it,
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,,4,Yes
+SVK,Europe,,Western and central Europe and North America,Slovakia,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+SVN,Europe,,Western and central Europe and North America,Slovenia,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+ESP,Europe,,Western and central Europe and North America,Spain,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+SWE,Europe,,Western and central Europe and North America,Sweden,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+CHE,Europe,,Western and central Europe and North America,Switzerland,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+TUR,Europe,Central and Eastern Europe and the Commonwealth of Independent States,Western and central Europe and North America,Türkiye,2024,GARPR,Yes,Yes,Other tools (please define data sources for numerator below),HIV/AIDS notification forms.,2024-01-01,2024-12-31,HIV/AIDS notification forms include the information of those who also have tb infection at the same time as the HIV diagnosis is confirmed.,,published,"Date: 2025-05-22 14:30:39.115290
+.
+--------
+Date: 2025-04-11 13:41:19.106161
+.
+--------
+Date: 2025-04-11 13:41:15.637739
+.
+--------
+",Please verify and confirm that some numerators have changed by more than 20% compared to the previous year.,"Victoria Bendaud (UNAIDS) said on 19/05/25 at 08:17: The National TB Programme has reported [89] TB cases among people living with HIV on ART to WHO, which is different from the number of people living with HIV with TB on ART reported for this indicator [7]. Please could you discuss with your colleagues in the National TB Programme and agree on one value for this indicator.
+
+Taliha Karakök (MINISTRY) said on 22/05/25 at 12:31: We discussed it with our colleagues in the National TB Programme and corrected the value to 89.
+
+",89,Yes
+GBR,Europe,,Western and central Europe and North America,United Kingdom of Great Britain and Northern Ireland,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes
+USA,America,,Western and central Europe and North America,United States of America,-,-,-,-,-,-,-,-,-,-,-,-,-,-,,Yes

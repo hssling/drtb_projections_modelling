@@ -1,0 +1,64 @@
+{
+  "validation_report": {
+    "validation_timestamp": "2025-12-18T19:44:13.041369",
+    "comparison_results": {},
+    "original_totals": {
+      "total_studies": 327,
+      "mdr_prevalence": "4.8%",
+      "xdr_prevalence": "0.4%",
+      "rif_prevalence": "11.5%"
+    }
+  },
+  "fresh_results": {
+    "MDR": {
+      "resistance_type": "MDR",
+      "pooled_prevalence": 41.9,
+      "ci_lower": 18.4,
+      "ci_upper": 65.5,
+      "n_studies": 5,
+      "total_sample": 1627,
+      "i_squared": 96.7,
+      "tau2": 0.069811
+    },
+    "XDR": {
+      "resistance_type": "XDR",
+      "pooled_prevalence": 55.8,
+      "ci_lower": 10.7,
+      "ci_upper": 100,
+      "n_studies": 3,
+      "total_sample": 366,
+      "i_squared": 99.0,
+      "tau2": 0.157222
+    },
+    "RR": {
+      "resistance_type": "RR",
+      "pooled_prevalence": 14.1,
+      "ci_lower": 6.7,
+      "ci_upper": 21.5,
+      "n_studies": 1,
+      "total_sample": 85,
+      "i_squared": 0,
+      "tau2": 0
+    },
+    "pre-XDR": {
+      "resistance_type": "pre-XDR",
+      "pooled_prevalence": 66.3,
+      "ci_lower": 7.5,
+      "ci_upper": 100,
+      "n_studies": 2,
+      "total_sample": 299,
+      "i_squared": 99.6,
+      "tau2": 0.179198
+    }
+  },
+  "extraction_summary": {
+    "total_studies_extracted": 10,
+    "date_extracted": "2025-12-18T19:44:13.041389",
+    "resistance_types_covered": [
+      "MDR",
+      "XDR",
+      "RR",
+      "pre-XDR"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+IND_ID,IND_CODE,INDICATOR_NAME,YEAR,COUNTRY,DISAGGR_1,UNIT,VALUE,VALUE_LO,VALUE_HI
+68A80468710D16,TB_drs_hr_prct,Prevalence of isoniazid-resistant TB,2017,Democratic Republic of the Congo,New,Percentage,7.2,4.8,10.7
+68A80468710D16,TB_drs_hr_prct,Prevalence of isoniazid-resistant TB,2017,Democratic Republic of the Congo,Previously treated,Percentage,23,14.5,34.5
+68A80468710D16,TB_drs_hr_prct,Prevalence of isoniazid-resistant TB,2018,Eritrea,New,Percentage,4.4,2.8,6.6
+68A80468710D16,TB_drs_hr_prct,Prevalence of isoniazid-resistant TB,2018,Eritrea,Previously treated,Percentage,7.5,2.1,18.2
+68A80468710D16,TB_drs_hr_prct,Prevalence of isoniazid-resistant TB,2018,Ethiopia,New,Percentage,5.14,3.76,6.52
+68A80468710D16,TB_drs_hr_prct,Prevalence of isoniazid-resistant TB,2018,Ethiopia,Previously treated,Percentage,13.64,8.68,18.59
+68A80468710D16,TB_drs_hr_prct,Prevalence of isoniazid-resistant TB,2017,Lao People's Democratic Republic,New,Percentage,4.8,3.4,6.5
+68A80468710D16,TB_drs_hr_prct,Prevalence of isoniazid-resistant TB,2017,Lao People's Democratic Republic,Previously treated,Percentage,6.8,1.4,18.7
+68A80468710D16,TB_drs_hr_prct,Prevalence of isoniazid-resistant TB,2015,Namibia,New,Percentage,11.2,10,12.5
+68A80468710D16,TB_drs_hr_prct,Prevalence of isoniazid-resistant TB,2015,Namibia,Previously treated,Percentage,16.6,13.9,19.6
+68A80468710D16,TB_drs_hr_prct,Prevalence of isoniazid-resistant TB,2013,Pakistan,New,Percentage,12,10.1,15
+68A80468710D16,TB_drs_hr_prct,Prevalence of isoniazid-resistant TB,2013,Pakistan,Previously treated,Percentage,28.3,22.3,34.9
+68A80468710D16,TB_drs_hr_prct,Prevalence of isoniazid-resistant TB,2014,Ukraine,New,Percentage,37.3,34.6,40.1
+68A80468710D16,TB_drs_hr_prct,Prevalence of isoniazid-resistant TB,2014,Ukraine,Previously treated,Percentage,65.8,60.3,71.1
+68A80468710D16,TB_drs_hr_prct,Prevalence of isoniazid-resistant TB,2014,South Africa,New,Percentage,7.6,6.4,8.7
+68A80468710D16,TB_drs_hr_prct,Prevalence of isoniazid-resistant TB,2014,South Africa,Previously treated,Percentage,11.1,9.1,13.1
+68A80468710D16,TB_drs_hr_prct,Prevalence of isoniazid-resistant TB,2010,Uganda,New,Percentage,5,3.8,6.3
+68A80468710D16,TB_drs_hr_prct,Prevalence of isoniazid-resistant TB,2010,Uganda,Previously treated,Percentage,23.3,15.9,32.1

@@ -1,0 +1,900 @@
+IND_ID,IND_CODE,INDICATOR_NAME,YEAR,COUNTRY,DISAGGR_1,UNIT,VALUE
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Senegal,Newly enrolled on HIV treatment,Number,190
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Senegal,Newly enrolled on HIV treatment,Number,109
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Senegal,Newly enrolled on HIV treatment,Number,515
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Senegal,Newly enrolled on HIV treatment,Number,134
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Senegal,Currently on HIV treatment,Number,7417
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Senegal,Newly enrolled on HIV treatment,Number,1197
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Senegal,Currently on HIV treatment,Number,5857
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Senegal,Newly enrolled on HIV treatment,Number,731
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Senegal,Currently on HIV treatment,Number,2410
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Senegal,Newly enrolled on HIV treatment,Number,1038
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Senegal,Currently on HIV treatment,Number,1995
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Senegal,Newly enrolled on HIV treatment,Number,1170
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Senegal,Currently on HIV treatment,Number,1998
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Seychelles,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Seychelles,Currently on HIV treatment,Number,3
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Seychelles,Currently on HIV treatment,Number,2
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Seychelles,Newly enrolled on HIV treatment,Number,1
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Seychelles,Currently on HIV treatment,Number,1
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Seychelles,Newly enrolled on HIV treatment,Number,2
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Seychelles,Currently on HIV treatment,Number,2
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Seychelles,Newly enrolled on HIV treatment,Number,1
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Seychelles,Currently on HIV treatment,Number,4
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Sierra Leone,Newly enrolled on HIV treatment,Number,1025
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Sierra Leone,Newly enrolled on HIV treatment,Number,3609
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Sierra Leone,Newly enrolled on HIV treatment,Number,5323
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Sierra Leone,Newly enrolled on HIV treatment,Number,5265
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Sierra Leone,Currently on HIV treatment,Number,13396
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Sierra Leone,Newly enrolled on HIV treatment,Number,5658
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Sierra Leone,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Sierra Leone,Currently on HIV treatment,Number,3552
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Sierra Leone,Currently on HIV treatment,Number,6124
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Sierra Leone,Newly enrolled on HIV treatment,Number,7397
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Sierra Leone,Currently on HIV treatment,Number,50370
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Sierra Leone,Newly enrolled on HIV treatment,Number,9372
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Sierra Leone,Currently on HIV treatment,Number,9455
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Singapore,Newly enrolled on HIV treatment,Number,1
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Singapore,Newly enrolled on HIV treatment,Number,1
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Singapore,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Singapore,Newly enrolled on HIV treatment,Number,1
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Singapore,Currently on HIV treatment,Number,7
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Singapore,Currently on HIV treatment,Number,5
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Singapore,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Singapore,Currently on HIV treatment,Number,6
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Singapore,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Somalia,Newly enrolled on HIV treatment,Number,173
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Somalia,Newly enrolled on HIV treatment,Number,133
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Somalia,Newly enrolled on HIV treatment,Number,307
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Somalia,Newly enrolled on HIV treatment,Number,128
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Somalia,Currently on HIV treatment,Number,542
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Somalia,Newly enrolled on HIV treatment,Number,134
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Somalia,Currently on HIV treatment,Number,229
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Somalia,Currently on HIV treatment,Number,326
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Somalia,Newly enrolled on HIV treatment,Number,380
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,South Africa,Newly enrolled on HIV treatment,Number,409496
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,South Africa,Newly enrolled on HIV treatment,Number,385932
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,South Africa,Newly enrolled on HIV treatment,Number,375650
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,South Africa,Newly enrolled on HIV treatment,Number,453149
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,South Africa,Currently on HIV treatment,Number,453149
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,South Africa,Newly enrolled on HIV treatment,Number,509762
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,South Africa,Currently on HIV treatment,Number,534354
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,South Africa,Newly enrolled on HIV treatment,Number,356872
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,South Africa,Currently on HIV treatment,Number,480733
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,South Africa,Newly enrolled on HIV treatment,Number,306598
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,South Africa,Currently on HIV treatment,Number,414353
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,South Africa,Newly enrolled on HIV treatment,Number,288342
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,South Africa,Currently on HIV treatment,Number,466297
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,South Africa,Newly enrolled on HIV treatment,Number,261684
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,South Sudan,Newly enrolled on HIV treatment,Number,1763
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,South Sudan,Currently on HIV treatment,Number,2590
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,South Sudan,Currently on HIV treatment,Number,3245
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,South Sudan,Currently on HIV treatment,Number,3863
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,South Sudan,Newly enrolled on HIV treatment,Number,10280
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Sri Lanka,Newly enrolled on HIV treatment,Number,15
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Sri Lanka,Newly enrolled on HIV treatment,Number,25
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Sri Lanka,Newly enrolled on HIV treatment,Number,56
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Sri Lanka,Newly enrolled on HIV treatment,Number,110
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Sri Lanka,Currently on HIV treatment,Number,342
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Sri Lanka,Newly enrolled on HIV treatment,Number,55
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Sri Lanka,Currently on HIV treatment,Number,129
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Sri Lanka,Newly enrolled on HIV treatment,Number,128
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Sri Lanka,Newly enrolled on HIV treatment,Number,170
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Sudan,Newly enrolled on HIV treatment,Number,221
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Sudan,Newly enrolled on HIV treatment,Number,659
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Tajikistan,Newly enrolled on HIV treatment,Number,825
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Tajikistan,Newly enrolled on HIV treatment,Number,730
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Haiti,Newly enrolled on HIV treatment,Number,12660
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Haiti,Newly enrolled on HIV treatment,Number,9457
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Haiti,Newly enrolled on HIV treatment,Number,8113
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Honduras,Newly enrolled on HIV treatment,Number,454
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Honduras,Newly enrolled on HIV treatment,Number,573
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Honduras,Newly enrolled on HIV treatment,Number,730
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Honduras,Currently on HIV treatment,Number,2378
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Honduras,Newly enrolled on HIV treatment,Number,468
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Honduras,Currently on HIV treatment,Number,906
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Honduras,Newly enrolled on HIV treatment,Number,574
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Honduras,Currently on HIV treatment,Number,1134
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Tajikistan,Newly enrolled on HIV treatment,Number,586
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Tajikistan,Newly enrolled on HIV treatment,Number,73
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Tajikistan,Currently on HIV treatment,Number,95
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Tajikistan,Newly enrolled on HIV treatment,Number,1008
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Tajikistan,Currently on HIV treatment,Number,1752
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Tajikistan,Newly enrolled on HIV treatment,Number,942
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Tajikistan,Currently on HIV treatment,Number,1502
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Tajikistan,Newly enrolled on HIV treatment,Number,857
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Tajikistan,Currently on HIV treatment,Number,1032
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Tajikistan,Newly enrolled on HIV treatment,Number,912
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Honduras,Newly enrolled on HIV treatment,Number,772
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Honduras,Currently on HIV treatment,Number,1245
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Honduras,Newly enrolled on HIV treatment,Number,712
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Honduras,Currently on HIV treatment,Number,1169
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,India,Newly enrolled on HIV treatment,Number,8135
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,India,Newly enrolled on HIV treatment,Number,18162
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,India,Newly enrolled on HIV treatment,Number,29214
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,India,Currently on HIV treatment,Number,495298
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,India,Newly enrolled on HIV treatment,Number,77952
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,India,Currently on HIV treatment,Number,374742
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,India,Newly enrolled on HIV treatment,Number,41204
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,India,Currently on HIV treatment,Number,346498
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,India,Currently on HIV treatment,Number,210171
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,India,Currently on HIV treatment,Number,210731
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,India,Currently on HIV treatment,Number,137465
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Indonesia,Newly enrolled on HIV treatment,Number,591
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Indonesia,Newly enrolled on HIV treatment,Number,877
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Indonesia,Newly enrolled on HIV treatment,Number,7681
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Indonesia,Newly enrolled on HIV treatment,Number,5195
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Indonesia,Currently on HIV treatment,Number,13766
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Indonesia,Newly enrolled on HIV treatment,Number,6529
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Indonesia,Currently on HIV treatment,Number,20318
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Chile,Newly enrolled on HIV treatment,Number,52
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Chile,Currently on HIV treatment,Number,85
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Chile,Newly enrolled on HIV treatment,Number,90
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Chile,Currently on HIV treatment,Number,125
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Chile,Newly enrolled on HIV treatment,Number,83
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Chile,Currently on HIV treatment,Number,122
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Chile,Newly enrolled on HIV treatment,Number,85
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Chile,Currently on HIV treatment,Number,113
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Colombia,Newly enrolled on HIV treatment,Number,85
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Colombia,Newly enrolled on HIV treatment,Number,1123
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Colombia,Newly enrolled on HIV treatment,Number,112
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Venezuela (Bolivarian Republic of),Currently on HIV treatment,Number,48
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Venezuela (Bolivarian Republic of),Newly enrolled on HIV treatment,Number,109
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Venezuela (Bolivarian Republic of),Currently on HIV treatment,Number,109
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Venezuela (Bolivarian Republic of),Currently on HIV treatment,Number,85
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Venezuela (Bolivarian Republic of),Currently on HIV treatment,Number,123
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Venezuela (Bolivarian Republic of),Currently on HIV treatment,Number,522
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Viet Nam,Newly enrolled on HIV treatment,Number,3474
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Viet Nam,Newly enrolled on HIV treatment,Number,4552
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Viet Nam,Newly enrolled on HIV treatment,Number,5796
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Viet Nam,Newly enrolled on HIV treatment,Number,8771
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Indonesia,Currently on HIV treatment,Number,17274
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Indonesia,Newly enrolled on HIV treatment,Number,1985
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Indonesia,Newly enrolled on HIV treatment,Number,4485
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Indonesia,Newly enrolled on HIV treatment,Number,2847
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Iran (Islamic Republic of),Newly enrolled on HIV treatment,Number,183
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Iran (Islamic Republic of),Newly enrolled on HIV treatment,Number,302
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Iran (Islamic Republic of),Newly enrolled on HIV treatment,Number,211
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Iran (Islamic Republic of),Newly enrolled on HIV treatment,Number,183
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Iran (Islamic Republic of),Currently on HIV treatment,Number,668
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Iran (Islamic Republic of),Newly enrolled on HIV treatment,Number,68
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Mongolia,Currently on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Mongolia,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Mongolia,Currently on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Mongolia,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Mongolia,Currently on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Montenegro,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Montenegro,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Montenegro,Currently on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Morocco,Newly enrolled on HIV treatment,Number,1417
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Morocco,Newly enrolled on HIV treatment,Number,425
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Morocco,Newly enrolled on HIV treatment,Number,287
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Morocco,Newly enrolled on HIV treatment,Number,68
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Morocco,Currently on HIV treatment,Number,261
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Morocco,Currently on HIV treatment,Number,209
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Morocco,Newly enrolled on HIV treatment,Number,153
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Morocco,Newly enrolled on HIV treatment,Number,123
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Mozambique,Newly enrolled on HIV treatment,Number,130420
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Mozambique,Newly enrolled on HIV treatment,Number,162646
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Mozambique,Currently on HIV treatment,Number,170022
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Mozambique,Currently on HIV treatment,Number,164813
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Mozambique,Currently on HIV treatment,Number,187306
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Mozambique,Newly enrolled on HIV treatment,Number,220746
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Mozambique,Currently on HIV treatment,Number,220746
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Mozambique,Currently on HIV treatment,Number,342337
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Mozambique,Newly enrolled on HIV treatment,Number,287581
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Myanmar,Newly enrolled on HIV treatment,Number,3361
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Myanmar,Newly enrolled on HIV treatment,Number,1018
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Myanmar,Newly enrolled on HIV treatment,Number,6531
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Myanmar,Newly enrolled on HIV treatment,Number,5776
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Myanmar,Newly enrolled on HIV treatment,Number,9365
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Myanmar,Currently on HIV treatment,Number,14360
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Viet Nam,Currently on HIV treatment,Number,18801
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Viet Nam,Currently on HIV treatment,Number,15981
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Viet Nam,Newly enrolled on HIV treatment,Number,7470
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Viet Nam,Currently on HIV treatment,Number,13483
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Viet Nam,Newly enrolled on HIV treatment,Number,7998
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Viet Nam,Currently on HIV treatment,Number,15030
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Viet Nam,Newly enrolled on HIV treatment,Number,7620
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Zambia,Newly enrolled on HIV treatment,Number,2565
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Zambia,Newly enrolled on HIV treatment,Number,42961
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Zambia,Newly enrolled on HIV treatment,Number,188594
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Colombia,Currently on HIV treatment,Number,809
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Colombia,Newly enrolled on HIV treatment,Number,522
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Colombia,Currently on HIV treatment,Number,119281
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Colombia,Currently on HIV treatment,Number,2305
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Colombia,Newly enrolled on HIV treatment,Number,315
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Colombia,Currently on HIV treatment,Number,1499
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Colombia,Newly enrolled on HIV treatment,Number,174
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Colombia,Currently on HIV treatment,Number,2329
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Comoros,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Comoros,Newly enrolled on HIV treatment,Number,1
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Comoros,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Zambia,Currently on HIV treatment,Number,189769
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Zambia,Currently on HIV treatment,Number,300682
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Zambia,Newly enrolled on HIV treatment,Number,151029
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Zambia,Currently on HIV treatment,Number,123671
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Zambia,Newly enrolled on HIV treatment,Number,278781
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Zambia,Currently on HIV treatment,Number,82354
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Zambia,Newly enrolled on HIV treatment,Number,95058
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Zambia,Currently on HIV treatment,Number,181529
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Zimbabwe,Newly enrolled on HIV treatment,Number,38489
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Zimbabwe,Newly enrolled on HIV treatment,Number,123846
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Zimbabwe,Newly enrolled on HIV treatment,Number,17618
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Afghanistan,Newly enrolled on HIV treatment,Number,172
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Afghanistan,Newly enrolled on HIV treatment,Number,9
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Afghanistan,Newly enrolled on HIV treatment,Number,11
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Afghanistan,Newly enrolled on HIV treatment,Number,34
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Afghanistan,Currently on HIV treatment,Number,34
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Afghanistan,Newly enrolled on HIV treatment,Number,63
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Afghanistan,Currently on HIV treatment,Number,250
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Angola,Newly enrolled on HIV treatment,Number,2842
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Angola,Newly enrolled on HIV treatment,Number,9567
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Angola,Currently on HIV treatment,Number,9567
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Zimbabwe,Newly enrolled on HIV treatment,Number,22138
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Zimbabwe,Newly enrolled on HIV treatment,Number,105443
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Zimbabwe,Newly enrolled on HIV treatment,Number,39661
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Zimbabwe,Currently on HIV treatment,Number,156512
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Zimbabwe,Newly enrolled on HIV treatment,Number,54560
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Zimbabwe,Currently on HIV treatment,Number,293574
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Zimbabwe,Newly enrolled on HIV treatment,Number,49908
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Zimbabwe,Currently on HIV treatment,Number,199502
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Zimbabwe,Newly enrolled on HIV treatment,Number,56262
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Zimbabwe,Currently on HIV treatment,Number,223732
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Myanmar,Newly enrolled on HIV treatment,Number,5110
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Myanmar,Currently on HIV treatment,Number,20042
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Myanmar,Newly enrolled on HIV treatment,Number,5569
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Myanmar,Currently on HIV treatment,Number,24597
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Namibia,Newly enrolled on HIV treatment,Number,3143
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Namibia,Newly enrolled on HIV treatment,Number,8440
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Namibia,Currently on HIV treatment,Number,134305
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Namibia,Currently on HIV treatment,Number,187595
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Namibia,Newly enrolled on HIV treatment,Number,6647
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Namibia,Currently on HIV treatment,Number,5310
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Namibia,Newly enrolled on HIV treatment,Number,6552
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Namibia,Currently on HIV treatment,Number,7841
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Nepal,Newly enrolled on HIV treatment,Number,1886
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Nepal,Currently on HIV treatment,Number,2044
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Nepal,Currently on HIV treatment,Number,2026
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Nepal,Currently on HIV treatment,Number,2352
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Nepal,Currently on HIV treatment,Number,1009
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Nepal,Newly enrolled on HIV treatment,Number,5
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Nicaragua,Newly enrolled on HIV treatment,Number,104
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Nicaragua,Newly enrolled on HIV treatment,Number,70
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Nicaragua,Newly enrolled on HIV treatment,Number,204
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Nicaragua,Newly enrolled on HIV treatment,Number,290
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Nicaragua,Newly enrolled on HIV treatment,Number,372
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Nicaragua,Newly enrolled on HIV treatment,Number,513
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Nicaragua,Currently on HIV treatment,Number,513
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Nicaragua,Newly enrolled on HIV treatment,Number,616
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Nicaragua,Currently on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Nicaragua,Newly enrolled on HIV treatment,Number,709
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Nicaragua,Currently on HIV treatment,Number,934
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Nicaragua,Newly enrolled on HIV treatment,Number,712
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Niger,Newly enrolled on HIV treatment,Number,415
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Niger,Newly enrolled on HIV treatment,Number,473
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Niger,Newly enrolled on HIV treatment,Number,1080
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Comoros,Currently on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Comoros,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Congo,Currently on HIV treatment,Number,272
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Costa Rica,Newly enrolled on HIV treatment,Number,36
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Côte d'Ivoire,Currently on HIV treatment,Number,247278
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Côte d'Ivoire,Currently on HIV treatment,Number,53500
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Côte d'Ivoire,Newly enrolled on HIV treatment,Number,19697
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Cuba,Newly enrolled on HIV treatment,Number,1771
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Cuba,Newly enrolled on HIV treatment,Number,1581
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Cuba,Newly enrolled on HIV treatment,Number,1449
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Cuba,Newly enrolled on HIV treatment,Number,1778
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Cuba,Currently on HIV treatment,Number,1778
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Cuba,Newly enrolled on HIV treatment,Number,2280
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Cuba,Newly enrolled on HIV treatment,Number,205
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Cuba,Currently on HIV treatment,Number,205
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Cuba,Newly enrolled on HIV treatment,Number,754
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Cuba,Currently on HIV treatment,Number,754
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Cuba,Newly enrolled on HIV treatment,Number,1593
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Cuba,Currently on HIV treatment,Number,2206
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Cuba,Newly enrolled on HIV treatment,Number,1614
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Cuba,Currently on HIV treatment,Number,1795
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Democratic Republic of the Congo,Newly enrolled on HIV treatment,Number,27157
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Angola,Newly enrolled on HIV treatment,Number,983
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Angola,Currently on HIV treatment,Number,5721
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Angola,Newly enrolled on HIV treatment,Number,20998
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Antigua and Barbuda,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Antigua and Barbuda,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Antigua and Barbuda,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Antigua and Barbuda,Newly enrolled on HIV treatment,Number,4
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Armenia,Newly enrolled on HIV treatment,Number,42
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Armenia,Newly enrolled on HIV treatment,Number,71
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Armenia,Newly enrolled on HIV treatment,Number,13
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Armenia,Newly enrolled on HIV treatment,Number,12
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Armenia,Currently on HIV treatment,Number,22
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Armenia,Newly enrolled on HIV treatment,Number,12
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Armenia,Newly enrolled on HIV treatment,Number,106
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Armenia,Newly enrolled on HIV treatment,Number,238
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Armenia,Currently on HIV treatment,Number,244
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Armenia,Newly enrolled on HIV treatment,Number,135
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Azerbaijan,Newly enrolled on HIV treatment,Number,179
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Azerbaijan,Newly enrolled on HIV treatment,Number,319
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Azerbaijan,Newly enrolled on HIV treatment,Number,290
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Azerbaijan,Newly enrolled on HIV treatment,Number,503
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Iran (Islamic Republic of),Currently on HIV treatment,Number,201
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Iran (Islamic Republic of),Newly enrolled on HIV treatment,Number,51
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Iran (Islamic Republic of),Currently on HIV treatment,Number,233
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Iran (Islamic Republic of),Newly enrolled on HIV treatment,Number,150
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Iran (Islamic Republic of),Currently on HIV treatment,Number,441
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Iran (Islamic Republic of),Newly enrolled on HIV treatment,Number,86
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Iran (Islamic Republic of),Currently on HIV treatment,Number,207
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Jordan,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Kazakhstan,Newly enrolled on HIV treatment,Number,1013
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Kazakhstan,Newly enrolled on HIV treatment,Number,1116
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Niger,Currently on HIV treatment,Number,2403
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Niger,Newly enrolled on HIV treatment,Number,1758
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Nigeria,Newly enrolled on HIV treatment,Number,40855
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Nigeria,Newly enrolled on HIV treatment,Number,62781
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Nigeria,Newly enrolled on HIV treatment,Number,91873
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Nigeria,Newly enrolled on HIV treatment,Number,111262
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Nigeria,Newly enrolled on HIV treatment,Number,168355
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Nigeria,Currently on HIV treatment,Number,216721
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Nigeria,Newly enrolled on HIV treatment,Number,233927
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Nigeria,Newly enrolled on HIV treatment,Number,242339
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Democratic Republic of the Congo,Currently on HIV treatment,Number,97029
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Democratic Republic of the Congo,Newly enrolled on HIV treatment,Number,29988
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Democratic Republic of the Congo,Currently on HIV treatment,Number,48714
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Democratic Republic of the Congo,Newly enrolled on HIV treatment,Number,55640
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Democratic Republic of the Congo,Newly enrolled on HIV treatment,Number,61140
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Democratic Republic of the Congo,Newly enrolled on HIV treatment,Number,49209
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Djibouti,Newly enrolled on HIV treatment,Number,74
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Djibouti,Newly enrolled on HIV treatment,Number,71
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Djibouti,Newly enrolled on HIV treatment,Number,122
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Djibouti,Currently on HIV treatment,Number,122
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Dominica,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Dominica,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Dominica,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Dominica,Currently on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Dominica,Currently on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Dominican Republic,Newly enrolled on HIV treatment,Number,839
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Dominican Republic,Newly enrolled on HIV treatment,Number,901
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Dominican Republic,Newly enrolled on HIV treatment,Number,1381
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Dominican Republic,Newly enrolled on HIV treatment,Number,542
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Dominican Republic,Newly enrolled on HIV treatment,Number,274
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Azerbaijan,Newly enrolled on HIV treatment,Number,455
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Azerbaijan,Currently on HIV treatment,Number,795
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Azerbaijan,Currently on HIV treatment,Number,620
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Azerbaijan,Currently on HIV treatment,Number,551
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Azerbaijan,Newly enrolled on HIV treatment,Number,619
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Azerbaijan,Currently on HIV treatment,Number,1273
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Azerbaijan,Newly enrolled on HIV treatment,Number,838
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Azerbaijan,Currently on HIV treatment,Number,1349
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Bahamas,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Bahamas,Currently on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Bahamas,Newly enrolled on HIV treatment,Number,2
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Nigeria,Newly enrolled on HIV treatment,Number,151099
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,North Macedonia,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,North Macedonia,Newly enrolled on HIV treatment,Number,7
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,"occupied Palestinian territory, including east Jerusalem",Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Oman,Newly enrolled on HIV treatment,Number,3
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Oman,Newly enrolled on HIV treatment,Number,7
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Oman,Currently on HIV treatment,Number,7
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Oman,Newly enrolled on HIV treatment,Number,3
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Oman,Newly enrolled on HIV treatment,Number,3
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Panama,Newly enrolled on HIV treatment,Number,287
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Kazakhstan,Newly enrolled on HIV treatment,Number,1204
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Kazakhstan,Newly enrolled on HIV treatment,Number,1564
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Kazakhstan,Currently on HIV treatment,Number,1954
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Kazakhstan,Newly enrolled on HIV treatment,Number,1359
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Kazakhstan,Currently on HIV treatment,Number,1472
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Kazakhstan,Newly enrolled on HIV treatment,Number,1209
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Kazakhstan,Currently on HIV treatment,Number,1403
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Kazakhstan,Newly enrolled on HIV treatment,Number,1705
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Kazakhstan,Currently on HIV treatment,Number,2569
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Kazakhstan,Newly enrolled on HIV treatment,Number,2581
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Panama,Newly enrolled on HIV treatment,Number,637
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Panama,Newly enrolled on HIV treatment,Number,989
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Panama,Newly enrolled on HIV treatment,Number,333
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Panama,Currently on HIV treatment,Number,801
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Panama,Newly enrolled on HIV treatment,Number,718
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Panama,Newly enrolled on HIV treatment,Number,578
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Panama,Currently on HIV treatment,Number,720
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Panama,Newly enrolled on HIV treatment,Number,497
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Panama,Currently on HIV treatment,Number,482
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Papua New Guinea,Newly enrolled on HIV treatment,Number,590
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Papua New Guinea,Newly enrolled on HIV treatment,Number,859
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Dominican Republic,Currently on HIV treatment,Number,460
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Dominican Republic,Currently on HIV treatment,Number,3702
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Dominican Republic,Newly enrolled on HIV treatment,Number,813
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Dominican Republic,Currently on HIV treatment,Number,813
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Dominican Republic,Newly enrolled on HIV treatment,Number,146
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Dominican Republic,Currently on HIV treatment,Number,1039
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Ecuador,Newly enrolled on HIV treatment,Number,188
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Ecuador,Currently on HIV treatment,Number,146
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Ecuador,Newly enrolled on HIV treatment,Number,187
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Ecuador,Newly enrolled on HIV treatment,Number,193
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Papua New Guinea,Newly enrolled on HIV treatment,Number,1016
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Papua New Guinea,Newly enrolled on HIV treatment,Number,450
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Papua New Guinea,Currently on HIV treatment,Number,450
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Papua New Guinea,Newly enrolled on HIV treatment,Number,681
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Papua New Guinea,Newly enrolled on HIV treatment,Number,832
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Papua New Guinea,Currently on HIV treatment,Number,7511
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Papua New Guinea,Newly enrolled on HIV treatment,Number,1154
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Paraguay,Newly enrolled on HIV treatment,Number,73
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Paraguay,Newly enrolled on HIV treatment,Number,132
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Paraguay,Newly enrolled on HIV treatment,Number,92
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Paraguay,Newly enrolled on HIV treatment,Number,211
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Paraguay,Newly enrolled on HIV treatment,Number,83
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Paraguay,Currently on HIV treatment,Number,136
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Paraguay,Newly enrolled on HIV treatment,Number,48
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Paraguay,Currently on HIV treatment,Number,73
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Paraguay,Newly enrolled on HIV treatment,Number,45
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Paraguay,Currently on HIV treatment,Number,120
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Paraguay,Newly enrolled on HIV treatment,Number,8
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Paraguay,Currently on HIV treatment,Number,25
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Paraguay,Newly enrolled on HIV treatment,Number,113
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Paraguay,Currently on HIV treatment,Number,228
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Bahamas,Currently on HIV treatment,Number,2
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Bahamas,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Bahrain,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Bahrain,Newly enrolled on HIV treatment,Number,5
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Bangladesh,Newly enrolled on HIV treatment,Number,91
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Barbados,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Barbados,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Barbados,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Barbados,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Barbados,Currently on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Barbados,Currently on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Peru,Newly enrolled on HIV treatment,Number,1000
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Peru,Newly enrolled on HIV treatment,Number,1285
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Peru,Newly enrolled on HIV treatment,Number,1194
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Peru,Newly enrolled on HIV treatment,Number,1094
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Peru,Newly enrolled on HIV treatment,Number,1382
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Peru,Currently on HIV treatment,Number,1382
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Peru,Currently on HIV treatment,Number,3958
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Peru,Newly enrolled on HIV treatment,Number,3396
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Peru,Currently on HIV treatment,Number,3958
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Philippines,Newly enrolled on HIV treatment,Number,1278
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Philippines,Newly enrolled on HIV treatment,Number,2938
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Kazakhstan,Currently on HIV treatment,Number,3268
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Kazakhstan,Newly enrolled on HIV treatment,Number,2368
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Kazakhstan,Currently on HIV treatment,Number,2686
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Kenya,Newly enrolled on HIV treatment,Number,85392
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Kenya,Currently on HIV treatment,Number,136495
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Kenya,Newly enrolled on HIV treatment,Number,124469
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Kenya,Newly enrolled on HIV treatment,Number,97082
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Kenya,Currently on HIV treatment,Number,97082
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Kenya,Newly enrolled on HIV treatment,Number,34389
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Kenya,Currently on HIV treatment,Number,109563
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Kenya,Currently on HIV treatment,Number,90944
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Philippines,Newly enrolled on HIV treatment,Number,3817
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Philippines,Newly enrolled on HIV treatment,Number,4202
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Philippines,Newly enrolled on HIV treatment,Number,6281
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Philippines,Currently on HIV treatment,Number,17911
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Philippines,Newly enrolled on HIV treatment,Number,3342
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Philippines,Currently on HIV treatment,Number,14195
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Philippines,Newly enrolled on HIV treatment,Number,4847
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Philippines,Currently on HIV treatment,Number,10027
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Philippines,Newly enrolled on HIV treatment,Number,7448
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Philippines,Currently on HIV treatment,Number,10799
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Ecuador,Currently on HIV treatment,Number,72
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Ecuador,Newly enrolled on HIV treatment,Number,92
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Ecuador,Currently on HIV treatment,Number,319
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Egypt,Newly enrolled on HIV treatment,Number,139
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Egypt,Currently on HIV treatment,Number,849
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,El Salvador,Newly enrolled on HIV treatment,Number,1686
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,El Salvador,Newly enrolled on HIV treatment,Number,544
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,El Salvador,Newly enrolled on HIV treatment,Number,435
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,El Salvador,Newly enrolled on HIV treatment,Number,330
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,El Salvador,Currently on HIV treatment,Number,1378
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,El Salvador,Newly enrolled on HIV treatment,Number,48
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Philippines,Newly enrolled on HIV treatment,Number,8179
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Philippines,Currently on HIV treatment,Number,11700
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Qatar,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Qatar,Newly enrolled on HIV treatment,Number,2
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Republic of Moldova,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Republic of Moldova,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Republic of Moldova,Newly enrolled on HIV treatment,Number,76
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Republic of Moldova,Currently on HIV treatment,Number,812
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Republic of Moldova,Newly enrolled on HIV treatment,Number,163
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Republic of Moldova,Newly enrolled on HIV treatment,Number,194
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Barbados,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Barbados,Currently on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Barbados,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Barbados,Currently on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Barbados,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Barbados,Currently on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Belarus,Newly enrolled on HIV treatment,Number,227
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Belarus,Newly enrolled on HIV treatment,Number,1
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Belarus,Newly enrolled on HIV treatment,Number,1
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Belarus,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Belarus,Currently on HIV treatment,Number,276
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Kenya,Currently on HIV treatment,Number,121991
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Kiribati,Newly enrolled on HIV treatment,Number,1
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Kuwait,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Kuwait,Newly enrolled on HIV treatment,Number,4
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Kuwait,Newly enrolled on HIV treatment,Number,4
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Kuwait,Currently on HIV treatment,Number,4
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Kyrgyzstan,Newly enrolled on HIV treatment,Number,30
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Kyrgyzstan,Newly enrolled on HIV treatment,Number,350
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Kyrgyzstan,Newly enrolled on HIV treatment,Number,888
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Kyrgyzstan,Newly enrolled on HIV treatment,Number,821
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Kyrgyzstan,Newly enrolled on HIV treatment,Number,461
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Kyrgyzstan,Currently on HIV treatment,Number,1394
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Kyrgyzstan,Newly enrolled on HIV treatment,Number,323
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Kyrgyzstan,Currently on HIV treatment,Number,705
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Kyrgyzstan,Newly enrolled on HIV treatment,Number,274
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Kyrgyzstan,Currently on HIV treatment,Number,562
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Kyrgyzstan,Newly enrolled on HIV treatment,Number,365
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Kyrgyzstan,Currently on HIV treatment,Number,678
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Kyrgyzstan,Newly enrolled on HIV treatment,Number,332
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Kyrgyzstan,Currently on HIV treatment,Number,486
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Lao People's Democratic Republic,Newly enrolled on HIV treatment,Number,125
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Belarus,Newly enrolled on HIV treatment,Number,1682
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Belarus,Currently on HIV treatment,Number,1682
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Belarus,Newly enrolled on HIV treatment,Number,1385
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Belarus,Currently on HIV treatment,Number,1385
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Belarus,Newly enrolled on HIV treatment,Number,1128
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Belarus,Currently on HIV treatment,Number,1128
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Belarus,Newly enrolled on HIV treatment,Number,280
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Belarus,Currently on HIV treatment,Number,979
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Belarus,Newly enrolled on HIV treatment,Number,450
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Belize,Currently on HIV treatment,Number,146
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Belize,Newly enrolled on HIV treatment,Number,63
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,El Salvador,Currently on HIV treatment,Number,301
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,El Salvador,Newly enrolled on HIV treatment,Number,530
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,El Salvador,Currently on HIV treatment,Number,1853
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,El Salvador,Newly enrolled on HIV treatment,Number,715
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,El Salvador,Currently on HIV treatment,Number,1853
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,El Salvador,Newly enrolled on HIV treatment,Number,541
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,El Salvador,Currently on HIV treatment,Number,2599
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Equatorial Guinea,Newly enrolled on HIV treatment,Number,294
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Equatorial Guinea,Currently on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Equatorial Guinea,Currently on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Eritrea,Newly enrolled on HIV treatment,Number,275
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Eritrea,Newly enrolled on HIV treatment,Number,223
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Eritrea,Currently on HIV treatment,Number,397
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Eritrea,Newly enrolled on HIV treatment,Number,131
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Eritrea,Newly enrolled on HIV treatment,Number,52
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Eritrea,Currently on HIV treatment,Number,177
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Eritrea,Newly enrolled on HIV treatment,Number,164
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Eritrea,Currently on HIV treatment,Number,164
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Eswatini,Newly enrolled on HIV treatment,Number,21320
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Eswatini,Newly enrolled on HIV treatment,Number,232
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Eswatini,Newly enrolled on HIV treatment,Number,10881
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Lao People's Democratic Republic,Newly enrolled on HIV treatment,Number,530
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Lao People's Democratic Republic,Newly enrolled on HIV treatment,Number,303
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Lao People's Democratic Republic,Currently on HIV treatment,Number,317
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Lao People's Democratic Republic,Newly enrolled on HIV treatment,Number,560
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Lao People's Democratic Republic,Newly enrolled on HIV treatment,Number,613
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Lao People's Democratic Republic,Currently on HIV treatment,Number,1565
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Lao People's Democratic Republic,Newly enrolled on HIV treatment,Number,1308
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Lao People's Democratic Republic,Currently on HIV treatment,Number,2044
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Lebanon,Newly enrolled on HIV treatment,Number,6
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Belize,Currently on HIV treatment,Number,185
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Benin,Newly enrolled on HIV treatment,Number,489
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Benin,Currently on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Benin,Currently on HIV treatment,Number,24272
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Benin,Currently on HIV treatment,Number,10144
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Bhutan,Newly enrolled on HIV treatment,Number,6
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Bhutan,Newly enrolled on HIV treatment,Number,48
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Bolivia (Plurinational State of),Newly enrolled on HIV treatment,Number,1791
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Bosnia and Herzegovina,Newly enrolled on HIV treatment,Number,2
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Bosnia and Herzegovina,Newly enrolled on HIV treatment,Number,2
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Botswana,Currently on HIV treatment,Number,6427
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Botswana,Currently on HIV treatment,Number,32332
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Brunei Darussalam,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Brunei Darussalam,Currently on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Brunei Darussalam,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Brunei Darussalam,Currently on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Bulgaria,Newly enrolled on HIV treatment,Number,12
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Burkina Faso,Newly enrolled on HIV treatment,Number,516
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Burkina Faso,Currently on HIV treatment,Number,413
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Burkina Faso,Currently on HIV treatment,Number,6441
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Republic of Moldova,Currently on HIV treatment,Number,194
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Republic of Moldova,Newly enrolled on HIV treatment,Number,263
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Republic of Moldova,Currently on HIV treatment,Number,263
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Republic of Moldova,Newly enrolled on HIV treatment,Number,192
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Republic of Moldova,Currently on HIV treatment,Number,192
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Republic of Moldova,Newly enrolled on HIV treatment,Number,289
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Republic of Moldova,Currently on HIV treatment,Number,289
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Russian Federation,Newly enrolled on HIV treatment,Number,19611
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Russian Federation,Newly enrolled on HIV treatment,Number,16368
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Russian Federation,Newly enrolled on HIV treatment,Number,15598
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Burkina Faso,Newly enrolled on HIV treatment,Number,1077
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Burkina Faso,Currently on HIV treatment,Number,1077
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Burkina Faso,Newly enrolled on HIV treatment,Number,2657
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Burkina Faso,Currently on HIV treatment,Number,2657
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Burundi,Newly enrolled on HIV treatment,Number,3013
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Burundi,Newly enrolled on HIV treatment,Number,3052
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Burundi,Currently on HIV treatment,Number,15247
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Cabo Verde,Newly enrolled on HIV treatment,Number,176
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Cambodia,Newly enrolled on HIV treatment,Number,868
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Cambodia,Newly enrolled on HIV treatment,Number,631
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Rwanda,Currently on HIV treatment,Number,99751
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Rwanda,Currently on HIV treatment,Number,201177
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Saint Kitts and Nevis,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Saint Lucia,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Saint Lucia,Newly enrolled on HIV treatment,Number,1
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Saint Lucia,Newly enrolled on HIV treatment,Number,2
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Saint Lucia,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Saint Lucia,Currently on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Saint Lucia,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Saint Lucia,Currently on HIV treatment,Number,1
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Saint Lucia,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Samoa,Currently on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Samoa,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Samoa,Currently on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Sao Tome and Principe,Newly enrolled on HIV treatment,Number,8
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Sao Tome and Principe,Newly enrolled on HIV treatment,Number,29
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Sao Tome and Principe,Newly enrolled on HIV treatment,Number,21
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Sao Tome and Principe,Newly enrolled on HIV treatment,Number,22
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Sao Tome and Principe,Currently on HIV treatment,Number,254
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Sao Tome and Principe,Newly enrolled on HIV treatment,Number,16
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Lebanon,Newly enrolled on HIV treatment,Number,3
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Lebanon,Newly enrolled on HIV treatment,Number,1
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Lebanon,Newly enrolled on HIV treatment,Number,4
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Lebanon,Newly enrolled on HIV treatment,Number,2
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Lebanon,Newly enrolled on HIV treatment,Number,1
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Lebanon,Currently on HIV treatment,Number,2
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Lesotho,Newly enrolled on HIV treatment,Number,10366
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Lesotho,Currently on HIV treatment,Number,39725
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Lesotho,Currently on HIV treatment,Number,18697
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Lesotho,Currently on HIV treatment,Number,8652
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Lesotho,Newly enrolled on HIV treatment,Number,8652
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Eswatini,Currently on HIV treatment,Number,33901
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Eswatini,Currently on HIV treatment,Number,29999
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Eswatini,Newly enrolled on HIV treatment,Number,3879
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Eswatini,Currently on HIV treatment,Number,22518
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Eswatini,Currently on HIV treatment,Number,13479
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Eswatini,Currently on HIV treatment,Number,5287
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Ethiopia,Newly enrolled on HIV treatment,Number,17585
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Ethiopia,Newly enrolled on HIV treatment,Number,19244
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Ethiopia,Newly enrolled on HIV treatment,Number,17801
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Ethiopia,Newly enrolled on HIV treatment,Number,14406
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Lesotho,Currently on HIV treatment,Number,16371
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Liberia,Newly enrolled on HIV treatment,Number,390
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Liberia,Newly enrolled on HIV treatment,Number,1442
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Liberia,Currently on HIV treatment,Number,1766
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Liberia,Currently on HIV treatment,Number,1115
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Liberia,Newly enrolled on HIV treatment,Number,1862
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Liberia,Currently on HIV treatment,Number,3896
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Liberia,Newly enrolled on HIV treatment,Number,3456
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Madagascar,Newly enrolled on HIV treatment,Number,97
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Madagascar,Newly enrolled on HIV treatment,Number,55
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Madagascar,Currently on HIV treatment,Number,70
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Ethiopia,Newly enrolled on HIV treatment,Number,16071
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Ethiopia,Newly enrolled on HIV treatment,Number,10723
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Ethiopia,Currently on HIV treatment,Number,10723
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Ethiopia,Newly enrolled on HIV treatment,Number,19612
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Ethiopia,Currently on HIV treatment,Number,187009
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Ethiopia,Newly enrolled on HIV treatment,Number,20099
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Ethiopia,Currently on HIV treatment,Number,46716
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Ethiopia,Newly enrolled on HIV treatment,Number,25937
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Fiji,Newly enrolled on HIV treatment,Number,6
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Fiji,Newly enrolled on HIV treatment,Number,4
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Fiji,Currently on HIV treatment,Number,12
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Fiji,Newly enrolled on HIV treatment,Number,15
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Gabon,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Gabon,Newly enrolled on HIV treatment,Number,231
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Gabon,Currently on HIV treatment,Number,677
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Gabon,Newly enrolled on HIV treatment,Number,1769
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Gabon,Currently on HIV treatment,Number,2680
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Gabon,Newly enrolled on HIV treatment,Number,285
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Gabon,Currently on HIV treatment,Number,285
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Gambia,Currently on HIV treatment,Number,4563
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Georgia,Newly enrolled on HIV treatment,Number,126
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Georgia,Newly enrolled on HIV treatment,Number,124
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Cambodia,Newly enrolled on HIV treatment,Number,754
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Cambodia,Currently on HIV treatment,Number,26176
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Cambodia,Newly enrolled on HIV treatment,Number,1840
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Cambodia,Currently on HIV treatment,Number,7275
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Cambodia,Newly enrolled on HIV treatment,Number,1119
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Cambodia,Currently on HIV treatment,Number,5489
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Cambodia,Newly enrolled on HIV treatment,Number,2403
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Cambodia,Currently on HIV treatment,Number,9778
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Cambodia,Newly enrolled on HIV treatment,Number,2471
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Cambodia,Currently on HIV treatment,Number,5800
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Cameroon,Currently on HIV treatment,Number,6359
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Madagascar,Newly enrolled on HIV treatment,Number,70
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Madagascar,Currently on HIV treatment,Number,237
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Malawi,Newly enrolled on HIV treatment,Number,130525
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Malawi,Newly enrolled on HIV treatment,Number,72446
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Malawi,Currently on HIV treatment,Number,40050
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Malawi,Newly enrolled on HIV treatment,Number,32618
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Malawi,Currently on HIV treatment,Number,199219
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Malawi,Currently on HIV treatment,Number,25316
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Malawi,Newly enrolled on HIV treatment,Number,74330
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Malawi,Newly enrolled on HIV treatment,Number,47297
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Malaysia,Newly enrolled on HIV treatment,Number,5523
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Cameroon,Newly enrolled on HIV treatment,Number,10943
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Cameroon,Currently on HIV treatment,Number,59746
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Central African Republic,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Central African Republic,Newly enrolled on HIV treatment,Number,56
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Central African Republic,Currently on HIV treatment,Number,56
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Central African Republic,Newly enrolled on HIV treatment,Number,56
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Central African Republic,Currently on HIV treatment,Number,2966
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Central African Republic,Currently on HIV treatment,Number,990
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Chad,Newly enrolled on HIV treatment,Number,3723
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Chad,Currently on HIV treatment,Number,3723
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Georgia,Newly enrolled on HIV treatment,Number,115
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Ghana,Newly enrolled on HIV treatment,Number,1460
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Ghana,Currently on HIV treatment,Number,3886
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Ghana,Currently on HIV treatment,Number,19063
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Ghana,Newly enrolled on HIV treatment,Number,14805
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Ghana,Currently on HIV treatment,Number,10173
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Grenada,Newly enrolled on HIV treatment,Number,2
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Grenada,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Grenada,Currently on HIV treatment,Number,2
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Grenada,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Grenada,Currently on HIV treatment,Number,2
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Malaysia,Newly enrolled on HIV treatment,Number,5740
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Malaysia,Newly enrolled on HIV treatment,Number,2636
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Malaysia,Newly enrolled on HIV treatment,Number,1248
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Malaysia,Newly enrolled on HIV treatment,Number,716
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Malaysia,Newly enrolled on HIV treatment,Number,629
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Malaysia,Newly enrolled on HIV treatment,Number,680
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Malaysia,Currently on HIV treatment,Number,1205
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Maldives,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Maldives,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Maldives,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Maldives,Currently on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Guatemala,Newly enrolled on HIV treatment,Number,139
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Guatemala,Newly enrolled on HIV treatment,Number,77
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Guatemala,Newly enrolled on HIV treatment,Number,973
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Guatemala,Newly enrolled on HIV treatment,Number,380
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Guatemala,Currently on HIV treatment,Number,1868
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Guatemala,Newly enrolled on HIV treatment,Number,403
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Guatemala,Currently on HIV treatment,Number,1862
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Guatemala,Newly enrolled on HIV treatment,Number,493
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Guatemala,Currently on HIV treatment,Number,1552
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Guatemala,Newly enrolled on HIV treatment,Number,628
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Guatemala,Currently on HIV treatment,Number,3739
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Guatemala,Newly enrolled on HIV treatment,Number,985
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Guatemala,Currently on HIV treatment,Number,3977
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Guatemala,Currently on HIV treatment,Number,1446
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Guinea,Newly enrolled on HIV treatment,Number,1027
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Guinea,Newly enrolled on HIV treatment,Number,2886
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Guinea,Currently on HIV treatment,Number,24453
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Guyana,Newly enrolled on HIV treatment,Number,48
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Guyana,Newly enrolled on HIV treatment,Number,44
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Guyana,Newly enrolled on HIV treatment,Number,91
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Guyana,Newly enrolled on HIV treatment,Number,236
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Guyana,Newly enrolled on HIV treatment,Number,329
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Guyana,Currently on HIV treatment,Number,329
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Guyana,Currently on HIV treatment,Number,590
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Guyana,Currently on HIV treatment,Number,47
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Guyana,Newly enrolled on HIV treatment,Number,286
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Guyana,Currently on HIV treatment,Number,286
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Guyana,Newly enrolled on HIV treatment,Number,286
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Guyana,Currently on HIV treatment,Number,450
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Haiti,Newly enrolled on HIV treatment,Number,18461
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Haiti,Newly enrolled on HIV treatment,Number,13811
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Haiti,Newly enrolled on HIV treatment,Number,15311
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Maldives,Currently on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Maldives,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Maldives,Currently on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Maldives,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Maldives,Currently on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Mali,Newly enrolled on HIV treatment,Number,2521
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Mali,Newly enrolled on HIV treatment,Number,3217
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Mali,Currently on HIV treatment,Number,3589
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Mali,Currently on HIV treatment,Number,528
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Mali,Newly enrolled on HIV treatment,Number,5214
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Mali,Newly enrolled on HIV treatment,Number,6786
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Mauritania,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Mauritania,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Mauritius,Newly enrolled on HIV treatment,Number,3
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Mauritius,Newly enrolled on HIV treatment,Number,1
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Mauritius,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Mauritius,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Mauritius,Currently on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Mexico,Newly enrolled on HIV treatment,Number,3696
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Mexico,Newly enrolled on HIV treatment,Number,400
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Mexico,Newly enrolled on HIV treatment,Number,415
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Mexico,Newly enrolled on HIV treatment,Number,242
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Micronesia (Federated States of),Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Mongolia,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Mongolia,Newly enrolled on HIV treatment,Number,2
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Mongolia,Newly enrolled on HIV treatment,Number,1
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Mongolia,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Mongolia,Currently on HIV treatment,Number,7
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Mongolia,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Mongolia,Currently on HIV treatment,Number,1
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Mongolia,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Mongolia,Currently on HIV treatment,Number,1
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Mongolia,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Tajikistan,Currently on HIV treatment,Number,1082
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Tajikistan,Newly enrolled on HIV treatment,Number,939
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Thailand,Newly enrolled on HIV treatment,Number,140
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Thailand,Currently on HIV treatment,Number,1649
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Thailand,Newly enrolled on HIV treatment,Number,640
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Thailand,Currently on HIV treatment,Number,944
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Timor-Leste,Newly enrolled on HIV treatment,Number,73
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Togo,Currently on HIV treatment,Number,3160
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Trinidad and Tobago,Newly enrolled on HIV treatment,Number,1
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Trinidad and Tobago,Newly enrolled on HIV treatment,Number,4
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Trinidad and Tobago,Newly enrolled on HIV treatment,Number,4
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Trinidad and Tobago,Currently on HIV treatment,Number,11
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Trinidad and Tobago,Newly enrolled on HIV treatment,Number,3
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Trinidad and Tobago,Currently on HIV treatment,Number,6
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Trinidad and Tobago,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Trinidad and Tobago,Currently on HIV treatment,Number,60
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Trinidad and Tobago,Newly enrolled on HIV treatment,Number,5
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Trinidad and Tobago,Currently on HIV treatment,Number,25
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Tunisia,Newly enrolled on HIV treatment,Number,17
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Tunisia,Newly enrolled on HIV treatment,Number,54
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Tunisia,Newly enrolled on HIV treatment,Number,57
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Tunisia,Newly enrolled on HIV treatment,Number,147
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Tunisia,Currently on HIV treatment,Number,147
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Tunisia,Currently on HIV treatment,Number,31
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Tunisia,Newly enrolled on HIV treatment,Number,23
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Tunisia,Currently on HIV treatment,Number,23
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Tunisia,Newly enrolled on HIV treatment,Number,5
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Tunisia,Currently on HIV treatment,Number,46
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Tunisia,Newly enrolled on HIV treatment,Number,129
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Tunisia,Newly enrolled on HIV treatment,Number,107
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Uganda,Newly enrolled on HIV treatment,Number,83546
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Uganda,Currently on HIV treatment,Number,301640
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Uganda,Newly enrolled on HIV treatment,Number,28085
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Uganda,Currently on HIV treatment,Number,323141
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Uganda,Newly enrolled on HIV treatment,Number,16833
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Uganda,Currently on HIV treatment,Number,248010
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Uganda,Newly enrolled on HIV treatment,Number,10164
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Uganda,Currently on HIV treatment,Number,155276
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Uganda,Newly enrolled on HIV treatment,Number,9070
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Ukraine,Newly enrolled on HIV treatment,Number,5775
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Ukraine,Newly enrolled on HIV treatment,Number,7636
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Ukraine,Currently on HIV treatment,Number,9377
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Ukraine,Newly enrolled on HIV treatment,Number,9562
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Ukraine,Newly enrolled on HIV treatment,Number,9511
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Ukraine,Currently on HIV treatment,Number,34637
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Ukraine,Newly enrolled on HIV treatment,Number,11425
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Ukraine,Currently on HIV treatment,Number,26502
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Ukraine,Newly enrolled on HIV treatment,Number,10816
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,Ukraine,Currently on HIV treatment,Number,21013
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Ukraine,Newly enrolled on HIV treatment,Number,9028
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,Ukraine,Currently on HIV treatment,Number,13139
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Ukraine,Newly enrolled on HIV treatment,Number,8478
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Ukraine,Currently on HIV treatment,Number,11241
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,United Arab Emirates,Newly enrolled on HIV treatment,Number,3
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,United Arab Emirates,Newly enrolled on HIV treatment,Number,5
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,United Arab Emirates,Newly enrolled on HIV treatment,Number,1
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,United Arab Emirates,Newly enrolled on HIV treatment,Number,2
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,United Arab Emirates,Currently on HIV treatment,Number,1
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,United Arab Emirates,Currently on HIV treatment,Number,1
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,United Arab Emirates,Newly enrolled on HIV treatment,Number,1
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,United Arab Emirates,Currently on HIV treatment,Number,1
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,United Arab Emirates,Newly enrolled on HIV treatment,Number,3
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,United Arab Emirates,Currently on HIV treatment,Number,3
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,United Arab Emirates,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,United Republic of Tanzania,Newly enrolled on HIV treatment,Number,4202
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,United Republic of Tanzania,Currently on HIV treatment,Number,291813
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,United Republic of Tanzania,Newly enrolled on HIV treatment,Number,18939
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,United Republic of Tanzania,Currently on HIV treatment,Number,586111
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,United Republic of Tanzania,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,United Republic of Tanzania,Currently on HIV treatment,Number,411083
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2021,United Republic of Tanzania,Currently on HIV treatment,Number,253431
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,United Republic of Tanzania,Newly enrolled on HIV treatment,Number,5482
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2022,United Republic of Tanzania,Currently on HIV treatment,Number,70322
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,United Republic of Tanzania,Newly enrolled on HIV treatment,Number,17909
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,United Republic of Tanzania,Currently on HIV treatment,Number,174038
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Uruguay,Newly enrolled on HIV treatment,Number,125
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Uruguay,Newly enrolled on HIV treatment,Number,53
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Uzbekistan,Newly enrolled on HIV treatment,Number,1806
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Uzbekistan,Newly enrolled on HIV treatment,Number,6126
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Uzbekistan,Newly enrolled on HIV treatment,Number,2385
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Uzbekistan,Newly enrolled on HIV treatment,Number,2015
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Uzbekistan,Currently on HIV treatment,Number,2015
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Uzbekistan,Currently on HIV treatment,Number,3935
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Sao Tome and Principe,Currently on HIV treatment,Number,255
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Saudi Arabia,Newly enrolled on HIV treatment,Number,24
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2016,Saudi Arabia,Newly enrolled on HIV treatment,Number,12
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2017,Saudi Arabia,Newly enrolled on HIV treatment,Number,12
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Saudi Arabia,Newly enrolled on HIV treatment,Number,9
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Senegal,Newly enrolled on HIV treatment,Number,1846
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Chad,Newly enrolled on HIV treatment,Number,801
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2023,Chad,Currently on HIV treatment,Number,6178
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Chile,Newly enrolled on HIV treatment,Number,294
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Chile,Newly enrolled on HIV treatment,Number,197
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Haiti,Newly enrolled on HIV treatment,Number,15117
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2020,Haiti,Currently on HIV treatment,Number,15117
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2015,Vanuatu,Newly enrolled on HIV treatment,Number,0
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2018,Venezuela (Bolivarian Republic of),Newly enrolled on HIV treatment,Number,94
+244CFCE95113B4,TB_hiv_reg_tpt_num,Provision of TB preventive treatment to people living with HIV,2019,Venezuela (Bolivarian Republic of),Newly enrolled on HIV treatment,Number,48

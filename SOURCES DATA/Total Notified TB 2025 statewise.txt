@@ -1,0 +1,39 @@
+State 	Total Notified
+
+Andaman & Nicobar Islands	583
+Andhra Pradesh	69363
+Arunachal Pradesh	2263
+Assam	45970
+Bihar	191937
+CHANDIGARH	6001
+Chhattisgarh	37021
+Dadra and Nagar Haveli and Daman and Diu	1173
+Delhi	102964
+Goa	1716
+Gujarat	118281
+Haryana	80908
+Himachal Pradesh	13857
+Jammu & Kashmir	13143
+Jharkhand	58583
+Karnataka	66682
+Kerala	17413
+Ladakh	260
+Lakshadweep	15
+Madhya Pradesh	154546
+Maharashtra	201440
+Manipur	2313
+Meghalaya	4268
+Mizoram	2138
+Nagaland	3705
+Odisha	53673
+Puducherry	2987
+Punjab	55029
+Rajasthan	160756
+Sikkim	1091
+Tamil Nadu	83475
+Telangana	76571
+Tripura	3162
+Uttar Pradesh	633154
+Uttarakhand	26404
+West Bengal	91656
+Grand Total	2384502

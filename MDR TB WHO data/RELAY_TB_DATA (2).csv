@@ -1,0 +1,50 @@
+IND_ID,IND_CODE,INDICATOR_NAME,YEAR,COUNTRY,DISAGGR_1,UNIT,VALUE,VALUE_LO,VALUE_HI
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2017,Democratic Republic of the Congo,New,Percentage,6.6,4.4,9.8
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2017,Democratic Republic of the Congo,Previously treated,Percentage,8.7,3.2,212
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2018,Eritrea,New,Percentage,3.4,2,5.4
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2018,Eritrea,Previously treated,Percentage,3.8,0.5,13
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2005,Ethiopia,New,Percentage,6.09,4.51,8.06
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2005,Ethiopia,Previously treated,Percentage,13.16,6.49,22.87
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2018,Ethiopia,New,Percentage,3.94,2.78,5.11
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2018,Ethiopia,Previously treated,Percentage,5.11,1.99,8.24
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",1995,Kenya,New,Percentage,6.29,4.22,8.97
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",1995,Kenya,Previously treated,Percentage,36.96,23.21,52.45
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2014,Kenya,New,Percentage,4.8,3.7,6.3
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2014,Kenya,Previously treated,Percentage,4.6,2.1,8.6
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2017,Lao People's Democratic Republic,New,Percentage,4.3,2.9,5.9
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2017,Lao People's Democratic Republic,Previously treated,Percentage,4.5,0.6,15.5
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",1999,Mongolia,New,Percentage,14.32,11.06,18.12
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2007,Mongolia,New,Percentage,11.2,8.9,13.9
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2007,Mongolia,Previously treated,Percentage,9,5.4,13.9
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2015,Namibia,New,Percentage,6.7,5.7,7.8
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2015,Namibia,Previously treated,Percentage,8.7,6.7,11.1
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",1996,Nepal,New,Percentage,4.45,3.1,6.19
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",1999,Nepal,New,Percentage,3.89,2.54,5.7
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",1999,Nepal,Previously treated,Percentage,9.4,4.79,16.2
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2001,Nepal,New,Percentage,4.11,2.79,5.83
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2001,Nepal,Previously treated,Percentage,12.87,8.24,18.83
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2007,Nepal,New,Percentage,5.48,3.95,7.41
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2007,Nepal,Previously treated,Percentage,11.11,6.72,16.99
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2011,Nepal,New,Percentage,3.1,2,4.7
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2011,Nepal,Previously treated,Percentage,6.7,2.9,17.7
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2013,Pakistan,New,Percentage,8.3,7,10.7
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2013,Pakistan,Previously treated,Percentage,7.1,4,11.4
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",1996,Peru,New,Percentage,5.07,3.99,6.34
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",1996,Peru,Previously treated,Percentage,8.08,5.75,10.96
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",1999,Peru,New,Percentage,6.01,4.95,7.23
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",1999,Peru,Previously treated,Percentage,3.85,1.86,6.96
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2006,Peru,New,Percentage,6.3,5.2,7.57
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2006,Peru,Previously treated,Percentage,6.67,4.32,9.76
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2014,Ukraine,New,Percentage,13.3,11.4,15.3
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2014,Ukraine,Previously treated,Percentage,7.67,4.97,11.19
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",1997,Viet Nam,New,Percentage,17.66,14.55,21.23
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2006,Viet Nam,New,Percentage,16.43,14.51,18.53
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2006,Viet Nam,Previously treated,Percentage,24.15,18.49,30.57
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2012,Viet Nam,New,Percentage,14.3,12.3,16.5
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2012,Viet Nam,Previously treated,Percentage,17.4,12.4,23.5
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2014,South Africa,New,Percentage,1.4,0.9,1.8
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2014,South Africa,Previously treated,Percentage,2.5,1.2,3.7
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2010,Uganda,New,Percentage,3.56,2.59,4.76
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2010,Uganda,Previously treated,Percentage,11.21,6.1,18.4
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2018,United Republic of Tanzania,New,Percentage,0.3,,
+DD7C36A60A6DA8,TB_drs_dr_h_nr_prct,"Prevalence of Hr-TB (rifampicin-susceptible, isoniazid-resistant)",2018,United Republic of Tanzania,Previously treated,Percentage,0,,

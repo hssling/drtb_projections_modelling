@@ -1,0 +1,24 @@
+﻿iso3,country,year,grp,catast_pct,catast_pct_lo,catast_pct_hi
+SOM,Somalia,2024,overall,68,64,71
+SOM,Somalia,2024,TB (first-line treatment),69,65,73
+SOM,Somalia,2024,Drug-resistant TB,62,51,71
+GTM,Guatemala,2023,overall,36,29,44
+GTM,Guatemala,2023,TB (first-line treatment),36,29,44
+GTM,Guatemala,2023,Drug-resistant TB,27,4,76
+GIN,Guinea,2024,overall,53,49.7,56.4
+GIN,Guinea,2024,TB (first-line treatment),56,52.7,59.3
+GIN,Guinea,2024,Drug-resistant TB,48.9,45.5,52.3
+DOM,Dominican Republic,2023,overall,45.4,36.1,54.7
+DOM,Dominican Republic,2023,TB (first-line treatment),44.3,34.4,54.2
+DOM,Dominican Republic,2023,Drug-resistant TB,56.9,35.9,77.9
+BGD,Bangladesh,2023,overall,39.1,32.8,45.5
+BGD,Bangladesh,2023,TB (first-line treatment),38.6,32.3,45.1
+BGD,Bangladesh,2023,Drug-resistant TB,99.5,96.9,99.9
+MDA,Republic of Moldova,2024,TB (first-line treatment),28,,
+MDA,Republic of Moldova,2024,Drug-resistant TB,48,,
+CAF,Central African Republic,2023,overall,20.4,17.6,24
+CAF,Central African Republic,2023,TB (first-line treatment),19.1,16.3,22
+CAF,Central African Republic,2023,Drug-resistant TB,45.7,29.9,62
+GMB,Gambia,2023,overall,39,35.4,43.6
+GMB,Gambia,2023,TB (first-line treatment),39,35.6,43.9
+GMB,Gambia,2023,Drug-resistant TB,100,54,100

@@ -1,0 +1,35 @@
+IND_ID,IND_CODE,INDICATOR_NAME,YEAR,COUNTRY,DISAGGR_1,UNIT,VALUE,VALUE_LO,VALUE_HI
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2016,Côte d'Ivoire,New,Percentage,4.6,2.4,6.7
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2016,Côte d'Ivoire,Previously treated,Percentage,22,13.7,30.3
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2017,Democratic Republic of the Congo,New,Percentage,1.8,1,3.2
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2017,Democratic Republic of the Congo,Previously treated,Percentage,17.3,11.9,24.4
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2015,Djibouti,New,Percentage,4.3,2.8,7.7
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2015,Djibouti,Previously treated,Percentage,34.9,24.5,46.9
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2018,Eritrea,New,Percentage,2,1,3.6
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2018,Eritrea,Previously treated,Percentage,7.5,2.1,18.2
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2018,Ethiopia,New,Percentage,1.08,0.55,1.61
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2018,Ethiopia,Previously treated,Percentage,7.49,4.03,10.95
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2018,Indonesia,New,Percentage,2.6,1.9,3.5
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2018,Indonesia,Previously treated,Percentage,17.8,12.5,24.7
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2017,Lao People's Democratic Republic,New,Percentage,1.2,0.5,2
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2017,Lao People's Democratic Republic,Previously treated,Percentage,4.1,0,9.6
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2016,Mongolia,New,Percentage,5.5,4.2,6.9
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2016,Mongolia,Previously treated,Percentage,17.6,13.2,22.7
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2015,Namibia,New,Percentage,4.8,4,5.7
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2015,Namibia,Previously treated,Percentage,9,7,11.4
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2013,Pakistan,New,Percentage,4.2,3.2,5.3
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2013,Pakistan,Previously treated,Percentage,19.8,15.1,22.2
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2012,Philippines,New,Percentage,2.6,1.8,3.3
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2012,Philippines,Previously treated,Percentage,29.1,20,38.2
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2014,Ukraine,New,Percentage,25.1,22.7,27.6
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2014,Ukraine,Previously treated,Percentage,59.1,53.4,64.6
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2018,United Republic of Tanzania,Previously treated,Percentage,6.5,,
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2012,Viet Nam,New,Percentage,4.1,2.7,6.2
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2012,Viet Nam,Previously treated,Percentage,23.1,15.9,32.3
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2014,South Africa,New,Percentage,3.4,2.5,4.3
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2014,South Africa,Previously treated,Percentage,7.1,4.8,9.5
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2010,Uganda,New,Percentage,1.9,1.2,2.8
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2010,Uganda,Previously treated,Percentage,12.1,6.8,19.4
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2019,Timor-Leste,New,Percentage,0.6,0.2,1.3
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2019,Timor-Leste,Previously treated,Percentage,2.7,0.5,8.2
+E84D929A84423B,TB_drs_rr_prct,Prevalence of rifampicin resistance,2018,United Republic of Tanzania,New,Percentage,0.9,,

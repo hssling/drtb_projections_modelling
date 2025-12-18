@@ -1,0 +1,58 @@
+IND_ID,IND_CODE,INDICATOR_NAME,YEAR,COUNTRY,DISAGGR_1,UNIT,VALUE,VALUE_LO,VALUE_HI
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2016,Côte d'Ivoire,New,Percentage,3.3,1.9,4.8
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2016,Côte d'Ivoire,Previously treated,Percentage,19.2,10.8,27.6
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2017,Democratic Republic of the Congo,New,Percentage,0.9,0.4,1.8
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2017,Democratic Republic of the Congo,Previously treated,Percentage,15.8,9,26.3
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2015,Djibouti,New,Percentage,4.3,2.8,7.7
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2015,Djibouti,Previously treated,Percentage,30.8,20.9,42.8
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2018,Eritrea,New,Percentage,1,0.3,2.3
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2018,Eritrea,Previously treated,Percentage,3.8,0.5,13
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2005,Ethiopia,New,Percentage,1.62,0.86,2.76
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2005,Ethiopia,Previously treated,Percentage,11.84,5.56,21.29
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2018,Ethiopia,New,Percentage,1.02,0.49,1.54
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2018,Ethiopia,Previously treated,Percentage,8.52,4.69,12.35
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2018,Indonesia,New,Percentage,1.4,0.9,2.2
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2018,Indonesia,Previously treated,Percentage,12.4,8.1,18.7
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,1995,Kenya,New,Percentage,0,0,0.67
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,1995,Kenya,Previously treated,Percentage,0,0,6.3
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2014,Kenya,New,Percentage,0.7,0.2,1.1
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2014,Kenya,Previously treated,Percentage,6.7,3.6,11.2
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2017,Lao People's Democratic Republic,New,Percentage,0.5,0,1
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2017,Lao People's Democratic Republic,Previously treated,Percentage,2.3,0,6.7
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,1999,Mongolia,New,Percentage,0.99,0.27,2.51
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2007,Mongolia,New,Percentage,1.4,0.7,2.5
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2007,Mongolia,Previously treated,Percentage,27.5,21.8,34.1
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2015,Namibia,New,Percentage,4.5,3.7,5.4
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2015,Namibia,Previously treated,Percentage,7.9,6,10.1
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,1996,Nepal,New,Percentage,1.14,0.52,2.17
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,1999,Nepal,New,Percentage,3.74,2.42,5.52
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,1999,Nepal,Previously treated,Percentage,11.97,6.7,19.26
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2001,Nepal,New,Percentage,1.32,0.64,2.44
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2001,Nepal,Previously treated,Percentage,20.47,14.69,27.3
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2007,Nepal,New,Percentage,2.87,1.8,4.35
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2007,Nepal,Previously treated,Percentage,11.73,7.21,17.71
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2011,Nepal,New,Percentage,2.2,1.3,3.8
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2011,Nepal,Previously treated,Percentage,15.4,10.1,22.7
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2013,Pakistan,New,Percentage,3.7,2.5,5
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2013,Pakistan,Previously treated,Percentage,18.1,13,23.4
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,1996,Peru,New,Percentage,2.47,1.74,3.4
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,1996,Peru,Previously treated,Percentage,15.72,12.51,19.38
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,1999,Peru,New,Percentage,3.03,2.3,3.93
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,1999,Peru,Previously treated,Percentage,12.31,8.57,16.93
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2006,Peru,New,Percentage,5.25,4.25,6.42
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2006,Peru,Previously treated,Percentage,23.61,19.32,28.34
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2012,Philippines,New,Percentage,2,1.4,2.7
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2012,Philippines,Previously treated,Percentage,21.3,15.5,28.7
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2014,Ukraine,New,Percentage,24.1,21.8,26.7
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2014,Ukraine,Previously treated,Percentage,58.1,52.1,64.1
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,1997,Viet Nam,New,Percentage,2.34,1.31,3.87
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2006,Viet Nam,New,Percentage,2.72,1.97,3.65
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2006,Viet Nam,Previously treated,Percentage,19.32,14.18,25.37
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2012,Viet Nam,New,Percentage,4,2.5,5.4
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2012,Viet Nam,Previously treated,Percentage,23.3,16.7,29.9
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2014,South Africa,New,Percentage,2.1,1.5,2.7
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2014,South Africa,Previously treated,Percentage,4.6,3.2,6
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2010,Uganda,New,Percentage,1.4,0.6,2.2
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2010,Uganda,Previously treated,Percentage,12.1,6.8,19.4
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2018,United Republic of Tanzania,New,Percentage,0.85,0.4,1.3
+7419A4DF56E837,TB_drs_mdr_prct,Prevalence of MDR-TB,2018,United Republic of Tanzania,Previously treated,Percentage,4.6,1.1,8.2

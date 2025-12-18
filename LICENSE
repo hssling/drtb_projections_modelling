@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 TB-AMR Research Platform
+Copyright (c) 2025 Siddalingaiah H S
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,22 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+ADDITIONAL NOTES:
+
+1. The manuscript text, figures, and tables are © 2025 Siddalingaiah H S.
+   All rights reserved until publication in a peer-reviewed journal.
+
+2. The data used in this study are publicly available from WHO and Government
+   of India sources and are subject to their respective licenses.
+
+3. The interactive dashboard (HTML file) is licensed under Creative Commons
+   Attribution 4.0 International (CC BY 4.0).
+
+4. When using this code or data, please cite the published manuscript:
+   
+   Siddalingaiah HS. Projected Burden of Multidrug-Resistant Tuberculosis 
+   in India (2025–2035): A Forecasting Analysis Using Verified National 
+   Surveillance Data. [Journal Name]. 2025. [DOI]

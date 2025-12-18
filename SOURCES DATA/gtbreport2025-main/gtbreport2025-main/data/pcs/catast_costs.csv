@@ -1,0 +1,23 @@
+﻿iso3,country,cat,year,value,lci,uci
+SOM,Somalia,all,2024,200.1,72.1,328.1
+SOM,Somalia,ds,2024,200.5,70.6,330.3
+SOM,Somalia,dr,2024,198.6,50.6,346.6
+GTM,Guatemala,all,2023,532,463,610
+GTM,Guatemala,ds,2023,536,466,616
+GTM,Guatemala,dr,2023,293,130,662
+GIN,Guinea,all,2024,987.21,953.89,1020.53
+GIN,Guinea,ds,2024,1034.33,998.45,1070.21
+GIN,Guinea,dr,2024,917.12,883.56,950.68
+BGD,Bangladesh,all,2023,277,,
+BGD,Bangladesh,ds,2023,272,,
+BGD,Bangladesh,dr,2023,2807,,
+MDA,Republic of Moldova,all,2024,1150,,
+MDA,Republic of Moldova,ds,2024,800,,
+MDA,Republic of Moldova,dr,2024,2100,,
+CAF,Central African Republic,all,2023,144.1201135,125.8176174,162.4208254
+CAF,Central African Republic,ds,2023,130.7170767,112.705408,148.7287455
+CAF,Central African Republic,dr,2023,397.8179028,295.8838118,517.5905936
+GMB,Gambia,all,2023,73.89,58.59,92.16
+DOM,Dominican Republic,all,2023,916.4,468.8,1400.8
+DOM,Dominican Republic,ds,2023,790.2,382.1,1229.5
+DOM,Dominican Republic,dr,2023,2192.7,204.4,4842.7

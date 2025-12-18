@@ -1,0 +1,3 @@
+IND_ID,IND_CODE,INDICATOR_NAME,YEAR,COUNTRY,DISAGGR_1,UNIT,VALUE,VALUE_LO,VALUE_HI
+64122AC2ADD25F,TB_drs_dr_h_nr_oth_r_prct,Prevalence of additional drug resistance among people with Hr-TB,2013,Pakistan,Lfx-resistance among people with Hr-TB,Percentage,13.5,8.1,20.7
+64122AC2ADD25F,TB_drs_dr_h_nr_oth_r_prct,Prevalence of additional drug resistance among people with Hr-TB,2013,Pakistan,Fq-resistance among people with Hr-TB,Percentage,13.5,8.1,20.7

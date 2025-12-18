@@ -1,0 +1,1513 @@
+year,month,date,state_name,cases_new,cases_retreated,rifampicin_resistant_new,rifampicin_resistant_retreated,data_type,note
+2017,1,2017-01-01,Andhra Pradesh,832728,124836,74726,10544,synthetic_demo,Synthetic data for framework demonstration only
+2017,2,2017-02-01,Andhra Pradesh,775217,113329,68195,9622,synthetic_demo,Synthetic data for framework demonstration only
+2017,3,2017-03-01,Andhra Pradesh,634395,112088,63625,8357,synthetic_demo,Synthetic data for framework demonstration only
+2017,4,2017-04-01,Andhra Pradesh,603891,64834,51314,6378,synthetic_demo,Synthetic data for framework demonstration only
+2017,5,2017-05-01,Andhra Pradesh,579984,85165,49915,7968,synthetic_demo,Synthetic data for framework demonstration only
+2017,6,2017-06-01,Andhra Pradesh,647366,85127,53902,6667,synthetic_demo,Synthetic data for framework demonstration only
+2017,7,2017-07-01,Andhra Pradesh,638790,76422,65776,7235,synthetic_demo,Synthetic data for framework demonstration only
+2017,8,2017-08-01,Andhra Pradesh,807428,97301,70308,7817,synthetic_demo,Synthetic data for framework demonstration only
+2017,9,2017-09-01,Andhra Pradesh,834609,107114,74976,9757,synthetic_demo,Synthetic data for framework demonstration only
+2017,10,2017-10-01,Andhra Pradesh,917958,128825,91567,13102,synthetic_demo,Synthetic data for framework demonstration only
+2017,11,2017-11-01,Andhra Pradesh,897676,100608,85561,8555,synthetic_demo,Synthetic data for framework demonstration only
+2017,12,2017-12-01,Andhra Pradesh,869531,118600,91912,9859,synthetic_demo,Synthetic data for framework demonstration only
+2018,1,2018-01-01,Andhra Pradesh,872470,87590,76518,8371,synthetic_demo,Synthetic data for framework demonstration only
+2018,2,2018-02-01,Andhra Pradesh,825872,84171,65266,6881,synthetic_demo,Synthetic data for framework demonstration only
+2018,3,2018-03-01,Andhra Pradesh,689779,92262,59366,8206,synthetic_demo,Synthetic data for framework demonstration only
+2018,4,2018-04-01,Andhra Pradesh,606820,94382,54054,8598,synthetic_demo,Synthetic data for framework demonstration only
+2018,5,2018-05-01,Andhra Pradesh,592094,63342,48035,5763,synthetic_demo,Synthetic data for framework demonstration only
+2018,6,2018-06-01,Andhra Pradesh,588156,75394,54299,5908,synthetic_demo,Synthetic data for framework demonstration only
+2018,7,2018-07-01,Andhra Pradesh,715086,77220,59245,7556,synthetic_demo,Synthetic data for framework demonstration only
+2018,8,2018-08-01,Andhra Pradesh,754211,102682,66686,9551,synthetic_demo,Synthetic data for framework demonstration only
+2018,9,2018-09-01,Andhra Pradesh,859977,102143,78700,10592,synthetic_demo,Synthetic data for framework demonstration only
+2018,10,2018-10-01,Andhra Pradesh,891083,94700,87106,9867,synthetic_demo,Synthetic data for framework demonstration only
+2018,11,2018-11-01,Andhra Pradesh,891127,136907,93732,11201,synthetic_demo,Synthetic data for framework demonstration only
+2018,12,2018-12-01,Andhra Pradesh,926575,97793,84621,9178,synthetic_demo,Synthetic data for framework demonstration only
+2019,1,2019-01-01,Andhra Pradesh,783047,107426,78527,10086,synthetic_demo,Synthetic data for framework demonstration only
+2019,2,2019-02-01,Andhra Pradesh,747770,91295,63529,8492,synthetic_demo,Synthetic data for framework demonstration only
+2019,3,2019-03-01,Andhra Pradesh,708663,103081,67219,8818,synthetic_demo,Synthetic data for framework demonstration only
+2019,4,2019-04-01,Andhra Pradesh,561368,85400,59732,8194,synthetic_demo,Synthetic data for framework demonstration only
+2019,5,2019-05-01,Andhra Pradesh,536295,76372,46337,6159,synthetic_demo,Synthetic data for framework demonstration only
+2019,6,2019-06-01,Andhra Pradesh,584835,86288,56472,8216,synthetic_demo,Synthetic data for framework demonstration only
+2019,7,2019-07-01,Andhra Pradesh,714147,107317,60338,9180,synthetic_demo,Synthetic data for framework demonstration only
+2019,8,2019-08-01,Andhra Pradesh,763003,93478,69002,7649,synthetic_demo,Synthetic data for framework demonstration only
+2019,9,2019-09-01,Andhra Pradesh,811589,120504,84068,10991,synthetic_demo,Synthetic data for framework demonstration only
+2019,10,2019-10-01,Andhra Pradesh,1029991,139561,83098,11649,synthetic_demo,Synthetic data for framework demonstration only
+2019,11,2019-11-01,Andhra Pradesh,996125,128510,83912,10837,synthetic_demo,Synthetic data for framework demonstration only
+2019,12,2019-12-01,Andhra Pradesh,869007,104114,80706,9087,synthetic_demo,Synthetic data for framework demonstration only
+2020,1,2020-01-01,Andhra Pradesh,892221,111961,69058,9456,synthetic_demo,Synthetic data for framework demonstration only
+2020,2,2020-02-01,Andhra Pradesh,714388,87737,74633,7915,synthetic_demo,Synthetic data for framework demonstration only
+2020,3,2020-03-01,Andhra Pradesh,625274,85149,56344,8910,synthetic_demo,Synthetic data for framework demonstration only
+2020,4,2020-04-01,Andhra Pradesh,613597,76631,52833,7159,synthetic_demo,Synthetic data for framework demonstration only
+2020,5,2020-05-01,Andhra Pradesh,578451,94147,47961,6926,synthetic_demo,Synthetic data for framework demonstration only
+2020,6,2020-06-01,Andhra Pradesh,619612,76423,50088,6384,synthetic_demo,Synthetic data for framework demonstration only
+2020,7,2020-07-01,Andhra Pradesh,706874,108901,60123,8519,synthetic_demo,Synthetic data for framework demonstration only
+2020,8,2020-08-01,Andhra Pradesh,818626,79275,73650,7143,synthetic_demo,Synthetic data for framework demonstration only
+2020,9,2020-09-01,Andhra Pradesh,947542,87297,73594,7986,synthetic_demo,Synthetic data for framework demonstration only
+2020,10,2020-10-01,Andhra Pradesh,848103,104258,81666,9880,synthetic_demo,Synthetic data for framework demonstration only
+2020,11,2020-11-01,Andhra Pradesh,937151,112891,89589,8578,synthetic_demo,Synthetic data for framework demonstration only
+2020,12,2020-12-01,Andhra Pradesh,856263,125994,86685,12680,synthetic_demo,Synthetic data for framework demonstration only
+2021,1,2021-01-01,Andhra Pradesh,787578,114442,71011,10881,synthetic_demo,Synthetic data for framework demonstration only
+2021,2,2021-02-01,Andhra Pradesh,726464,93277,74641,7463,synthetic_demo,Synthetic data for framework demonstration only
+2021,3,2021-03-01,Andhra Pradesh,706483,104005,56426,9457,synthetic_demo,Synthetic data for framework demonstration only
+2021,4,2021-04-01,Andhra Pradesh,560372,73499,55451,6641,synthetic_demo,Synthetic data for framework demonstration only
+2021,5,2021-05-01,Andhra Pradesh,570717,65884,54420,4970,synthetic_demo,Synthetic data for framework demonstration only
+2021,6,2021-06-01,Andhra Pradesh,589471,85598,56356,7708,synthetic_demo,Synthetic data for framework demonstration only
+2021,7,2021-07-01,Andhra Pradesh,715455,113351,64769,9017,synthetic_demo,Synthetic data for framework demonstration only
+2021,8,2021-08-01,Andhra Pradesh,779508,120211,63676,9004,synthetic_demo,Synthetic data for framework demonstration only
+2021,9,2021-09-01,Andhra Pradesh,900208,111227,74702,10536,synthetic_demo,Synthetic data for framework demonstration only
+2021,10,2021-10-01,Andhra Pradesh,888404,104464,85519,8071,synthetic_demo,Synthetic data for framework demonstration only
+2021,11,2021-11-01,Andhra Pradesh,926305,131264,84060,11937,synthetic_demo,Synthetic data for framework demonstration only
+2021,12,2021-12-01,Andhra Pradesh,878483,141709,83827,11934,synthetic_demo,Synthetic data for framework demonstration only
+2022,1,2022-01-01,Andhra Pradesh,788266,105604,75853,8614,synthetic_demo,Synthetic data for framework demonstration only
+2022,2,2022-02-01,Andhra Pradesh,794515,111095,71813,10911,synthetic_demo,Synthetic data for framework demonstration only
+2022,3,2022-03-01,Andhra Pradesh,669796,96222,61162,8371,synthetic_demo,Synthetic data for framework demonstration only
+2022,4,2022-04-01,Andhra Pradesh,673979,77700,49147,6838,synthetic_demo,Synthetic data for framework demonstration only
+2022,5,2022-05-01,Andhra Pradesh,548870,57971,51410,4784,synthetic_demo,Synthetic data for framework demonstration only
+2022,6,2022-06-01,Andhra Pradesh,616979,70339,54813,6363,synthetic_demo,Synthetic data for framework demonstration only
+2022,7,2022-07-01,Andhra Pradesh,753236,82103,56407,6846,synthetic_demo,Synthetic data for framework demonstration only
+2022,8,2022-08-01,Andhra Pradesh,708428,94403,71104,9019,synthetic_demo,Synthetic data for framework demonstration only
+2022,9,2022-09-01,Andhra Pradesh,816384,104098,78022,10063,synthetic_demo,Synthetic data for framework demonstration only
+2022,10,2022-10-01,Andhra Pradesh,951480,120916,82517,10661,synthetic_demo,Synthetic data for framework demonstration only
+2022,11,2022-11-01,Andhra Pradesh,977649,117127,80347,9304,synthetic_demo,Synthetic data for framework demonstration only
+2022,12,2022-12-01,Andhra Pradesh,897189,118204,90424,9807,synthetic_demo,Synthetic data for framework demonstration only
+2023,1,2023-01-01,Andhra Pradesh,941659,99598,78617,8669,synthetic_demo,Synthetic data for framework demonstration only
+2023,2,2023-02-01,Andhra Pradesh,851792,81225,70883,7162,synthetic_demo,Synthetic data for framework demonstration only
+2023,3,2023-03-01,Andhra Pradesh,656233,92662,60219,7753,synthetic_demo,Synthetic data for framework demonstration only
+2023,4,2023-04-01,Andhra Pradesh,569349,68326,58574,6005,synthetic_demo,Synthetic data for framework demonstration only
+2023,5,2023-05-01,Andhra Pradesh,549683,74045,52876,6298,synthetic_demo,Synthetic data for framework demonstration only
+2023,6,2023-06-01,Andhra Pradesh,556459,72894,56562,6207,synthetic_demo,Synthetic data for framework demonstration only
+2023,7,2023-07-01,Andhra Pradesh,686993,64926,67265,6357,synthetic_demo,Synthetic data for framework demonstration only
+2023,8,2023-08-01,Andhra Pradesh,739077,87774,66580,7758,synthetic_demo,Synthetic data for framework demonstration only
+2023,9,2023-09-01,Andhra Pradesh,911351,89491,79372,8042,synthetic_demo,Synthetic data for framework demonstration only
+2023,10,2023-10-01,Andhra Pradesh,1010749,142732,87441,11718,synthetic_demo,Synthetic data for framework demonstration only
+2023,11,2023-11-01,Andhra Pradesh,969914,107004,92386,8270,synthetic_demo,Synthetic data for framework demonstration only
+2023,12,2023-12-01,Andhra Pradesh,962456,101357,83033,10530,synthetic_demo,Synthetic data for framework demonstration only
+2017,1,2017-01-01,Assam,567550,67574,71474,8281,synthetic_demo,Synthetic data for framework demonstration only
+2017,2,2017-02-01,Assam,616236,66700,67251,9168,synthetic_demo,Synthetic data for framework demonstration only
+2017,3,2017-03-01,Assam,493403,56777,58266,6382,synthetic_demo,Synthetic data for framework demonstration only
+2017,4,2017-04-01,Assam,476622,65933,55009,7685,synthetic_demo,Synthetic data for framework demonstration only
+2017,5,2017-05-01,Assam,416720,55306,50089,5924,synthetic_demo,Synthetic data for framework demonstration only
+2017,6,2017-06-01,Assam,404309,49393,56299,5431,synthetic_demo,Synthetic data for framework demonstration only
+2017,7,2017-07-01,Assam,510100,50575,62251,6258,synthetic_demo,Synthetic data for framework demonstration only
+2017,8,2017-08-01,Assam,536909,77221,69172,9229,synthetic_demo,Synthetic data for framework demonstration only
+2017,9,2017-09-01,Assam,644213,72694,77947,9801,synthetic_demo,Synthetic data for framework demonstration only
+2017,10,2017-10-01,Assam,739350,85153,82060,9623,synthetic_demo,Synthetic data for framework demonstration only
+2017,11,2017-11-01,Assam,658737,80341,86887,9840,synthetic_demo,Synthetic data for framework demonstration only
+2017,12,2017-12-01,Assam,741214,81212,86000,10274,synthetic_demo,Synthetic data for framework demonstration only
+2018,1,2018-01-01,Assam,598246,87431,67684,10675,synthetic_demo,Synthetic data for framework demonstration only
+2018,2,2018-02-01,Assam,618818,69017,63166,8061,synthetic_demo,Synthetic data for framework demonstration only
+2018,3,2018-03-01,Assam,480815,55048,56952,6370,synthetic_demo,Synthetic data for framework demonstration only
+2018,4,2018-04-01,Assam,415270,55277,54007,7209,synthetic_demo,Synthetic data for framework demonstration only
+2018,5,2018-05-01,Assam,456792,52574,43829,5498,synthetic_demo,Synthetic data for framework demonstration only
+2018,6,2018-06-01,Assam,477176,58406,46836,6084,synthetic_demo,Synthetic data for framework demonstration only
+2018,7,2018-07-01,Assam,484996,69777,54301,8095,synthetic_demo,Synthetic data for framework demonstration only
+2018,8,2018-08-01,Assam,589912,82161,66517,10340,synthetic_demo,Synthetic data for framework demonstration only
+2018,9,2018-09-01,Assam,647282,73045,76072,9240,synthetic_demo,Synthetic data for framework demonstration only
+2018,10,2018-10-01,Assam,639276,90329,78002,11031,synthetic_demo,Synthetic data for framework demonstration only
+2018,11,2018-11-01,Assam,724367,73494,91385,9901,synthetic_demo,Synthetic data for framework demonstration only
+2018,12,2018-12-01,Assam,647014,98298,85448,12748,synthetic_demo,Synthetic data for framework demonstration only
+2019,1,2019-01-01,Assam,574473,72001,71018,9085,synthetic_demo,Synthetic data for framework demonstration only
+2019,2,2019-02-01,Assam,562062,73597,67294,8364,synthetic_demo,Synthetic data for framework demonstration only
+2019,3,2019-03-01,Assam,473528,60902,62655,7349,synthetic_demo,Synthetic data for framework demonstration only
+2019,4,2019-04-01,Assam,470174,47698,47652,4928,synthetic_demo,Synthetic data for framework demonstration only
+2019,5,2019-05-01,Assam,418731,64333,46476,7309,synthetic_demo,Synthetic data for framework demonstration only
+2019,6,2019-06-01,Assam,447359,69901,48927,8076,synthetic_demo,Synthetic data for framework demonstration only
+2019,7,2019-07-01,Assam,481342,52342,58256,6244,synthetic_demo,Synthetic data for framework demonstration only
+2019,8,2019-08-01,Assam,571142,80767,60349,9144,synthetic_demo,Synthetic data for framework demonstration only
+2019,9,2019-09-01,Assam,600713,66096,69640,6999,synthetic_demo,Synthetic data for framework demonstration only
+2019,10,2019-10-01,Assam,702316,98921,82020,10914,synthetic_demo,Synthetic data for framework demonstration only
+2019,11,2019-11-01,Assam,646584,107618,82031,13115,synthetic_demo,Synthetic data for framework demonstration only
+2019,12,2019-12-01,Assam,642298,83425,84527,8212,synthetic_demo,Synthetic data for framework demonstration only
+2020,1,2020-01-01,Assam,606597,84197,71948,9921,synthetic_demo,Synthetic data for framework demonstration only
+2020,2,2020-02-01,Assam,551100,56559,62513,7003,synthetic_demo,Synthetic data for framework demonstration only
+2020,3,2020-03-01,Assam,509168,62717,59674,8462,synthetic_demo,Synthetic data for framework demonstration only
+2020,4,2020-04-01,Assam,433916,53046,47190,6460,synthetic_demo,Synthetic data for framework demonstration only
+2020,5,2020-05-01,Assam,411007,44459,51897,5172,synthetic_demo,Synthetic data for framework demonstration only
+2020,6,2020-06-01,Assam,479673,59952,52361,6170,synthetic_demo,Synthetic data for framework demonstration only
+2020,7,2020-07-01,Assam,490544,79710,53362,8819,synthetic_demo,Synthetic data for framework demonstration only
+2020,8,2020-08-01,Assam,524539,81170,60013,9537,synthetic_demo,Synthetic data for framework demonstration only
+2020,9,2020-09-01,Assam,703829,77428,82930,7919,synthetic_demo,Synthetic data for framework demonstration only
+2020,10,2020-10-01,Assam,663779,84271,73859,11100,synthetic_demo,Synthetic data for framework demonstration only
+2020,11,2020-11-01,Assam,714539,110263,91513,12404,synthetic_demo,Synthetic data for framework demonstration only
+2020,12,2020-12-01,Assam,632714,77859,73051,8972,synthetic_demo,Synthetic data for framework demonstration only
+2021,1,2021-01-01,Assam,665590,81773,67039,8617,synthetic_demo,Synthetic data for framework demonstration only
+2021,2,2021-02-01,Assam,524020,64105,63357,7944,synthetic_demo,Synthetic data for framework demonstration only
+2021,3,2021-03-01,Assam,494115,67739,57714,8292,synthetic_demo,Synthetic data for framework demonstration only
+2021,4,2021-04-01,Assam,456152,48294,51238,5833,synthetic_demo,Synthetic data for framework demonstration only
+2021,5,2021-05-01,Assam,387720,46352,51956,5084,synthetic_demo,Synthetic data for framework demonstration only
+2021,6,2021-06-01,Assam,467760,62939,50307,7534,synthetic_demo,Synthetic data for framework demonstration only
+2021,7,2021-07-01,Assam,548310,51559,53405,6760,synthetic_demo,Synthetic data for framework demonstration only
+2021,8,2021-08-01,Assam,537791,82673,61025,9131,synthetic_demo,Synthetic data for framework demonstration only
+2021,9,2021-09-01,Assam,610052,86209,75565,10395,synthetic_demo,Synthetic data for framework demonstration only
+2021,10,2021-10-01,Assam,690486,79103,78078,9370,synthetic_demo,Synthetic data for framework demonstration only
+2021,11,2021-11-01,Assam,649040,78414,81442,10420,synthetic_demo,Synthetic data for framework demonstration only
+2021,12,2021-12-01,Assam,692676,89315,81094,9638,synthetic_demo,Synthetic data for framework demonstration only
+2022,1,2022-01-01,Assam,671861,87574,77379,9937,synthetic_demo,Synthetic data for framework demonstration only
+2022,2,2022-02-01,Assam,530344,68809,68578,7710,synthetic_demo,Synthetic data for framework demonstration only
+2022,3,2022-03-01,Assam,522837,58878,53319,6251,synthetic_demo,Synthetic data for framework demonstration only
+2022,4,2022-04-01,Assam,449745,64174,47496,7334,synthetic_demo,Synthetic data for framework demonstration only
+2022,5,2022-05-01,Assam,425187,65855,43838,7245,synthetic_demo,Synthetic data for framework demonstration only
+2022,6,2022-06-01,Assam,422807,45558,51233,6086,synthetic_demo,Synthetic data for framework demonstration only
+2022,7,2022-07-01,Assam,536570,67786,60328,7755,synthetic_demo,Synthetic data for framework demonstration only
+2022,8,2022-08-01,Assam,537479,89982,59698,9785,synthetic_demo,Synthetic data for framework demonstration only
+2022,9,2022-09-01,Assam,635056,71302,75649,7254,synthetic_demo,Synthetic data for framework demonstration only
+2022,10,2022-10-01,Assam,697479,77921,77141,8215,synthetic_demo,Synthetic data for framework demonstration only
+2022,11,2022-11-01,Assam,745278,88289,85931,12464,synthetic_demo,Synthetic data for framework demonstration only
+2022,12,2022-12-01,Assam,636162,96223,84765,10794,synthetic_demo,Synthetic data for framework demonstration only
+2023,1,2023-01-01,Assam,604699,69691,74088,8032,synthetic_demo,Synthetic data for framework demonstration only
+2023,2,2023-02-01,Assam,578276,73235,61104,8842,synthetic_demo,Synthetic data for framework demonstration only
+2023,3,2023-03-01,Assam,460148,57800,56457,6469,synthetic_demo,Synthetic data for framework demonstration only
+2023,4,2023-04-01,Assam,469767,48281,54363,6489,synthetic_demo,Synthetic data for framework demonstration only
+2023,5,2023-05-01,Assam,407354,56745,50217,5629,synthetic_demo,Synthetic data for framework demonstration only
+2023,6,2023-06-01,Assam,480973,46533,54496,5072,synthetic_demo,Synthetic data for framework demonstration only
+2023,7,2023-07-01,Assam,470869,74644,62733,7425,synthetic_demo,Synthetic data for framework demonstration only
+2023,8,2023-08-01,Assam,533935,74481,71722,8990,synthetic_demo,Synthetic data for framework demonstration only
+2023,9,2023-09-01,Assam,594568,71565,81789,9035,synthetic_demo,Synthetic data for framework demonstration only
+2023,10,2023-10-01,Assam,620516,79615,80429,8948,synthetic_demo,Synthetic data for framework demonstration only
+2023,11,2023-11-01,Assam,775361,97300,85803,10823,synthetic_demo,Synthetic data for framework demonstration only
+2023,12,2023-12-01,Assam,717782,92733,78596,10569,synthetic_demo,Synthetic data for framework demonstration only
+2017,1,2017-01-01,Bihar,2315768,389792,341290,49089,synthetic_demo,Synthetic data for framework demonstration only
+2017,2,2017-02-01,Bihar,2186636,294784,295451,36989,synthetic_demo,Synthetic data for framework demonstration only
+2017,3,2017-03-01,Bihar,2038132,228304,300545,33948,synthetic_demo,Synthetic data for framework demonstration only
+2017,4,2017-04-01,Bihar,1867669,189678,219815,24761,synthetic_demo,Synthetic data for framework demonstration only
+2017,5,2017-05-01,Bihar,1834093,165765,244385,22066,synthetic_demo,Synthetic data for framework demonstration only
+2017,6,2017-06-01,Bihar,1695214,205352,229085,26414,synthetic_demo,Synthetic data for framework demonstration only
+2017,7,2017-07-01,Bihar,2135547,305138,251555,35163,synthetic_demo,Synthetic data for framework demonstration only
+2017,8,2017-08-01,Bihar,2063596,274635,282893,37526,synthetic_demo,Synthetic data for framework demonstration only
+2017,9,2017-09-01,Bihar,2493429,327545,358740,44833,synthetic_demo,Synthetic data for framework demonstration only
+2017,10,2017-10-01,Bihar,2814884,379429,382723,55378,synthetic_demo,Synthetic data for framework demonstration only
+2017,11,2017-11-01,Bihar,2989478,414483,354446,55437,synthetic_demo,Synthetic data for framework demonstration only
+2017,12,2017-12-01,Bihar,2831477,412843,393080,51051,synthetic_demo,Synthetic data for framework demonstration only
+2018,1,2018-01-01,Bihar,2608390,352966,356294,51587,synthetic_demo,Synthetic data for framework demonstration only
+2018,2,2018-02-01,Bihar,2417387,286927,277548,42566,synthetic_demo,Synthetic data for framework demonstration only
+2018,3,2018-03-01,Bihar,1920831,268408,284232,35113,synthetic_demo,Synthetic data for framework demonstration only
+2018,4,2018-04-01,Bihar,1875314,211372,257186,28603,synthetic_demo,Synthetic data for framework demonstration only
+2018,5,2018-05-01,Bihar,1729629,249080,237464,29609,synthetic_demo,Synthetic data for framework demonstration only
+2018,6,2018-06-01,Bihar,1908862,228848,226159,33102,synthetic_demo,Synthetic data for framework demonstration only
+2018,7,2018-07-01,Bihar,2015127,219784,279237,35639,synthetic_demo,Synthetic data for framework demonstration only
+2018,8,2018-08-01,Bihar,2350387,229647,299593,34187,synthetic_demo,Synthetic data for framework demonstration only
+2018,9,2018-09-01,Bihar,2541653,343333,386664,47565,synthetic_demo,Synthetic data for framework demonstration only
+2018,10,2018-10-01,Bihar,2643052,326606,384755,44108,synthetic_demo,Synthetic data for framework demonstration only
+2018,11,2018-11-01,Bihar,3155141,285554,408785,39471,synthetic_demo,Synthetic data for framework demonstration only
+2018,12,2018-12-01,Bihar,2750557,295630,395781,41240,synthetic_demo,Synthetic data for framework demonstration only
+2019,1,2019-01-01,Bihar,2625167,343760,369680,47661,synthetic_demo,Synthetic data for framework demonstration only
+2019,2,2019-02-01,Bihar,2258764,334211,287314,47571,synthetic_demo,Synthetic data for framework demonstration only
+2019,3,2019-03-01,Bihar,2063651,218134,296445,33413,synthetic_demo,Synthetic data for framework demonstration only
+2019,4,2019-04-01,Bihar,1797878,211540,263631,30003,synthetic_demo,Synthetic data for framework demonstration only
+2019,5,2019-05-01,Bihar,1808471,190798,211691,23919,synthetic_demo,Synthetic data for framework demonstration only
+2019,6,2019-06-01,Bihar,1936917,209410,227095,29090,synthetic_demo,Synthetic data for framework demonstration only
+2019,7,2019-07-01,Bihar,1960648,273894,293430,35431,synthetic_demo,Synthetic data for framework demonstration only
+2019,8,2019-08-01,Bihar,2261724,276449,312519,37168,synthetic_demo,Synthetic data for framework demonstration only
+2019,9,2019-09-01,Bihar,2422009,390412,333358,55320,synthetic_demo,Synthetic data for framework demonstration only
+2019,10,2019-10-01,Bihar,2580805,305326,343278,39606,synthetic_demo,Synthetic data for framework demonstration only
+2019,11,2019-11-01,Bihar,2831490,333237,366457,45724,synthetic_demo,Synthetic data for framework demonstration only
+2019,12,2019-12-01,Bihar,2786892,297308,337693,38515,synthetic_demo,Synthetic data for framework demonstration only
+2020,1,2020-01-01,Bihar,2609744,348215,358488,42921,synthetic_demo,Synthetic data for framework demonstration only
+2020,2,2020-02-01,Bihar,2311573,331879,308074,45347,synthetic_demo,Synthetic data for framework demonstration only
+2020,3,2020-03-01,Bihar,2119275,216309,254732,26248,synthetic_demo,Synthetic data for framework demonstration only
+2020,4,2020-04-01,Bihar,1774568,271647,250137,34449,synthetic_demo,Synthetic data for framework demonstration only
+2020,5,2020-05-01,Bihar,1750605,216894,206638,29007,synthetic_demo,Synthetic data for framework demonstration only
+2020,6,2020-06-01,Bihar,1893997,285551,219624,37963,synthetic_demo,Synthetic data for framework demonstration only
+2020,7,2020-07-01,Bihar,1979249,204875,279394,32504,synthetic_demo,Synthetic data for framework demonstration only
+2020,8,2020-08-01,Bihar,2155933,283748,318747,35049,synthetic_demo,Synthetic data for framework demonstration only
+2020,9,2020-09-01,Bihar,2440547,382599,367939,48328,synthetic_demo,Synthetic data for framework demonstration only
+2020,10,2020-10-01,Bihar,2808964,325706,388387,42780,synthetic_demo,Synthetic data for framework demonstration only
+2020,11,2020-11-01,Bihar,2681050,319776,368834,39248,synthetic_demo,Synthetic data for framework demonstration only
+2020,12,2020-12-01,Bihar,3001723,354946,373768,47080,synthetic_demo,Synthetic data for framework demonstration only
+2021,1,2021-01-01,Bihar,2460627,301556,369205,36772,synthetic_demo,Synthetic data for framework demonstration only
+2021,2,2021-02-01,Bihar,2389590,254890,326014,33294,synthetic_demo,Synthetic data for framework demonstration only
+2021,3,2021-03-01,Bihar,2053824,217184,288564,30312,synthetic_demo,Synthetic data for framework demonstration only
+2021,4,2021-04-01,Bihar,1841828,231947,254260,34472,synthetic_demo,Synthetic data for framework demonstration only
+2021,5,2021-05-01,Bihar,1786100,178019,230752,22431,synthetic_demo,Synthetic data for framework demonstration only
+2021,6,2021-06-01,Bihar,1874305,207579,226813,31166,synthetic_demo,Synthetic data for framework demonstration only
+2021,7,2021-07-01,Bihar,2197782,256844,301365,32168,synthetic_demo,Synthetic data for framework demonstration only
+2021,8,2021-08-01,Bihar,2455572,349699,284560,45190,synthetic_demo,Synthetic data for framework demonstration only
+2021,9,2021-09-01,Bihar,2672458,272404,342723,40957,synthetic_demo,Synthetic data for framework demonstration only
+2021,10,2021-10-01,Bihar,2922787,320581,356971,41881,synthetic_demo,Synthetic data for framework demonstration only
+2021,11,2021-11-01,Bihar,2751251,448054,396956,52564,synthetic_demo,Synthetic data for framework demonstration only
+2021,12,2021-12-01,Bihar,2709384,366278,381447,47603,synthetic_demo,Synthetic data for framework demonstration only
+2022,1,2022-01-01,Bihar,2302385,381904,351620,49758,synthetic_demo,Synthetic data for framework demonstration only
+2022,2,2022-02-01,Bihar,2355356,308234,284850,39975,synthetic_demo,Synthetic data for framework demonstration only
+2022,3,2022-03-01,Bihar,2074933,305988,294679,41146,synthetic_demo,Synthetic data for framework demonstration only
+2022,4,2022-04-01,Bihar,1844154,224858,251641,34820,synthetic_demo,Synthetic data for framework demonstration only
+2022,5,2022-05-01,Bihar,1796884,242101,225063,29479,synthetic_demo,Synthetic data for framework demonstration only
+2022,6,2022-06-01,Bihar,1942737,205998,253204,26546,synthetic_demo,Synthetic data for framework demonstration only
+2022,7,2022-07-01,Bihar,2125808,225268,249365,32931,synthetic_demo,Synthetic data for framework demonstration only
+2022,8,2022-08-01,Bihar,2432702,258078,307661,33143,synthetic_demo,Synthetic data for framework demonstration only
+2022,9,2022-09-01,Bihar,2705460,287043,368179,39117,synthetic_demo,Synthetic data for framework demonstration only
+2022,10,2022-10-01,Bihar,2866302,365751,362382,52635,synthetic_demo,Synthetic data for framework demonstration only
+2022,11,2022-11-01,Bihar,2641702,372681,375644,48477,synthetic_demo,Synthetic data for framework demonstration only
+2022,12,2022-12-01,Bihar,2815053,357988,360035,46233,synthetic_demo,Synthetic data for framework demonstration only
+2023,1,2023-01-01,Bihar,2366536,284387,372530,35696,synthetic_demo,Synthetic data for framework demonstration only
+2023,2,2023-02-01,Bihar,2231288,213412,285475,28296,synthetic_demo,Synthetic data for framework demonstration only
+2023,3,2023-03-01,Bihar,1936612,231329,289326,35048,synthetic_demo,Synthetic data for framework demonstration only
+2023,4,2023-04-01,Bihar,1793099,243461,225636,30801,synthetic_demo,Synthetic data for framework demonstration only
+2023,5,2023-05-01,Bihar,1530898,197843,224288,26094,synthetic_demo,Synthetic data for framework demonstration only
+2023,6,2023-06-01,Bihar,1768250,240784,239313,34112,synthetic_demo,Synthetic data for framework demonstration only
+2023,7,2023-07-01,Bihar,2148577,217263,263411,29961,synthetic_demo,Synthetic data for framework demonstration only
+2023,8,2023-08-01,Bihar,2172383,268947,322711,30861,synthetic_demo,Synthetic data for framework demonstration only
+2023,9,2023-09-01,Bihar,2875322,360511,376768,46613,synthetic_demo,Synthetic data for framework demonstration only
+2023,10,2023-10-01,Bihar,2798666,293330,384402,43280,synthetic_demo,Synthetic data for framework demonstration only
+2023,11,2023-11-01,Bihar,3027329,458631,355258,56592,synthetic_demo,Synthetic data for framework demonstration only
+2023,12,2023-12-01,Bihar,2654172,286084,360388,37267,synthetic_demo,Synthetic data for framework demonstration only
+2017,1,2017-01-01,Delhi,221669,35432,12697,2105,synthetic_demo,Synthetic data for framework demonstration only
+2017,2,2017-02-01,Delhi,199049,26780,10940,1466,synthetic_demo,Synthetic data for framework demonstration only
+2017,3,2017-03-01,Delhi,181848,24673,9672,1350,synthetic_demo,Synthetic data for framework demonstration only
+2017,4,2017-04-01,Delhi,168159,19849,8787,1220,synthetic_demo,Synthetic data for framework demonstration only
+2017,5,2017-05-01,Delhi,146163,22316,7800,1380,synthetic_demo,Synthetic data for framework demonstration only
+2017,6,2017-06-01,Delhi,168072,15808,8364,847,synthetic_demo,Synthetic data for framework demonstration only
+2017,7,2017-07-01,Delhi,190149,21068,9905,1230,synthetic_demo,Synthetic data for framework demonstration only
+2017,8,2017-08-01,Delhi,205027,26769,12394,1455,synthetic_demo,Synthetic data for framework demonstration only
+2017,9,2017-09-01,Delhi,241195,31512,14104,1604,synthetic_demo,Synthetic data for framework demonstration only
+2017,10,2017-10-01,Delhi,273842,37912,15198,1960,synthetic_demo,Synthetic data for framework demonstration only
+2017,11,2017-11-01,Delhi,286123,27609,14862,1801,synthetic_demo,Synthetic data for framework demonstration only
+2017,12,2017-12-01,Delhi,281923,26765,13556,1681,synthetic_demo,Synthetic data for framework demonstration only
+2018,1,2018-01-01,Delhi,236898,27294,12724,1510,synthetic_demo,Synthetic data for framework demonstration only
+2018,2,2018-02-01,Delhi,206544,30591,11367,1665,synthetic_demo,Synthetic data for framework demonstration only
+2018,3,2018-03-01,Delhi,178666,23932,9973,1314,synthetic_demo,Synthetic data for framework demonstration only
+2018,4,2018-04-01,Delhi,161960,24087,8561,1242,synthetic_demo,Synthetic data for framework demonstration only
+2018,5,2018-05-01,Delhi,169617,22870,7945,1141,synthetic_demo,Synthetic data for framework demonstration only
+2018,6,2018-06-01,Delhi,169428,20884,9759,1277,synthetic_demo,Synthetic data for framework demonstration only
+2018,7,2018-07-01,Delhi,198054,22343,9877,1322,synthetic_demo,Synthetic data for framework demonstration only
+2018,8,2018-08-01,Delhi,197774,29402,10813,1546,synthetic_demo,Synthetic data for framework demonstration only
+2018,9,2018-09-01,Delhi,252094,26609,13432,1617,synthetic_demo,Synthetic data for framework demonstration only
+2018,10,2018-10-01,Delhi,237621,34301,14961,1712,synthetic_demo,Synthetic data for framework demonstration only
+2018,11,2018-11-01,Delhi,277296,37372,14080,1967,synthetic_demo,Synthetic data for framework demonstration only
+2018,12,2018-12-01,Delhi,234012,28225,15071,1692,synthetic_demo,Synthetic data for framework demonstration only
+2019,1,2019-01-01,Delhi,254900,23290,12345,1265,synthetic_demo,Synthetic data for framework demonstration only
+2019,2,2019-02-01,Delhi,193540,30377,11884,1611,synthetic_demo,Synthetic data for framework demonstration only
+2019,3,2019-03-01,Delhi,190414,23864,11555,1500,synthetic_demo,Synthetic data for framework demonstration only
+2019,4,2019-04-01,Delhi,167460,21414,8511,1184,synthetic_demo,Synthetic data for framework demonstration only
+2019,5,2019-05-01,Delhi,158931,15705,8343,884,synthetic_demo,Synthetic data for framework demonstration only
+2019,6,2019-06-01,Delhi,166964,21902,9269,1126,synthetic_demo,Synthetic data for framework demonstration only
+2019,7,2019-07-01,Delhi,208474,27866,9654,1311,synthetic_demo,Synthetic data for framework demonstration only
+2019,8,2019-08-01,Delhi,212752,25502,12536,1663,synthetic_demo,Synthetic data for framework demonstration only
+2019,9,2019-09-01,Delhi,259505,25011,14145,1641,synthetic_demo,Synthetic data for framework demonstration only
+2019,10,2019-10-01,Delhi,248086,28873,14517,1420,synthetic_demo,Synthetic data for framework demonstration only
+2019,11,2019-11-01,Delhi,277103,35337,15739,1902,synthetic_demo,Synthetic data for framework demonstration only
+2019,12,2019-12-01,Delhi,272789,35880,15413,1902,synthetic_demo,Synthetic data for framework demonstration only
+2020,1,2020-01-01,Delhi,215579,31338,11919,1560,synthetic_demo,Synthetic data for framework demonstration only
+2020,2,2020-02-01,Delhi,219162,25292,12290,1465,synthetic_demo,Synthetic data for framework demonstration only
+2020,3,2020-03-01,Delhi,180657,22965,11272,1460,synthetic_demo,Synthetic data for framework demonstration only
+2020,4,2020-04-01,Delhi,165104,18328,8507,1040,synthetic_demo,Synthetic data for framework demonstration only
+2020,5,2020-05-01,Delhi,146749,15735,9211,877,synthetic_demo,Synthetic data for framework demonstration only
+2020,6,2020-06-01,Delhi,158622,21242,10013,1101,synthetic_demo,Synthetic data for framework demonstration only
+2020,7,2020-07-01,Delhi,208510,22063,11371,1267,synthetic_demo,Synthetic data for framework demonstration only
+2020,8,2020-08-01,Delhi,210102,23185,11566,1282,synthetic_demo,Synthetic data for framework demonstration only
+2020,9,2020-09-01,Delhi,246397,33642,12638,1757,synthetic_demo,Synthetic data for framework demonstration only
+2020,10,2020-10-01,Delhi,244663,26208,13414,1416,synthetic_demo,Synthetic data for framework demonstration only
+2020,11,2020-11-01,Delhi,277255,33430,15840,2111,synthetic_demo,Synthetic data for framework demonstration only
+2020,12,2020-12-01,Delhi,277170,24484,13335,1413,synthetic_demo,Synthetic data for framework demonstration only
+2021,1,2021-01-01,Delhi,233326,24567,13495,1501,synthetic_demo,Synthetic data for framework demonstration only
+2021,2,2021-02-01,Delhi,198763,22353,12004,1380,synthetic_demo,Synthetic data for framework demonstration only
+2021,3,2021-03-01,Delhi,191739,24187,9745,1569,synthetic_demo,Synthetic data for framework demonstration only
+2021,4,2021-04-01,Delhi,167086,23764,8448,1236,synthetic_demo,Synthetic data for framework demonstration only
+2021,5,2021-05-01,Delhi,169221,18400,8548,1163,synthetic_demo,Synthetic data for framework demonstration only
+2021,6,2021-06-01,Delhi,167210,19302,8833,1247,synthetic_demo,Synthetic data for framework demonstration only
+2021,7,2021-07-01,Delhi,174106,26449,9763,1365,synthetic_demo,Synthetic data for framework demonstration only
+2021,8,2021-08-01,Delhi,212231,26643,10804,1502,synthetic_demo,Synthetic data for framework demonstration only
+2021,9,2021-09-01,Delhi,271653,28409,14639,1468,synthetic_demo,Synthetic data for framework demonstration only
+2021,10,2021-10-01,Delhi,248718,29978,14584,1882,synthetic_demo,Synthetic data for framework demonstration only
+2021,11,2021-11-01,Delhi,264074,37266,14660,1800,synthetic_demo,Synthetic data for framework demonstration only
+2021,12,2021-12-01,Delhi,280547,35441,13497,1946,synthetic_demo,Synthetic data for framework demonstration only
+2022,1,2022-01-01,Delhi,243354,36427,14029,1811,synthetic_demo,Synthetic data for framework demonstration only
+2022,2,2022-02-01,Delhi,211409,24999,12716,1305,synthetic_demo,Synthetic data for framework demonstration only
+2022,3,2022-03-01,Delhi,195683,30258,10390,1627,synthetic_demo,Synthetic data for framework demonstration only
+2022,4,2022-04-01,Delhi,159312,25281,9733,1193,synthetic_demo,Synthetic data for framework demonstration only
+2022,5,2022-05-01,Delhi,152557,19635,8993,1050,synthetic_demo,Synthetic data for framework demonstration only
+2022,6,2022-06-01,Delhi,160720,17937,8892,1055,synthetic_demo,Synthetic data for framework demonstration only
+2022,7,2022-07-01,Delhi,174463,24488,10231,1294,synthetic_demo,Synthetic data for framework demonstration only
+2022,8,2022-08-01,Delhi,229342,23981,12042,1460,synthetic_demo,Synthetic data for framework demonstration only
+2022,9,2022-09-01,Delhi,248567,30209,14971,1545,synthetic_demo,Synthetic data for framework demonstration only
+2022,10,2022-10-01,Delhi,260879,28133,15653,1705,synthetic_demo,Synthetic data for framework demonstration only
+2022,11,2022-11-01,Delhi,275876,39705,16321,1995,synthetic_demo,Synthetic data for framework demonstration only
+2022,12,2022-12-01,Delhi,236034,25579,12921,1485,synthetic_demo,Synthetic data for framework demonstration only
+2023,1,2023-01-01,Delhi,254056,34257,12852,1637,synthetic_demo,Synthetic data for framework demonstration only
+2023,2,2023-02-01,Delhi,212818,28483,12246,1781,synthetic_demo,Synthetic data for framework demonstration only
+2023,3,2023-03-01,Delhi,201668,25443,10782,1643,synthetic_demo,Synthetic data for framework demonstration only
+2023,4,2023-04-01,Delhi,178367,22242,8666,1177,synthetic_demo,Synthetic data for framework demonstration only
+2023,5,2023-05-01,Delhi,155847,15732,8974,948,synthetic_demo,Synthetic data for framework demonstration only
+2023,6,2023-06-01,Delhi,163412,19625,9809,966,synthetic_demo,Synthetic data for framework demonstration only
+2023,7,2023-07-01,Delhi,209476,26392,11455,1589,synthetic_demo,Synthetic data for framework demonstration only
+2023,8,2023-08-01,Delhi,204997,26332,12470,1422,synthetic_demo,Synthetic data for framework demonstration only
+2023,9,2023-09-01,Delhi,233109,33070,14248,1851,synthetic_demo,Synthetic data for framework demonstration only
+2023,10,2023-10-01,Delhi,274423,40966,13067,2127,synthetic_demo,Synthetic data for framework demonstration only
+2023,11,2023-11-01,Delhi,278017,33983,16125,2088,synthetic_demo,Synthetic data for framework demonstration only
+2023,12,2023-12-01,Delhi,270188,32095,14114,1639,synthetic_demo,Synthetic data for framework demonstration only
+2017,1,2017-01-01,Gujarat,1073132,141325,78560,9381,synthetic_demo,Synthetic data for framework demonstration only
+2017,2,2017-02-01,Gujarat,849518,95086,71333,7005,synthetic_demo,Synthetic data for framework demonstration only
+2017,3,2017-03-01,Gujarat,828264,98366,62149,7927,synthetic_demo,Synthetic data for framework demonstration only
+2017,4,2017-04-01,Gujarat,680759,103075,55729,7035,synthetic_demo,Synthetic data for framework demonstration only
+2017,5,2017-05-01,Gujarat,708031,90143,51861,7470,synthetic_demo,Synthetic data for framework demonstration only
+2017,6,2017-06-01,Gujarat,664207,87163,55538,6606,synthetic_demo,Synthetic data for framework demonstration only
+2017,7,2017-07-01,Gujarat,881429,92997,55187,6259,synthetic_demo,Synthetic data for framework demonstration only
+2017,8,2017-08-01,Gujarat,889903,91128,70132,7167,synthetic_demo,Synthetic data for framework demonstration only
+2017,9,2017-09-01,Gujarat,1118719,146678,79591,11914,synthetic_demo,Synthetic data for framework demonstration only
+2017,10,2017-10-01,Gujarat,1144009,126774,77647,10006,synthetic_demo,Synthetic data for framework demonstration only
+2017,11,2017-11-01,Gujarat,1165043,120622,84918,9135,synthetic_demo,Synthetic data for framework demonstration only
+2017,12,2017-12-01,Gujarat,1087469,113824,72302,8964,synthetic_demo,Synthetic data for framework demonstration only
+2018,1,2018-01-01,Gujarat,976065,130957,66073,9470,synthetic_demo,Synthetic data for framework demonstration only
+2018,2,2018-02-01,Gujarat,875793,128745,70886,9682,synthetic_demo,Synthetic data for framework demonstration only
+2018,3,2018-03-01,Gujarat,837202,90566,59759,6390,synthetic_demo,Synthetic data for framework demonstration only
+2018,4,2018-04-01,Gujarat,719154,81240,50985,5252,synthetic_demo,Synthetic data for framework demonstration only
+2018,5,2018-05-01,Gujarat,704329,98404,50255,6400,synthetic_demo,Synthetic data for framework demonstration only
+2018,6,2018-06-01,Gujarat,713552,84728,54288,6607,synthetic_demo,Synthetic data for framework demonstration only
+2018,7,2018-07-01,Gujarat,872101,83548,53678,6619,synthetic_demo,Synthetic data for framework demonstration only
+2018,8,2018-08-01,Gujarat,971434,131750,59866,9799,synthetic_demo,Synthetic data for framework demonstration only
+2018,9,2018-09-01,Gujarat,1124453,105768,75622,8472,synthetic_demo,Synthetic data for framework demonstration only
+2018,10,2018-10-01,Gujarat,1125042,132438,75735,10295,synthetic_demo,Synthetic data for framework demonstration only
+2018,11,2018-11-01,Gujarat,1067296,165396,83415,12397,synthetic_demo,Synthetic data for framework demonstration only
+2018,12,2018-12-01,Gujarat,1032310,138887,80747,10389,synthetic_demo,Synthetic data for framework demonstration only
+2019,1,2019-01-01,Gujarat,1085547,116401,78884,8758,synthetic_demo,Synthetic data for framework demonstration only
+2019,2,2019-02-01,Gujarat,848144,106966,63317,8255,synthetic_demo,Synthetic data for framework demonstration only
+2019,3,2019-03-01,Gujarat,819440,114367,56565,9155,synthetic_demo,Synthetic data for framework demonstration only
+2019,4,2019-04-01,Gujarat,792304,87606,55720,7036,synthetic_demo,Synthetic data for framework demonstration only
+2019,5,2019-05-01,Gujarat,628720,76713,46383,6212,synthetic_demo,Synthetic data for framework demonstration only
+2019,6,2019-06-01,Gujarat,781303,100933,54725,7251,synthetic_demo,Synthetic data for framework demonstration only
+2019,7,2019-07-01,Gujarat,740887,94382,62746,6957,synthetic_demo,Synthetic data for framework demonstration only
+2019,8,2019-08-01,Gujarat,881883,110613,68599,8388,synthetic_demo,Synthetic data for framework demonstration only
+2019,9,2019-09-01,Gujarat,959835,148930,74343,11284,synthetic_demo,Synthetic data for framework demonstration only
+2019,10,2019-10-01,Gujarat,1148102,139985,77329,9712,synthetic_demo,Synthetic data for framework demonstration only
+2019,11,2019-11-01,Gujarat,1256608,120992,89090,9120,synthetic_demo,Synthetic data for framework demonstration only
+2019,12,2019-12-01,Gujarat,1061790,128058,87088,9088,synthetic_demo,Synthetic data for framework demonstration only
+2020,1,2020-01-01,Gujarat,932809,140161,70134,10358,synthetic_demo,Synthetic data for framework demonstration only
+2020,2,2020-02-01,Gujarat,906809,133209,59253,9177,synthetic_demo,Synthetic data for framework demonstration only
+2020,3,2020-03-01,Gujarat,850924,91436,62023,5796,synthetic_demo,Synthetic data for framework demonstration only
+2020,4,2020-04-01,Gujarat,758813,74076,49448,5301,synthetic_demo,Synthetic data for framework demonstration only
+2020,5,2020-05-01,Gujarat,669207,98646,50156,6558,synthetic_demo,Synthetic data for framework demonstration only
+2020,6,2020-06-01,Gujarat,685418,96670,48481,6134,synthetic_demo,Synthetic data for framework demonstration only
+2020,7,2020-07-01,Gujarat,802963,79042,58281,6501,synthetic_demo,Synthetic data for framework demonstration only
+2020,8,2020-08-01,Gujarat,880936,94763,63710,7562,synthetic_demo,Synthetic data for framework demonstration only
+2020,9,2020-09-01,Gujarat,1091861,130538,72690,9474,synthetic_demo,Synthetic data for framework demonstration only
+2020,10,2020-10-01,Gujarat,1045052,147107,74652,9058,synthetic_demo,Synthetic data for framework demonstration only
+2020,11,2020-11-01,Gujarat,1212848,169596,89576,12042,synthetic_demo,Synthetic data for framework demonstration only
+2020,12,2020-12-01,Gujarat,1137014,158160,79801,10299,synthetic_demo,Synthetic data for framework demonstration only
+2021,1,2021-01-01,Gujarat,1111269,128058,77258,11016,synthetic_demo,Synthetic data for framework demonstration only
+2021,2,2021-02-01,Gujarat,935343,119968,64482,9884,synthetic_demo,Synthetic data for framework demonstration only
+2021,3,2021-03-01,Gujarat,840344,86224,54822,6047,synthetic_demo,Synthetic data for framework demonstration only
+2021,4,2021-04-01,Gujarat,673506,90077,52638,6973,synthetic_demo,Synthetic data for framework demonstration only
+2021,5,2021-05-01,Gujarat,655184,95083,49816,7544,synthetic_demo,Synthetic data for framework demonstration only
+2021,6,2021-06-01,Gujarat,698840,101431,46899,6718,synthetic_demo,Synthetic data for framework demonstration only
+2021,7,2021-07-01,Gujarat,786927,122666,62013,7937,synthetic_demo,Synthetic data for framework demonstration only
+2021,8,2021-08-01,Gujarat,826228,129231,61728,8954,synthetic_demo,Synthetic data for framework demonstration only
+2021,9,2021-09-01,Gujarat,1142181,150046,74779,10975,synthetic_demo,Synthetic data for framework demonstration only
+2021,10,2021-10-01,Gujarat,1132081,147901,73112,9202,synthetic_demo,Synthetic data for framework demonstration only
+2021,11,2021-11-01,Gujarat,1046463,141662,90975,11560,synthetic_demo,Synthetic data for framework demonstration only
+2021,12,2021-12-01,Gujarat,1174660,164966,77521,12773,synthetic_demo,Synthetic data for framework demonstration only
+2022,1,2022-01-01,Gujarat,1083308,122639,65632,8744,synthetic_demo,Synthetic data for framework demonstration only
+2022,2,2022-02-01,Gujarat,841488,91731,60057,6849,synthetic_demo,Synthetic data for framework demonstration only
+2022,3,2022-03-01,Gujarat,839248,119263,57889,8437,synthetic_demo,Synthetic data for framework demonstration only
+2022,4,2022-04-01,Gujarat,747564,89042,54518,6208,synthetic_demo,Synthetic data for framework demonstration only
+2022,5,2022-05-01,Gujarat,629527,107321,46582,7466,synthetic_demo,Synthetic data for framework demonstration only
+2022,6,2022-06-01,Gujarat,687801,79199,47868,6101,synthetic_demo,Synthetic data for framework demonstration only
+2022,7,2022-07-01,Gujarat,806896,130522,61713,8668,synthetic_demo,Synthetic data for framework demonstration only
+2022,8,2022-08-01,Gujarat,911188,106507,70701,6607,synthetic_demo,Synthetic data for framework demonstration only
+2022,9,2022-09-01,Gujarat,1070969,143170,75399,10348,synthetic_demo,Synthetic data for framework demonstration only
+2022,10,2022-10-01,Gujarat,1162714,128731,77003,9338,synthetic_demo,Synthetic data for framework demonstration only
+2022,11,2022-11-01,Gujarat,1117548,110058,79338,9126,synthetic_demo,Synthetic data for framework demonstration only
+2022,12,2022-12-01,Gujarat,1000268,116568,85100,8669,synthetic_demo,Synthetic data for framework demonstration only
+2023,1,2023-01-01,Gujarat,1069825,139272,66055,10546,synthetic_demo,Synthetic data for framework demonstration only
+2023,2,2023-02-01,Gujarat,907197,123736,62743,10194,synthetic_demo,Synthetic data for framework demonstration only
+2023,3,2023-03-01,Gujarat,870261,106185,64431,8509,synthetic_demo,Synthetic data for framework demonstration only
+2023,4,2023-04-01,Gujarat,790589,90199,50724,6206,synthetic_demo,Synthetic data for framework demonstration only
+2023,5,2023-05-01,Gujarat,628856,74584,49289,4703,synthetic_demo,Synthetic data for framework demonstration only
+2023,6,2023-06-01,Gujarat,659369,102132,53138,7618,synthetic_demo,Synthetic data for framework demonstration only
+2023,7,2023-07-01,Gujarat,855388,84140,60167,6749,synthetic_demo,Synthetic data for framework demonstration only
+2023,8,2023-08-01,Gujarat,897170,102166,63273,7493,synthetic_demo,Synthetic data for framework demonstration only
+2023,9,2023-09-01,Gujarat,1041041,150158,79848,10464,synthetic_demo,Synthetic data for framework demonstration only
+2023,10,2023-10-01,Gujarat,1196948,147173,76261,11594,synthetic_demo,Synthetic data for framework demonstration only
+2023,11,2023-11-01,Gujarat,1232903,170590,90459,11811,synthetic_demo,Synthetic data for framework demonstration only
+2023,12,2023-12-01,Gujarat,1205451,119720,83915,8311,synthetic_demo,Synthetic data for framework demonstration only
+2017,1,2017-01-01,Haryana,415659,52784,23824,3132,synthetic_demo,Synthetic data for framework demonstration only
+2017,2,2017-02-01,Haryana,393833,52309,21261,2800,synthetic_demo,Synthetic data for framework demonstration only
+2017,3,2017-03-01,Haryana,342629,31106,17353,2179,synthetic_demo,Synthetic data for framework demonstration only
+2017,4,2017-04-01,Haryana,271041,32976,18352,1695,synthetic_demo,Synthetic data for framework demonstration only
+2017,5,2017-05-01,Haryana,265270,35144,16350,2039,synthetic_demo,Synthetic data for framework demonstration only
+2017,6,2017-06-01,Haryana,300900,34852,18108,2255,synthetic_demo,Synthetic data for framework demonstration only
+2017,7,2017-07-01,Haryana,358481,43777,17957,2455,synthetic_demo,Synthetic data for framework demonstration only
+2017,8,2017-08-01,Haryana,340212,41989,20447,2404,synthetic_demo,Synthetic data for framework demonstration only
+2017,9,2017-09-01,Haryana,413716,42446,22440,2697,synthetic_demo,Synthetic data for framework demonstration only
+2017,10,2017-10-01,Haryana,463025,55723,28361,3173,synthetic_demo,Synthetic data for framework demonstration only
+2017,11,2017-11-01,Haryana,471374,51887,27499,2775,synthetic_demo,Synthetic data for framework demonstration only
+2017,12,2017-12-01,Haryana,435469,53271,24739,2812,synthetic_demo,Synthetic data for framework demonstration only
+2018,1,2018-01-01,Haryana,438889,53897,22141,3423,synthetic_demo,Synthetic data for framework demonstration only
+2018,2,2018-02-01,Haryana,404204,49873,23187,3088,synthetic_demo,Synthetic data for framework demonstration only
+2018,3,2018-03-01,Haryana,354174,43978,19902,2156,synthetic_demo,Synthetic data for framework demonstration only
+2018,4,2018-04-01,Haryana,267152,43290,16306,2673,synthetic_demo,Synthetic data for framework demonstration only
+2018,5,2018-05-01,Haryana,298010,39916,15904,2155,synthetic_demo,Synthetic data for framework demonstration only
+2018,6,2018-06-01,Haryana,315586,29206,16908,1807,synthetic_demo,Synthetic data for framework demonstration only
+2018,7,2018-07-01,Haryana,303700,33848,18643,2307,synthetic_demo,Synthetic data for framework demonstration only
+2018,8,2018-08-01,Haryana,369683,39978,21277,2403,synthetic_demo,Synthetic data for framework demonstration only
+2018,9,2018-09-01,Haryana,396630,53133,26269,2753,synthetic_demo,Synthetic data for framework demonstration only
+2018,10,2018-10-01,Haryana,442330,57716,26769,3387,synthetic_demo,Synthetic data for framework demonstration only
+2018,11,2018-11-01,Haryana,479487,61350,26672,3391,synthetic_demo,Synthetic data for framework demonstration only
+2018,12,2018-12-01,Haryana,466733,46441,27240,3049,synthetic_demo,Synthetic data for framework demonstration only
+2019,1,2019-01-01,Haryana,374196,49810,21289,2742,synthetic_demo,Synthetic data for framework demonstration only
+2019,2,2019-02-01,Haryana,334033,50470,20759,3278,synthetic_demo,Synthetic data for framework demonstration only
+2019,3,2019-03-01,Haryana,301354,44054,17475,2944,synthetic_demo,Synthetic data for framework demonstration only
+2019,4,2019-04-01,Haryana,279524,41255,16862,2443,synthetic_demo,Synthetic data for framework demonstration only
+2019,5,2019-05-01,Haryana,293274,33606,17260,2232,synthetic_demo,Synthetic data for framework demonstration only
+2019,6,2019-06-01,Haryana,289074,40536,15629,2133,synthetic_demo,Synthetic data for framework demonstration only
+2019,7,2019-07-01,Haryana,324551,37910,18377,2303,synthetic_demo,Synthetic data for framework demonstration only
+2019,8,2019-08-01,Haryana,394624,46442,19466,2670,synthetic_demo,Synthetic data for framework demonstration only
+2019,9,2019-09-01,Haryana,434161,57352,25066,3314,synthetic_demo,Synthetic data for framework demonstration only
+2019,10,2019-10-01,Haryana,474630,70262,25577,3888,synthetic_demo,Synthetic data for framework demonstration only
+2019,11,2019-11-01,Haryana,505064,55079,25677,3165,synthetic_demo,Synthetic data for framework demonstration only
+2019,12,2019-12-01,Haryana,419191,62548,24272,3498,synthetic_demo,Synthetic data for framework demonstration only
+2020,1,2020-01-01,Haryana,404012,46889,22088,3165,synthetic_demo,Synthetic data for framework demonstration only
+2020,2,2020-02-01,Haryana,395951,50481,21626,2829,synthetic_demo,Synthetic data for framework demonstration only
+2020,3,2020-03-01,Haryana,358441,29803,19692,2017,synthetic_demo,Synthetic data for framework demonstration only
+2020,4,2020-04-01,Haryana,278390,31416,15445,1863,synthetic_demo,Synthetic data for framework demonstration only
+2020,5,2020-05-01,Haryana,281787,30787,14596,1796,synthetic_demo,Synthetic data for framework demonstration only
+2020,6,2020-06-01,Haryana,314309,38351,17510,2264,synthetic_demo,Synthetic data for framework demonstration only
+2020,7,2020-07-01,Haryana,358735,46726,19076,2521,synthetic_demo,Synthetic data for framework demonstration only
+2020,8,2020-08-01,Haryana,399596,37962,20562,2343,synthetic_demo,Synthetic data for framework demonstration only
+2020,9,2020-09-01,Haryana,442996,64748,26473,3736,synthetic_demo,Synthetic data for framework demonstration only
+2020,10,2020-10-01,Haryana,430477,54461,25814,3356,synthetic_demo,Synthetic data for framework demonstration only
+2020,11,2020-11-01,Haryana,423645,51620,25024,3225,synthetic_demo,Synthetic data for framework demonstration only
+2020,12,2020-12-01,Haryana,456519,47051,25439,2709,synthetic_demo,Synthetic data for framework demonstration only
+2021,1,2021-01-01,Haryana,440721,40130,24042,2573,synthetic_demo,Synthetic data for framework demonstration only
+2021,2,2021-02-01,Haryana,354697,38966,20852,2385,synthetic_demo,Synthetic data for framework demonstration only
+2021,3,2021-03-01,Haryana,337379,44570,17325,2795,synthetic_demo,Synthetic data for framework demonstration only
+2021,4,2021-04-01,Haryana,311103,30725,15593,1933,synthetic_demo,Synthetic data for framework demonstration only
+2021,5,2021-05-01,Haryana,291855,32461,16841,2103,synthetic_demo,Synthetic data for framework demonstration only
+2021,6,2021-06-01,Haryana,304377,33203,16332,2017,synthetic_demo,Synthetic data for framework demonstration only
+2021,7,2021-07-01,Haryana,339720,41419,18246,2368,synthetic_demo,Synthetic data for framework demonstration only
+2021,8,2021-08-01,Haryana,384918,49938,19342,2974,synthetic_demo,Synthetic data for framework demonstration only
+2021,9,2021-09-01,Haryana,392454,56754,22750,3366,synthetic_demo,Synthetic data for framework demonstration only
+2021,10,2021-10-01,Haryana,418900,57641,28156,3354,synthetic_demo,Synthetic data for framework demonstration only
+2021,11,2021-11-01,Haryana,499678,68276,27521,3697,synthetic_demo,Synthetic data for framework demonstration only
+2021,12,2021-12-01,Haryana,470241,53937,26713,3181,synthetic_demo,Synthetic data for framework demonstration only
+2022,1,2022-01-01,Haryana,403958,47110,24961,2927,synthetic_demo,Synthetic data for framework demonstration only
+2022,2,2022-02-01,Haryana,339553,47841,22635,2869,synthetic_demo,Synthetic data for framework demonstration only
+2022,3,2022-03-01,Haryana,310687,47557,20631,2949,synthetic_demo,Synthetic data for framework demonstration only
+2022,4,2022-04-01,Haryana,318924,43503,17102,2305,synthetic_demo,Synthetic data for framework demonstration only
+2022,5,2022-05-01,Haryana,289732,35204,16373,2099,synthetic_demo,Synthetic data for framework demonstration only
+2022,6,2022-06-01,Haryana,305088,46562,16307,2591,synthetic_demo,Synthetic data for framework demonstration only
+2022,7,2022-07-01,Haryana,338572,37280,19267,1860,synthetic_demo,Synthetic data for framework demonstration only
+2022,8,2022-08-01,Haryana,397137,42158,20690,2470,synthetic_demo,Synthetic data for framework demonstration only
+2022,9,2022-09-01,Haryana,458977,43518,27122,2559,synthetic_demo,Synthetic data for framework demonstration only
+2022,10,2022-10-01,Haryana,453732,59179,28382,3995,synthetic_demo,Synthetic data for framework demonstration only
+2022,11,2022-11-01,Haryana,465874,75190,29169,3842,synthetic_demo,Synthetic data for framework demonstration only
+2022,12,2022-12-01,Haryana,441537,44476,26851,2712,synthetic_demo,Synthetic data for framework demonstration only
+2023,1,2023-01-01,Haryana,410777,54659,23035,3479,synthetic_demo,Synthetic data for framework demonstration only
+2023,2,2023-02-01,Haryana,347671,44910,20773,2750,synthetic_demo,Synthetic data for framework demonstration only
+2023,3,2023-03-01,Haryana,345872,36532,20935,2160,synthetic_demo,Synthetic data for framework demonstration only
+2023,4,2023-04-01,Haryana,274177,32618,16254,1988,synthetic_demo,Synthetic data for framework demonstration only
+2023,5,2023-05-01,Haryana,245002,39636,16182,2302,synthetic_demo,Synthetic data for framework demonstration only
+2023,6,2023-06-01,Haryana,287789,41951,16979,2489,synthetic_demo,Synthetic data for framework demonstration only
+2023,7,2023-07-01,Haryana,329485,50613,20905,3038,synthetic_demo,Synthetic data for framework demonstration only
+2023,8,2023-08-01,Haryana,333005,54779,20307,2919,synthetic_demo,Synthetic data for framework demonstration only
+2023,9,2023-09-01,Haryana,404874,43041,24657,2801,synthetic_demo,Synthetic data for framework demonstration only
+2023,10,2023-10-01,Haryana,435723,47219,24368,2431,synthetic_demo,Synthetic data for framework demonstration only
+2023,11,2023-11-01,Haryana,437005,66406,26371,3978,synthetic_demo,Synthetic data for framework demonstration only
+2023,12,2023-12-01,Haryana,404011,47818,26877,2680,synthetic_demo,Synthetic data for framework demonstration only
+2017,1,2017-01-01,Jharkhand,726260,104428,91129,12356,synthetic_demo,Synthetic data for framework demonstration only
+2017,2,2017-02-01,Jharkhand,730177,85052,99092,11039,synthetic_demo,Synthetic data for framework demonstration only
+2017,3,2017-03-01,Jharkhand,597032,87340,77163,11794,synthetic_demo,Synthetic data for framework demonstration only
+2017,4,2017-04-01,Jharkhand,602519,76720,65279,10461,synthetic_demo,Synthetic data for framework demonstration only
+2017,5,2017-05-01,Jharkhand,577323,63374,68430,8658,synthetic_demo,Synthetic data for framework demonstration only
+2017,6,2017-06-01,Jharkhand,590587,71564,71949,9387,synthetic_demo,Synthetic data for framework demonstration only
+2017,7,2017-07-01,Jharkhand,635327,83924,80111,11737,synthetic_demo,Synthetic data for framework demonstration only
+2017,8,2017-08-01,Jharkhand,658443,79854,83372,9234,synthetic_demo,Synthetic data for framework demonstration only
+2017,9,2017-09-01,Jharkhand,776231,99079,104704,12868,synthetic_demo,Synthetic data for framework demonstration only
+2017,10,2017-10-01,Jharkhand,809954,110995,108656,14614,synthetic_demo,Synthetic data for framework demonstration only
+2017,11,2017-11-01,Jharkhand,848220,120762,124416,16788,synthetic_demo,Synthetic data for framework demonstration only
+2017,12,2017-12-01,Jharkhand,878815,96318,110911,11811,synthetic_demo,Synthetic data for framework demonstration only
+2018,1,2018-01-01,Jharkhand,851270,114881,100480,12952,synthetic_demo,Synthetic data for framework demonstration only
+2018,2,2018-02-01,Jharkhand,745372,82368,94866,9803,synthetic_demo,Synthetic data for framework demonstration only
+2018,3,2018-03-01,Jharkhand,640402,89119,89655,12215,synthetic_demo,Synthetic data for framework demonstration only
+2018,4,2018-04-01,Jharkhand,615071,70970,74471,9305,synthetic_demo,Synthetic data for framework demonstration only
+2018,5,2018-05-01,Jharkhand,517875,58580,64391,7291,synthetic_demo,Synthetic data for framework demonstration only
+2018,6,2018-06-01,Jharkhand,593270,77455,73305,10526,synthetic_demo,Synthetic data for framework demonstration only
+2018,7,2018-07-01,Jharkhand,605019,62818,87057,8344,synthetic_demo,Synthetic data for framework demonstration only
+2018,8,2018-08-01,Jharkhand,764000,111685,88598,12796,synthetic_demo,Synthetic data for framework demonstration only
+2018,9,2018-09-01,Jharkhand,800987,131205,114036,14242,synthetic_demo,Synthetic data for framework demonstration only
+2018,10,2018-10-01,Jharkhand,942704,85489,105612,10729,synthetic_demo,Synthetic data for framework demonstration only
+2018,11,2018-11-01,Jharkhand,856223,124744,118460,15672,synthetic_demo,Synthetic data for framework demonstration only
+2018,12,2018-12-01,Jharkhand,903376,91501,108943,12696,synthetic_demo,Synthetic data for framework demonstration only
+2019,1,2019-01-01,Jharkhand,738973,108731,104952,12811,synthetic_demo,Synthetic data for framework demonstration only
+2019,2,2019-02-01,Jharkhand,665483,84695,89826,10909,synthetic_demo,Synthetic data for framework demonstration only
+2019,3,2019-03-01,Jharkhand,651541,66883,75016,7801,synthetic_demo,Synthetic data for framework demonstration only
+2019,4,2019-04-01,Jharkhand,538427,82320,73210,10529,synthetic_demo,Synthetic data for framework demonstration only
+2019,5,2019-05-01,Jharkhand,524025,59132,60571,7947,synthetic_demo,Synthetic data for framework demonstration only
+2019,6,2019-06-01,Jharkhand,595747,56845,65253,8788,synthetic_demo,Synthetic data for framework demonstration only
+2019,7,2019-07-01,Jharkhand,634725,73433,77854,9690,synthetic_demo,Synthetic data for framework demonstration only
+2019,8,2019-08-01,Jharkhand,696532,115505,90696,14050,synthetic_demo,Synthetic data for framework demonstration only
+2019,9,2019-09-01,Jharkhand,767639,112968,102464,16005,synthetic_demo,Synthetic data for framework demonstration only
+2019,10,2019-10-01,Jharkhand,901980,88084,115824,11311,synthetic_demo,Synthetic data for framework demonstration only
+2019,11,2019-11-01,Jharkhand,872591,110455,121165,13592,synthetic_demo,Synthetic data for framework demonstration only
+2019,12,2019-12-01,Jharkhand,921824,116466,116051,15856,synthetic_demo,Synthetic data for framework demonstration only
+2020,1,2020-01-01,Jharkhand,777388,83954,102598,12268,synthetic_demo,Synthetic data for framework demonstration only
+2020,2,2020-02-01,Jharkhand,666098,88880,91545,10869,synthetic_demo,Synthetic data for framework demonstration only
+2020,3,2020-03-01,Jharkhand,654948,96539,76081,12359,synthetic_demo,Synthetic data for framework demonstration only
+2020,4,2020-04-01,Jharkhand,516148,73135,69383,8825,synthetic_demo,Synthetic data for framework demonstration only
+2020,5,2020-05-01,Jharkhand,473168,68038,66959,7477,synthetic_demo,Synthetic data for framework demonstration only
+2020,6,2020-06-01,Jharkhand,555493,57978,76235,7637,synthetic_demo,Synthetic data for framework demonstration only
+2020,7,2020-07-01,Jharkhand,624480,77217,78799,9489,synthetic_demo,Synthetic data for framework demonstration only
+2020,8,2020-08-01,Jharkhand,764755,73174,84106,9902,synthetic_demo,Synthetic data for framework demonstration only
+2020,9,2020-09-01,Jharkhand,839115,113838,104316,16195,synthetic_demo,Synthetic data for framework demonstration only
+2020,10,2020-10-01,Jharkhand,888165,121231,103569,14505,synthetic_demo,Synthetic data for framework demonstration only
+2020,11,2020-11-01,Jharkhand,875559,118898,125492,15018,synthetic_demo,Synthetic data for framework demonstration only
+2020,12,2020-12-01,Jharkhand,923894,112303,112286,15736,synthetic_demo,Synthetic data for framework demonstration only
+2021,1,2021-01-01,Jharkhand,726233,112693,100645,14487,synthetic_demo,Synthetic data for framework demonstration only
+2021,2,2021-02-01,Jharkhand,742353,92979,92628,13731,synthetic_demo,Synthetic data for framework demonstration only
+2021,3,2021-03-01,Jharkhand,593827,69407,88941,9980,synthetic_demo,Synthetic data for framework demonstration only
+2021,4,2021-04-01,Jharkhand,580703,72197,70169,9302,synthetic_demo,Synthetic data for framework demonstration only
+2021,5,2021-05-01,Jharkhand,505622,67687,72718,10055,synthetic_demo,Synthetic data for framework demonstration only
+2021,6,2021-06-01,Jharkhand,568962,69517,70331,8944,synthetic_demo,Synthetic data for framework demonstration only
+2021,7,2021-07-01,Jharkhand,598073,79578,84170,10260,synthetic_demo,Synthetic data for framework demonstration only
+2021,8,2021-08-01,Jharkhand,772095,110591,87599,12458,synthetic_demo,Synthetic data for framework demonstration only
+2021,9,2021-09-01,Jharkhand,817811,127260,111356,15336,synthetic_demo,Synthetic data for framework demonstration only
+2021,10,2021-10-01,Jharkhand,926267,121398,119863,14555,synthetic_demo,Synthetic data for framework demonstration only
+2021,11,2021-11-01,Jharkhand,975911,143352,121175,17167,synthetic_demo,Synthetic data for framework demonstration only
+2021,12,2021-12-01,Jharkhand,782053,111764,106705,13070,synthetic_demo,Synthetic data for framework demonstration only
+2022,1,2022-01-01,Jharkhand,810711,100115,98528,12501,synthetic_demo,Synthetic data for framework demonstration only
+2022,2,2022-02-01,Jharkhand,666482,111348,82104,12393,synthetic_demo,Synthetic data for framework demonstration only
+2022,3,2022-03-01,Jharkhand,632127,81349,87526,11226,synthetic_demo,Synthetic data for framework demonstration only
+2022,4,2022-04-01,Jharkhand,566216,68322,66011,7818,synthetic_demo,Synthetic data for framework demonstration only
+2022,5,2022-05-01,Jharkhand,528305,48837,72211,6523,synthetic_demo,Synthetic data for framework demonstration only
+2022,6,2022-06-01,Jharkhand,527726,74136,68354,10392,synthetic_demo,Synthetic data for framework demonstration only
+2022,7,2022-07-01,Jharkhand,609489,65629,76275,8495,synthetic_demo,Synthetic data for framework demonstration only
+2022,8,2022-08-01,Jharkhand,757145,99721,94283,12245,synthetic_demo,Synthetic data for framework demonstration only
+2022,9,2022-09-01,Jharkhand,743899,86147,100168,11519,synthetic_demo,Synthetic data for framework demonstration only
+2022,10,2022-10-01,Jharkhand,807755,102761,119393,11260,synthetic_demo,Synthetic data for framework demonstration only
+2022,11,2022-11-01,Jharkhand,826690,110063,114784,15628,synthetic_demo,Synthetic data for framework demonstration only
+2022,12,2022-12-01,Jharkhand,884038,115977,105071,13726,synthetic_demo,Synthetic data for framework demonstration only
+2023,1,2023-01-01,Jharkhand,759177,89262,99444,11708,synthetic_demo,Synthetic data for framework demonstration only
+2023,2,2023-02-01,Jharkhand,651821,77208,99391,10089,synthetic_demo,Synthetic data for framework demonstration only
+2023,3,2023-03-01,Jharkhand,672180,80022,77178,10267,synthetic_demo,Synthetic data for framework demonstration only
+2023,4,2023-04-01,Jharkhand,556067,60833,70672,8548,synthetic_demo,Synthetic data for framework demonstration only
+2023,5,2023-05-01,Jharkhand,556428,66146,72655,8392,synthetic_demo,Synthetic data for framework demonstration only
+2023,6,2023-06-01,Jharkhand,541852,60097,67286,7056,synthetic_demo,Synthetic data for framework demonstration only
+2023,7,2023-07-01,Jharkhand,668234,80487,74981,9709,synthetic_demo,Synthetic data for framework demonstration only
+2023,8,2023-08-01,Jharkhand,745843,94892,86769,13128,synthetic_demo,Synthetic data for framework demonstration only
+2023,9,2023-09-01,Jharkhand,866453,109872,98821,13770,synthetic_demo,Synthetic data for framework demonstration only
+2023,10,2023-10-01,Jharkhand,821357,102411,106701,15401,synthetic_demo,Synthetic data for framework demonstration only
+2023,11,2023-11-01,Jharkhand,957088,109483,111648,14956,synthetic_demo,Synthetic data for framework demonstration only
+2023,12,2023-12-01,Jharkhand,778681,111735,106556,13211,synthetic_demo,Synthetic data for framework demonstration only
+2017,1,2017-01-01,Karnataka,1116920,132664,99492,11847,synthetic_demo,Synthetic data for framework demonstration only
+2017,2,2017-02-01,Karnataka,949928,118206,84611,10975,synthetic_demo,Synthetic data for framework demonstration only
+2017,3,2017-03-01,Karnataka,823435,94386,81748,8589,synthetic_demo,Synthetic data for framework demonstration only
+2017,4,2017-04-01,Karnataka,777409,101676,65048,9855,synthetic_demo,Synthetic data for framework demonstration only
+2017,5,2017-05-01,Karnataka,682328,95084,62712,8361,synthetic_demo,Synthetic data for framework demonstration only
+2017,6,2017-06-01,Karnataka,811239,103033,72063,10513,synthetic_demo,Synthetic data for framework demonstration only
+2017,7,2017-07-01,Karnataka,787764,90472,83910,8162,synthetic_demo,Synthetic data for framework demonstration only
+2017,8,2017-08-01,Karnataka,973099,92650,80850,8549,synthetic_demo,Synthetic data for framework demonstration only
+2017,9,2017-09-01,Karnataka,1041066,118463,91658,10950,synthetic_demo,Synthetic data for framework demonstration only
+2017,10,2017-10-01,Karnataka,1095456,133101,97609,13563,synthetic_demo,Synthetic data for framework demonstration only
+2017,11,2017-11-01,Karnataka,1121921,164981,114116,14300,synthetic_demo,Synthetic data for framework demonstration only
+2017,12,2017-12-01,Karnataka,1171583,160739,102445,14864,synthetic_demo,Synthetic data for framework demonstration only
+2018,1,2018-01-01,Karnataka,948510,117956,93231,11315,synthetic_demo,Synthetic data for framework demonstration only
+2018,2,2018-02-01,Karnataka,937493,143062,78500,12114,synthetic_demo,Synthetic data for framework demonstration only
+2018,3,2018-03-01,Karnataka,844866,117878,83049,11207,synthetic_demo,Synthetic data for framework demonstration only
+2018,4,2018-04-01,Karnataka,672754,96799,62786,9318,synthetic_demo,Synthetic data for framework demonstration only
+2018,5,2018-05-01,Karnataka,651823,72678,59963,6018,synthetic_demo,Synthetic data for framework demonstration only
+2018,6,2018-06-01,Karnataka,704092,110518,61701,8973,synthetic_demo,Synthetic data for framework demonstration only
+2018,7,2018-07-01,Karnataka,809503,113531,77755,10631,synthetic_demo,Synthetic data for framework demonstration only
+2018,8,2018-08-01,Karnataka,1021308,117133,91415,9567,synthetic_demo,Synthetic data for framework demonstration only
+2018,9,2018-09-01,Karnataka,1067052,118794,101274,9263,synthetic_demo,Synthetic data for framework demonstration only
+2018,10,2018-10-01,Karnataka,1047134,123064,103218,10488,synthetic_demo,Synthetic data for framework demonstration only
+2018,11,2018-11-01,Karnataka,1249282,133654,103773,12989,synthetic_demo,Synthetic data for framework demonstration only
+2018,12,2018-12-01,Karnataka,1196565,182658,99828,15575,synthetic_demo,Synthetic data for framework demonstration only
+2019,1,2019-01-01,Karnataka,1123800,143697,91123,11780,synthetic_demo,Synthetic data for framework demonstration only
+2019,2,2019-02-01,Karnataka,849823,108715,84038,10172,synthetic_demo,Synthetic data for framework demonstration only
+2019,3,2019-03-01,Karnataka,760461,98551,72066,8672,synthetic_demo,Synthetic data for framework demonstration only
+2019,4,2019-04-01,Karnataka,775153,95154,70385,7726,synthetic_demo,Synthetic data for framework demonstration only
+2019,5,2019-05-01,Karnataka,728256,103966,60137,8433,synthetic_demo,Synthetic data for framework demonstration only
+2019,6,2019-06-01,Karnataka,712512,88009,67340,7573,synthetic_demo,Synthetic data for framework demonstration only
+2019,7,2019-07-01,Karnataka,894233,109670,79470,8885,synthetic_demo,Synthetic data for framework demonstration only
+2019,8,2019-08-01,Karnataka,923872,106285,82775,9520,synthetic_demo,Synthetic data for framework demonstration only
+2019,9,2019-09-01,Karnataka,1035242,143840,102039,14708,synthetic_demo,Synthetic data for framework demonstration only
+2019,10,2019-10-01,Karnataka,1039177,126724,105908,12496,synthetic_demo,Synthetic data for framework demonstration only
+2019,11,2019-11-01,Karnataka,1183927,137723,107992,11718,synthetic_demo,Synthetic data for framework demonstration only
+2019,12,2019-12-01,Karnataka,1082986,136464,95944,12903,synthetic_demo,Synthetic data for framework demonstration only
+2020,1,2020-01-01,Karnataka,1067795,129348,92594,11766,synthetic_demo,Synthetic data for framework demonstration only
+2020,2,2020-02-01,Karnataka,880425,134490,90878,11037,synthetic_demo,Synthetic data for framework demonstration only
+2020,3,2020-03-01,Karnataka,811870,126190,74513,11836,synthetic_demo,Synthetic data for framework demonstration only
+2020,4,2020-04-01,Karnataka,705248,73397,71156,7413,synthetic_demo,Synthetic data for framework demonstration only
+2020,5,2020-05-01,Karnataka,670096,101726,61826,7929,synthetic_demo,Synthetic data for framework demonstration only
+2020,6,2020-06-01,Karnataka,680478,79460,71255,6988,synthetic_demo,Synthetic data for framework demonstration only
+2020,7,2020-07-01,Karnataka,807660,116803,83472,10409,synthetic_demo,Synthetic data for framework demonstration only
+2020,8,2020-08-01,Karnataka,938654,86976,86479,9229,synthetic_demo,Synthetic data for framework demonstration only
+2020,9,2020-09-01,Karnataka,1021785,137694,107851,13208,synthetic_demo,Synthetic data for framework demonstration only
+2020,10,2020-10-01,Karnataka,1234755,144783,99376,13185,synthetic_demo,Synthetic data for framework demonstration only
+2020,11,2020-11-01,Karnataka,1188075,131927,116898,11122,synthetic_demo,Synthetic data for framework demonstration only
+2020,12,2020-12-01,Karnataka,1199100,176360,96470,15094,synthetic_demo,Synthetic data for framework demonstration only
+2021,1,2021-01-01,Karnataka,1047417,105585,102832,9355,synthetic_demo,Synthetic data for framework demonstration only
+2021,2,2021-02-01,Karnataka,923564,131443,78642,10621,synthetic_demo,Synthetic data for framework demonstration only
+2021,3,2021-03-01,Karnataka,820749,123226,76037,9692,synthetic_demo,Synthetic data for framework demonstration only
+2021,4,2021-04-01,Karnataka,713035,69440,65069,6908,synthetic_demo,Synthetic data for framework demonstration only
+2021,5,2021-05-01,Karnataka,627184,105524,64805,9047,synthetic_demo,Synthetic data for framework demonstration only
+2021,6,2021-06-01,Karnataka,748486,100172,67601,8078,synthetic_demo,Synthetic data for framework demonstration only
+2021,7,2021-07-01,Karnataka,769543,135422,77683,11621,synthetic_demo,Synthetic data for framework demonstration only
+2021,8,2021-08-01,Karnataka,877136,99281,93097,10001,synthetic_demo,Synthetic data for framework demonstration only
+2021,9,2021-09-01,Karnataka,1090201,107833,108649,11042,synthetic_demo,Synthetic data for framework demonstration only
+2021,10,2021-10-01,Karnataka,1148854,184107,112296,16857,synthetic_demo,Synthetic data for framework demonstration only
+2021,11,2021-11-01,Karnataka,1177540,166375,114164,14583,synthetic_demo,Synthetic data for framework demonstration only
+2021,12,2021-12-01,Karnataka,1105559,128540,109471,12692,synthetic_demo,Synthetic data for framework demonstration only
+2022,1,2022-01-01,Karnataka,953696,115575,94720,11250,synthetic_demo,Synthetic data for framework demonstration only
+2022,2,2022-02-01,Karnataka,903751,130964,84675,11914,synthetic_demo,Synthetic data for framework demonstration only
+2022,3,2022-03-01,Karnataka,900200,102541,80587,9465,synthetic_demo,Synthetic data for framework demonstration only
+2022,4,2022-04-01,Karnataka,786087,97129,69619,8225,synthetic_demo,Synthetic data for framework demonstration only
+2022,5,2022-05-01,Karnataka,680522,75230,67711,7813,synthetic_demo,Synthetic data for framework demonstration only
+2022,6,2022-06-01,Karnataka,687932,89155,73815,7927,synthetic_demo,Synthetic data for framework demonstration only
+2022,7,2022-07-01,Karnataka,901787,103359,83272,9901,synthetic_demo,Synthetic data for framework demonstration only
+2022,8,2022-08-01,Karnataka,957597,116841,90187,10733,synthetic_demo,Synthetic data for framework demonstration only
+2022,9,2022-09-01,Karnataka,1059111,153302,104158,12639,synthetic_demo,Synthetic data for framework demonstration only
+2022,10,2022-10-01,Karnataka,1077007,128568,114133,13020,synthetic_demo,Synthetic data for framework demonstration only
+2022,11,2022-11-01,Karnataka,1259705,112829,99848,12326,synthetic_demo,Synthetic data for framework demonstration only
+2022,12,2022-12-01,Karnataka,1158933,158342,105538,14238,synthetic_demo,Synthetic data for framework demonstration only
+2023,1,2023-01-01,Karnataka,1077405,118574,100366,10360,synthetic_demo,Synthetic data for framework demonstration only
+2023,2,2023-02-01,Karnataka,920459,115613,93855,11204,synthetic_demo,Synthetic data for framework demonstration only
+2023,3,2023-03-01,Karnataka,797676,127751,70401,10236,synthetic_demo,Synthetic data for framework demonstration only
+2023,4,2023-04-01,Karnataka,670047,93155,70414,7477,synthetic_demo,Synthetic data for framework demonstration only
+2023,5,2023-05-01,Karnataka,744667,67273,58653,6331,synthetic_demo,Synthetic data for framework demonstration only
+2023,6,2023-06-01,Karnataka,671521,71931,69722,6521,synthetic_demo,Synthetic data for framework demonstration only
+2023,7,2023-07-01,Karnataka,884180,117054,83711,9299,synthetic_demo,Synthetic data for framework demonstration only
+2023,8,2023-08-01,Karnataka,911354,122873,88170,11421,synthetic_demo,Synthetic data for framework demonstration only
+2023,9,2023-09-01,Karnataka,1108910,148898,107004,13104,synthetic_demo,Synthetic data for framework demonstration only
+2023,10,2023-10-01,Karnataka,1165881,151131,109701,14757,synthetic_demo,Synthetic data for framework demonstration only
+2023,11,2023-11-01,Karnataka,1118339,146830,100279,12518,synthetic_demo,Synthetic data for framework demonstration only
+2023,12,2023-12-01,Karnataka,1059676,128827,95657,10554,synthetic_demo,Synthetic data for framework demonstration only
+2017,1,2017-01-01,Kerala,415108,50134,14727,2078,synthetic_demo,Synthetic data for framework demonstration only
+2017,2,2017-02-01,Kerala,353754,43121,15762,1702,synthetic_demo,Synthetic data for framework demonstration only
+2017,3,2017-03-01,Kerala,336466,33137,13611,1398,synthetic_demo,Synthetic data for framework demonstration only
+2017,4,2017-04-01,Kerala,271738,41498,11632,1516,synthetic_demo,Synthetic data for framework demonstration only
+2017,5,2017-05-01,Kerala,231552,36349,10224,1496,synthetic_demo,Synthetic data for framework demonstration only
+2017,6,2017-06-01,Kerala,264473,28977,11566,1202,synthetic_demo,Synthetic data for framework demonstration only
+2017,7,2017-07-01,Kerala,327416,39667,12839,1916,synthetic_demo,Synthetic data for framework demonstration only
+2017,8,2017-08-01,Kerala,331484,46853,15150,1746,synthetic_demo,Synthetic data for framework demonstration only
+2017,9,2017-09-01,Kerala,420619,51805,16442,2173,synthetic_demo,Synthetic data for framework demonstration only
+2017,10,2017-10-01,Kerala,405116,62978,18400,2429,synthetic_demo,Synthetic data for framework demonstration only
+2017,11,2017-11-01,Kerala,418543,60606,17087,2223,synthetic_demo,Synthetic data for framework demonstration only
+2017,12,2017-12-01,Kerala,426846,52883,18460,2166,synthetic_demo,Synthetic data for framework demonstration only
+2018,1,2018-01-01,Kerala,341963,37164,16145,1488,synthetic_demo,Synthetic data for framework demonstration only
+2018,2,2018-02-01,Kerala,320686,33715,14384,1536,synthetic_demo,Synthetic data for framework demonstration only
+2018,3,2018-03-01,Kerala,297960,32847,12403,1461,synthetic_demo,Synthetic data for framework demonstration only
+2018,4,2018-04-01,Kerala,289035,32214,12084,1477,synthetic_demo,Synthetic data for framework demonstration only
+2018,5,2018-05-01,Kerala,265660,25179,9719,1084,synthetic_demo,Synthetic data for framework demonstration only
+2018,6,2018-06-01,Kerala,252791,32256,11371,1270,synthetic_demo,Synthetic data for framework demonstration only
+2018,7,2018-07-01,Kerala,297168,40456,13344,1593,synthetic_demo,Synthetic data for framework demonstration only
+2018,8,2018-08-01,Kerala,368992,48773,15355,1805,synthetic_demo,Synthetic data for framework demonstration only
+2018,9,2018-09-01,Kerala,414520,51580,16904,2310,synthetic_demo,Synthetic data for framework demonstration only
+2018,10,2018-10-01,Kerala,419795,48864,16323,2030,synthetic_demo,Synthetic data for framework demonstration only
+2018,11,2018-11-01,Kerala,427913,66502,19317,2477,synthetic_demo,Synthetic data for framework demonstration only
+2018,12,2018-12-01,Kerala,383098,51654,15663,2138,synthetic_demo,Synthetic data for framework demonstration only
+2019,1,2019-01-01,Kerala,384630,46419,15601,2215,synthetic_demo,Synthetic data for framework demonstration only
+2019,2,2019-02-01,Kerala,349696,33832,14743,1614,synthetic_demo,Synthetic data for framework demonstration only
+2019,3,2019-03-01,Kerala,330978,49123,12021,1747,synthetic_demo,Synthetic data for framework demonstration only
+2019,4,2019-04-01,Kerala,249448,29186,10210,1171,synthetic_demo,Synthetic data for framework demonstration only
+2019,5,2019-05-01,Kerala,238754,35278,10866,1606,synthetic_demo,Synthetic data for framework demonstration only
+2019,6,2019-06-01,Kerala,251505,35600,11130,1408,synthetic_demo,Synthetic data for framework demonstration only
+2019,7,2019-07-01,Kerala,311219,39776,12778,1493,synthetic_demo,Synthetic data for framework demonstration only
+2019,8,2019-08-01,Kerala,320628,44970,15060,2092,synthetic_demo,Synthetic data for framework demonstration only
+2019,9,2019-09-01,Kerala,392980,57065,16048,2203,synthetic_demo,Synthetic data for framework demonstration only
+2019,10,2019-10-01,Kerala,397786,49858,17383,2259,synthetic_demo,Synthetic data for framework demonstration only
+2019,11,2019-11-01,Kerala,392098,49784,18978,2130,synthetic_demo,Synthetic data for framework demonstration only
+2019,12,2019-12-01,Kerala,376547,63141,16335,2609,synthetic_demo,Synthetic data for framework demonstration only
+2020,1,2020-01-01,Kerala,358687,42354,15892,1632,synthetic_demo,Synthetic data for framework demonstration only
+2020,2,2020-02-01,Kerala,344088,42903,14937,1601,synthetic_demo,Synthetic data for framework demonstration only
+2020,3,2020-03-01,Kerala,306751,33325,13422,1570,synthetic_demo,Synthetic data for framework demonstration only
+2020,4,2020-04-01,Kerala,259893,25561,11901,1028,synthetic_demo,Synthetic data for framework demonstration only
+2020,5,2020-05-01,Kerala,263310,32724,10965,1216,synthetic_demo,Synthetic data for framework demonstration only
+2020,6,2020-06-01,Kerala,293322,26892,10334,1138,synthetic_demo,Synthetic data for framework demonstration only
+2020,7,2020-07-01,Kerala,293583,46944,12658,1646,synthetic_demo,Synthetic data for framework demonstration only
+2020,8,2020-08-01,Kerala,355340,47568,14010,1951,synthetic_demo,Synthetic data for framework demonstration only
+2020,9,2020-09-01,Kerala,418226,42224,15702,1550,synthetic_demo,Synthetic data for framework demonstration only
+2020,10,2020-10-01,Kerala,431602,55721,17362,2442,synthetic_demo,Synthetic data for framework demonstration only
+2020,11,2020-11-01,Kerala,445083,59316,16750,2318,synthetic_demo,Synthetic data for framework demonstration only
+2020,12,2020-12-01,Kerala,404809,61354,18189,2541,synthetic_demo,Synthetic data for framework demonstration only
+2021,1,2021-01-01,Kerala,390022,50324,14459,2200,synthetic_demo,Synthetic data for framework demonstration only
+2021,2,2021-02-01,Kerala,319163,47618,13826,1984,synthetic_demo,Synthetic data for framework demonstration only
+2021,3,2021-03-01,Kerala,311225,40175,13133,1572,synthetic_demo,Synthetic data for framework demonstration only
+2021,4,2021-04-01,Kerala,262544,26931,11469,1254,synthetic_demo,Synthetic data for framework demonstration only
+2021,5,2021-05-01,Kerala,252906,33488,10276,1669,synthetic_demo,Synthetic data for framework demonstration only
+2021,6,2021-06-01,Kerala,292038,33239,10387,1260,synthetic_demo,Synthetic data for framework demonstration only
+2021,7,2021-07-01,Kerala,327679,44854,12255,1714,synthetic_demo,Synthetic data for framework demonstration only
+2021,8,2021-08-01,Kerala,352250,38908,14999,1714,synthetic_demo,Synthetic data for framework demonstration only
+2021,9,2021-09-01,Kerala,426081,55500,16985,2563,synthetic_demo,Synthetic data for framework demonstration only
+2021,10,2021-10-01,Kerala,373943,45927,17503,2034,synthetic_demo,Synthetic data for framework demonstration only
+2021,11,2021-11-01,Kerala,389532,44889,17051,1927,synthetic_demo,Synthetic data for framework demonstration only
+2021,12,2021-12-01,Kerala,400311,56765,19102,2006,synthetic_demo,Synthetic data for framework demonstration only
+2022,1,2022-01-01,Kerala,361464,49799,17178,2317,synthetic_demo,Synthetic data for framework demonstration only
+2022,2,2022-02-01,Kerala,345064,49725,15116,1987,synthetic_demo,Synthetic data for framework demonstration only
+2022,3,2022-03-01,Kerala,307515,35073,13540,1531,synthetic_demo,Synthetic data for framework demonstration only
+2022,4,2022-04-01,Kerala,263702,33121,11052,1662,synthetic_demo,Synthetic data for framework demonstration only
+2022,5,2022-05-01,Kerala,242442,30070,10663,1250,synthetic_demo,Synthetic data for framework demonstration only
+2022,6,2022-06-01,Kerala,250160,38367,12013,1675,synthetic_demo,Synthetic data for framework demonstration only
+2022,7,2022-07-01,Kerala,298893,40783,13456,1565,synthetic_demo,Synthetic data for framework demonstration only
+2022,8,2022-08-01,Kerala,361155,46462,15184,1900,synthetic_demo,Synthetic data for framework demonstration only
+2022,9,2022-09-01,Kerala,401185,47267,18025,1933,synthetic_demo,Synthetic data for framework demonstration only
+2022,10,2022-10-01,Kerala,436705,63288,15905,2534,synthetic_demo,Synthetic data for framework demonstration only
+2022,11,2022-11-01,Kerala,394418,49572,18132,1899,synthetic_demo,Synthetic data for framework demonstration only
+2022,12,2022-12-01,Kerala,376942,38811,19109,1697,synthetic_demo,Synthetic data for framework demonstration only
+2023,1,2023-01-01,Kerala,386198,53995,16021,2003,synthetic_demo,Synthetic data for framework demonstration only
+2023,2,2023-02-01,Kerala,353187,38283,15388,1462,synthetic_demo,Synthetic data for framework demonstration only
+2023,3,2023-03-01,Kerala,291007,31925,12312,1491,synthetic_demo,Synthetic data for framework demonstration only
+2023,4,2023-04-01,Kerala,267019,38157,11703,1477,synthetic_demo,Synthetic data for framework demonstration only
+2023,5,2023-05-01,Kerala,267156,35308,11536,1498,synthetic_demo,Synthetic data for framework demonstration only
+2023,6,2023-06-01,Kerala,293444,30808,10512,1188,synthetic_demo,Synthetic data for framework demonstration only
+2023,7,2023-07-01,Kerala,317425,44479,13369,1663,synthetic_demo,Synthetic data for framework demonstration only
+2023,8,2023-08-01,Kerala,322331,43981,13659,1585,synthetic_demo,Synthetic data for framework demonstration only
+2023,9,2023-09-01,Kerala,375959,43361,17778,1958,synthetic_demo,Synthetic data for framework demonstration only
+2023,10,2023-10-01,Kerala,391866,43694,16178,2025,synthetic_demo,Synthetic data for framework demonstration only
+2023,11,2023-11-01,Kerala,468846,56120,17413,2435,synthetic_demo,Synthetic data for framework demonstration only
+2023,12,2023-12-01,Kerala,390631,44151,16356,1705,synthetic_demo,Synthetic data for framework demonstration only
+2017,1,2017-01-01,Madhya Pradesh,1603892,190275,185938,22643,synthetic_demo,Synthetic data for framework demonstration only
+2017,2,2017-02-01,Madhya Pradesh,1493591,194903,176146,24341,synthetic_demo,Synthetic data for framework demonstration only
+2017,3,2017-03-01,Madhya Pradesh,1204264,136312,153351,16366,synthetic_demo,Synthetic data for framework demonstration only
+2017,4,2017-04-01,Madhya Pradesh,1101914,133655,125897,13312,synthetic_demo,Synthetic data for framework demonstration only
+2017,5,2017-05-01,Madhya Pradesh,1045184,119387,133511,13690,synthetic_demo,Synthetic data for framework demonstration only
+2017,6,2017-06-01,Madhya Pradesh,1134039,126671,143420,13709,synthetic_demo,Synthetic data for framework demonstration only
+2017,7,2017-07-01,Madhya Pradesh,1366931,198883,137009,22221,synthetic_demo,Synthetic data for framework demonstration only
+2017,8,2017-08-01,Madhya Pradesh,1511544,203541,162513,24543,synthetic_demo,Synthetic data for framework demonstration only
+2017,9,2017-09-01,Madhya Pradesh,1590940,199589,187061,28021,synthetic_demo,Synthetic data for framework demonstration only
+2017,10,2017-10-01,Madhya Pradesh,1549482,209889,206611,24689,synthetic_demo,Synthetic data for framework demonstration only
+2017,11,2017-11-01,Madhya Pradesh,1695086,204409,202309,23521,synthetic_demo,Synthetic data for framework demonstration only
+2017,12,2017-12-01,Madhya Pradesh,1781883,185486,219665,24026,synthetic_demo,Synthetic data for framework demonstration only
+2018,1,2018-01-01,Madhya Pradesh,1572550,166029,179913,17738,synthetic_demo,Synthetic data for framework demonstration only
+2018,2,2018-02-01,Madhya Pradesh,1433660,151205,158486,15951,synthetic_demo,Synthetic data for framework demonstration only
+2018,3,2018-03-01,Madhya Pradesh,1192053,162312,149791,20534,synthetic_demo,Synthetic data for framework demonstration only
+2018,4,2018-04-01,Madhya Pradesh,1025852,106217,139181,14607,synthetic_demo,Synthetic data for framework demonstration only
+2018,5,2018-05-01,Madhya Pradesh,1133655,147986,127201,17387,synthetic_demo,Synthetic data for framework demonstration only
+2018,6,2018-06-01,Madhya Pradesh,1215011,167102,137819,17922,synthetic_demo,Synthetic data for framework demonstration only
+2018,7,2018-07-01,Madhya Pradesh,1312181,149693,147153,19100,synthetic_demo,Synthetic data for framework demonstration only
+2018,8,2018-08-01,Madhya Pradesh,1495155,129766,160454,16740,synthetic_demo,Synthetic data for framework demonstration only
+2018,9,2018-09-01,Madhya Pradesh,1585096,177533,178186,20387,synthetic_demo,Synthetic data for framework demonstration only
+2018,10,2018-10-01,Madhya Pradesh,1767849,187912,197827,19743,synthetic_demo,Synthetic data for framework demonstration only
+2018,11,2018-11-01,Madhya Pradesh,1923524,254832,208371,28202,synthetic_demo,Synthetic data for framework demonstration only
+2018,12,2018-12-01,Madhya Pradesh,1547702,222817,195478,27370,synthetic_demo,Synthetic data for framework demonstration only
+2019,1,2019-01-01,Madhya Pradesh,1679559,221376,196325,24301,synthetic_demo,Synthetic data for framework demonstration only
+2019,2,2019-02-01,Madhya Pradesh,1437718,168141,180869,19904,synthetic_demo,Synthetic data for framework demonstration only
+2019,3,2019-03-01,Madhya Pradesh,1254283,152962,141831,16077,synthetic_demo,Synthetic data for framework demonstration only
+2019,4,2019-04-01,Madhya Pradesh,1170717,160242,128767,16769,synthetic_demo,Synthetic data for framework demonstration only
+2019,5,2019-05-01,Madhya Pradesh,1021858,116978,113267,14323,synthetic_demo,Synthetic data for framework demonstration only
+2019,6,2019-06-01,Madhya Pradesh,1217564,134799,130710,16743,synthetic_demo,Synthetic data for framework demonstration only
+2019,7,2019-07-01,Madhya Pradesh,1199815,140282,143520,17923,synthetic_demo,Synthetic data for framework demonstration only
+2019,8,2019-08-01,Madhya Pradesh,1501261,155360,163924,18101,synthetic_demo,Synthetic data for framework demonstration only
+2019,9,2019-09-01,Madhya Pradesh,1646838,235038,208957,25722,synthetic_demo,Synthetic data for framework demonstration only
+2019,10,2019-10-01,Madhya Pradesh,1833486,191862,188015,22941,synthetic_demo,Synthetic data for framework demonstration only
+2019,11,2019-11-01,Madhya Pradesh,1892602,214083,217633,21959,synthetic_demo,Synthetic data for framework demonstration only
+2019,12,2019-12-01,Madhya Pradesh,1705962,233882,221903,30703,synthetic_demo,Synthetic data for framework demonstration only
+2020,1,2020-01-01,Madhya Pradesh,1651792,164899,188836,17166,synthetic_demo,Synthetic data for framework demonstration only
+2020,2,2020-02-01,Madhya Pradesh,1526946,152218,168696,17559,synthetic_demo,Synthetic data for framework demonstration only
+2020,3,2020-03-01,Madhya Pradesh,1377169,124568,136000,16213,synthetic_demo,Synthetic data for framework demonstration only
+2020,4,2020-04-01,Madhya Pradesh,1097524,125702,137906,15431,synthetic_demo,Synthetic data for framework demonstration only
+2020,5,2020-05-01,Madhya Pradesh,1049779,128146,134084,13757,synthetic_demo,Synthetic data for framework demonstration only
+2020,6,2020-06-01,Madhya Pradesh,1164935,116051,138057,14479,synthetic_demo,Synthetic data for framework demonstration only
+2020,7,2020-07-01,Madhya Pradesh,1196105,139883,149475,15606,synthetic_demo,Synthetic data for framework demonstration only
+2020,8,2020-08-01,Madhya Pradesh,1396892,216150,178590,24857,synthetic_demo,Synthetic data for framework demonstration only
+2020,9,2020-09-01,Madhya Pradesh,1540667,204350,200948,25956,synthetic_demo,Synthetic data for framework demonstration only
+2020,10,2020-10-01,Madhya Pradesh,1686548,244190,198296,25274,synthetic_demo,Synthetic data for framework demonstration only
+2020,11,2020-11-01,Madhya Pradesh,1851497,269173,215772,31272,synthetic_demo,Synthetic data for framework demonstration only
+2020,12,2020-12-01,Madhya Pradesh,1675569,169621,190503,18937,synthetic_demo,Synthetic data for framework demonstration only
+2021,1,2021-01-01,Madhya Pradesh,1655161,234641,189866,29503,synthetic_demo,Synthetic data for framework demonstration only
+2021,2,2021-02-01,Madhya Pradesh,1300760,176593,159928,18401,synthetic_demo,Synthetic data for framework demonstration only
+2021,3,2021-03-01,Madhya Pradesh,1279428,167503,149203,20410,synthetic_demo,Synthetic data for framework demonstration only
+2021,4,2021-04-01,Madhya Pradesh,1040047,147132,129929,17374,synthetic_demo,Synthetic data for framework demonstration only
+2021,5,2021-05-01,Madhya Pradesh,1055012,113135,116098,12992,synthetic_demo,Synthetic data for framework demonstration only
+2021,6,2021-06-01,Madhya Pradesh,1066760,173194,122367,18552,synthetic_demo,Synthetic data for framework demonstration only
+2021,7,2021-07-01,Madhya Pradesh,1163829,157300,159329,17571,synthetic_demo,Synthetic data for framework demonstration only
+2021,8,2021-08-01,Madhya Pradesh,1284271,194754,166508,25176,synthetic_demo,Synthetic data for framework demonstration only
+2021,9,2021-09-01,Madhya Pradesh,1736223,240062,177016,25156,synthetic_demo,Synthetic data for framework demonstration only
+2021,10,2021-10-01,Madhya Pradesh,1809907,222301,190164,23658,synthetic_demo,Synthetic data for framework demonstration only
+2021,11,2021-11-01,Madhya Pradesh,1777924,236142,213188,28009,synthetic_demo,Synthetic data for framework demonstration only
+2021,12,2021-12-01,Madhya Pradesh,1689007,173105,217280,19902,synthetic_demo,Synthetic data for framework demonstration only
+2022,1,2022-01-01,Madhya Pradesh,1504534,211171,192982,27126,synthetic_demo,Synthetic data for framework demonstration only
+2022,2,2022-02-01,Madhya Pradesh,1400515,189213,152050,20187,synthetic_demo,Synthetic data for framework demonstration only
+2022,3,2022-03-01,Madhya Pradesh,1162242,150560,145260,19583,synthetic_demo,Synthetic data for framework demonstration only
+2022,4,2022-04-01,Madhya Pradesh,1141428,117706,124265,13222,synthetic_demo,Synthetic data for framework demonstration only
+2022,5,2022-05-01,Madhya Pradesh,1045370,136564,132895,16161,synthetic_demo,Synthetic data for framework demonstration only
+2022,6,2022-06-01,Madhya Pradesh,1043507,133629,136464,16204,synthetic_demo,Synthetic data for framework demonstration only
+2022,7,2022-07-01,Madhya Pradesh,1155827,132565,138925,14718,synthetic_demo,Synthetic data for framework demonstration only
+2022,8,2022-08-01,Madhya Pradesh,1286011,207430,170074,22869,synthetic_demo,Synthetic data for framework demonstration only
+2022,9,2022-09-01,Madhya Pradesh,1704681,221568,198153,28474,synthetic_demo,Synthetic data for framework demonstration only
+2022,10,2022-10-01,Madhya Pradesh,1778530,234844,189277,24254,synthetic_demo,Synthetic data for framework demonstration only
+2022,11,2022-11-01,Madhya Pradesh,1615786,205458,201698,27258,synthetic_demo,Synthetic data for framework demonstration only
+2022,12,2022-12-01,Madhya Pradesh,1740664,235411,208134,26173,synthetic_demo,Synthetic data for framework demonstration only
+2023,1,2023-01-01,Madhya Pradesh,1420869,171033,180974,23965,synthetic_demo,Synthetic data for framework demonstration only
+2023,2,2023-02-01,Madhya Pradesh,1363999,179395,169189,23124,synthetic_demo,Synthetic data for framework demonstration only
+2023,3,2023-03-01,Madhya Pradesh,1318259,157309,149666,17768,synthetic_demo,Synthetic data for framework demonstration only
+2023,4,2023-04-01,Madhya Pradesh,1168350,127272,131208,15367,synthetic_demo,Synthetic data for framework demonstration only
+2023,5,2023-05-01,Madhya Pradesh,1093806,103452,110906,12663,synthetic_demo,Synthetic data for framework demonstration only
+2023,6,2023-06-01,Madhya Pradesh,1042054,121328,136067,15184,synthetic_demo,Synthetic data for framework demonstration only
+2023,7,2023-07-01,Madhya Pradesh,1233457,160021,141857,17282,synthetic_demo,Synthetic data for framework demonstration only
+2023,8,2023-08-01,Madhya Pradesh,1382793,142829,157865,17395,synthetic_demo,Synthetic data for framework demonstration only
+2023,9,2023-09-01,Madhya Pradesh,1753839,223020,183092,27930,synthetic_demo,Synthetic data for framework demonstration only
+2023,10,2023-10-01,Madhya Pradesh,1548142,260212,200107,29117,synthetic_demo,Synthetic data for framework demonstration only
+2023,11,2023-11-01,Madhya Pradesh,1746994,234385,195951,30919,synthetic_demo,Synthetic data for framework demonstration only
+2023,12,2023-12-01,Madhya Pradesh,1707064,201521,207048,23948,synthetic_demo,Synthetic data for framework demonstration only
+2017,1,2017-01-01,Maharashtra,1854640,286125,180458,25078,synthetic_demo,Synthetic data for framework demonstration only
+2017,2,2017-02-01,Maharashtra,1810553,210383,147968,14947,synthetic_demo,Synthetic data for framework demonstration only
+2017,3,2017-03-01,Maharashtra,1523491,185806,135357,17154,synthetic_demo,Synthetic data for framework demonstration only
+2017,4,2017-04-01,Maharashtra,1365851,162891,109402,13424,synthetic_demo,Synthetic data for framework demonstration only
+2017,5,2017-05-01,Maharashtra,1218464,166976,104484,14272,synthetic_demo,Synthetic data for framework demonstration only
+2017,6,2017-06-01,Maharashtra,1299064,153934,125804,11406,synthetic_demo,Synthetic data for framework demonstration only
+2017,7,2017-07-01,Maharashtra,1641085,164446,139606,15496,synthetic_demo,Synthetic data for framework demonstration only
+2017,8,2017-08-01,Maharashtra,1740665,208562,160741,16702,synthetic_demo,Synthetic data for framework demonstration only
+2017,9,2017-09-01,Maharashtra,2105015,206362,174452,18661,synthetic_demo,Synthetic data for framework demonstration only
+2017,10,2017-10-01,Maharashtra,1947195,302139,195989,26491,synthetic_demo,Synthetic data for framework demonstration only
+2017,11,2017-11-01,Maharashtra,2084366,245730,178539,19429,synthetic_demo,Synthetic data for framework demonstration only
+2017,12,2017-12-01,Maharashtra,2346715,326023,192981,28443,synthetic_demo,Synthetic data for framework demonstration only
+2018,1,2018-01-01,Maharashtra,1887016,287110,158363,21756,synthetic_demo,Synthetic data for framework demonstration only
+2018,2,2018-02-01,Maharashtra,1827673,212790,138382,19335,synthetic_demo,Synthetic data for framework demonstration only
+2018,3,2018-03-01,Maharashtra,1621943,179369,134882,15091,synthetic_demo,Synthetic data for framework demonstration only
+2018,4,2018-04-01,Maharashtra,1324451,177606,114885,12954,synthetic_demo,Synthetic data for framework demonstration only
+2018,5,2018-05-01,Maharashtra,1440442,146111,122395,12228,synthetic_demo,Synthetic data for framework demonstration only
+2018,6,2018-06-01,Maharashtra,1392005,142239,108554,11496,synthetic_demo,Synthetic data for framework demonstration only
+2018,7,2018-07-01,Maharashtra,1704806,174733,128541,14648,synthetic_demo,Synthetic data for framework demonstration only
+2018,8,2018-08-01,Maharashtra,1764646,200108,156354,15681,synthetic_demo,Synthetic data for framework demonstration only
+2018,9,2018-09-01,Maharashtra,2249495,279295,180603,21441,synthetic_demo,Synthetic data for framework demonstration only
+2018,10,2018-10-01,Maharashtra,2365197,209329,192253,18925,synthetic_demo,Synthetic data for framework demonstration only
+2018,11,2018-11-01,Maharashtra,2283735,323972,179671,27046,synthetic_demo,Synthetic data for framework demonstration only
+2018,12,2018-12-01,Maharashtra,2170549,216944,184066,19235,synthetic_demo,Synthetic data for framework demonstration only
+2019,1,2019-01-01,Maharashtra,1964311,265900,180249,19760,synthetic_demo,Synthetic data for framework demonstration only
+2019,2,2019-02-01,Maharashtra,1953091,184073,151929,16579,synthetic_demo,Synthetic data for framework demonstration only
+2019,3,2019-03-01,Maharashtra,1715550,171308,136235,16869,synthetic_demo,Synthetic data for framework demonstration only
+2019,4,2019-04-01,Maharashtra,1449781,144771,109795,11881,synthetic_demo,Synthetic data for framework demonstration only
+2019,5,2019-05-01,Maharashtra,1307131,152152,115118,14587,synthetic_demo,Synthetic data for framework demonstration only
+2019,6,2019-06-01,Maharashtra,1272393,194391,130548,18526,synthetic_demo,Synthetic data for framework demonstration only
+2019,7,2019-07-01,Maharashtra,1628563,174901,146202,15192,synthetic_demo,Synthetic data for framework demonstration only
+2019,8,2019-08-01,Maharashtra,1894448,276517,163223,20612,synthetic_demo,Synthetic data for framework demonstration only
+2019,9,2019-09-01,Maharashtra,1900879,231111,165622,20104,synthetic_demo,Synthetic data for framework demonstration only
+2019,10,2019-10-01,Maharashtra,2007480,265675,191058,20998,synthetic_demo,Synthetic data for framework demonstration only
+2019,11,2019-11-01,Maharashtra,2377721,245205,193441,17826,synthetic_demo,Synthetic data for framework demonstration only
+2019,12,2019-12-01,Maharashtra,2162266,261412,170170,23025,synthetic_demo,Synthetic data for framework demonstration only
+2020,1,2020-01-01,Maharashtra,2042264,247044,178741,23031,synthetic_demo,Synthetic data for framework demonstration only
+2020,2,2020-02-01,Maharashtra,1641338,180006,145524,16587,synthetic_demo,Synthetic data for framework demonstration only
+2020,3,2020-03-01,Maharashtra,1567335,167811,147752,13022,synthetic_demo,Synthetic data for framework demonstration only
+2020,4,2020-04-01,Maharashtra,1360298,181860,122858,14545,synthetic_demo,Synthetic data for framework demonstration only
+2020,5,2020-05-01,Maharashtra,1257360,203419,110953,16277,synthetic_demo,Synthetic data for framework demonstration only
+2020,6,2020-06-01,Maharashtra,1326882,182410,120611,14493,synthetic_demo,Synthetic data for framework demonstration only
+2020,7,2020-07-01,Maharashtra,1699919,205197,127586,18090,synthetic_demo,Synthetic data for framework demonstration only
+2020,8,2020-08-01,Maharashtra,1786004,221731,138029,20507,synthetic_demo,Synthetic data for framework demonstration only
+2020,9,2020-09-01,Maharashtra,1888527,233746,166105,20257,synthetic_demo,Synthetic data for framework demonstration only
+2020,10,2020-10-01,Maharashtra,2031478,223341,173827,20007,synthetic_demo,Synthetic data for framework demonstration only
+2020,11,2020-11-01,Maharashtra,2240927,296671,181121,25079,synthetic_demo,Synthetic data for framework demonstration only
+2020,12,2020-12-01,Maharashtra,2125170,313181,188202,27272,synthetic_demo,Synthetic data for framework demonstration only
+2021,1,2021-01-01,Maharashtra,2160643,251592,150875,19428,synthetic_demo,Synthetic data for framework demonstration only
+2021,2,2021-02-01,Maharashtra,1787845,205836,148668,18789,synthetic_demo,Synthetic data for framework demonstration only
+2021,3,2021-03-01,Maharashtra,1508908,201445,148159,18422,synthetic_demo,Synthetic data for framework demonstration only
+2021,4,2021-04-01,Maharashtra,1312944,197809,126279,17051,synthetic_demo,Synthetic data for framework demonstration only
+2021,5,2021-05-01,Maharashtra,1225050,157412,122002,13188,synthetic_demo,Synthetic data for framework demonstration only
+2021,6,2021-06-01,Maharashtra,1542362,184534,121031,14030,synthetic_demo,Synthetic data for framework demonstration only
+2021,7,2021-07-01,Maharashtra,1642870,219819,129448,17129,synthetic_demo,Synthetic data for framework demonstration only
+2021,8,2021-08-01,Maharashtra,1671625,186165,142177,16394,synthetic_demo,Synthetic data for framework demonstration only
+2021,9,2021-09-01,Maharashtra,1939015,197945,163993,18513,synthetic_demo,Synthetic data for framework demonstration only
+2021,10,2021-10-01,Maharashtra,2224869,257037,187058,25102,synthetic_demo,Synthetic data for framework demonstration only
+2021,11,2021-11-01,Maharashtra,2059705,225283,194749,19259,synthetic_demo,Synthetic data for framework demonstration only
+2021,12,2021-12-01,Maharashtra,2175343,248775,181804,18000,synthetic_demo,Synthetic data for framework demonstration only
+2022,1,2022-01-01,Maharashtra,1936447,210987,152532,19082,synthetic_demo,Synthetic data for framework demonstration only
+2022,2,2022-02-01,Maharashtra,1639188,263645,139086,20990,synthetic_demo,Synthetic data for framework demonstration only
+2022,3,2022-03-01,Maharashtra,1666590,225613,144829,16456,synthetic_demo,Synthetic data for framework demonstration only
+2022,4,2022-04-01,Maharashtra,1542728,167909,119709,14264,synthetic_demo,Synthetic data for framework demonstration only
+2022,5,2022-05-01,Maharashtra,1388167,171489,108608,12025,synthetic_demo,Synthetic data for framework demonstration only
+2022,6,2022-06-01,Maharashtra,1504092,153604,125279,13569,synthetic_demo,Synthetic data for framework demonstration only
+2022,7,2022-07-01,Maharashtra,1568552,219166,141420,18479,synthetic_demo,Synthetic data for framework demonstration only
+2022,8,2022-08-01,Maharashtra,1894265,164345,164820,16171,synthetic_demo,Synthetic data for framework demonstration only
+2022,9,2022-09-01,Maharashtra,2249827,222391,174588,16774,synthetic_demo,Synthetic data for framework demonstration only
+2022,10,2022-10-01,Maharashtra,2085544,280666,167534,22642,synthetic_demo,Synthetic data for framework demonstration only
+2022,11,2022-11-01,Maharashtra,2145638,256982,182175,23346,synthetic_demo,Synthetic data for framework demonstration only
+2022,12,2022-12-01,Maharashtra,2256517,292875,169131,23808,synthetic_demo,Synthetic data for framework demonstration only
+2023,1,2023-01-01,Maharashtra,1842636,211481,182284,18953,synthetic_demo,Synthetic data for framework demonstration only
+2023,2,2023-02-01,Maharashtra,1883468,178164,149128,16602,synthetic_demo,Synthetic data for framework demonstration only
+2023,3,2023-03-01,Maharashtra,1744001,186326,146824,18142,synthetic_demo,Synthetic data for framework demonstration only
+2023,4,2023-04-01,Maharashtra,1427612,170026,108420,14725,synthetic_demo,Synthetic data for framework demonstration only
+2023,5,2023-05-01,Maharashtra,1317897,167258,117954,13039,synthetic_demo,Synthetic data for framework demonstration only
+2023,6,2023-06-01,Maharashtra,1400147,219605,109247,18390,synthetic_demo,Synthetic data for framework demonstration only
+2023,7,2023-07-01,Maharashtra,1515912,218574,148599,17178,synthetic_demo,Synthetic data for framework demonstration only
+2023,8,2023-08-01,Maharashtra,1700002,211765,161664,18457,synthetic_demo,Synthetic data for framework demonstration only
+2023,9,2023-09-01,Maharashtra,1885543,259615,190100,21098,synthetic_demo,Synthetic data for framework demonstration only
+2023,10,2023-10-01,Maharashtra,1980084,294425,193241,27204,synthetic_demo,Synthetic data for framework demonstration only
+2023,11,2023-11-01,Maharashtra,2285488,257464,207681,20602,synthetic_demo,Synthetic data for framework demonstration only
+2023,12,2023-12-01,Maharashtra,2001904,227143,191880,20667,synthetic_demo,Synthetic data for framework demonstration only
+2017,1,2017-01-01,Odisha,881570,101645,84810,10188,synthetic_demo,Synthetic data for framework demonstration only
+2017,2,2017-02-01,Odisha,773133,74320,73943,8632,synthetic_demo,Synthetic data for framework demonstration only
+2017,3,2017-03-01,Odisha,628186,86498,67659,10214,synthetic_demo,Synthetic data for framework demonstration only
+2017,4,2017-04-01,Odisha,589549,69292,69455,9226,synthetic_demo,Synthetic data for framework demonstration only
+2017,5,2017-05-01,Odisha,544570,56211,55115,6815,synthetic_demo,Synthetic data for framework demonstration only
+2017,6,2017-06-01,Odisha,595317,72741,65603,7510,synthetic_demo,Synthetic data for framework demonstration only
+2017,7,2017-07-01,Odisha,601130,94955,75994,9838,synthetic_demo,Synthetic data for framework demonstration only
+2017,8,2017-08-01,Odisha,657128,92852,77214,9734,synthetic_demo,Synthetic data for framework demonstration only
+2017,9,2017-09-01,Odisha,827515,102818,85055,11090,synthetic_demo,Synthetic data for framework demonstration only
+2017,10,2017-10-01,Odisha,857237,92243,94648,10456,synthetic_demo,Synthetic data for framework demonstration only
+2017,11,2017-11-01,Odisha,910509,119484,97163,14260,synthetic_demo,Synthetic data for framework demonstration only
+2017,12,2017-12-01,Odisha,950462,120833,89967,15077,synthetic_demo,Synthetic data for framework demonstration only
+2018,1,2018-01-01,Odisha,821208,121521,89512,11881,synthetic_demo,Synthetic data for framework demonstration only
+2018,2,2018-02-01,Odisha,756966,68744,79203,7920,synthetic_demo,Synthetic data for framework demonstration only
+2018,3,2018-03-01,Odisha,623424,93877,70794,10860,synthetic_demo,Synthetic data for framework demonstration only
+2018,4,2018-04-01,Odisha,554625,63990,58935,7193,synthetic_demo,Synthetic data for framework demonstration only
+2018,5,2018-05-01,Odisha,567136,72890,54729,8908,synthetic_demo,Synthetic data for framework demonstration only
+2018,6,2018-06-01,Odisha,553582,55698,59123,6160,synthetic_demo,Synthetic data for framework demonstration only
+2018,7,2018-07-01,Odisha,627336,66718,74837,7941,synthetic_demo,Synthetic data for framework demonstration only
+2018,8,2018-08-01,Odisha,676093,74536,75313,9494,synthetic_demo,Synthetic data for framework demonstration only
+2018,9,2018-09-01,Odisha,806656,107848,98441,10876,synthetic_demo,Synthetic data for framework demonstration only
+2018,10,2018-10-01,Odisha,828012,101382,89322,11392,synthetic_demo,Synthetic data for framework demonstration only
+2018,11,2018-11-01,Odisha,993268,123043,97669,13976,synthetic_demo,Synthetic data for framework demonstration only
+2018,12,2018-12-01,Odisha,931494,85840,97938,11345,synthetic_demo,Synthetic data for framework demonstration only
+2019,1,2019-01-01,Odisha,782498,78098,87260,9176,synthetic_demo,Synthetic data for framework demonstration only
+2019,2,2019-02-01,Odisha,728941,84848,77372,9501,synthetic_demo,Synthetic data for framework demonstration only
+2019,3,2019-03-01,Odisha,709462,89226,67138,9916,synthetic_demo,Synthetic data for framework demonstration only
+2019,4,2019-04-01,Odisha,602008,85359,67883,8840,synthetic_demo,Synthetic data for framework demonstration only
+2019,5,2019-05-01,Odisha,509940,61174,64668,6417,synthetic_demo,Synthetic data for framework demonstration only
+2019,6,2019-06-01,Odisha,547965,85879,59159,9231,synthetic_demo,Synthetic data for framework demonstration only
+2019,7,2019-07-01,Odisha,689134,72031,79345,6967,synthetic_demo,Synthetic data for framework demonstration only
+2019,8,2019-08-01,Odisha,743104,82607,75429,8102,synthetic_demo,Synthetic data for framework demonstration only
+2019,9,2019-09-01,Odisha,905955,110299,103057,11250,synthetic_demo,Synthetic data for framework demonstration only
+2019,10,2019-10-01,Odisha,885044,95734,94847,10320,synthetic_demo,Synthetic data for framework demonstration only
+2019,11,2019-11-01,Odisha,1010522,96332,103561,9714,synthetic_demo,Synthetic data for framework demonstration only
+2019,12,2019-12-01,Odisha,915020,132311,93774,14829,synthetic_demo,Synthetic data for framework demonstration only
+2020,1,2020-01-01,Odisha,734513,79014,85686,9102,synthetic_demo,Synthetic data for framework demonstration only
+2020,2,2020-02-01,Odisha,799133,71832,82691,8241,synthetic_demo,Synthetic data for framework demonstration only
+2020,3,2020-03-01,Odisha,611363,77988,76159,9289,synthetic_demo,Synthetic data for framework demonstration only
+2020,4,2020-04-01,Odisha,579643,68727,62583,7668,synthetic_demo,Synthetic data for framework demonstration only
+2020,5,2020-05-01,Odisha,498190,62106,64147,7095,synthetic_demo,Synthetic data for framework demonstration only
+2020,6,2020-06-01,Odisha,525147,66266,68563,6393,synthetic_demo,Synthetic data for framework demonstration only
+2020,7,2020-07-01,Odisha,716293,93853,75301,9582,synthetic_demo,Synthetic data for framework demonstration only
+2020,8,2020-08-01,Odisha,754049,92432,87108,10347,synthetic_demo,Synthetic data for framework demonstration only
+2020,9,2020-09-01,Odisha,914244,104514,86539,11069,synthetic_demo,Synthetic data for framework demonstration only
+2020,10,2020-10-01,Odisha,921256,110593,107754,11744,synthetic_demo,Synthetic data for framework demonstration only
+2020,11,2020-11-01,Odisha,949525,115693,100174,11675,synthetic_demo,Synthetic data for framework demonstration only
+2020,12,2020-12-01,Odisha,914599,101818,89230,11942,synthetic_demo,Synthetic data for framework demonstration only
+2021,1,2021-01-01,Odisha,821164,111290,92444,14003,synthetic_demo,Synthetic data for framework demonstration only
+2021,2,2021-02-01,Odisha,704329,96300,87585,10249,synthetic_demo,Synthetic data for framework demonstration only
+2021,3,2021-03-01,Odisha,622100,100605,70312,9868,synthetic_demo,Synthetic data for framework demonstration only
+2021,4,2021-04-01,Odisha,582047,59784,58428,7517,synthetic_demo,Synthetic data for framework demonstration only
+2021,5,2021-05-01,Odisha,549079,67306,60975,7436,synthetic_demo,Synthetic data for framework demonstration only
+2021,6,2021-06-01,Odisha,580557,67410,70168,7052,synthetic_demo,Synthetic data for framework demonstration only
+2021,7,2021-07-01,Odisha,652990,84488,76354,9496,synthetic_demo,Synthetic data for framework demonstration only
+2021,8,2021-08-01,Odisha,694100,94638,77745,10952,synthetic_demo,Synthetic data for framework demonstration only
+2021,9,2021-09-01,Odisha,903122,119547,97092,14152,synthetic_demo,Synthetic data for framework demonstration only
+2021,10,2021-10-01,Odisha,888208,118695,100674,15964,synthetic_demo,Synthetic data for framework demonstration only
+2021,11,2021-11-01,Odisha,928207,124960,105618,12065,synthetic_demo,Synthetic data for framework demonstration only
+2021,12,2021-12-01,Odisha,801119,106047,105327,10369,synthetic_demo,Synthetic data for framework demonstration only
+2022,1,2022-01-01,Odisha,876344,100058,88203,11805,synthetic_demo,Synthetic data for framework demonstration only
+2022,2,2022-02-01,Odisha,728900,82237,73456,9501,synthetic_demo,Synthetic data for framework demonstration only
+2022,3,2022-03-01,Odisha,694862,97542,67453,10573,synthetic_demo,Synthetic data for framework demonstration only
+2022,4,2022-04-01,Odisha,526786,73267,64485,7903,synthetic_demo,Synthetic data for framework demonstration only
+2022,5,2022-05-01,Odisha,511175,51563,61903,6631,synthetic_demo,Synthetic data for framework demonstration only
+2022,6,2022-06-01,Odisha,547131,76628,62865,9713,synthetic_demo,Synthetic data for framework demonstration only
+2022,7,2022-07-01,Odisha,701951,85356,72820,9533,synthetic_demo,Synthetic data for framework demonstration only
+2022,8,2022-08-01,Odisha,786106,98358,78938,12073,synthetic_demo,Synthetic data for framework demonstration only
+2022,9,2022-09-01,Odisha,894797,94280,89115,10235,synthetic_demo,Synthetic data for framework demonstration only
+2022,10,2022-10-01,Odisha,897006,114376,100991,14740,synthetic_demo,Synthetic data for framework demonstration only
+2022,11,2022-11-01,Odisha,915251,93508,105224,10653,synthetic_demo,Synthetic data for framework demonstration only
+2022,12,2022-12-01,Odisha,870223,99528,105123,11564,synthetic_demo,Synthetic data for framework demonstration only
+2023,1,2023-01-01,Odisha,787171,93320,92723,10336,synthetic_demo,Synthetic data for framework demonstration only
+2023,2,2023-02-01,Odisha,716907,86274,86706,8730,synthetic_demo,Synthetic data for framework demonstration only
+2023,3,2023-03-01,Odisha,709885,98368,73919,10369,synthetic_demo,Synthetic data for framework demonstration only
+2023,4,2023-04-01,Odisha,520815,80660,70412,8686,synthetic_demo,Synthetic data for framework demonstration only
+2023,5,2023-05-01,Odisha,563724,67058,64416,8433,synthetic_demo,Synthetic data for framework demonstration only
+2023,6,2023-06-01,Odisha,608002,81648,64542,8671,synthetic_demo,Synthetic data for framework demonstration only
+2023,7,2023-07-01,Odisha,615654,88295,75972,9534,synthetic_demo,Synthetic data for framework demonstration only
+2023,8,2023-08-01,Odisha,765120,99928,75959,10048,synthetic_demo,Synthetic data for framework demonstration only
+2023,9,2023-09-01,Odisha,795620,96145,90200,11088,synthetic_demo,Synthetic data for framework demonstration only
+2023,10,2023-10-01,Odisha,903989,96299,91878,12638,synthetic_demo,Synthetic data for framework demonstration only
+2023,11,2023-11-01,Odisha,1003444,112222,105249,13097,synthetic_demo,Synthetic data for framework demonstration only
+2023,12,2023-12-01,Odisha,930507,105362,97216,12023,synthetic_demo,Synthetic data for framework demonstration only
+2017,1,2017-01-01,Punjab,432794,51932,25489,3233,synthetic_demo,Synthetic data for framework demonstration only
+2017,2,2017-02-01,Punjab,374137,38707,23312,2596,synthetic_demo,Synthetic data for framework demonstration only
+2017,3,2017-03-01,Punjab,318206,44970,22143,2937,synthetic_demo,Synthetic data for framework demonstration only
+2017,4,2017-04-01,Punjab,329266,42661,19404,2314,synthetic_demo,Synthetic data for framework demonstration only
+2017,5,2017-05-01,Punjab,282519,34410,18361,2298,synthetic_demo,Synthetic data for framework demonstration only
+2017,6,2017-06-01,Punjab,287439,35748,18342,2052,synthetic_demo,Synthetic data for framework demonstration only
+2017,7,2017-07-01,Punjab,307655,50127,23143,2711,synthetic_demo,Synthetic data for framework demonstration only
+2017,8,2017-08-01,Punjab,402603,48943,24318,3146,synthetic_demo,Synthetic data for framework demonstration only
+2017,9,2017-09-01,Punjab,480308,52462,26850,3251,synthetic_demo,Synthetic data for framework demonstration only
+2017,10,2017-10-01,Punjab,453827,65959,26149,4150,synthetic_demo,Synthetic data for framework demonstration only
+2017,11,2017-11-01,Punjab,463691,55235,29491,3874,synthetic_demo,Synthetic data for framework demonstration only
+2017,12,2017-12-01,Punjab,472059,68079,26514,4061,synthetic_demo,Synthetic data for framework demonstration only
+2018,1,2018-01-01,Punjab,448791,43196,27988,2775,synthetic_demo,Synthetic data for framework demonstration only
+2018,2,2018-02-01,Punjab,403108,38891,22294,2561,synthetic_demo,Synthetic data for framework demonstration only
+2018,3,2018-03-01,Punjab,320874,38838,19234,2345,synthetic_demo,Synthetic data for framework demonstration only
+2018,4,2018-04-01,Punjab,283608,39849,19873,2542,synthetic_demo,Synthetic data for framework demonstration only
+2018,5,2018-05-01,Punjab,303942,40688,18237,2373,synthetic_demo,Synthetic data for framework demonstration only
+2018,6,2018-06-01,Punjab,287789,27998,17665,1897,synthetic_demo,Synthetic data for framework demonstration only
+2018,7,2018-07-01,Punjab,327533,37900,20578,2479,synthetic_demo,Synthetic data for framework demonstration only
+2018,8,2018-08-01,Punjab,358007,50617,24198,3111,synthetic_demo,Synthetic data for framework demonstration only
+2018,9,2018-09-01,Punjab,427783,47406,29572,3329,synthetic_demo,Synthetic data for framework demonstration only
+2018,10,2018-10-01,Punjab,432654,45215,28322,3049,synthetic_demo,Synthetic data for framework demonstration only
+2018,11,2018-11-01,Punjab,478589,48821,28403,2789,synthetic_demo,Synthetic data for framework demonstration only
+2018,12,2018-12-01,Punjab,496042,49596,26194,3063,synthetic_demo,Synthetic data for framework demonstration only
+2019,1,2019-01-01,Punjab,427411,45159,25641,3082,synthetic_demo,Synthetic data for framework demonstration only
+2019,2,2019-02-01,Punjab,364287,45069,25691,3094,synthetic_demo,Synthetic data for framework demonstration only
+2019,3,2019-03-01,Punjab,358572,33241,19793,2438,synthetic_demo,Synthetic data for framework demonstration only
+2019,4,2019-04-01,Punjab,278173,33216,17805,2424,synthetic_demo,Synthetic data for framework demonstration only
+2019,5,2019-05-01,Punjab,258972,37287,16586,2600,synthetic_demo,Synthetic data for framework demonstration only
+2019,6,2019-06-01,Punjab,314023,35302,18664,2244,synthetic_demo,Synthetic data for framework demonstration only
+2019,7,2019-07-01,Punjab,313420,47044,19024,3228,synthetic_demo,Synthetic data for framework demonstration only
+2019,8,2019-08-01,Punjab,355501,49450,23416,2775,synthetic_demo,Synthetic data for framework demonstration only
+2019,9,2019-09-01,Punjab,433448,47257,25620,2786,synthetic_demo,Synthetic data for framework demonstration only
+2019,10,2019-10-01,Punjab,430708,53015,29096,3455,synthetic_demo,Synthetic data for framework demonstration only
+2019,11,2019-11-01,Punjab,448544,60430,28007,4258,synthetic_demo,Synthetic data for framework demonstration only
+2019,12,2019-12-01,Punjab,487626,62866,26129,3613,synthetic_demo,Synthetic data for framework demonstration only
+2020,1,2020-01-01,Punjab,432655,50707,24676,2945,synthetic_demo,Synthetic data for framework demonstration only
+2020,2,2020-02-01,Punjab,375144,50468,22259,3398,synthetic_demo,Synthetic data for framework demonstration only
+2020,3,2020-03-01,Punjab,363178,35087,20758,2176,synthetic_demo,Synthetic data for framework demonstration only
+2020,4,2020-04-01,Punjab,319083,28983,17203,1932,synthetic_demo,Synthetic data for framework demonstration only
+2020,5,2020-05-01,Punjab,278872,32926,17324,2066,synthetic_demo,Synthetic data for framework demonstration only
+2020,6,2020-06-01,Punjab,310573,32136,19910,2264,synthetic_demo,Synthetic data for framework demonstration only
+2020,7,2020-07-01,Punjab,333473,39384,22151,2480,synthetic_demo,Synthetic data for framework demonstration only
+2020,8,2020-08-01,Punjab,389354,48769,25725,3138,synthetic_demo,Synthetic data for framework demonstration only
+2020,9,2020-09-01,Punjab,407457,54114,28898,3503,synthetic_demo,Synthetic data for framework demonstration only
+2020,10,2020-10-01,Punjab,427351,71157,25865,4056,synthetic_demo,Synthetic data for framework demonstration only
+2020,11,2020-11-01,Punjab,521469,50857,28889,3661,synthetic_demo,Synthetic data for framework demonstration only
+2020,12,2020-12-01,Punjab,459877,48682,30972,3149,synthetic_demo,Synthetic data for framework demonstration only
+2021,1,2021-01-01,Punjab,391177,56443,25884,3200,synthetic_demo,Synthetic data for framework demonstration only
+2021,2,2021-02-01,Punjab,396668,40854,23288,2795,synthetic_demo,Synthetic data for framework demonstration only
+2021,3,2021-03-01,Punjab,341449,34922,22570,2343,synthetic_demo,Synthetic data for framework demonstration only
+2021,4,2021-04-01,Punjab,273064,34502,16837,2205,synthetic_demo,Synthetic data for framework demonstration only
+2021,5,2021-05-01,Punjab,284762,32129,17854,1953,synthetic_demo,Synthetic data for framework demonstration only
+2021,6,2021-06-01,Punjab,295041,40844,18825,2803,synthetic_demo,Synthetic data for framework demonstration only
+2021,7,2021-07-01,Punjab,358662,41901,23128,2645,synthetic_demo,Synthetic data for framework demonstration only
+2021,8,2021-08-01,Punjab,405372,43973,21645,2642,synthetic_demo,Synthetic data for framework demonstration only
+2021,9,2021-09-01,Punjab,462652,57792,28845,3591,synthetic_demo,Synthetic data for framework demonstration only
+2021,10,2021-10-01,Punjab,418149,50726,25960,2969,synthetic_demo,Synthetic data for framework demonstration only
+2021,11,2021-11-01,Punjab,464346,47520,31689,3380,synthetic_demo,Synthetic data for framework demonstration only
+2021,12,2021-12-01,Punjab,452425,68003,30850,4081,synthetic_demo,Synthetic data for framework demonstration only
+2022,1,2022-01-01,Punjab,384845,59215,25058,4021,synthetic_demo,Synthetic data for framework demonstration only
+2022,2,2022-02-01,Punjab,390173,44245,22249,2542,synthetic_demo,Synthetic data for framework demonstration only
+2022,3,2022-03-01,Punjab,342233,41796,19122,2708,synthetic_demo,Synthetic data for framework demonstration only
+2022,4,2022-04-01,Punjab,283808,34522,17998,2073,synthetic_demo,Synthetic data for framework demonstration only
+2022,5,2022-05-01,Punjab,275637,33015,17606,1846,synthetic_demo,Synthetic data for framework demonstration only
+2022,6,2022-06-01,Punjab,294437,34147,17224,2195,synthetic_demo,Synthetic data for framework demonstration only
+2022,7,2022-07-01,Punjab,338080,48966,21195,2861,synthetic_demo,Synthetic data for framework demonstration only
+2022,8,2022-08-01,Punjab,365465,47432,21750,3326,synthetic_demo,Synthetic data for framework demonstration only
+2022,9,2022-09-01,Punjab,429546,66149,25815,4273,synthetic_demo,Synthetic data for framework demonstration only
+2022,10,2022-10-01,Punjab,434004,66200,29416,4148,synthetic_demo,Synthetic data for framework demonstration only
+2022,11,2022-11-01,Punjab,466488,66530,30703,3648,synthetic_demo,Synthetic data for framework demonstration only
+2022,12,2022-12-01,Punjab,478910,58138,31025,4121,synthetic_demo,Synthetic data for framework demonstration only
+2023,1,2023-01-01,Punjab,409108,58690,24263,3877,synthetic_demo,Synthetic data for framework demonstration only
+2023,2,2023-02-01,Punjab,368182,53035,21354,2851,synthetic_demo,Synthetic data for framework demonstration only
+2023,3,2023-03-01,Punjab,355524,33815,22061,2143,synthetic_demo,Synthetic data for framework demonstration only
+2023,4,2023-04-01,Punjab,301828,39613,17618,2272,synthetic_demo,Synthetic data for framework demonstration only
+2023,5,2023-05-01,Punjab,270379,33484,15711,2201,synthetic_demo,Synthetic data for framework demonstration only
+2023,6,2023-06-01,Punjab,299472,34406,18750,1852,synthetic_demo,Synthetic data for framework demonstration only
+2023,7,2023-07-01,Punjab,360984,42383,19335,2388,synthetic_demo,Synthetic data for framework demonstration only
+2023,8,2023-08-01,Punjab,407268,53081,21990,3385,synthetic_demo,Synthetic data for framework demonstration only
+2023,9,2023-09-01,Punjab,482527,49164,27484,3428,synthetic_demo,Synthetic data for framework demonstration only
+2023,10,2023-10-01,Punjab,501027,52789,29497,3209,synthetic_demo,Synthetic data for framework demonstration only
+2023,11,2023-11-01,Punjab,452856,52985,30244,3654,synthetic_demo,Synthetic data for framework demonstration only
+2023,12,2023-12-01,Punjab,463362,49791,29327,2677,synthetic_demo,Synthetic data for framework demonstration only
+2017,1,2017-01-01,Rajasthan,1504538,168518,141330,15688,synthetic_demo,Synthetic data for framework demonstration only
+2017,2,2017-02-01,Rajasthan,1326885,159058,131831,15379,synthetic_demo,Synthetic data for framework demonstration only
+2017,3,2017-03-01,Rajasthan,1108305,161293,114973,15552,synthetic_demo,Synthetic data for framework demonstration only
+2017,4,2017-04-01,Rajasthan,898473,126537,95584,13500,synthetic_demo,Synthetic data for framework demonstration only
+2017,5,2017-05-01,Rajasthan,866629,135579,99733,13679,synthetic_demo,Synthetic data for framework demonstration only
+2017,6,2017-06-01,Rajasthan,1021049,107854,100016,10984,synthetic_demo,Synthetic data for framework demonstration only
+2017,7,2017-07-01,Rajasthan,1034059,164371,116808,14825,synthetic_demo,Synthetic data for framework demonstration only
+2017,8,2017-08-01,Rajasthan,1175004,122686,120856,13552,synthetic_demo,Synthetic data for framework demonstration only
+2017,9,2017-09-01,Rajasthan,1347982,155320,146250,18244,synthetic_demo,Synthetic data for framework demonstration only
+2017,10,2017-10-01,Rajasthan,1557649,187825,144777,19099,synthetic_demo,Synthetic data for framework demonstration only
+2017,11,2017-11-01,Rajasthan,1428016,227446,167831,23704,synthetic_demo,Synthetic data for framework demonstration only
+2017,12,2017-12-01,Rajasthan,1466364,196603,169815,20786,synthetic_demo,Synthetic data for framework demonstration only
+2018,1,2018-01-01,Rajasthan,1519553,161495,151467,18098,synthetic_demo,Synthetic data for framework demonstration only
+2018,2,2018-02-01,Rajasthan,1284202,152072,122848,15906,synthetic_demo,Synthetic data for framework demonstration only
+2018,3,2018-03-01,Rajasthan,1007307,128198,121514,13470,synthetic_demo,Synthetic data for framework demonstration only
+2018,4,2018-04-01,Rajasthan,1036111,104968,110583,11291,synthetic_demo,Synthetic data for framework demonstration only
+2018,5,2018-05-01,Rajasthan,872513,113038,102209,11515,synthetic_demo,Synthetic data for framework demonstration only
+2018,6,2018-06-01,Rajasthan,1020959,115057,94731,10657,synthetic_demo,Synthetic data for framework demonstration only
+2018,7,2018-07-01,Rajasthan,1160394,121244,127613,13423,synthetic_demo,Synthetic data for framework demonstration only
+2018,8,2018-08-01,Rajasthan,1344152,150857,140599,14870,synthetic_demo,Synthetic data for framework demonstration only
+2018,9,2018-09-01,Rajasthan,1519341,135341,155407,14246,synthetic_demo,Synthetic data for framework demonstration only
+2018,10,2018-10-01,Rajasthan,1471460,152032,160212,16855,synthetic_demo,Synthetic data for framework demonstration only
+2018,11,2018-11-01,Rajasthan,1708963,199580,152741,21023,synthetic_demo,Synthetic data for framework demonstration only
+2018,12,2018-12-01,Rajasthan,1426991,226942,162157,23183,synthetic_demo,Synthetic data for framework demonstration only
+2019,1,2019-01-01,Rajasthan,1465503,147091,142752,18678,synthetic_demo,Synthetic data for framework demonstration only
+2019,2,2019-02-01,Rajasthan,1368125,122902,121932,14126,synthetic_demo,Synthetic data for framework demonstration only
+2019,3,2019-03-01,Rajasthan,1171428,142167,118784,16693,synthetic_demo,Synthetic data for framework demonstration only
+2019,4,2019-04-01,Rajasthan,1069370,146051,110765,13777,synthetic_demo,Synthetic data for framework demonstration only
+2019,5,2019-05-01,Rajasthan,950700,100193,98368,10703,synthetic_demo,Synthetic data for framework demonstration only
+2019,6,2019-06-01,Rajasthan,997898,147053,101379,14751,synthetic_demo,Synthetic data for framework demonstration only
+2019,7,2019-07-01,Rajasthan,1042190,125223,128487,14508,synthetic_demo,Synthetic data for framework demonstration only
+2019,8,2019-08-01,Rajasthan,1234493,170538,122466,19985,synthetic_demo,Synthetic data for framework demonstration only
+2019,9,2019-09-01,Rajasthan,1469307,219345,164076,23271,synthetic_demo,Synthetic data for framework demonstration only
+2019,10,2019-10-01,Rajasthan,1525655,220562,161584,21511,synthetic_demo,Synthetic data for framework demonstration only
+2019,11,2019-11-01,Rajasthan,1707581,177769,173004,22349,synthetic_demo,Synthetic data for framework demonstration only
+2019,12,2019-12-01,Rajasthan,1502464,214119,149549,22770,synthetic_demo,Synthetic data for framework demonstration only
+2020,1,2020-01-01,Rajasthan,1352080,193687,143019,18982,synthetic_demo,Synthetic data for framework demonstration only
+2020,2,2020-02-01,Rajasthan,1220844,163793,139583,17028,synthetic_demo,Synthetic data for framework demonstration only
+2020,3,2020-03-01,Rajasthan,1135636,117239,115848,13330,synthetic_demo,Synthetic data for framework demonstration only
+2020,4,2020-04-01,Rajasthan,980732,146224,99849,14769,synthetic_demo,Synthetic data for framework demonstration only
+2020,5,2020-05-01,Rajasthan,846160,107004,99963,12567,synthetic_demo,Synthetic data for framework demonstration only
+2020,6,2020-06-01,Rajasthan,990775,147027,97106,14625,synthetic_demo,Synthetic data for framework demonstration only
+2020,7,2020-07-01,Rajasthan,1116913,122205,118225,14396,synthetic_demo,Synthetic data for framework demonstration only
+2020,8,2020-08-01,Rajasthan,1367191,172362,141503,17647,synthetic_demo,Synthetic data for framework demonstration only
+2020,9,2020-09-01,Rajasthan,1491926,184629,148595,22239,synthetic_demo,Synthetic data for framework demonstration only
+2020,10,2020-10-01,Rajasthan,1589010,139989,173732,16980,synthetic_demo,Synthetic data for framework demonstration only
+2020,11,2020-11-01,Rajasthan,1432279,233347,158313,25551,synthetic_demo,Synthetic data for framework demonstration only
+2020,12,2020-12-01,Rajasthan,1373193,194617,173855,22695,synthetic_demo,Synthetic data for framework demonstration only
+2021,1,2021-01-01,Rajasthan,1496926,200433,145373,19226,synthetic_demo,Synthetic data for framework demonstration only
+2021,2,2021-02-01,Rajasthan,1212317,196168,137792,18900,synthetic_demo,Synthetic data for framework demonstration only
+2021,3,2021-03-01,Rajasthan,1074331,115500,111086,12713,synthetic_demo,Synthetic data for framework demonstration only
+2021,4,2021-04-01,Rajasthan,906404,94855,106875,10593,synthetic_demo,Synthetic data for framework demonstration only
+2021,5,2021-05-01,Rajasthan,830770,129718,90138,12444,synthetic_demo,Synthetic data for framework demonstration only
+2021,6,2021-06-01,Rajasthan,1007757,104102,109418,11485,synthetic_demo,Synthetic data for framework demonstration only
+2021,7,2021-07-01,Rajasthan,1045265,170069,110473,15808,synthetic_demo,Synthetic data for framework demonstration only
+2021,8,2021-08-01,Rajasthan,1159038,144514,134372,13826,synthetic_demo,Synthetic data for framework demonstration only
+2021,9,2021-09-01,Rajasthan,1503993,164405,138626,18233,synthetic_demo,Synthetic data for framework demonstration only
+2021,10,2021-10-01,Rajasthan,1594501,178606,165340,17954,synthetic_demo,Synthetic data for framework demonstration only
+2021,11,2021-11-01,Rajasthan,1561044,245676,168478,24382,synthetic_demo,Synthetic data for framework demonstration only
+2021,12,2021-12-01,Rajasthan,1573046,156771,148105,16434,synthetic_demo,Synthetic data for framework demonstration only
+2022,1,2022-01-01,Rajasthan,1254875,181872,146418,18733,synthetic_demo,Synthetic data for framework demonstration only
+2022,2,2022-02-01,Rajasthan,1232762,157182,141208,18159,synthetic_demo,Synthetic data for framework demonstration only
+2022,3,2022-03-01,Rajasthan,1196408,156296,113894,17002,synthetic_demo,Synthetic data for framework demonstration only
+2022,4,2022-04-01,Rajasthan,997287,97569,108428,11459,synthetic_demo,Synthetic data for framework demonstration only
+2022,5,2022-05-01,Rajasthan,1006889,90069,87921,9823,synthetic_demo,Synthetic data for framework demonstration only
+2022,6,2022-06-01,Rajasthan,946806,143273,113639,12405,synthetic_demo,Synthetic data for framework demonstration only
+2022,7,2022-07-01,Rajasthan,1225550,130258,112319,13363,synthetic_demo,Synthetic data for framework demonstration only
+2022,8,2022-08-01,Rajasthan,1221237,132131,138175,14057,synthetic_demo,Synthetic data for framework demonstration only
+2022,9,2022-09-01,Rajasthan,1402195,214612,149853,20214,synthetic_demo,Synthetic data for framework demonstration only
+2022,10,2022-10-01,Rajasthan,1387851,148149,152758,16115,synthetic_demo,Synthetic data for framework demonstration only
+2022,11,2022-11-01,Rajasthan,1603183,171169,168853,20909,synthetic_demo,Synthetic data for framework demonstration only
+2022,12,2022-12-01,Rajasthan,1489485,209564,168504,22496,synthetic_demo,Synthetic data for framework demonstration only
+2023,1,2023-01-01,Rajasthan,1447414,181531,133723,20708,synthetic_demo,Synthetic data for framework demonstration only
+2023,2,2023-02-01,Rajasthan,1229375,167928,133729,18066,synthetic_demo,Synthetic data for framework demonstration only
+2023,3,2023-03-01,Rajasthan,1007980,137628,127307,14618,synthetic_demo,Synthetic data for framework demonstration only
+2023,4,2023-04-01,Rajasthan,974357,119176,94952,12063,synthetic_demo,Synthetic data for framework demonstration only
+2023,5,2023-05-01,Rajasthan,964904,145450,89208,14843,synthetic_demo,Synthetic data for framework demonstration only
+2023,6,2023-06-01,Rajasthan,938949,130484,98442,13198,synthetic_demo,Synthetic data for framework demonstration only
+2023,7,2023-07-01,Rajasthan,1020370,127084,123582,14700,synthetic_demo,Synthetic data for framework demonstration only
+2023,8,2023-08-01,Rajasthan,1334995,136975,127939,16147,synthetic_demo,Synthetic data for framework demonstration only
+2023,9,2023-09-01,Rajasthan,1542128,204425,145549,21479,synthetic_demo,Synthetic data for framework demonstration only
+2023,10,2023-10-01,Rajasthan,1563591,197218,156644,19658,synthetic_demo,Synthetic data for framework demonstration only
+2023,11,2023-11-01,Rajasthan,1500499,231374,150098,22357,synthetic_demo,Synthetic data for framework demonstration only
+2023,12,2023-12-01,Rajasthan,1379638,179526,170615,17411,synthetic_demo,Synthetic data for framework demonstration only
+2017,1,2017-01-01,Tamil Nadu,1080425,130487,78926,8593,synthetic_demo,Synthetic data for framework demonstration only
+2017,2,2017-02-01,Tamil Nadu,1046107,120335,73389,6965,synthetic_demo,Synthetic data for framework demonstration only
+2017,3,2017-03-01,Tamil Nadu,964689,114896,61571,9320,synthetic_demo,Synthetic data for framework demonstration only
+2017,4,2017-04-01,Tamil Nadu,747313,110238,50976,7675,synthetic_demo,Synthetic data for framework demonstration only
+2017,5,2017-05-01,Tamil Nadu,758785,97695,53183,6052,synthetic_demo,Synthetic data for framework demonstration only
+2017,6,2017-06-01,Tamil Nadu,863479,78978,53817,6242,synthetic_demo,Synthetic data for framework demonstration only
+2017,7,2017-07-01,Tamil Nadu,848266,110175,65819,7541,synthetic_demo,Synthetic data for framework demonstration only
+2017,8,2017-08-01,Tamil Nadu,1041758,102047,64383,8228,synthetic_demo,Synthetic data for framework demonstration only
+2017,9,2017-09-01,Tamil Nadu,1152420,129541,87497,8219,synthetic_demo,Synthetic data for framework demonstration only
+2017,10,2017-10-01,Tamil Nadu,1392064,188401,89722,11435,synthetic_demo,Synthetic data for framework demonstration only
+2017,11,2017-11-01,Tamil Nadu,1309089,158158,84374,10492,synthetic_demo,Synthetic data for framework demonstration only
+2017,12,2017-12-01,Tamil Nadu,1348155,153340,94982,12158,synthetic_demo,Synthetic data for framework demonstration only
+2018,1,2018-01-01,Tamil Nadu,1243978,137828,84102,9504,synthetic_demo,Synthetic data for framework demonstration only
+2018,2,2018-02-01,Tamil Nadu,973361,130267,75127,9924,synthetic_demo,Synthetic data for framework demonstration only
+2018,3,2018-03-01,Tamil Nadu,954871,110392,61602,8231,synthetic_demo,Synthetic data for framework demonstration only
+2018,4,2018-04-01,Tamil Nadu,773454,92527,51634,6549,synthetic_demo,Synthetic data for framework demonstration only
+2018,5,2018-05-01,Tamil Nadu,845485,108853,49676,7987,synthetic_demo,Synthetic data for framework demonstration only
+2018,6,2018-06-01,Tamil Nadu,783442,111393,60809,7834,synthetic_demo,Synthetic data for framework demonstration only
+2018,7,2018-07-01,Tamil Nadu,848976,106426,59086,7073,synthetic_demo,Synthetic data for framework demonstration only
+2018,8,2018-08-01,Tamil Nadu,1069852,117731,67124,7154,synthetic_demo,Synthetic data for framework demonstration only
+2018,9,2018-09-01,Tamil Nadu,1263934,142782,82393,9605,synthetic_demo,Synthetic data for framework demonstration only
+2018,10,2018-10-01,Tamil Nadu,1234765,189779,78689,13648,synthetic_demo,Synthetic data for framework demonstration only
+2018,11,2018-11-01,Tamil Nadu,1299471,188135,91999,13300,synthetic_demo,Synthetic data for framework demonstration only
+2018,12,2018-12-01,Tamil Nadu,1356977,177251,92402,13238,synthetic_demo,Synthetic data for framework demonstration only
+2019,1,2019-01-01,Tamil Nadu,1109295,150014,76507,10563,synthetic_demo,Synthetic data for framework demonstration only
+2019,2,2019-02-01,Tamil Nadu,1104985,141322,64461,8309,synthetic_demo,Synthetic data for framework demonstration only
+2019,3,2019-03-01,Tamil Nadu,959882,135453,63197,9031,synthetic_demo,Synthetic data for framework demonstration only
+2019,4,2019-04-01,Tamil Nadu,877054,113443,56569,7225,synthetic_demo,Synthetic data for framework demonstration only
+2019,5,2019-05-01,Tamil Nadu,713481,90478,50815,6142,synthetic_demo,Synthetic data for framework demonstration only
+2019,6,2019-06-01,Tamil Nadu,800121,114647,61052,8148,synthetic_demo,Synthetic data for framework demonstration only
+2019,7,2019-07-01,Tamil Nadu,931782,112023,61216,8654,synthetic_demo,Synthetic data for framework demonstration only
+2019,8,2019-08-01,Tamil Nadu,1136231,145821,78442,9459,synthetic_demo,Synthetic data for framework demonstration only
+2019,9,2019-09-01,Tamil Nadu,1112196,158966,79277,12272,synthetic_demo,Synthetic data for framework demonstration only
+2019,10,2019-10-01,Tamil Nadu,1177994,174446,88113,10370,synthetic_demo,Synthetic data for framework demonstration only
+2019,11,2019-11-01,Tamil Nadu,1322706,150895,91242,10263,synthetic_demo,Synthetic data for framework demonstration only
+2019,12,2019-12-01,Tamil Nadu,1274503,165190,80196,10032,synthetic_demo,Synthetic data for framework demonstration only
+2020,1,2020-01-01,Tamil Nadu,1115594,172747,84323,12136,synthetic_demo,Synthetic data for framework demonstration only
+2020,2,2020-02-01,Tamil Nadu,1029401,112959,72089,7273,synthetic_demo,Synthetic data for framework demonstration only
+2020,3,2020-03-01,Tamil Nadu,1000786,130142,64428,7858,synthetic_demo,Synthetic data for framework demonstration only
+2020,4,2020-04-01,Tamil Nadu,862517,84680,61875,5699,synthetic_demo,Synthetic data for framework demonstration only
+2020,5,2020-05-01,Tamil Nadu,725837,85011,57743,5953,synthetic_demo,Synthetic data for framework demonstration only
+2020,6,2020-06-01,Tamil Nadu,809392,111590,56505,8088,synthetic_demo,Synthetic data for framework demonstration only
+2020,7,2020-07-01,Tamil Nadu,878505,138701,66856,9508,synthetic_demo,Synthetic data for framework demonstration only
+2020,8,2020-08-01,Tamil Nadu,1037003,151197,70404,9401,synthetic_demo,Synthetic data for framework demonstration only
+2020,9,2020-09-01,Tamil Nadu,1205383,148450,90364,9951,synthetic_demo,Synthetic data for framework demonstration only
+2020,10,2020-10-01,Tamil Nadu,1186306,169876,80004,11211,synthetic_demo,Synthetic data for framework demonstration only
+2020,11,2020-11-01,Tamil Nadu,1302044,188322,91510,13785,synthetic_demo,Synthetic data for framework demonstration only
+2020,12,2020-12-01,Tamil Nadu,1224681,199315,87569,11755,synthetic_demo,Synthetic data for framework demonstration only
+2021,1,2021-01-01,Tamil Nadu,1124028,121589,82903,7978,synthetic_demo,Synthetic data for framework demonstration only
+2021,2,2021-02-01,Tamil Nadu,1044402,116434,72184,8069,synthetic_demo,Synthetic data for framework demonstration only
+2021,3,2021-03-01,Tamil Nadu,904675,128109,67313,10034,synthetic_demo,Synthetic data for framework demonstration only
+2021,4,2021-04-01,Tamil Nadu,852492,105528,58721,7363,synthetic_demo,Synthetic data for framework demonstration only
+2021,5,2021-05-01,Tamil Nadu,708371,94499,53704,7291,synthetic_demo,Synthetic data for framework demonstration only
+2021,6,2021-06-01,Tamil Nadu,755556,122577,53453,8006,synthetic_demo,Synthetic data for framework demonstration only
+2021,7,2021-07-01,Tamil Nadu,848033,102887,64980,8215,synthetic_demo,Synthetic data for framework demonstration only
+2021,8,2021-08-01,Tamil Nadu,1071619,111062,77309,8251,synthetic_demo,Synthetic data for framework demonstration only
+2021,9,2021-09-01,Tamil Nadu,1116290,153300,80079,9187,synthetic_demo,Synthetic data for framework demonstration only
+2021,10,2021-10-01,Tamil Nadu,1224723,162544,93028,10479,synthetic_demo,Synthetic data for framework demonstration only
+2021,11,2021-11-01,Tamil Nadu,1424016,153383,91931,10813,synthetic_demo,Synthetic data for framework demonstration only
+2021,12,2021-12-01,Tamil Nadu,1208467,146513,79919,9661,synthetic_demo,Synthetic data for framework demonstration only
+2022,1,2022-01-01,Tamil Nadu,1163001,124185,81498,7959,synthetic_demo,Synthetic data for framework demonstration only
+2022,2,2022-02-01,Tamil Nadu,1142151,157417,68624,10471,synthetic_demo,Synthetic data for framework demonstration only
+2022,3,2022-03-01,Tamil Nadu,962463,123099,62149,8819,synthetic_demo,Synthetic data for framework demonstration only
+2022,4,2022-04-01,Tamil Nadu,865621,103872,59002,7212,synthetic_demo,Synthetic data for framework demonstration only
+2022,5,2022-05-01,Tamil Nadu,706729,106789,53721,7464,synthetic_demo,Synthetic data for framework demonstration only
+2022,6,2022-06-01,Tamil Nadu,860904,75793,61814,6086,synthetic_demo,Synthetic data for framework demonstration only
+2022,7,2022-07-01,Tamil Nadu,1023854,132377,58168,8038,synthetic_demo,Synthetic data for framework demonstration only
+2022,8,2022-08-01,Tamil Nadu,1115592,140152,77833,8885,synthetic_demo,Synthetic data for framework demonstration only
+2022,9,2022-09-01,Tamil Nadu,1142917,129980,81484,8610,synthetic_demo,Synthetic data for framework demonstration only
+2022,10,2022-10-01,Tamil Nadu,1243509,141688,93185,11738,synthetic_demo,Synthetic data for framework demonstration only
+2022,11,2022-11-01,Tamil Nadu,1272919,173559,87835,10891,synthetic_demo,Synthetic data for framework demonstration only
+2022,12,2022-12-01,Tamil Nadu,1272080,145254,82784,9700,synthetic_demo,Synthetic data for framework demonstration only
+2023,1,2023-01-01,Tamil Nadu,1149871,129873,76961,9507,synthetic_demo,Synthetic data for framework demonstration only
+2023,2,2023-02-01,Tamil Nadu,1033419,170902,73103,9807,synthetic_demo,Synthetic data for framework demonstration only
+2023,3,2023-03-01,Tamil Nadu,917623,100888,69128,7328,synthetic_demo,Synthetic data for framework demonstration only
+2023,4,2023-04-01,Tamil Nadu,881607,97938,51823,7595,synthetic_demo,Synthetic data for framework demonstration only
+2023,5,2023-05-01,Tamil Nadu,783414,87159,51469,6052,synthetic_demo,Synthetic data for framework demonstration only
+2023,6,2023-06-01,Tamil Nadu,807882,109222,61284,7490,synthetic_demo,Synthetic data for framework demonstration only
+2023,7,2023-07-01,Tamil Nadu,1017217,97611,70098,6553,synthetic_demo,Synthetic data for framework demonstration only
+2023,8,2023-08-01,Tamil Nadu,1096418,145522,76953,9832,synthetic_demo,Synthetic data for framework demonstration only
+2023,9,2023-09-01,Tamil Nadu,1227274,123283,83397,9169,synthetic_demo,Synthetic data for framework demonstration only
+2023,10,2023-10-01,Tamil Nadu,1312393,140031,93392,10931,synthetic_demo,Synthetic data for framework demonstration only
+2023,11,2023-11-01,Tamil Nadu,1220671,165960,97837,10087,synthetic_demo,Synthetic data for framework demonstration only
+2023,12,2023-12-01,Tamil Nadu,1295595,161965,78090,10565,synthetic_demo,Synthetic data for framework demonstration only
+2017,1,2017-01-01,Telangana,652809,67640,50006,5939,synthetic_demo,Synthetic data for framework demonstration only
+2017,2,2017-02-01,Telangana,573388,67232,48945,6783,synthetic_demo,Synthetic data for framework demonstration only
+2017,3,2017-03-01,Telangana,470372,56007,40089,5247,synthetic_demo,Synthetic data for framework demonstration only
+2017,4,2017-04-01,Telangana,431212,53474,38155,5412,synthetic_demo,Synthetic data for framework demonstration only
+2017,5,2017-05-01,Telangana,394159,54674,36259,4954,synthetic_demo,Synthetic data for framework demonstration only
+2017,6,2017-06-01,Telangana,412169,63314,37865,5051,synthetic_demo,Synthetic data for framework demonstration only
+2017,7,2017-07-01,Telangana,541915,62260,44064,5595,synthetic_demo,Synthetic data for framework demonstration only
+2017,8,2017-08-01,Telangana,598440,70083,52570,5829,synthetic_demo,Synthetic data for framework demonstration only
+2017,9,2017-09-01,Telangana,699997,73379,54087,6996,synthetic_demo,Synthetic data for framework demonstration only
+2017,10,2017-10-01,Telangana,702542,96465,52585,8296,synthetic_demo,Synthetic data for framework demonstration only
+2017,11,2017-11-01,Telangana,694573,68446,63477,6806,synthetic_demo,Synthetic data for framework demonstration only
+2017,12,2017-12-01,Telangana,718911,90875,59990,8645,synthetic_demo,Synthetic data for framework demonstration only
+2018,1,2018-01-01,Telangana,567405,88970,55602,7907,synthetic_demo,Synthetic data for framework demonstration only
+2018,2,2018-02-01,Telangana,534778,65313,50007,5099,synthetic_demo,Synthetic data for framework demonstration only
+2018,3,2018-03-01,Telangana,527966,67640,44866,5372,synthetic_demo,Synthetic data for framework demonstration only
+2018,4,2018-04-01,Telangana,399098,43905,36519,4499,synthetic_demo,Synthetic data for framework demonstration only
+2018,5,2018-05-01,Telangana,403261,50855,35086,3957,synthetic_demo,Synthetic data for framework demonstration only
+2018,6,2018-06-01,Telangana,468884,54635,34650,4985,synthetic_demo,Synthetic data for framework demonstration only
+2018,7,2018-07-01,Telangana,519126,72224,39222,6239,synthetic_demo,Synthetic data for framework demonstration only
+2018,8,2018-08-01,Telangana,546403,80144,48192,6428,synthetic_demo,Synthetic data for framework demonstration only
+2018,9,2018-09-01,Telangana,663214,74004,50952,6255,synthetic_demo,Synthetic data for framework demonstration only
+2018,10,2018-10-01,Telangana,722652,96093,52407,8605,synthetic_demo,Synthetic data for framework demonstration only
+2018,11,2018-11-01,Telangana,660128,81410,64759,7526,synthetic_demo,Synthetic data for framework demonstration only
+2018,12,2018-12-01,Telangana,658592,91436,57258,8486,synthetic_demo,Synthetic data for framework demonstration only
+2019,1,2019-01-01,Telangana,561952,98488,48964,7813,synthetic_demo,Synthetic data for framework demonstration only
+2019,2,2019-02-01,Telangana,590981,54732,51999,4663,synthetic_demo,Synthetic data for framework demonstration only
+2019,3,2019-03-01,Telangana,502164,56370,39231,4907,synthetic_demo,Synthetic data for framework demonstration only
+2019,4,2019-04-01,Telangana,475467,51408,34525,4505,synthetic_demo,Synthetic data for framework demonstration only
+2019,5,2019-05-01,Telangana,429330,41063,34115,3452,synthetic_demo,Synthetic data for framework demonstration only
+2019,6,2019-06-01,Telangana,397556,50059,39728,4985,synthetic_demo,Synthetic data for framework demonstration only
+2019,7,2019-07-01,Telangana,495126,59411,40215,4733,synthetic_demo,Synthetic data for framework demonstration only
+2019,8,2019-08-01,Telangana,597659,67823,50622,5182,synthetic_demo,Synthetic data for framework demonstration only
+2019,9,2019-09-01,Telangana,579416,69545,49883,6279,synthetic_demo,Synthetic data for framework demonstration only
+2019,10,2019-10-01,Telangana,656813,72766,57344,6269,synthetic_demo,Synthetic data for framework demonstration only
+2019,11,2019-11-01,Telangana,635305,93536,54764,8655,synthetic_demo,Synthetic data for framework demonstration only
+2019,12,2019-12-01,Telangana,669915,65230,58580,6219,synthetic_demo,Synthetic data for framework demonstration only
+2020,1,2020-01-01,Telangana,552997,68751,57961,6706,synthetic_demo,Synthetic data for framework demonstration only
+2020,2,2020-02-01,Telangana,554964,57907,49935,4918,synthetic_demo,Synthetic data for framework demonstration only
+2020,3,2020-03-01,Telangana,542405,55271,43448,4195,synthetic_demo,Synthetic data for framework demonstration only
+2020,4,2020-04-01,Telangana,432928,50233,36987,4902,synthetic_demo,Synthetic data for framework demonstration only
+2020,5,2020-05-01,Telangana,399205,57709,37654,4896,synthetic_demo,Synthetic data for framework demonstration only
+2020,6,2020-06-01,Telangana,405281,60682,37816,5012,synthetic_demo,Synthetic data for framework demonstration only
+2020,7,2020-07-01,Telangana,538707,61707,45139,5616,synthetic_demo,Synthetic data for framework demonstration only
+2020,8,2020-08-01,Telangana,504625,63071,49093,6565,synthetic_demo,Synthetic data for framework demonstration only
+2020,9,2020-09-01,Telangana,617974,104144,56895,7645,synthetic_demo,Synthetic data for framework demonstration only
+2020,10,2020-10-01,Telangana,739367,71371,63463,5605,synthetic_demo,Synthetic data for framework demonstration only
+2020,11,2020-11-01,Telangana,731271,86545,62920,6587,synthetic_demo,Synthetic data for framework demonstration only
+2020,12,2020-12-01,Telangana,660454,94988,57102,8082,synthetic_demo,Synthetic data for framework demonstration only
+2021,1,2021-01-01,Telangana,632449,75726,52016,7253,synthetic_demo,Synthetic data for framework demonstration only
+2021,2,2021-02-01,Telangana,518300,67831,43455,5860,synthetic_demo,Synthetic data for framework demonstration only
+2021,3,2021-03-01,Telangana,490712,50666,39416,4931,synthetic_demo,Synthetic data for framework demonstration only
+2021,4,2021-04-01,Telangana,408904,44853,37733,4086,synthetic_demo,Synthetic data for framework demonstration only
+2021,5,2021-05-01,Telangana,383981,48943,35407,4516,synthetic_demo,Synthetic data for framework demonstration only
+2021,6,2021-06-01,Telangana,433584,48315,34943,3850,synthetic_demo,Synthetic data for framework demonstration only
+2021,7,2021-07-01,Telangana,481891,70504,41636,6315,synthetic_demo,Synthetic data for framework demonstration only
+2021,8,2021-08-01,Telangana,581680,73495,50180,7273,synthetic_demo,Synthetic data for framework demonstration only
+2021,9,2021-09-01,Telangana,603309,70771,53047,5493,synthetic_demo,Synthetic data for framework demonstration only
+2021,10,2021-10-01,Telangana,659724,107791,53755,9399,synthetic_demo,Synthetic data for framework demonstration only
+2021,11,2021-11-01,Telangana,756064,108224,64113,9306,synthetic_demo,Synthetic data for framework demonstration only
+2021,12,2021-12-01,Telangana,691189,97949,56035,8702,synthetic_demo,Synthetic data for framework demonstration only
+2022,1,2022-01-01,Telangana,599738,72805,53953,6846,synthetic_demo,Synthetic data for framework demonstration only
+2022,2,2022-02-01,Telangana,560827,58059,50578,4348,synthetic_demo,Synthetic data for framework demonstration only
+2022,3,2022-03-01,Telangana,500271,57564,39294,5067,synthetic_demo,Synthetic data for framework demonstration only
+2022,4,2022-04-01,Telangana,461708,56679,37544,4861,synthetic_demo,Synthetic data for framework demonstration only
+2022,5,2022-05-01,Telangana,397786,48445,35078,4436,synthetic_demo,Synthetic data for framework demonstration only
+2022,6,2022-06-01,Telangana,449634,50481,39255,4601,synthetic_demo,Synthetic data for framework demonstration only
+2022,7,2022-07-01,Telangana,477015,76299,39548,5954,synthetic_demo,Synthetic data for framework demonstration only
+2022,8,2022-08-01,Telangana,524488,61200,43369,5142,synthetic_demo,Synthetic data for framework demonstration only
+2022,9,2022-09-01,Telangana,662520,79238,58648,7593,synthetic_demo,Synthetic data for framework demonstration only
+2022,10,2022-10-01,Telangana,655219,76333,57384,6481,synthetic_demo,Synthetic data for framework demonstration only
+2022,11,2022-11-01,Telangana,753863,74562,61633,6339,synthetic_demo,Synthetic data for framework demonstration only
+2022,12,2022-12-01,Telangana,712192,74424,62863,6723,synthetic_demo,Synthetic data for framework demonstration only
+2023,1,2023-01-01,Telangana,655253,72508,53969,5770,synthetic_demo,Synthetic data for framework demonstration only
+2023,2,2023-02-01,Telangana,573873,73746,45038,6146,synthetic_demo,Synthetic data for framework demonstration only
+2023,3,2023-03-01,Telangana,478384,65900,43100,6168,synthetic_demo,Synthetic data for framework demonstration only
+2023,4,2023-04-01,Telangana,462950,48516,38509,4388,synthetic_demo,Synthetic data for framework demonstration only
+2023,5,2023-05-01,Telangana,370139,44422,37497,4423,synthetic_demo,Synthetic data for framework demonstration only
+2023,6,2023-06-01,Telangana,410811,50882,40433,4508,synthetic_demo,Synthetic data for framework demonstration only
+2023,7,2023-07-01,Telangana,545036,49519,41654,4571,synthetic_demo,Synthetic data for framework demonstration only
+2023,8,2023-08-01,Telangana,532461,65682,49201,4764,synthetic_demo,Synthetic data for framework demonstration only
+2023,9,2023-09-01,Telangana,599626,82258,56100,6112,synthetic_demo,Synthetic data for framework demonstration only
+2023,10,2023-10-01,Telangana,735586,88667,58929,7341,synthetic_demo,Synthetic data for framework demonstration only
+2023,11,2023-11-01,Telangana,655232,87872,65917,6800,synthetic_demo,Synthetic data for framework demonstration only
+2023,12,2023-12-01,Telangana,651868,100928,57390,7810,synthetic_demo,Synthetic data for framework demonstration only
+2017,1,2017-01-01,Uttar Pradesh,4512653,510841,528653,55411,synthetic_demo,Synthetic data for framework demonstration only
+2017,2,2017-02-01,Uttar Pradesh,4212672,542894,494455,57969,synthetic_demo,Synthetic data for framework demonstration only
+2017,3,2017-03-01,Uttar Pradesh,3984452,390572,414721,51810,synthetic_demo,Synthetic data for framework demonstration only
+2017,4,2017-04-01,Uttar Pradesh,3524079,433004,408014,50674,synthetic_demo,Synthetic data for framework demonstration only
+2017,5,2017-05-01,Uttar Pradesh,3306285,412222,363202,54587,synthetic_demo,Synthetic data for framework demonstration only
+2017,6,2017-06-01,Uttar Pradesh,3055168,465488,405205,55157,synthetic_demo,Synthetic data for framework demonstration only
+2017,7,2017-07-01,Uttar Pradesh,3701017,571783,438420,63395,synthetic_demo,Synthetic data for framework demonstration only
+2017,8,2017-08-01,Uttar Pradesh,4168187,457826,546582,47910,synthetic_demo,Synthetic data for framework demonstration only
+2017,9,2017-09-01,Uttar Pradesh,5130460,583603,634149,75136,synthetic_demo,Synthetic data for framework demonstration only
+2017,10,2017-10-01,Uttar Pradesh,5073981,561398,640408,73989,synthetic_demo,Synthetic data for framework demonstration only
+2017,11,2017-11-01,Uttar Pradesh,5585721,727398,631012,90348,synthetic_demo,Synthetic data for framework demonstration only
+2017,12,2017-12-01,Uttar Pradesh,4567478,750522,634812,94922,synthetic_demo,Synthetic data for framework demonstration only
+2018,1,2018-01-01,Uttar Pradesh,4693239,419609,610846,52591,synthetic_demo,Synthetic data for framework demonstration only
+2018,2,2018-02-01,Uttar Pradesh,4146527,511293,461341,64243,synthetic_demo,Synthetic data for framework demonstration only
+2018,3,2018-03-01,Uttar Pradesh,3759449,509255,476902,67300,synthetic_demo,Synthetic data for framework demonstration only
+2018,4,2018-04-01,Uttar Pradesh,3355941,366873,370624,40596,synthetic_demo,Synthetic data for framework demonstration only
+2018,5,2018-05-01,Uttar Pradesh,2989225,421457,374563,54003,synthetic_demo,Synthetic data for framework demonstration only
+2018,6,2018-06-01,Uttar Pradesh,3226340,365054,384066,48359,synthetic_demo,Synthetic data for framework demonstration only
+2018,7,2018-07-01,Uttar Pradesh,4039798,402822,463918,50910,synthetic_demo,Synthetic data for framework demonstration only
+2018,8,2018-08-01,Uttar Pradesh,3806497,474435,483263,65043,synthetic_demo,Synthetic data for framework demonstration only
+2018,9,2018-09-01,Uttar Pradesh,4946160,681615,624956,88934,synthetic_demo,Synthetic data for framework demonstration only
+2018,10,2018-10-01,Uttar Pradesh,4901272,613290,659235,74251,synthetic_demo,Synthetic data for framework demonstration only
+2018,11,2018-11-01,Uttar Pradesh,5799027,643356,645832,81499,synthetic_demo,Synthetic data for framework demonstration only
+2018,12,2018-12-01,Uttar Pradesh,5481504,548183,635397,64284,synthetic_demo,Synthetic data for framework demonstration only
+2019,1,2019-01-01,Uttar Pradesh,4822775,587935,619194,67106,synthetic_demo,Synthetic data for framework demonstration only
+2019,2,2019-02-01,Uttar Pradesh,4314607,482497,490461,65291,synthetic_demo,Synthetic data for framework demonstration only
+2019,3,2019-03-01,Uttar Pradesh,3999292,419921,432443,43904,synthetic_demo,Synthetic data for framework demonstration only
+2019,4,2019-04-01,Uttar Pradesh,3396357,335008,364008,40665,synthetic_demo,Synthetic data for framework demonstration only
+2019,5,2019-05-01,Uttar Pradesh,2956339,447941,339127,55919,synthetic_demo,Synthetic data for framework demonstration only
+2019,6,2019-06-01,Uttar Pradesh,3013470,507397,420390,64268,synthetic_demo,Synthetic data for framework demonstration only
+2019,7,2019-07-01,Uttar Pradesh,3650957,441862,490986,53269,synthetic_demo,Synthetic data for framework demonstration only
+2019,8,2019-08-01,Uttar Pradesh,3773295,415027,513758,47978,synthetic_demo,Synthetic data for framework demonstration only
+2019,9,2019-09-01,Uttar Pradesh,5011700,690002,573267,86324,synthetic_demo,Synthetic data for framework demonstration only
+2019,10,2019-10-01,Uttar Pradesh,5358208,678950,671900,70125,synthetic_demo,Synthetic data for framework demonstration only
+2019,11,2019-11-01,Uttar Pradesh,4895919,634950,633819,70294,synthetic_demo,Synthetic data for framework demonstration only
+2019,12,2019-12-01,Uttar Pradesh,5163869,522666,570424,60891,synthetic_demo,Synthetic data for framework demonstration only
+2020,1,2020-01-01,Uttar Pradesh,4919333,582862,557232,74254,synthetic_demo,Synthetic data for framework demonstration only
+2020,2,2020-02-01,Uttar Pradesh,4590205,586591,543287,75409,synthetic_demo,Synthetic data for framework demonstration only
+2020,3,2020-03-01,Uttar Pradesh,3444028,444227,417390,55080,synthetic_demo,Synthetic data for framework demonstration only
+2020,4,2020-04-01,Uttar Pradesh,3240429,439776,406178,44361,synthetic_demo,Synthetic data for framework demonstration only
+2020,5,2020-05-01,Uttar Pradesh,3160166,351378,392131,41455,synthetic_demo,Synthetic data for framework demonstration only
+2020,6,2020-06-01,Uttar Pradesh,3115071,335576,393990,40794,synthetic_demo,Synthetic data for framework demonstration only
+2020,7,2020-07-01,Uttar Pradesh,3955287,445248,429176,54065,synthetic_demo,Synthetic data for framework demonstration only
+2020,8,2020-08-01,Uttar Pradesh,4380584,488171,544713,62025,synthetic_demo,Synthetic data for framework demonstration only
+2020,9,2020-09-01,Uttar Pradesh,5245266,661841,619185,86224,synthetic_demo,Synthetic data for framework demonstration only
+2020,10,2020-10-01,Uttar Pradesh,5280610,614816,626424,79866,synthetic_demo,Synthetic data for framework demonstration only
+2020,11,2020-11-01,Uttar Pradesh,5296956,697419,641760,84546,synthetic_demo,Synthetic data for framework demonstration only
+2020,12,2020-12-01,Uttar Pradesh,5202810,793605,558594,100077,synthetic_demo,Synthetic data for framework demonstration only
+2021,1,2021-01-01,Uttar Pradesh,4315086,627774,545477,67946,synthetic_demo,Synthetic data for framework demonstration only
+2021,2,2021-02-01,Uttar Pradesh,4243227,521784,553913,61711,synthetic_demo,Synthetic data for framework demonstration only
+2021,3,2021-03-01,Uttar Pradesh,4052935,508287,495719,69110,synthetic_demo,Synthetic data for framework demonstration only
+2021,4,2021-04-01,Uttar Pradesh,3614259,409494,382972,57454,synthetic_demo,Synthetic data for framework demonstration only
+2021,5,2021-05-01,Uttar Pradesh,3250317,348816,381498,40388,synthetic_demo,Synthetic data for framework demonstration only
+2021,6,2021-06-01,Uttar Pradesh,3041693,359720,394360,47368,synthetic_demo,Synthetic data for framework demonstration only
+2021,7,2021-07-01,Uttar Pradesh,3407905,469135,425114,64566,synthetic_demo,Synthetic data for framework demonstration only
+2021,8,2021-08-01,Uttar Pradesh,4166003,545593,513964,59904,synthetic_demo,Synthetic data for framework demonstration only
+2021,9,2021-09-01,Uttar Pradesh,5268053,598398,533363,82613,synthetic_demo,Synthetic data for framework demonstration only
+2021,10,2021-10-01,Uttar Pradesh,4931176,744255,640564,92157,synthetic_demo,Synthetic data for framework demonstration only
+2021,11,2021-11-01,Uttar Pradesh,5784470,538929,641770,67648,synthetic_demo,Synthetic data for framework demonstration only
+2021,12,2021-12-01,Uttar Pradesh,4816740,763428,654321,98312,synthetic_demo,Synthetic data for framework demonstration only
+2022,1,2022-01-01,Uttar Pradesh,4874247,628659,550398,77696,synthetic_demo,Synthetic data for framework demonstration only
+2022,2,2022-02-01,Uttar Pradesh,4009045,417653,516669,53223,synthetic_demo,Synthetic data for framework demonstration only
+2022,3,2022-03-01,Uttar Pradesh,3483913,447090,458001,56709,synthetic_demo,Synthetic data for framework demonstration only
+2022,4,2022-04-01,Uttar Pradesh,3257260,395822,406899,51039,synthetic_demo,Synthetic data for framework demonstration only
+2022,5,2022-05-01,Uttar Pradesh,3035084,458266,352831,58728,synthetic_demo,Synthetic data for framework demonstration only
+2022,6,2022-06-01,Uttar Pradesh,3314761,352228,362799,44743,synthetic_demo,Synthetic data for framework demonstration only
+2022,7,2022-07-01,Uttar Pradesh,3743528,497516,476965,59156,synthetic_demo,Synthetic data for framework demonstration only
+2022,8,2022-08-01,Uttar Pradesh,3898875,640579,557613,77056,synthetic_demo,Synthetic data for framework demonstration only
+2022,9,2022-09-01,Uttar Pradesh,4781541,789760,573386,95063,synthetic_demo,Synthetic data for framework demonstration only
+2022,10,2022-10-01,Uttar Pradesh,4796546,533801,627897,64532,synthetic_demo,Synthetic data for framework demonstration only
+2022,11,2022-11-01,Uttar Pradesh,5286548,589630,610485,82340,synthetic_demo,Synthetic data for framework demonstration only
+2022,12,2022-12-01,Uttar Pradesh,4687565,646423,568660,78046,synthetic_demo,Synthetic data for framework demonstration only
+2023,1,2023-01-01,Uttar Pradesh,4930887,553126,604903,67721,synthetic_demo,Synthetic data for framework demonstration only
+2023,2,2023-02-01,Uttar Pradesh,4240271,456298,486044,50578,synthetic_demo,Synthetic data for framework demonstration only
+2023,3,2023-03-01,Uttar Pradesh,3686059,443538,413500,53437,synthetic_demo,Synthetic data for framework demonstration only
+2023,4,2023-04-01,Uttar Pradesh,3321425,454102,408926,49440,synthetic_demo,Synthetic data for framework demonstration only
+2023,5,2023-05-01,Uttar Pradesh,3042842,307947,367311,36295,synthetic_demo,Synthetic data for framework demonstration only
+2023,6,2023-06-01,Uttar Pradesh,3452941,434660,439616,51684,synthetic_demo,Synthetic data for framework demonstration only
+2023,7,2023-07-01,Uttar Pradesh,3991002,498705,459152,60857,synthetic_demo,Synthetic data for framework demonstration only
+2023,8,2023-08-01,Uttar Pradesh,3790122,478819,485317,53656,synthetic_demo,Synthetic data for framework demonstration only
+2023,9,2023-09-01,Uttar Pradesh,4967817,686386,612239,69195,synthetic_demo,Synthetic data for framework demonstration only
+2023,10,2023-10-01,Uttar Pradesh,4721139,691902,620271,74810,synthetic_demo,Synthetic data for framework demonstration only
+2023,11,2023-11-01,Uttar Pradesh,5550422,826857,686134,99564,synthetic_demo,Synthetic data for framework demonstration only
+2023,12,2023-12-01,Uttar Pradesh,5252339,535724,676865,60526,synthetic_demo,Synthetic data for framework demonstration only
+2017,1,2017-01-01,West Bengal,1668163,197166,178354,18493,synthetic_demo,Synthetic data for framework demonstration only
+2017,2,2017-02-01,West Bengal,1498070,170103,156586,17029,synthetic_demo,Synthetic data for framework demonstration only
+2017,3,2017-03-01,West Bengal,1361742,156385,121880,16337,synthetic_demo,Synthetic data for framework demonstration only
+2017,4,2017-04-01,West Bengal,1190264,162703,113031,15259,synthetic_demo,Synthetic data for framework demonstration only
+2017,5,2017-05-01,West Bengal,1092076,135953,119071,13864,synthetic_demo,Synthetic data for framework demonstration only
+2017,6,2017-06-01,West Bengal,1246666,151238,122135,13612,synthetic_demo,Synthetic data for framework demonstration only
+2017,7,2017-07-01,West Bengal,1244351,184137,126156,20743,synthetic_demo,Synthetic data for framework demonstration only
+2017,8,2017-08-01,West Bengal,1585100,208535,160309,22883,synthetic_demo,Synthetic data for framework demonstration only
+2017,9,2017-09-01,West Bengal,1612783,264159,173904,24370,synthetic_demo,Synthetic data for framework demonstration only
+2017,10,2017-10-01,West Bengal,1760953,169448,166946,19413,synthetic_demo,Synthetic data for framework demonstration only
+2017,11,2017-11-01,West Bengal,1756521,245899,170371,21755,synthetic_demo,Synthetic data for framework demonstration only
+2017,12,2017-12-01,West Bengal,1810279,249291,177949,27947,synthetic_demo,Synthetic data for framework demonstration only
+2018,1,2018-01-01,West Bengal,1743413,203621,149936,23351,synthetic_demo,Synthetic data for framework demonstration only
+2018,2,2018-02-01,West Bengal,1523392,230800,161865,19118,synthetic_demo,Synthetic data for framework demonstration only
+2018,3,2018-03-01,West Bengal,1233103,177208,122839,16831,synthetic_demo,Synthetic data for framework demonstration only
+2018,4,2018-04-01,West Bengal,1295857,185010,123198,16606,synthetic_demo,Synthetic data for framework demonstration only
+2018,5,2018-05-01,West Bengal,1030081,109985,103193,12850,synthetic_demo,Synthetic data for framework demonstration only
+2018,6,2018-06-01,West Bengal,1100038,177731,110907,15688,synthetic_demo,Synthetic data for framework demonstration only
+2018,7,2018-07-01,West Bengal,1413570,215763,143579,21322,synthetic_demo,Synthetic data for framework demonstration only
+2018,8,2018-08-01,West Bengal,1437587,200093,151816,21346,synthetic_demo,Synthetic data for framework demonstration only
+2018,9,2018-09-01,West Bengal,1772707,238714,159043,26089,synthetic_demo,Synthetic data for framework demonstration only
+2018,10,2018-10-01,West Bengal,1950642,254577,186286,23893,synthetic_demo,Synthetic data for framework demonstration only
+2018,11,2018-11-01,West Bengal,2063884,206385,204186,19464,synthetic_demo,Synthetic data for framework demonstration only
+2018,12,2018-12-01,West Bengal,1839710,228013,162499,20239,synthetic_demo,Synthetic data for framework demonstration only
+2019,1,2019-01-01,West Bengal,1518065,169952,157823,17641,synthetic_demo,Synthetic data for framework demonstration only
+2019,2,2019-02-01,West Bengal,1653856,192703,144105,18445,synthetic_demo,Synthetic data for framework demonstration only
+2019,3,2019-03-01,West Bengal,1430658,161082,136186,16288,synthetic_demo,Synthetic data for framework demonstration only
+2019,4,2019-04-01,West Bengal,1249050,119161,106939,11941,synthetic_demo,Synthetic data for framework demonstration only
+2019,5,2019-05-01,West Bengal,1201900,154943,111415,14301,synthetic_demo,Synthetic data for framework demonstration only
+2019,6,2019-06-01,West Bengal,1101217,138025,123323,13044,synthetic_demo,Synthetic data for framework demonstration only
+2019,7,2019-07-01,West Bengal,1443701,174896,130127,16607,synthetic_demo,Synthetic data for framework demonstration only
+2019,8,2019-08-01,West Bengal,1654514,171698,150911,15654,synthetic_demo,Synthetic data for framework demonstration only
+2019,9,2019-09-01,West Bengal,1595037,232412,179729,19864,synthetic_demo,Synthetic data for framework demonstration only
+2019,10,2019-10-01,West Bengal,1651408,196401,172720,18130,synthetic_demo,Synthetic data for framework demonstration only
+2019,11,2019-11-01,West Bengal,1831160,191520,189498,20065,synthetic_demo,Synthetic data for framework demonstration only
+2019,12,2019-12-01,West Bengal,1673798,271160,183681,27237,synthetic_demo,Synthetic data for framework demonstration only
+2020,1,2020-01-01,West Bengal,1508015,200212,147546,20556,synthetic_demo,Synthetic data for framework demonstration only
+2020,2,2020-02-01,West Bengal,1464479,169215,144796,18730,synthetic_demo,Synthetic data for framework demonstration only
+2020,3,2020-03-01,West Bengal,1412549,164954,132181,15578,synthetic_demo,Synthetic data for framework demonstration only
+2020,4,2020-04-01,West Bengal,1198621,127052,107920,12168,synthetic_demo,Synthetic data for framework demonstration only
+2020,5,2020-05-01,West Bengal,1075519,150858,106721,14759,synthetic_demo,Synthetic data for framework demonstration only
+2020,6,2020-06-01,West Bengal,1100325,149538,112535,16943,synthetic_demo,Synthetic data for framework demonstration only
+2020,7,2020-07-01,West Bengal,1397274,141393,128403,15540,synthetic_demo,Synthetic data for framework demonstration only
+2020,8,2020-08-01,West Bengal,1408589,175564,139908,15737,synthetic_demo,Synthetic data for framework demonstration only
+2020,9,2020-09-01,West Bengal,1815745,205518,174193,20790,synthetic_demo,Synthetic data for framework demonstration only
+2020,10,2020-10-01,West Bengal,1954335,235283,173832,22900,synthetic_demo,Synthetic data for framework demonstration only
+2020,11,2020-11-01,West Bengal,1815822,266190,188471,23283,synthetic_demo,Synthetic data for framework demonstration only
+2020,12,2020-12-01,West Bengal,1943396,190627,178260,19685,synthetic_demo,Synthetic data for framework demonstration only
+2021,1,2021-01-01,West Bengal,1686413,165347,175701,16578,synthetic_demo,Synthetic data for framework demonstration only
+2021,2,2021-02-01,West Bengal,1587403,177227,149220,16794,synthetic_demo,Synthetic data for framework demonstration only
+2021,3,2021-03-01,West Bengal,1393928,177654,138422,18275,synthetic_demo,Synthetic data for framework demonstration only
+2021,4,2021-04-01,West Bengal,1183864,140535,125136,15129,synthetic_demo,Synthetic data for framework demonstration only
+2021,5,2021-05-01,West Bengal,1079993,144258,106426,12934,synthetic_demo,Synthetic data for framework demonstration only
+2021,6,2021-06-01,West Bengal,1124735,172577,120227,16548,synthetic_demo,Synthetic data for framework demonstration only
+2021,7,2021-07-01,West Bengal,1334675,182292,120394,16962,synthetic_demo,Synthetic data for framework demonstration only
+2021,8,2021-08-01,West Bengal,1579732,148195,158207,14888,synthetic_demo,Synthetic data for framework demonstration only
+2021,9,2021-09-01,West Bengal,1798765,229381,162469,20454,synthetic_demo,Synthetic data for framework demonstration only
+2021,10,2021-10-01,West Bengal,1670437,168238,178569,17067,synthetic_demo,Synthetic data for framework demonstration only
+2021,11,2021-11-01,West Bengal,2020086,206371,186938,21389,synthetic_demo,Synthetic data for framework demonstration only
+2021,12,2021-12-01,West Bengal,1675223,207426,164949,19158,synthetic_demo,Synthetic data for framework demonstration only
+2022,1,2022-01-01,West Bengal,1757747,190282,154206,18653,synthetic_demo,Synthetic data for framework demonstration only
+2022,2,2022-02-01,West Bengal,1542963,217264,156069,20382,synthetic_demo,Synthetic data for framework demonstration only
+2022,3,2022-03-01,West Bengal,1295053,127279,132254,13182,synthetic_demo,Synthetic data for framework demonstration only
+2022,4,2022-04-01,West Bengal,1305267,178998,121198,16663,synthetic_demo,Synthetic data for framework demonstration only
+2022,5,2022-05-01,West Bengal,1028915,154986,117535,14158,synthetic_demo,Synthetic data for framework demonstration only
+2022,6,2022-06-01,West Bengal,1135017,150200,115294,15402,synthetic_demo,Synthetic data for framework demonstration only
+2022,7,2022-07-01,West Bengal,1419203,154070,126204,13809,synthetic_demo,Synthetic data for framework demonstration only
+2022,8,2022-08-01,West Bengal,1459398,181925,150646,20333,synthetic_demo,Synthetic data for framework demonstration only
+2022,9,2022-09-01,West Bengal,1618810,188800,155847,17358,synthetic_demo,Synthetic data for framework demonstration only
+2022,10,2022-10-01,West Bengal,1735852,225781,187662,20585,synthetic_demo,Synthetic data for framework demonstration only
+2022,11,2022-11-01,West Bengal,1962546,286726,194820,28327,synthetic_demo,Synthetic data for framework demonstration only
+2022,12,2022-12-01,West Bengal,1950964,178911,165307,18436,synthetic_demo,Synthetic data for framework demonstration only
+2023,1,2023-01-01,West Bengal,1651366,170466,169000,17982,synthetic_demo,Synthetic data for framework demonstration only
+2023,2,2023-02-01,West Bengal,1469919,197030,148984,17849,synthetic_demo,Synthetic data for framework demonstration only
+2023,3,2023-03-01,West Bengal,1374550,132916,141979,12575,synthetic_demo,Synthetic data for framework demonstration only
+2023,4,2023-04-01,West Bengal,1234335,136451,111096,14218,synthetic_demo,Synthetic data for framework demonstration only
+2023,5,2023-05-01,West Bengal,1126320,177388,118679,14596,synthetic_demo,Synthetic data for framework demonstration only
+2023,6,2023-06-01,West Bengal,1249536,142389,106842,14871,synthetic_demo,Synthetic data for framework demonstration only
+2023,7,2023-07-01,West Bengal,1446061,181186,121002,16715,synthetic_demo,Synthetic data for framework demonstration only
+2023,8,2023-08-01,West Bengal,1406315,205994,133414,22002,synthetic_demo,Synthetic data for framework demonstration only
+2023,9,2023-09-01,West Bengal,1828351,201474,175744,19752,synthetic_demo,Synthetic data for framework demonstration only
+2023,10,2023-10-01,West Bengal,1671900,244094,190651,25428,synthetic_demo,Synthetic data for framework demonstration only
+2023,11,2023-11-01,West Bengal,1764921,238778,188035,26026,synthetic_demo,Synthetic data for framework demonstration only
+2023,12,2023-12-01,West Bengal,1901094,198177,178118,20372,synthetic_demo,Synthetic data for framework demonstration only

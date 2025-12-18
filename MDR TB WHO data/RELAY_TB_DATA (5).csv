@@ -1,0 +1,6 @@
+IND_ID,IND_CODE,INDICATOR_NAME,YEAR,COUNTRY,UNIT,VALUE,VALUE_LO,VALUE_HI
+BDEEF0439CBE9A,TB_drs_fqr_prct,Prevalence of fluoroquinolone resistance among people with pulmonary TB,2017,Democratic Republic of the Congo,Percentage,0,0,0.7
+BDEEF0439CBE9A,TB_drs_fqr_prct,Prevalence of fluoroquinolone resistance among people with pulmonary TB,2018,Eritrea,Percentage,0.2,0,1
+BDEEF0439CBE9A,TB_drs_fqr_prct,Prevalence of fluoroquinolone resistance among people with pulmonary TB,2013,Pakistan,Percentage,11.8,8.7,14.9
+BDEEF0439CBE9A,TB_drs_fqr_prct,Prevalence of fluoroquinolone resistance among people with pulmonary TB,2012,Philippines,Percentage,0.2,0,0.7
+BDEEF0439CBE9A,TB_drs_fqr_prct,Prevalence of fluoroquinolone resistance among people with pulmonary TB,2014,Ukraine,Percentage,6.8,5.3,8.3

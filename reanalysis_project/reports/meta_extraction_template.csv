@@ -1,0 +1,1 @@
+pmid,year,title,journal,included,reason_excluded,country,region_state,study_design,setting,population,case_definition,drug_resistance_type,new_or_retreatment,specimen,diagnostic_method,start_year,end_year,n_total,n_resistant,prevalence_percent,ci_low_percent,ci_high_percent,notes,data_source,pdf_or_url

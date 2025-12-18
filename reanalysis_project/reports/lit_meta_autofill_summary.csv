@@ -1,0 +1,12 @@
+auto_confidence,auto_drug_resistance_type,pmids
+high,MDR,4
+high,RR,2
+high,XDR,2
+medium,MDR,3
+medium,pre-XDR,1
+none,MDR,49
+none,XDR,13
+none,RR,11
+none,pre-XDR,8
+none,DR-TB,6
+none,,5
