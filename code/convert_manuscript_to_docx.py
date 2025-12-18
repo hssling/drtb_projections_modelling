@@ -13,7 +13,7 @@ import re
 from datetime import datetime
 import os
 
-OUTPUT_FILENAME = os.path.join(os.path.dirname(__file__), '..', 'manuscript', 'IJMR_Submission_DRTB_Forecast_India_2025_Final_v3.docx')
+OUTPUT_FILENAME = os.path.join(os.path.dirname(__file__), '..', 'manuscript', 'IJMR_Submission_DRTB_Forecast_India_2025_FINAL.docx')
 
 def create_academic_docx():
     """Convert the complete manuscript to DOCX format with IJMR styling"""
@@ -173,7 +173,7 @@ def parse_manuscript_sections(content):
     return sections
 
 def add_paragraph_with_formatting(doc, text, style='CustomNormal'):
-    """Add paragraph with proper superscript and formatting"""
+    """Add paragraph with proper superscript and formatting - ENHANCED VERSION"""
     para = doc.add_paragraph(style=style)
     
     # Remove markdown bold/italic markers but preserve superscripts
@@ -190,10 +190,20 @@ def add_paragraph_with_formatting(doc, text, style='CustomNormal'):
             if part:
                 para.add_run(part)
         else:
-            # Superscript text
+            # Superscript text - USE EXPLICIT FORMATTING
             if part:
                 run = para.add_run(part)
+                # Method 1: Set superscript property
                 run.font.superscript = True
+                # Method 2: Also set smaller font size for visibility
+                run.font.size = Pt(8)
+                # Method 3: Set vertical position explicitly
+                from docx.oxml import parse_xml
+                from docx.oxml.ns import nsdecls
+                # Add explicit superscript formatting in XML
+                rPr = run._element.get_or_add_rPr()
+                vertAlign = parse_xml(r'<w:vertAlign {} w:val="superscript"/>'.format(nsdecls('w')))
+                rPr.append(vertAlign)
     
     return para
 

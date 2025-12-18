@@ -71,7 +71,7 @@ Standard autoregressive models (ARIMA) or linear regressions are often unsuitabl
 
 The model parameters ($\alpha, \beta, \phi$) were optimized by minimizing the Sum of Squared Errors (SSE), and model fit was evaluated using the **Akaike Information Criterion (AIC)** and **Bayesian Information Criterion (BIC)** to prevent overfitting.
 
-Model selection was based on rigorous comparison of seven candidate models: Simple Exponential Smoothing, Holt's Linear Trend, Holt-Winters Damped Trend, ARIMA(1,1,1), ARIMA(2,1,2), and Polynomial Regression (degrees 2 and 3). The Holt-Winters Damped Trend model achieved the optimal balance of in-sample fit (AIC: 161.7, BIC: 162.1), out-of-sample validation performance (leave-one-out RMSE: 2,847), and epidemiological plausibility. Alternative models either overfit the limited data (high-order ARIMA) or failed to capture saturation dynamics (linear models) (Supplementary Table S3).
+Model selection was based on rigorous comparison of seven candidate models: Simple Exponential Smoothing, Holt's Linear Trend, Holt-Winters Damped Trend, ARIMA(1,1,1), ARIMA(2,1,2), and Polynomial Regression (degrees 2 and 3).<sup>12</sup> The Holt-Winters Damped Trend model achieved the optimal balance of in-sample fit (AIC: 161.7, BIC: 162.1), out-of-sample validation performance (leave-one-out RMSE: 2,847), and epidemiological plausibility. Alternative models either overfit the limited data (high-order ARIMA) or failed to capture saturation dynamics (linear models) (Supplementary Table S3).
 
 ### 2.3 Uncertainty Quantification via Parametric Bootstrap
 
@@ -89,29 +89,29 @@ The incremental cost-effectiveness ratio (ICER) was calculated as the difference
 To provide actionable policy intelligence, we modeled three distinct futures:
 
 #### Scenario A: Status Quo (Baseline Inertia)
-This scenario assumes that the current system efficiency remains constant. It projects the future based on the "damped" trajectory of the last 7 years. It assumes no new disruptive technology (like a vaccine) and stable treatment success rates (~68%). This scenario reflects the inertia of the current programmatic approach, where incremental gains are offset by persistent challenges.
+This scenario assumes that the current system efficiency remains constant. It projects the future based on the "damped" trajectory of the last 7 years.<sup>5,14</sup> It assumes no new disruptive technology (like a vaccine) and stable treatment success rates (~68%).<sup>9</sup> This scenario reflects the inertia of the current programmatic approach, where incremental gains are offset by persistent challenges.
 
 #### Scenario B: Optimistic (Elimination Pathway)
 This scenario simulates the impact of aggressive upstream interventions. It assumes a **5% annual compound reduction** in the incident pool, driven by:
-*   **Universal TPT**: 80% coverage of preventive therapy for contacts of MDR-TB patients to block primary transmission. This is a proactive measure to reduce the latent reservoir.
-*   **Active Case Finding (ACF)**: Targeted screening in high-burden urban slums to reduce diagnostic delay and interrupt transmission chains. This involves community-based screening and intensified efforts in vulnerable populations.
+*   **Universal TPT**: 80% coverage of preventive therapy for contacts of MDR-TB patients to block primary transmission.<sup>8,13</sup> This is a proactive measure to reduce the latent reservoir.
+*   **Active Case Finding (ACF)**: Targeted screening in high-burden urban slums to reduce diagnostic delay and interrupt transmission chains.<sup>13</sup> This involves community-based screening and intensified efforts in vulnerable populations.
 
 #### Scenario C: Pessimistic (AMR Escalation)
 This scenario models a failure of stewardship, assuming a **2% annual increase** in burden. Drivers include:
-*   **Fluoroquinolone Resistance**: Shift from MDR-TB to Pre-XDR-TB, rendering standard all-oral regimens ineffective and necessitating more toxic and less efficacious treatments.
-*   **Private Sector Fragmentation**: Continued unregulated use of reserve antibiotics, fueling the emergence and spread of resistance.
+*   **Fluoroquinolone Resistance**: Shift from MDR-TB to Pre-XDR-TB, rendering standard all-oral regimens ineffective and necessitating more toxic and less efficacious treatments.<sup>4,6</sup>
+*   **Private Sector Fragmentation**: Continued unregulated use of reserve antibiotics, fueling the emergence and spread of resistance.<sup>9</sup>
 *   **Diagnostic Stagnation**: Lack of investment in new diagnostic tools or failure to scale up existing ones, leading to persistent diagnostic gaps.
 
 ## 3. Results
 
 ### 3.1 Historical Trend Analysis and Diagnostic Saturation (2017–2024)
-The historical analysis reveals a story of rapid expansion followed by stabilization. Between 2017 and 2019, detected cases rose by 70% (39,009 to 66,359), reflecting the rollout of CBNAAT. Following the COVID-19 dip in 2020-21, the system recovered to 63,801 cases in 2022 and ~65,200 in 2024.
-Crucially, the rate of growth has slowed. The year-over-year increase dropped from ~49% (2017-18) to <2% (2023-24). This "flattening of the curve" indicates that the program has captured the "low-hanging fruit"—patients effectively seeking care—but is struggling to penetrate the "deep reservoir" of missing cases. This diagnostic saturation suggests that passive case finding alone is insufficient to drive further significant reductions.
+The historical analysis reveals a story of rapid expansion followed by stabilization. Between 2017 and 2019, detected cases rose by 70% (39,009 to 66,359), reflecting the rollout of CBNAAT.<sup>3,5</sup> Following the COVID-19 dip in 2020-21, the system recovered to 63,801 cases in 2022 and ~65,200 in 2024.<sup>14</sup>
+Crucially, the rate of growth has slowed. The year-over-year increase dropped from ~49% (2017-18) to <2% (2023-24). This "flattening of the curve" indicates that the program has captured the "low-hanging fruit"—patients effectively seeking care—but is struggling to penetrate the "deep reservoir" of missing cases.<sup>1,3</sup> This diagnostic saturation suggests that passive case finding alone is insufficient to drive further significant reductions.<sup>13</sup>
 
 ### 3.2 Projected Burden Trajectories (2025–2035)
 
 #### The Stagnation of the Status Quo
-The Holt-Winters model forecasts a persistent high-burden state. The estimated true incidence is projected to stabilize at roughly **84,200 cases/year** by 2030 (Table 2). The trend line (Figure 1) shows a distinct "leveling off," confirming the hypothesis of programmatic saturation. Without structural change, India will likely miss the SDG 2030 targets for TB elimination by a wide margin.
+The Holt-Winters model forecasts a persistent high-burden state. The estimated true incidence is projected to stabilize at roughly **84,200 cases/year** by 2030 (Table 2). The trend line (Figure 1) shows a distinct "leveling off," confirming the hypothesis of programmatic saturation.<sup>10,12</sup> Without structural change, India will likely miss the SDG 2030 targets for TB elimination by a wide margin.<sup>8</sup>
 
 #### Divergence of Futures: The Policy Gap
 By 2030, the gap between the Optimistic and Pessimistic scenarios becomes a chasm (Figure 2):
@@ -123,8 +123,8 @@ The difference—over **30,000 cases in a single year**—represents the "policy
 
 ### 3.3 Cumulative Impact Assessment: The Human Cost
 Analyzing the cumulative burden (Area Under the Curve) for the decade 2025–2035 reveals the aggregate impact:
-*   **Averted Burden (Optimistic)**: Implementing the optimization strategy would prevent **217,215** cumulative episode of MDR-TB. Given the high mortality of untreated MDR-TB (~40%), this translates to potentially **80,000–100,000 lives saved**.
-*   **Excess Burden (Pessimistic)**: Unchecked AMR spread would add **71,679** cases to the baseline, overwhelming tertiary care capacity and straining an already burdened healthcare system.
+*   **Averted Burden (Optimistic)**: Implementing the optimization strategy would prevent **217,215** cumulative episodes of MDR-TB.<sup>10</sup> Given the high mortality of untreated MDR-TB (~40%), this translates to potentially **80,000–100,000 lives saved**.<sup>11</sup>
+*   **Excess Burden (Pessimistic)**: Unchecked AMR spread would add **71,679** cases to the baseline, overwhelming tertiary care capacity and straining an already burdened healthcare system.<sup>4</sup>
 
 ### 3.4 Model Diagnostics, Uncertainty, and Robustness
 
@@ -145,22 +145,22 @@ Critically, the Optimistic strategy would protect **65,164 households** from cat
 ## 4. Discussion
 
 ### 4.1 Interpretation of Findings: The Endemic Equilibrium Trap
-This analysis provides compelling evidence that India's MDR-TB epidemic has reached a critical inflection point characterized by what we term an "endemic equilibrium trap." The projected stagnation under the "Status Quo" scenario indicates **programmatic inertia**—a state where improvements in diagnostic coverage are systematically offset by ongoing transmission within the sub-clinical reservoir and fragmented private sector care pathways. 
+This analysis provides compelling evidence that India's MDR-TB epidemic has reached a critical inflection point characterized by what we term an "endemic equilibrium trap." The projected stagnation under the "Status Quo" scenario indicates **programmatic inertia**—a state where improvements in diagnostic coverage are systematically offset by ongoing transmission within the sub-clinical reservoir and fragmented private sector care pathways.<sup>1,9</sup> 
 
-The "missing cases" identified by the National TB Prevalence Survey are no longer merely undiagnosed; our analysis suggests they represent a more complex phenomenon of "diagnosed late" or "incompletely treated" patients who sustain ongoing community transmission. This creates a self-perpetuating cycle where each generation of inadequately managed cases seeds the next, maintaining the burden at a high plateau despite substantial investments in case finding infrastructure.
+The "missing cases" identified by the National TB Prevalence Survey are no longer merely undiagnosed; our analysis suggests they represent a more complex phenomenon of "diagnosed late" or "incompletely treated" patients who sustain ongoing community transmission.<sup>1,3</sup> This creates a self-perpetuating cycle where each generation of inadequately managed cases seeds the next, maintaining the burden at a high plateau despite substantial investments in case finding infrastructure.<sup>13</sup>
 
 The damping parameter (φ = 0.85) in our Holt-Winters model quantitatively captures this saturation effect, demonstrating that the marginal returns on passive case-finding strategies are diminishing. This finding has profound implications for resource allocation and strategic planning.
 
 ### 4.2 The Necessity of a Paradigm Shift: From Detection to Prevention
-The magnitude of the "Optimistic" reduction—potentially averting 217,215 cases over the decade—confirms that elimination is biologically plausible but operationally demanding. It requires a fundamental reorientation from **reactive case detection** to **proactive transmission interruption**. 
+The magnitude of the "Optimistic" reduction—potentially averting 217,215 cases over the decade—confirms that elimination is biologically plausible but operationally demanding.<sup>8,10</sup> It requires a fundamental reorientation from **reactive case detection** to **proactive transmission interruption**.<sup>13</sup> 
 
 This paradigm shift necessitates three critical pillars:
 
-**First, Preventive Therapy Scale-up**: Expanding Tuberculosis Preventive Therapy (TPT) to household and close contacts of DR-TB patients represents the single most cost-effective intervention to reduce the future incident pool. Current TPT coverage for DR-TB contacts remains below 15% nationally, far short of the 80% target modeled in our optimistic scenario. Achieving this scale-up requires addressing operational barriers including contact tracing infrastructure, drug procurement systems, and patient adherence support mechanisms.
+**First, Preventive Therapy Scale-up**: Expanding Tuberculosis Preventive Therapy (TPT) to household and close contacts of DR-TB patients represents the single most cost-effective intervention to reduce the future incident pool.<sup>8</sup> Current TPT coverage for DR-TB contacts remains below 15% nationally, far short of the 80% target modeled in our optimistic scenario.<sup>14</sup> Achieving this scale-up requires addressing operational barriers including contact tracing infrastructure, drug procurement systems, and patient adherence support mechanisms.
 
-**Second, Private Sector Integration**: With approximately 50% of TB patients initially seeking care in the private sector, and an estimated 30% remaining entirely within private care pathways, the quality and completeness of private sector management directly influences epidemic dynamics. Our pessimistic scenario effectively models the consequences of continued private sector fragmentation—irrational antibiotic use, incomplete treatment regimens, and inadequate drug susceptibility testing. Establishing enforceable quality standards, unified electronic notification systems, and financial incentives for adherence to national guidelines is non-negotiable for epidemic control.
+**Second, Private Sector Integration**: With approximately 50% of TB patients initially seeking care in the private sector, and an estimated 30% remaining entirely within private care pathways, the quality and completeness of private sector management directly influences epidemic dynamics.<sup>9</sup> Our pessimistic scenario effectively models the consequences of continued private sector fragmentation—irrational antibiotic use, incomplete treatment regimens, and inadequate drug susceptibility testing.<sup>4,6</sup> Establishing enforceable quality standards, unified electronic notification systems, and financial incentives for adherence to national guidelines is non-negotiable for epidemic control.<sup>8</sup>
 
-**Third, Active Case Finding Intensification**: Passive case finding has reached its ceiling. The next phase requires systematic community-based screening in high-risk populations—urban slums, prisons, mining communities, and congregate settings. This demands substantial investment in mobile diagnostic units, community health worker training, and digital tracking systems.
+**Third, Active Case Finding Intensification**: Passive case finding has reached its ceiling.<sup>13</sup> The next phase requires systematic community-based screening in high-risk populations—urban slums, prisons, mining communities, and congregate settings.<sup>8</sup> This demands substantial investment in mobile diagnostic units, community health worker training, and digital tracking systems.
 
 ### 4.3 Sub-National Heterogeneity: A Tale of Multiple Epidemics
 
