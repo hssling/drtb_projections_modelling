@@ -9,11 +9,13 @@ from docx import Document
 from docx.shared import Inches, Pt
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.enum.style import WD_STYLE_TYPE
+from docx.oxml import parse_xml, OxmlElement
+from docx.oxml.ns import nsdecls, qn
 import re
 from datetime import datetime
 import os
 
-OUTPUT_FILENAME = os.path.join(os.path.dirname(__file__), '..', 'manuscript', 'IJMR_Submission_DRTB_Forecast_India_2025_FINAL.docx')
+OUTPUT_FILENAME = os.path.join(os.path.dirname(__file__), '..', 'manuscript', 'IJMR_Submission_COMPLETE.docx')
 
 def create_academic_docx():
     """Convert the complete manuscript to DOCX format with IJMR styling"""
@@ -193,16 +195,13 @@ def add_paragraph_with_formatting(doc, text, style='CustomNormal'):
             # Superscript text - USE EXPLICIT FORMATTING
             if part:
                 run = para.add_run(part)
-                # Method 1: Set superscript property
-                run.font.superscript = True
-                # Method 2: Also set smaller font size for visibility
+                # Set smaller font size
                 run.font.size = Pt(8)
-                # Method 3: Set vertical position explicitly
-                from docx.oxml import parse_xml
-                from docx.oxml.ns import nsdecls
-                # Add explicit superscript formatting in XML
+                # Use XML to set vertical alignment
                 rPr = run._element.get_or_add_rPr()
-                vertAlign = parse_xml(r'<w:vertAlign {} w:val="superscript"/>'.format(nsdecls('w')))
+                # Create vertAlign element
+                vertAlign = OxmlElement('w:vertAlign')
+                vertAlign.set(qn('w:val'), 'superscript')
                 rPr.append(vertAlign)
     
     return para
@@ -234,7 +233,11 @@ def add_abstract_section(doc, content):
                     else:
                         if part:
                             run = para.add_run(part)
-                            run.font.superscript = True
+                            run.font.size = Pt(8)
+                            rPr = run._element.get_or_add_rPr()
+                            vertAlign = OxmlElement('w:vertAlign')
+                            vertAlign.set(qn('w:val'), 'superscript')
+                            rPr.append(vertAlign)
             else:
                 add_paragraph_with_formatting(doc, p.strip(), style='CustomNormal')
 
